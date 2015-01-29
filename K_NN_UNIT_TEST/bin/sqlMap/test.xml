@@ -33,4 +33,5 @@
  	<delete id="reset2">
  		DELETE FROM knn.client_vector
  	</delete>
+ 	
   </mapper>

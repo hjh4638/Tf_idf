@@ -41,8 +41,8 @@ public class TestT1 {
 		words= new String[1001];
 		
 		//입력 벡터 개수
-		input_dimension = 30;
-		vector_dimension = 10;
+		input_dimension = 1000;
+		vector_dimension = 360;
 		assertNotEquals(sqlSessionFactory, null);
 		assertNotEquals(session, null);
 	}
@@ -82,6 +82,7 @@ public class TestT1 {
 	}
 	//pk 위반
 	@Test(expected=PersistenceException.class)
+	@Ignore
 	public void insertDuplicatePk(){
 		TrainedVector in1 = new TrainedVector();
 		ClientVector in2 = new ClientVector();
@@ -92,6 +93,7 @@ public class TestT1 {
 		session.commit();
 	}
 	@Test
+	//@Ignore
 	public void insertRandomTf() throws IOException{
 		ClientVector in2 = new ClientVector();
 		String str[] = getRandomWord();
@@ -109,7 +111,7 @@ public class TestT1 {
 		String str[] = getRandomWord();
 		Random random = new Random();
 		int flag = 1;
-		for(int j = 0; j <500;j++){
+		for(int j = 0; j <300;j++){
 			for(int i=0;i<vector_dimension;i++){
 				double ran_tf =  random.nextInt(1000);
 				double ran_idf = random.nextDouble();
@@ -165,3 +167,24 @@ public class TestT1 {
 //@Test(expected=RuntimeException.class) : 예외가 발생하면 통과
 //@Before : 실행시 한번 실행
 //@After : 실행시 한번 실행
+
+//
+//SELECT 
+//input.keyword,
+//input.tf,
+//trained.idf,
+//input.tf * trained.idf AS tf_idf
+//FROM
+//(SELECT 
+//    keyword, AVG(tf) AS tf
+//FROM
+//    knn.client_vector
+//GROUP BY keyword) AS input
+//    LEFT OUTER JOIN
+//(SELECT 
+//    keyword, AVG(idf) AS idf
+//FROM
+//    knn.trained_vector
+//GROUP BY keyword) AS trained ON input.keyword = trained.keyword
+//ORDER BY tf_idf DESC
+//limit 360
