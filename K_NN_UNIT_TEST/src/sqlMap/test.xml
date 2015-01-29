@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+  
+
+  <mapper namespace="test">
+  
+	  <select id="sel1" resultType="Integer" >
+		SELECT count(*) FROM knn.client_vector
+	  </select>
+	  <select id="sel2" resultType="ClientVector" >
+		SELECT * FROM knn.client_vector
+	  </select>
+	  <select id="sel3" resultType="TrainedVector" >
+		SELECT * FROM knn.trained_vector
+	  </select>
+	<insert id="insert1" parameterType="TrainedVector">  
+		INSERT INTO knn.trained_vector
+		( file_name, keyword, label, tf, idf, tf_idf, df, seq )
+		VALUES
+		(#{file_name}, #{keyword}, #{label}, #{tf}, #{idf}, #{tf_idf}, #{df}, #{seq})
+	</insert>
+	<insert id="insert2" parameterType="ClientVector">
+		INSERT INTO knn.client_vector
+		(id,file_name,keyword,tf, seq)
+		VALUES
+		(#{id},#{file_name},#{keyword},#{tf}, #{seq} )
+ 	</insert>
+ 	<delete id="reset1">
+ 		DELETE FROM knn.trained_vector
+ 	</delete>
+ 	<delete id="reset2">
+ 		DELETE FROM knn.client_vector
+ 	</delete>
+  </mapper>
