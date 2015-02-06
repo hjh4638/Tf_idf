@@ -33,5 +33,246 @@
  	<delete id="reset2">
  		DELETE FROM knn.client_vector
  	</delete>
- 	
+ 	<select id="getClientSeq" resultType="Integer">
+ 		SELECT 
+		   IFNULL(max(id),0)+1 as id
+		FROM
+		    knn.client_vector
+ 	</select>
+ 	<select id="getKnnAvg" resultType = "KnnResult" parameterType="Integer">
+SELECT 
+    test.label, AVG(test.distance) AS average
+FROM
+    (SELECT 
+        SQRT(SUM(POW(dimension.in_tf_idf - dimension.tr_tf_idf, 2))) AS distance,
+            (SELECT DISTINCT
+                    (label)
+                FROM
+                    knn.trained_vector
+                WHERE
+                    file_name = dimension.file_name
+                LIMIT 1) AS label
+    FROM
+        (SELECT 
+        IFNULL(input.keyword, trained.keyword) AS keyword,
+            IFNULL(input.tf_idf, 0) AS in_tf_idf,
+            IFNULL(trained.tf_idf, 0) AS tr_tf_idf,
+            trained.file_name
+    FROM
+        (SELECT 
+        input.keyword,
+            input.tf,
+            IFNULL(trained.idf, 0),
+            input.tf * IFNULL(trained.idf, 0) / (SELECT 
+                    SQRT(SUM(tf_idf * tf_idf)) AS mgnitude
+                FROM
+                    (SELECT 
+                    input.tf * IFNULL(trained.idf, 0) AS tf_idf
+                FROM
+                    (SELECT 
+                    keyword, AVG(tf) AS tf
+                FROM
+                    knn.client_vector
+				WHERE id = #{id}
+                GROUP BY keyword) AS input
+                LEFT OUTER JOIN (SELECT 
+                    keyword, AVG(idf) AS idf
+                FROM
+                    knn.trained_vector
+                GROUP BY keyword) AS trained ON input.keyword = trained.keyword
+                ORDER BY tf_idf DESC
+                LIMIT 360) input) AS tf_idf
+    FROM
+        (SELECT 
+        keyword, AVG(tf) AS tf
+    FROM
+        knn.client_vector
+	WHERE id = #{id}
+    GROUP BY keyword) AS input
+    LEFT OUTER JOIN (SELECT 
+        keyword, AVG(idf) AS idf
+    FROM
+        knn.trained_vector
+    GROUP BY keyword) AS trained ON input.keyword = trained.keyword
+    ORDER BY tf_idf DESC
+    LIMIT 360) AS input
+    LEFT OUTER JOIN (SELECT 
+        *
+    FROM
+        knn.trained_vector) AS trained ON input.keyword = trained.keyword UNION SELECT 
+        IFNULL(input.keyword, trained.keyword) AS keyword,
+            IFNULL(input.tf_idf, 0) AS in_tf_idf,
+            IFNULL(trained.tf_idf, 0) AS tr_tf_idf,
+            trained.file_name
+    FROM
+        (SELECT 
+        input.keyword,
+            input.tf,
+            IFNULL(trained.idf, 0),
+            input.tf * IFNULL(trained.idf, 0) / (SELECT 
+                    SQRT(SUM(tf_idf * tf_idf)) AS mgnitude
+                FROM
+                    (SELECT 
+                    input.tf * IFNULL(trained.idf, 0) AS tf_idf
+                FROM
+                    (SELECT 
+                    keyword, AVG(tf) AS tf
+                FROM
+                    knn.client_vector
+				WHERE id = #{id}
+                GROUP BY keyword) AS input
+                LEFT OUTER JOIN (SELECT 
+                    keyword, AVG(idf) AS idf
+                FROM
+                    knn.trained_vector
+                GROUP BY keyword) AS trained ON input.keyword = trained.keyword
+                ORDER BY tf_idf DESC
+                LIMIT 360) input) AS tf_idf
+    FROM
+        (SELECT 
+        keyword, AVG(tf) AS tf
+    FROM
+        knn.client_vector
+	WHERE id = #{id}
+    GROUP BY keyword) AS input
+    LEFT OUTER JOIN (SELECT 
+        keyword, AVG(idf) AS idf
+    FROM
+        knn.trained_vector
+    GROUP BY keyword) AS trained ON input.keyword = trained.keyword
+    ORDER BY tf_idf DESC
+    LIMIT 360) AS input
+    RIGHT OUTER JOIN (SELECT 
+        *
+    FROM
+        knn.trained_vector) AS trained ON input.keyword = trained.keyword) AS dimension
+    WHERE
+        file_name IS NOT NULL
+    GROUP BY file_name
+    ORDER BY distance
+    LIMIT 10) test
+GROUP BY label
+ORDER BY average
+</select>
+<select id="getKnnDistance" resultType = "KnnResult" parameterType="Integer">
+SELECT file_name,sqrt(sum(pow(dimension.in_tf_idf - dimension.tr_tf_idf,2))) as distance
+FROM(
+    SELECT 
+		IFNULL(input.keyword,trained.keyword) as keyword,
+		IFNULL(input.tf_idf, 0) AS in_tf_idf,
+		IFNULL(trained.tf_idf, 0) AS tr_tf_idf,
+        trained.file_name
+	FROM
+		(SELECT 
+    input.keyword,
+    input.tf,
+     IFNULL(trained.idf,0),
+    input.tf *  IFNULL(trained.idf,0) /
+    (
+SELECT 
+    sqrt(sum(tf_idf * tf_idf)) as mgnitude
+FROM
+    (
+SELECT 
+    input.tf *  IFNULL(trained.idf,0) AS tf_idf
+FROM
+    (SELECT 
+        keyword, AVG(tf) AS tf
+    FROM
+        knn.client_vector
+	WHERE id = #{id}
+    GROUP BY keyword) AS input
+        LEFT OUTER JOIN
+    (SELECT 
+        keyword, AVG(idf) AS idf
+    FROM
+        knn.trained_vector
+    GROUP BY keyword) AS trained ON input.keyword = trained.keyword
+ORDER BY tf_idf DESC
+limit 360
+)input
+) AS tf_idf
+FROM
+    (SELECT 
+        keyword, AVG(tf) AS tf
+    FROM
+        knn.client_vector
+	WHERE id = #{id}
+    GROUP BY keyword) AS input
+        LEFT OUTER JOIN
+    (SELECT 
+        keyword, AVG(idf) AS idf
+    FROM
+        knn.trained_vector
+    GROUP BY keyword) AS trained ON input.keyword = trained.keyword
+ORDER BY tf_idf DESC
+limit 360) AS input
+			LEFT OUTER JOIN
+		(SELECT 
+			*
+		FROM
+			knn.trained_vector
+		) AS trained ON input.keyword = trained.keyword 
+	UNION SELECT 
+		IFNULL(input.keyword,trained.keyword) as keyword,
+		IFNULL(input.tf_idf, 0) AS in_tf_idf,
+		IFNULL(trained.tf_idf, 0) AS tr_tf_idf,
+        trained.file_name
+	FROM
+		(SELECT 
+    input.keyword,
+    input.tf,
+     IFNULL(trained.idf,0),
+    input.tf *  IFNULL(trained.idf,0) /
+    (
+SELECT 
+    sqrt(sum(tf_idf * tf_idf)) as mgnitude
+FROM
+    (
+SELECT 
+    input.tf *  IFNULL(trained.idf,0) AS tf_idf
+FROM
+    (SELECT 
+        keyword, AVG(tf) AS tf
+    FROM
+        knn.client_vector
+	WHERE id = #{id}
+    GROUP BY keyword) AS input
+        LEFT OUTER JOIN
+    (SELECT 
+        keyword, AVG(idf) AS idf
+    FROM
+        knn.trained_vector
+    GROUP BY keyword) AS trained ON input.keyword = trained.keyword
+ORDER BY tf_idf DESC
+limit 360
+)input
+) AS tf_idf
+FROM
+    (SELECT 
+        keyword, AVG(tf) AS tf
+    FROM
+        knn.client_vector
+	WHERE id = #{id}
+    GROUP BY keyword) AS input
+        LEFT OUTER JOIN
+    (SELECT 
+        keyword, AVG(idf) AS idf
+    FROM
+        knn.trained_vector
+    GROUP BY keyword) AS trained ON input.keyword = trained.keyword
+ORDER BY tf_idf DESC
+limit 360) AS input
+			RIGHT OUTER JOIN
+		(SELECT 
+			*
+		FROM
+			knn.trained_vector
+		) AS trained ON input.keyword = trained.keyword
+	) as dimension
+where file_name is not null
+group by file_name
+ORDER BY distance
+LIMIT 10
+</select>
   </mapper>

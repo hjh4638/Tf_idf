@@ -48,4 +48,14 @@ public class ClientVector {
 	public void setSeq(Integer seq) {
 		this.seq = seq;
 	}
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		System.out.println("id = " + this.id);
+		System.out.println("file_name = " + this.file_name);
+		System.out.println("keyword = " + this.keyword);
+		System.out.println("tf = " + this.tf);
+		System.out.println("---------------------------");
+		return super.toString();
+	}
 }

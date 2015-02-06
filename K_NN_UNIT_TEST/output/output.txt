@@ -1,0 +1,2705 @@
+input0의 원래 그룹 = AI
+------------------------------------------------------------------------
+avg list
+label = computer_graphics | average = 0.8049105141718267 | distance = null
+label = AI | average = 0.8166602107164029 | distance = null
+label = computer_architecture | average = 0.9696941564007662 | distance = null
+------------------------------------------------------------------------
+dis listlabel = AI | average = null | distance = 1.8690985353291446E-6
+label = computer_graphics | average = null | distance = 0.6316799140779966
+label = AI | average = null | distance = 0.9094970071523513
+label = AI | average = null | distance = 0.9509384255294402
+label = AI | average = null | distance = 0.9592976837204543
+label = AI | average = null | distance = 0.9602507930592106
+label = AI | average = null | distance = 0.9616029245144029
+label = computer_architecture | average = null | distance = 0.9696941564007662
+label = AI | average = null | distance = 0.975032771940426
+label = computer_graphics | average = null | distance = 0.9781411142656566
+------------------------------------------------------------------------
+
+input1의 원래 그룹 = AI
+------------------------------------------------------------------------
+avg list
+label = AI | average = 0.824355973574229 | distance = null
+------------------------------------------------------------------------
+dis listlabel = AI | average = null | distance = 1.6394307451729092E-6
+label = AI | average = null | distance = 0.8695511524943884
+label = AI | average = null | distance = 0.8747598386988497
+label = AI | average = null | distance = 0.8843016482908319
+label = AI | average = null | distance = 0.9134649796331187
+label = AI | average = null | distance = 0.9263983315649806
+label = AI | average = null | distance = 0.9280829678590595
+label = AI | average = null | distance = 0.9396183355745524
+label = AI | average = null | distance = 0.9511099726222018
+label = AI | average = null | distance = 0.9562708695735618
+------------------------------------------------------------------------
+
+input2의 원래 그룹 = AI
+------------------------------------------------------------------------
+avg list
+label = AI | average = 0.7895230469163946 | distance = null
+label = computer_graphics | average = 0.9774084884822868 | distance = null
+label = computer_architecture | average = 0.9872826994306539 | distance = null
+------------------------------------------------------------------------
+dis listlabel = AI | average = null | distance = 1.2918839177868073E-6
+label = AI | average = null | distance = 0.725068834722836
+label = AI | average = null | distance = 0.8251031129030434
+label = AI | average = null | distance = 0.9115674131687187
+label = AI | average = null | distance = 0.9278321235173433
+label = AI | average = null | distance = 0.9710361035718058
+label = computer_graphics | average = null | distance = 0.9774084884822868
+label = AI | average = null | distance = 0.9774423310090192
+label = AI | average = null | distance = 0.9781331645544732
+label = computer_architecture | average = null | distance = 0.9872826994306539
+------------------------------------------------------------------------
+
+input3의 원래 그룹 = AI
+------------------------------------------------------------------------
+avg list
+label = AI | average = 0.7647526469019716 | distance = null
+label = computer_graphics | average = 0.939891703360578 | distance = null
+label = os | average = 0.9734108867643751 | distance = null
+label = database | average = 0.9746152793179894 | distance = null
+label = computer_architecture | average = 0.9762120925308212 | distance = null
+------------------------------------------------------------------------
+dis listlabel = AI | average = null | distance = 1.6037888528063138E-6
+label = AI | average = null | distance = 0.8707446131777932
+label = AI | average = null | distance = 0.8795182855284269
+label = AI | average = null | distance = 0.9264409124021286
+label = computer_graphics | average = null | distance = 0.939891703360578
+label = AI | average = null | distance = 0.9488842938229416
+label = AI | average = null | distance = 0.962926172691687
+label = os | average = null | distance = 0.9734108867643751
+label = database | average = null | distance = 0.9746152793179894
+label = computer_architecture | average = null | distance = 0.9762120925308212
+------------------------------------------------------------------------
+
+input4의 원래 그룹 = AI
+------------------------------------------------------------------------
+avg list
+label = AI | average = 0.7273061061064073 | distance = null
+label = computer_graphics | average = 0.9876078470812413 | distance = null
+label = network | average = 0.988655468358872 | distance = null
+label = computer_architecture | average = 0.989369023129623 | distance = null
+------------------------------------------------------------------------
+dis listlabel = AI | average = null | distance = 1.4147420772301834E-6
+label = AI | average = null | distance = 0.8242571197031756
+label = AI | average = null | distance = 0.8417019331237738
+label = AI | average = null | distance = 0.8457349734934966
+label = AI | average = null | distance = 0.8883383466368044
+label = AI | average = null | distance = 0.9638028489391163
+label = computer_graphics | average = null | distance = 0.9855278086368073
+label = network | average = null | distance = 0.988655468358872
+label = computer_architecture | average = null | distance = 0.989369023129623
+label = computer_graphics | average = null | distance = 0.9896878855256752
+------------------------------------------------------------------------
+
+input5의 원래 그룹 = AI
+------------------------------------------------------------------------
+avg list
+label = AI | average = 0.7642798910042328 | distance = null
+label = computer_graphics | average = 0.9731450920816533 | distance = null
+------------------------------------------------------------------------
+dis listlabel = AI | average = null | distance = 1.7332708969836842E-6
+label = AI | average = null | distance = 0.6526175351160234
+label = AI | average = null | distance = 0.7892910028927762
+label = AI | average = null | distance = 0.8117233439031467
+label = AI | average = null | distance = 0.912361201880007
+label = AI | average = null | distance = 0.9167809766973025
+label = AI | average = null | distance = 0.917309341437444
+label = AI | average = null | distance = 0.9362680841582308
+label = AI | average = null | distance = 0.9421657996822678
+label = computer_graphics | average = null | distance = 0.9731450920816533
+------------------------------------------------------------------------
+
+input6의 원래 그룹 = AI
+------------------------------------------------------------------------
+avg list
+label = AI | average = 0.7709517423724811 | distance = null
+label = compiler | average = 0.9487958840097821 | distance = null
+------------------------------------------------------------------------
+dis listlabel = AI | average = null | distance = 1.733453230245815E-6
+label = AI | average = null | distance = 0.6704876752764322
+label = AI | average = null | distance = 0.8958124700412845
+label = AI | average = null | distance = 0.9112351342225692
+label = AI | average = null | distance = 0.9138717766383603
+label = AI | average = null | distance = 0.9169906473760948
+label = AI | average = null | distance = 0.9256067856363246
+label = AI | average = null | distance = 0.9336077163355537
+label = compiler | average = null | distance = 0.944083786733722
+label = compiler | average = null | distance = 0.9535079812858421
+------------------------------------------------------------------------
+
+input7의 원래 그룹 = AI
+------------------------------------------------------------------------
+avg list
+label = AI | average = 0.8033496513920906 | distance = null
+label = computer_graphics | average = 0.9643448625610312 | distance = null
+label = os | average = 0.9729803768856177 | distance = null
+------------------------------------------------------------------------
+dis listlabel = AI | average = null | distance = 2.0327406636871723E-6
+label = AI | average = null | distance = 0.8097445247100972
+label = AI | average = null | distance = 0.8951617030082706
+label = AI | average = null | distance = 0.9088333761647405
+label = AI | average = null | distance = 0.9103690138550773
+label = AI | average = null | distance = 0.9568614521168999
+label = computer_graphics | average = null | distance = 0.9643448625610312
+label = AI | average = null | distance = 0.9725745967481659
+label = os | average = null | distance = 0.9729803768856177
+label = AI | average = null | distance = 0.9732505117928103
+------------------------------------------------------------------------
+
+input8의 원래 그룹 = AI
+------------------------------------------------------------------------
+avg list
+label = AI | average = 0.8275230133539807 | distance = null
+------------------------------------------------------------------------
+dis listlabel = AI | average = null | distance = 1.3584527034538575E-6
+label = AI | average = null | distance = 0.8867182129799773
+label = AI | average = null | distance = 0.8919592735400311
+label = AI | average = null | distance = 0.905140495493347
+label = AI | average = null | distance = 0.9056974378833611
+label = AI | average = null | distance = 0.9233020293360816
+label = AI | average = null | distance = 0.9313650679957035
+label = AI | average = null | distance = 0.9335212098444103
+label = AI | average = null | distance = 0.9445301206566752
+label = AI | average = null | distance = 0.9529949273575172
+------------------------------------------------------------------------
+
+input9의 원래 그룹 = AI
+------------------------------------------------------------------------
+avg list
+label = AI | average = 0.7896042733756662 | distance = null
+------------------------------------------------------------------------
+dis listlabel = AI | average = null | distance = 1.63143508295416E-6
+label = AI | average = null | distance = 0.7767132267665395
+label = AI | average = null | distance = 0.807985258331524
+label = AI | average = null | distance = 0.840284042913303
+label = AI | average = null | distance = 0.8602696720486394
+label = AI | average = null | distance = 0.8961964609340565
+label = AI | average = null | distance = 0.9096181963368487
+label = AI | average = null | distance = 0.9275684504987929
+label = AI | average = null | distance = 0.9374364369846236
+label = AI | average = null | distance = 0.9399693575072507
+------------------------------------------------------------------------
+
+input10의 원래 그룹 = AI
+------------------------------------------------------------------------
+avg list
+label = AI | average = 0.7658127034361835 | distance = null
+label = network | average = 0.9731498267560141 | distance = null
+label = computer_graphics | average = 0.9776654213498934 | distance = null
+------------------------------------------------------------------------
+dis listlabel = AI | average = null | distance = 2.3201142222122243E-6
+label = AI | average = null | distance = 0.676093403671892
+label = AI | average = null | distance = 0.811571584594551
+label = AI | average = null | distance = 0.8381888105902617
+label = AI | average = null | distance = 0.931246767823833
+label = AI | average = null | distance = 0.9329601455404304
+label = AI | average = null | distance = 0.9556162553661706
+label = network | average = null | distance = 0.9731498267560141
+label = computer_graphics | average = null | distance = 0.9776654213498934
+label = AI | average = null | distance = 0.9808223397881058
+------------------------------------------------------------------------
+
+input11의 원래 그룹 = AI
+------------------------------------------------------------------------
+avg list
+label = AI | average = 0.7104114057543417 | distance = null
+label = computer_architecture | average = 0.9842818753192466 | distance = null
+label = compiler | average = 0.9872923213265847 | distance = null
+label = computer_graphics | average = 0.9884817407956141 | distance = null
+label = network | average = 0.9922642750078299 | distance = null
+label = os | average = 0.9925156185650907 | distance = null
+------------------------------------------------------------------------
+dis listlabel = AI | average = null | distance = 1.0833858977093088E-6
+label = AI | average = null | distance = 0.908514551574973
+label = AI | average = null | distance = 0.9504777915963314
+label = AI | average = null | distance = 0.982652196460165
+label = computer_architecture | average = null | distance = 0.9842818753192466
+label = compiler | average = null | distance = 0.9872923213265847
+label = computer_graphics | average = null | distance = 0.9884817407956141
+label = network | average = null | distance = 0.9922642750078299
+label = network | average = null | distance = 0.9922642750078299
+label = os | average = null | distance = 0.9925156185650907
+------------------------------------------------------------------------
+
+input12의 원래 그룹 = AI
+------------------------------------------------------------------------
+avg list
+label = AI | average = 0.8079748166662021 | distance = null
+label = os | average = 0.9860859631048332 | distance = null
+------------------------------------------------------------------------
+dis listlabel = AI | average = null | distance = 1.2792923533506129E-6
+label = AI | average = null | distance = 0.8474897806193855
+label = AI | average = null | distance = 0.8607182586063928
+label = AI | average = null | distance = 0.8717015796072098
+label = AI | average = null | distance = 0.8798328207962358
+label = AI | average = null | distance = 0.9058563692806153
+label = AI | average = null | distance = 0.934436670658332
+label = AI | average = null | distance = 0.9826218354603533
+label = os | average = null | distance = 0.9860859631048332
+label = AI | average = null | distance = 0.9891147556749406
+------------------------------------------------------------------------
+
+input13의 원래 그룹 = AI
+------------------------------------------------------------------------
+avg list
+label = AI | average = 0.7473156950782747 | distance = null
+------------------------------------------------------------------------
+dis listlabel = AI | average = null | distance = 1.9136752278677717E-6
+label = AI | average = null | distance = 0.7172015141672398
+label = AI | average = null | distance = 0.7691280667406888
+label = AI | average = null | distance = 0.8091194401066549
+label = AI | average = null | distance = 0.8135964723554827
+label = AI | average = null | distance = 0.8563900782481557
+label = AI | average = null | distance = 0.8675771798865219
+label = AI | average = null | distance = 0.8753533686031923
+label = AI | average = null | distance = 0.8804194947639454
+label = AI | average = null | distance = 0.8843694222356373
+------------------------------------------------------------------------
+
+input14의 원래 그룹 = AI
+------------------------------------------------------------------------
+avg list
+label = AI | average = 0.7977517734730863 | distance = null
+------------------------------------------------------------------------
+dis listlabel = AI | average = null | distance = 1.5665862795502852E-6
+label = AI | average = null | distance = 0.7956490415100088
+label = AI | average = null | distance = 0.817763492445114
+label = AI | average = null | distance = 0.8686356341638198
+label = AI | average = null | distance = 0.8756397025298396
+label = AI | average = null | distance = 0.9013871434330853
+label = AI | average = null | distance = 0.9171045072676057
+label = AI | average = null | distance = 0.9193721640839082
+label = AI | average = null | distance = 0.9407766884798606
+label = AI | average = null | distance = 0.9411877942313414
+------------------------------------------------------------------------
+
+input15의 원래 그룹 = AI
+------------------------------------------------------------------------
+avg list
+label = AI | average = 0.8621846383596933 | distance = null
+label = computer_graphics | average = 0.9884980446184779 | distance = null
+------------------------------------------------------------------------
+dis listlabel = AI | average = null | distance = 1.569987903740858E-6
+label = AI | average = null | distance = 0.9712110439952192
+label = AI | average = null | distance = 0.9834774188824801
+label = AI | average = null | distance = 0.9838260002640455
+label = AI | average = null | distance = 0.98583095077403
+label = computer_graphics | average = null | distance = 0.9872159416028338
+label = computer_graphics | average = null | distance = 0.989780147634122
+label = AI | average = null | distance = 0.990596877511687
+label = AI | average = null | distance = 0.9907895019824948
+label = AI | average = null | distance = 0.9917437434796853
+------------------------------------------------------------------------
+
+input16의 원래 그룹 = AI
+------------------------------------------------------------------------
+avg list
+label = AI | average = 0.724125397647881 | distance = null
+label = computer_graphics | average = 0.9754893108113849 | distance = null
+label = network | average = 0.979907887263508 | distance = null
+label = compiler | average = 0.9853714312997528 | distance = null
+label = computer_architecture | average = 0.9859149949740542 | distance = null
+label = database | average = 0.9878104826493194 | distance = null
+------------------------------------------------------------------------
+dis listlabel = AI | average = null | distance = 1.7342670497683979E-6
+label = AI | average = null | distance = 0.9360443585076994
+label = computer_graphics | average = null | distance = 0.9754893108113849
+label = AI | average = null | distance = 0.9772967088214145
+label = network | average = null | distance = 0.979907887263508
+label = AI | average = null | distance = 0.9831587889953599
+label = computer_architecture | average = null | distance = 0.9840791981591521
+label = compiler | average = null | distance = 0.9853714312997528
+label = computer_architecture | average = null | distance = 0.9877507917889564
+label = database | average = null | distance = 0.9878104826493194
+------------------------------------------------------------------------
+
+input17의 원래 그룹 = AI
+------------------------------------------------------------------------
+avg list
+label = AI | average = 0.8039787713387425 | distance = null
+label = compiler | average = 0.9634426914721257 | distance = null
+label = computer_graphics | average = 0.9732949269422217 | distance = null
+label = database | average = 0.9745643223761453 | distance = null
+label = Programming_Language | average = 0.9782092827040741 | distance = null
+------------------------------------------------------------------------
+dis listlabel = AI | average = null | distance = 1.7621601698899859E-6
+label = AI | average = null | distance = 0.953454667318501
+label = AI | average = null | distance = 0.95751116572264
+label = AI | average = null | distance = 0.9603622661946213
+label = compiler | average = null | distance = 0.9634426914721257
+label = computer_graphics | average = null | distance = 0.9732949269422217
+label = database | average = null | distance = 0.9745643223761453
+label = AI | average = null | distance = 0.9752454286305214
+label = AI | average = null | distance = 0.9772973380060017
+label = Programming_Language | average = null | distance = 0.9782092827040741
+------------------------------------------------------------------------
+
+input18의 원래 그룹 = compiler
+------------------------------------------------------------------------
+avg list
+label = compiler | average = 0.6950349556175683 | distance = null
+label = Programming_Language | average = 0.9455942922748366 | distance = null
+------------------------------------------------------------------------
+dis listlabel = compiler | average = null | distance = 1.5238027666883E-6
+label = compiler | average = null | distance = 1.5238027666883E-6
+label = compiler | average = null | distance = 0.8876632639469946
+label = compiler | average = null | distance = 0.9203178464247018
+label = compiler | average = null | distance = 0.9211646493087317
+label = compiler | average = null | distance = 0.9426671119128535
+label = compiler | average = null | distance = 0.9426671119128535
+label = Programming_Language | average = null | distance = 0.9429884003007216
+label = compiler | average = null | distance = 0.9457966138288783
+label = Programming_Language | average = null | distance = 0.9482001842489516
+------------------------------------------------------------------------
+
+input19의 원래 그룹 = compiler
+------------------------------------------------------------------------
+avg list
+label = compiler | average = 0.7427011685315212 | distance = null
+label = Programming_Language | average = 0.8936092265147914 | distance = null
+------------------------------------------------------------------------
+dis listlabel = compiler | average = null | distance = 1.87833759080407E-6
+label = compiler | average = null | distance = 0.7785543367022849
+label = compiler | average = null | distance = 0.7790347721583247
+label = compiler | average = null | distance = 0.7790347721583247
+label = compiler | average = null | distance = 0.835872600205297
+label = compiler | average = null | distance = 0.835872600205297
+label = compiler | average = null | distance = 0.88103946901024
+label = compiler | average = null | distance = 0.8900018882859358
+label = Programming_Language | average = null | distance = 0.8936092265147914
+label = compiler | average = null | distance = 0.9048981997203961
+------------------------------------------------------------------------
+
+input20의 원래 그룹 = compiler
+------------------------------------------------------------------------
+avg list
+label = compiler | average = 0.7058971171963777 | distance = null
+label = computer_architecture | average = 0.9322021824123939 | distance = null
+------------------------------------------------------------------------
+dis listlabel = compiler | average = null | distance = 1.8256073574558088E-6
+label = compiler | average = null | distance = 0.7700911395495891
+label = compiler | average = null | distance = 0.8318100728076782
+label = compiler | average = null | distance = 0.8318100728076782
+label = compiler | average = null | distance = 0.9008347962029816
+label = compiler | average = null | distance = 0.9008347962029816
+label = computer_architecture | average = null | distance = 0.9218072918946558
+label = computer_architecture | average = null | distance = 0.9255237308248081
+label = computer_architecture | average = null | distance = 0.9399650255943339
+label = computer_architecture | average = null | distance = 0.9415126813357778
+------------------------------------------------------------------------
+
+input21의 원래 그룹 = compiler
+------------------------------------------------------------------------
+avg list
+label = compiler | average = 0.6398952279208857 | distance = null
+label = Programming_Language | average = 0.960897737292994 | distance = null
+label = os | average = 0.9651042778091927 | distance = null
+------------------------------------------------------------------------
+dis listlabel = compiler | average = null | distance = 1.4370079991507296E-6
+label = compiler | average = null | distance = 0.9539262748066921
+label = Programming_Language | average = null | distance = 0.9571088154427088
+label = Programming_Language | average = null | distance = 0.9615528633934917
+label = Programming_Language | average = null | distance = 0.962011164704348
+label = Programming_Language | average = null | distance = 0.9629181056314279
+label = os | average = null | distance = 0.9630369652649478
+label = os | average = null | distance = 0.9637112586192377
+label = compiler | average = null | distance = 0.9657579719479659
+label = os | average = null | distance = 0.968564609543393
+------------------------------------------------------------------------
+
+input22의 원래 그룹 = compiler
+------------------------------------------------------------------------
+avg list
+label = compiler | average = 0.7512592295646691 | distance = null
+label = Programming_Language | average = 0.9469660581659 | distance = null
+------------------------------------------------------------------------
+dis listlabel = compiler | average = null | distance = 1.937548508477005E-6
+label = compiler | average = null | distance = 0.9153894028882754
+label = Programming_Language | average = null | distance = 0.9304421372158083
+label = compiler | average = null | distance = 0.9463942333601697
+label = compiler | average = null | distance = 0.9463942333601697
+label = Programming_Language | average = null | distance = 0.9466735566469976
+label = compiler | average = null | distance = 0.9481163406662223
+label = Programming_Language | average = null | distance = 0.9493608353248377
+label = Programming_Language | average = null | distance = 0.9524386148912
+label = Programming_Language | average = null | distance = 0.955915146750656
+------------------------------------------------------------------------
+
+input23의 원래 그룹 = compiler
+------------------------------------------------------------------------
+avg list
+label = compiler | average = 0.8095426934524244 | distance = null
+label = AI | average = 0.927210991666076 | distance = null
+------------------------------------------------------------------------
+dis listlabel = compiler | average = null | distance = 1.999257628683451E-6
+label = compiler | average = null | distance = 0.872342464617029
+label = compiler | average = null | distance = 0.8963592348772942
+label = compiler | average = null | distance = 0.9093735350594252
+label = compiler | average = null | distance = 0.9093735350594252
+label = compiler | average = null | distance = 0.9130562389305213
+label = compiler | average = null | distance = 0.9250006867846838
+label = compiler | average = null | distance = 0.9250006867846838
+label = AI | average = null | distance = 0.927210991666076
+label = compiler | average = null | distance = 0.935375859701127
+------------------------------------------------------------------------
+
+input24의 원래 그룹 = compiler
+------------------------------------------------------------------------
+avg list
+label = compiler | average = 0.6950349556175683 | distance = null
+label = Programming_Language | average = 0.9455942922748366 | distance = null
+------------------------------------------------------------------------
+dis listlabel = compiler | average = null | distance = 1.5238027666883E-6
+label = compiler | average = null | distance = 1.5238027666883E-6
+label = compiler | average = null | distance = 0.8876632639469946
+label = compiler | average = null | distance = 0.9203178464247018
+label = compiler | average = null | distance = 0.9211646493087317
+label = compiler | average = null | distance = 0.9426671119128535
+label = compiler | average = null | distance = 0.9426671119128535
+label = Programming_Language | average = null | distance = 0.9429884003007216
+label = compiler | average = null | distance = 0.9457966138288783
+label = Programming_Language | average = null | distance = 0.9482001842489516
+------------------------------------------------------------------------
+
+input25의 원래 그룹 = compiler
+------------------------------------------------------------------------
+avg list
+label = compiler | average = 0.7867104430949653 | distance = null
+label = Programming_Language | average = 0.9284623290943285 | distance = null
+------------------------------------------------------------------------
+dis listlabel = compiler | average = null | distance = 1.3873887380820803E-6
+label = compiler | average = null | distance = 0.8549099191582219
+label = compiler | average = null | distance = 0.8549099191582219
+label = compiler | average = null | distance = 0.8777739817666469
+label = compiler | average = null | distance = 0.8910547136624749
+label = compiler | average = null | distance = 0.8978614396555971
+label = compiler | average = null | distance = 0.8978614396555971
+label = compiler | average = null | distance = 0.9020908075769447
+label = compiler | average = null | distance = 0.9039303798322443
+label = Programming_Language | average = null | distance = 0.9284623290943285
+------------------------------------------------------------------------
+
+input26의 원래 그룹 = compiler
+------------------------------------------------------------------------
+avg list
+label = compiler | average = 0.6057348475872455 | distance = null
+label = computer_architecture | average = 0.9092629771854416 | distance = null
+label = Programming_Language | average = 0.9445132891947465 | distance = null
+------------------------------------------------------------------------
+dis listlabel = compiler | average = null | distance = 2.078940920952916E-6
+label = compiler | average = null | distance = 2.078940920952916E-6
+label = compiler | average = null | distance = 0.8107900308903528
+label = compiler | average = null | distance = 0.8234930741367457
+label = compiler | average = null | distance = 0.8234930741367457
+label = compiler | average = null | distance = 0.8764671725724611
+label = computer_architecture | average = null | distance = 0.9014128571046286
+label = compiler | average = null | distance = 0.9058964234925713
+label = computer_architecture | average = null | distance = 0.9171130972662546
+label = Programming_Language | average = null | distance = 0.9445132891947465
+------------------------------------------------------------------------
+
+input27의 원래 그룹 = compiler
+------------------------------------------------------------------------
+avg list
+label = compiler | average = 0.6301946457740821 | distance = null
+label = computer_architecture | average = 0.9437949096468851 | distance = null
+label = Programming_Language | average = 0.9571215810133435 | distance = null
+------------------------------------------------------------------------
+dis listlabel = compiler | average = null | distance = 1.6661971296829992E-6
+label = computer_architecture | average = null | distance = 0.938801207522234
+label = computer_architecture | average = null | distance = 0.9401399933734721
+label = Programming_Language | average = null | distance = 0.9444233455269417
+label = compiler | average = null | distance = 0.9452911355625584
+label = compiler | average = null | distance = 0.9452911355625584
+label = computer_architecture | average = null | distance = 0.9524435280449491
+label = Programming_Language | average = null | distance = 0.9542746394433904
+label = Programming_Language | average = null | distance = 0.9594993971659247
+label = Programming_Language | average = null | distance = 0.9702889419171175
+------------------------------------------------------------------------
+
+input28의 원래 그룹 = compiler
+------------------------------------------------------------------------
+avg list
+label = compiler | average = 0.6975740053841106 | distance = null
+label = Programming_Language | average = 0.9242729152731253 | distance = null
+label = computer_architecture | average = 0.9462066308378511 | distance = null
+------------------------------------------------------------------------
+dis listlabel = compiler | average = null | distance = 1.8962125160534582E-6
+label = compiler | average = null | distance = 0.7554350335944818
+label = compiler | average = null | distance = 0.7554484864195791
+label = compiler | average = null | distance = 0.7554484864195791
+label = compiler | average = null | distance = 0.8575537859785022
+label = compiler | average = null | distance = 0.8575537859785022
+label = compiler | average = null | distance = 0.9015765630856143
+label = Programming_Language | average = null | distance = 0.9067331398919427
+label = Programming_Language | average = null | distance = 0.9418126906543078
+label = computer_architecture | average = null | distance = 0.9462066308378511
+------------------------------------------------------------------------
+
+input29의 원래 그룹 = compiler
+------------------------------------------------------------------------
+avg list
+label = compiler | average = 0.7494891993968228 | distance = null
+label = Programming_Language | average = 0.9608607474064191 | distance = null
+label = os | average = 0.9617098652101912 | distance = null
+------------------------------------------------------------------------
+dis listlabel = compiler | average = null | distance = 9.887783733121911E-7
+label = compiler | average = null | distance = 0.8406799440712294
+label = os | average = null | distance = 0.9526602521368444
+label = os | average = null | distance = 0.9578906293873889
+label = Programming_Language | average = null | distance = 0.9608607474064191
+label = os | average = null | distance = 0.965155837655217
+label = compiler | average = null | distance = 0.9688960967413173
+label = compiler | average = null | distance = 0.9688960967413173
+label = compiler | average = null | distance = 0.968972870651877
+label = os | average = null | distance = 0.9711327416613146
+------------------------------------------------------------------------
+
+input30의 원래 그룹 = compiler
+------------------------------------------------------------------------
+avg list
+label = compiler | average = 0.87662169077639 | distance = null
+------------------------------------------------------------------------
+dis listlabel = compiler | average = null | distance = 1.2167432537857565E-6
+label = compiler | average = null | distance = 0.9519998125473832
+label = compiler | average = null | distance = 0.9653347546901611
+label = compiler | average = null | distance = 0.9653347546901611
+label = compiler | average = null | distance = 0.9726161032397795
+label = compiler | average = null | distance = 0.9810340581918497
+label = compiler | average = null | distance = 0.9822328938089756
+label = compiler | average = null | distance = 0.9822328938089756
+label = compiler | average = null | distance = 0.982530103140402
+label = compiler | average = null | distance = 0.9829003169029572
+------------------------------------------------------------------------
+
+input31의 원래 그룹 = compiler
+------------------------------------------------------------------------
+avg list
+label = compiler | average = 0.75591349305524 | distance = null
+label = computer_architecture | average = 0.9654680666986124 | distance = null
+label = os | average = 0.9708724457508002 | distance = null
+------------------------------------------------------------------------
+dis listlabel = compiler | average = null | distance = 1.3910263250872897E-6
+label = compiler | average = null | distance = 0.8949953471653213
+label = compiler | average = null | distance = 0.946172560913771
+label = computer_architecture | average = null | distance = 0.961382343028601
+label = computer_architecture | average = null | distance = 0.9645079864789857
+label = compiler | average = null | distance = 0.9664053458343344
+label = os | average = null | distance = 0.970348677025146
+label = computer_architecture | average = null | distance = 0.9705138705882503
+label = os | average = null | distance = 0.9713962144764544
+label = compiler | average = null | distance = 0.9719928203364483
+------------------------------------------------------------------------
+
+input32의 원래 그룹 = compiler
+------------------------------------------------------------------------
+avg list
+label = compiler | average = 2.0108091631501897E-6 | distance = null
+label = computer_architecture | average = 0.9452078308705687 | distance = null
+label = Programming_Language | average = 0.9535773969549787 | distance = null
+label = os | average = 0.9549297608749799 | distance = null
+------------------------------------------------------------------------
+dis listlabel = compiler | average = null | distance = 2.0108091631501897E-6
+label = computer_architecture | average = null | distance = 0.9221632175735301
+label = Programming_Language | average = null | distance = 0.9430710672925171
+label = computer_architecture | average = null | distance = 0.9502661190142662
+label = computer_architecture | average = null | distance = 0.954072137059895
+label = computer_architecture | average = null | distance = 0.9543298498345837
+label = os | average = null | distance = 0.9549297608749799
+label = Programming_Language | average = null | distance = 0.9566353395830496
+label = Programming_Language | average = null | distance = 0.9572926656477362
+label = Programming_Language | average = null | distance = 0.9573105152966116
+------------------------------------------------------------------------
+
+input33의 원래 그룹 = compiler
+------------------------------------------------------------------------
+avg list
+label = compiler | average = 0.7867178461876819 | distance = null
+label = computer_architecture | average = 0.9546685540877273 | distance = null
+------------------------------------------------------------------------
+dis listlabel = compiler | average = null | distance = 1.9888785610518445E-6
+label = compiler | average = null | distance = 0.8512617809869115
+label = compiler | average = null | distance = 0.8512617809869115
+label = compiler | average = null | distance = 0.8898746964676657
+label = compiler | average = null | distance = 0.8898746964676657
+label = compiler | average = null | distance = 0.8955651250980355
+label = computer_architecture | average = null | distance = 0.9492343915499273
+label = compiler | average = null | distance = 0.9566549158332306
+label = compiler | average = null | distance = 0.9592477847824732
+label = computer_architecture | average = null | distance = 0.9601027166255274
+------------------------------------------------------------------------
+
+input34의 원래 그룹 = compiler
+------------------------------------------------------------------------
+avg list
+label = compiler | average = 0.6057348475872455 | distance = null
+label = computer_architecture | average = 0.9092629771854416 | distance = null
+label = Programming_Language | average = 0.9445132891947465 | distance = null
+------------------------------------------------------------------------
+dis listlabel = compiler | average = null | distance = 2.078940920952916E-6
+label = compiler | average = null | distance = 2.078940920952916E-6
+label = compiler | average = null | distance = 0.8107900308903528
+label = compiler | average = null | distance = 0.8234930741367457
+label = compiler | average = null | distance = 0.8234930741367457
+label = compiler | average = null | distance = 0.8764671725724611
+label = computer_architecture | average = null | distance = 0.9014128571046286
+label = compiler | average = null | distance = 0.9058964234925713
+label = computer_architecture | average = null | distance = 0.9171130972662546
+label = Programming_Language | average = null | distance = 0.9445132891947465
+------------------------------------------------------------------------
+
+input35의 원래 그룹 = computer_architecture
+------------------------------------------------------------------------
+avg list
+label = computer_architecture | average = 0.8418045083198124 | distance = null
+label = os | average = 0.9601229985139424 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_architecture | average = null | distance = 1.1369233409984048E-6
+label = computer_architecture | average = null | distance = 0.9092013340971288
+label = computer_architecture | average = null | distance = 0.9335642312333567
+label = computer_architecture | average = null | distance = 0.94122425683995
+label = computer_architecture | average = null | distance = 0.950728177635314
+label = computer_architecture | average = null | distance = 0.954070959865965
+label = computer_architecture | average = null | distance = 0.9589017315065279
+label = os | average = null | distance = 0.9601229985139424
+label = computer_architecture | average = null | distance = 0.9616798060067085
+label = computer_architecture | average = null | distance = 0.9668689407700193
+------------------------------------------------------------------------
+
+input36의 원래 그룹 = computer_architecture
+------------------------------------------------------------------------
+avg list
+label = computer_architecture | average = 0.8360495243140058 | distance = null
+label = AI | average = 0.9418594135320428 | distance = null
+label = computer_graphics | average = 0.9618725393515447 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_architecture | average = null | distance = 1.6002534676536475E-6
+label = computer_architecture | average = null | distance = 0.9387419129321595
+label = computer_architecture | average = null | distance = 0.9409436526519772
+label = AI | average = null | distance = 0.9418594135320428
+label = computer_architecture | average = null | distance = 0.9532099527067304
+label = computer_architecture | average = null | distance = 0.960452247336134
+label = computer_graphics | average = null | distance = 0.9618725393515447
+label = computer_architecture | average = null | distance = 0.963748738203113
+label = computer_architecture | average = null | distance = 0.9656459045736111
+label = computer_architecture | average = null | distance = 0.9656521858548545
+------------------------------------------------------------------------
+
+input37의 원래 그룹 = computer_architecture
+------------------------------------------------------------------------
+avg list
+label = computer_architecture | average = 0.7734196924809271 | distance = null
+label = network | average = 0.9761672489256469 | distance = null
+label = compiler | average = 0.9766526811147784 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_architecture | average = null | distance = 2.0049751384064844E-6
+label = computer_architecture | average = null | distance = 0.7051157679794745
+label = computer_architecture | average = null | distance = 0.8244011503819978
+label = computer_architecture | average = null | distance = 0.888432592461577
+label = computer_architecture | average = null | distance = 0.9233493361444899
+label = computer_architecture | average = null | distance = 0.9257108214558548
+label = computer_architecture | average = null | distance = 0.9560300850327054
+label = computer_architecture | average = null | distance = 0.9643157814161787
+label = network | average = null | distance = 0.9761672489256469
+label = compiler | average = null | distance = 0.9766526811147784
+------------------------------------------------------------------------
+
+input38의 원래 그룹 = computer_architecture
+------------------------------------------------------------------------
+avg list
+label = computer_architecture | average = 0.7829107241128479 | distance = null
+label = os | average = 0.9650629486550566 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_architecture | average = null | distance = 2.0905718416075515E-6
+label = computer_architecture | average = null | distance = 0.7031058521885775
+label = computer_architecture | average = null | distance = 0.8191127613484127
+label = computer_architecture | average = null | distance = 0.8795609636597177
+label = computer_architecture | average = null | distance = 0.9075300544210121
+label = computer_architecture | average = null | distance = 0.931846666408742
+label = computer_architecture | average = null | distance = 0.9320746426695335
+label = computer_architecture | average = null | distance = 0.9342314424101755
+label = computer_architecture | average = null | distance = 0.9387320433376184
+label = os | average = null | distance = 0.9650629486550566
+------------------------------------------------------------------------
+
+input39의 원래 그룹 = computer_architecture
+------------------------------------------------------------------------
+avg list
+label = computer_architecture | average = 0.7384247069694136 | distance = null
+label = compiler | average = 0.9765091788598056 | distance = null
+label = os | average = 0.9786444312350905 | distance = null
+label = Programming_Language | average = 0.9830780620116046 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_architecture | average = null | distance = 1.3751068706645352E-6
+label = computer_architecture | average = null | distance = 0.8825459482176481
+label = computer_architecture | average = null | distance = 0.9183736051523785
+label = computer_architecture | average = null | distance = 0.92056832002997
+label = computer_architecture | average = null | distance = 0.9706342863402013
+label = compiler | average = null | distance = 0.9722340812929204
+label = compiler | average = null | distance = 0.9722340812929204
+label = os | average = null | distance = 0.9786444312350905
+label = Programming_Language | average = null | distance = 0.9830780620116046
+label = compiler | average = null | distance = 0.9850593739935759
+------------------------------------------------------------------------
+
+input40의 원래 그룹 = computer_architecture
+------------------------------------------------------------------------
+avg list
+label = computer_architecture | average = 0.7524042893919256 | distance = null
+label = computer_graphics | average = 0.9807052887275967 | distance = null
+label = compiler | average = 0.986137616041073 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_architecture | average = null | distance = 1.372020629703654E-6
+label = computer_architecture | average = null | distance = 0.917339341208818
+label = computer_architecture | average = null | distance = 0.928037141719146
+label = computer_architecture | average = null | distance = 0.9542032571876172
+label = computer_architecture | average = null | distance = 0.9624403348234172
+label = computer_graphics | average = null | distance = 0.9770501210247069
+label = computer_graphics | average = null | distance = 0.9843604564304863
+label = compiler | average = null | distance = 0.9858219611621222
+label = compiler | average = null | distance = 0.9858219611621222
+label = compiler | average = null | distance = 0.9867689257989742
+------------------------------------------------------------------------
+
+input41의 원래 그룹 = computer_architecture
+------------------------------------------------------------------------
+avg list
+label = computer_architecture | average = 0.8227336988635321 | distance = null
+label = Programming_Language | average = 0.9572581044350177 | distance = null
+label = os | average = 0.9576469551628207 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_architecture | average = null | distance = 0.7099723558904728
+label = computer_architecture | average = null | distance = 0.7161655580210189
+label = computer_architecture | average = null | distance = 0.7584317987365969
+label = computer_architecture | average = null | distance = 0.7945463138297573
+label = computer_architecture | average = null | distance = 0.8602904579351782
+label = computer_architecture | average = null | distance = 0.8862580142950465
+label = computer_architecture | average = null | distance = 0.8958125470730908
+label = Programming_Language | average = null | distance = 0.9572581044350177
+label = os | average = null | distance = 0.9576469551628207
+label = computer_architecture | average = null | distance = 0.9603925451270947
+------------------------------------------------------------------------
+
+input42의 원래 그룹 = computer_architecture
+------------------------------------------------------------------------
+avg list
+label = computer_architecture | average = 0.7178827366600071 | distance = null
+label = Programming_Language | average = 0.9695629869605848 | distance = null
+label = computer_graphics | average = 0.9816248458438528 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_architecture | average = null | distance = 2.0424573457870542E-6
+label = computer_architecture | average = null | distance = 0.7210757740558594
+label = computer_architecture | average = null | distance = 0.7521966181446775
+label = computer_architecture | average = null | distance = 0.8468691757149385
+label = computer_architecture | average = null | distance = 0.8570202139719946
+label = computer_architecture | average = null | distance = 0.8804230659169892
+label = Programming_Language | average = null | distance = 0.9589694526991781
+label = computer_architecture | average = null | distance = 0.967592266358245
+label = Programming_Language | average = null | distance = 0.9801565212219915
+label = computer_graphics | average = null | distance = 0.9816248458438528
+------------------------------------------------------------------------
+
+input43의 원래 그룹 = computer_architecture
+------------------------------------------------------------------------
+avg list
+label = computer_architecture | average = 0.7499600312239033 | distance = null
+label = computer_graphics | average = 0.9910182596314624 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_architecture | average = null | distance = 2.0420102735949674E-6
+label = computer_architecture | average = null | distance = 0.7698691489401553
+label = computer_architecture | average = null | distance = 0.7712778926734084
+label = computer_architecture | average = null | distance = 0.8477443011259151
+label = computer_architecture | average = null | distance = 0.9016439621205092
+label = computer_architecture | average = null | distance = 0.9677251722701355
+label = computer_graphics | average = null | distance = 0.989482216539879
+label = computer_graphics | average = null | distance = 0.9905968211140805
+label = computer_architecture | average = null | distance = 0.991457699426926
+label = computer_graphics | average = null | distance = 0.9929757412404275
+------------------------------------------------------------------------
+
+input44의 원래 그룹 = computer_architecture
+------------------------------------------------------------------------
+avg list
+label = computer_architecture | average = 0.7255811429381258 | distance = null
+label = network | average = 0.9575590590964687 | distance = null
+label = Programming_Language | average = 0.9835114441582236 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_architecture | average = null | distance = 2.196013104710262E-6
+label = computer_architecture | average = null | distance = 0.7396609740431199
+label = computer_architecture | average = null | distance = 0.8569364212797589
+label = computer_architecture | average = null | distance = 0.8998737030209197
+label = computer_architecture | average = null | distance = 0.9077266267577677
+label = computer_architecture | average = null | distance = 0.9492869365140836
+label = network | average = null | distance = 0.9575590590964687
+label = Programming_Language | average = null | distance = 0.9740427224786359
+label = Programming_Language | average = null | distance = 0.9843178017042593
+label = Programming_Language | average = null | distance = 0.9921738082917756
+------------------------------------------------------------------------
+
+input45의 원래 그룹 = computer_architecture
+------------------------------------------------------------------------
+avg list
+label = computer_architecture | average = 0.8855268956299678 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_architecture | average = null | distance = 5.115909075356224E-7
+label = computer_architecture | average = null | distance = 0.9735022591571145
+label = computer_architecture | average = null | distance = 0.975082988496173
+label = computer_architecture | average = null | distance = 0.9751275959327798
+label = computer_architecture | average = null | distance = 0.9854503191016777
+label = computer_architecture | average = null | distance = 0.9863957572180982
+label = computer_architecture | average = null | distance = 0.9886562824653068
+label = computer_architecture | average = null | distance = 0.989461535098898
+label = computer_architecture | average = null | distance = 0.9904928150009239
+label = computer_architecture | average = null | distance = 0.9910988922377975
+------------------------------------------------------------------------
+
+input46의 원래 그룹 = computer_architecture
+------------------------------------------------------------------------
+avg list
+label = computer_architecture | average = 0.7914302698461655 | distance = null
+label = os | average = 0.9548900901069206 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_architecture | average = null | distance = 1.4608955036075538E-6
+label = computer_architecture | average = null | distance = 0.8402489983757747
+label = computer_architecture | average = null | distance = 0.8404176444987295
+label = computer_architecture | average = null | distance = 0.8445771771003534
+label = computer_architecture | average = null | distance = 0.8851075841834912
+label = computer_architecture | average = null | distance = 0.8931471566164564
+label = computer_architecture | average = null | distance = 0.9116335839686175
+label = computer_architecture | average = null | distance = 0.9537055176833937
+label = computer_architecture | average = null | distance = 0.9540333052931702
+label = os | average = null | distance = 0.9548900901069206
+------------------------------------------------------------------------
+
+input47의 원래 그룹 = computer_architecture
+------------------------------------------------------------------------
+avg list
+label = computer_architecture | average = 0.8728878705417852 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_architecture | average = null | distance = 1.0289634523495785E-6
+label = computer_architecture | average = null | distance = 0.9516938148934863
+label = computer_architecture | average = null | distance = 0.9583628181869241
+label = computer_architecture | average = null | distance = 0.9660386310010645
+label = computer_architecture | average = null | distance = 0.9689306557117388
+label = computer_architecture | average = null | distance = 0.9731405631877553
+label = computer_architecture | average = null | distance = 0.9741633564381544
+label = computer_architecture | average = null | distance = 0.9742844291345121
+label = computer_architecture | average = null | distance = 0.9798170644786722
+label = computer_architecture | average = null | distance = 0.9824463434220935
+------------------------------------------------------------------------
+
+input48의 원래 그룹 = computer_architecture
+------------------------------------------------------------------------
+avg list
+label = computer_architecture | average = 0.7133442872112187 | distance = null
+label = compiler | average = 0.9786559653437323 | distance = null
+label = Programming_Language | average = 0.9831987904643399 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_architecture | average = null | distance = 1.680145003013614E-6
+label = computer_architecture | average = null | distance = 0.7160878072388438
+label = computer_architecture | average = null | distance = 0.7274254155671805
+label = computer_architecture | average = null | distance = 0.7344580007223039
+label = computer_architecture | average = null | distance = 0.7401707272449847
+label = computer_architecture | average = null | distance = 0.8627514948238159
+label = computer_architecture | average = null | distance = 0.955807343872189
+label = computer_architecture | average = null | distance = 0.9700518280754283
+label = compiler | average = null | distance = 0.9786559653437323
+label = Programming_Language | average = null | distance = 0.9831987904643399
+------------------------------------------------------------------------
+
+input49의 원래 그룹 = computer_architecture
+------------------------------------------------------------------------
+avg list
+label = computer_architecture | average = 0.8396592970260152 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_architecture | average = null | distance = 2.099204215789034E-6
+label = computer_architecture | average = null | distance = 0.9013018075093047
+label = computer_architecture | average = null | distance = 0.9065220870944208
+label = computer_architecture | average = null | distance = 0.9179071038667741
+label = computer_architecture | average = null | distance = 0.9240255828211374
+label = computer_architecture | average = null | distance = 0.9358089368963147
+label = computer_architecture | average = null | distance = 0.9359526293059222
+label = computer_architecture | average = null | distance = 0.9504943492841945
+label = computer_architecture | average = null | distance = 0.9583179354063257
+label = computer_architecture | average = null | distance = 0.9662604388715417
+------------------------------------------------------------------------
+
+input50의 원래 그룹 = computer_architecture
+------------------------------------------------------------------------
+avg list
+label = computer_architecture | average = 0.8095932772586757 | distance = null
+label = Programming_Language | average = 0.9203615241910863 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_architecture | average = null | distance = 1.6429848260985218E-6
+label = computer_architecture | average = null | distance = 0.8790096912973502
+label = computer_architecture | average = null | distance = 0.905108790340356
+label = Programming_Language | average = null | distance = 0.9176286616906726
+label = Programming_Language | average = null | distance = 0.9230943866914999
+label = computer_architecture | average = null | distance = 0.9309930889930753
+label = computer_architecture | average = null | distance = 0.9382532630958909
+label = computer_architecture | average = null | distance = 0.9393979042193433
+label = computer_architecture | average = null | distance = 0.9398612862457647
+label = computer_architecture | average = null | distance = 0.9441205508927999
+------------------------------------------------------------------------
+
+input51의 원래 그룹 = computer_architecture
+------------------------------------------------------------------------
+avg list
+label = computer_architecture | average = 0.6950368633413098 | distance = null
+label = compiler | average = 0.9705144255833911 | distance = null
+label = network | average = 0.9712127360743755 | distance = null
+label = os | average = 0.9723097847949286 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_architecture | average = null | distance = 1.3919564729047191E-6
+label = computer_architecture | average = null | distance = 0.8942811058037412
+label = computer_architecture | average = null | distance = 0.9416544616293742
+label = computer_architecture | average = null | distance = 0.9442104939756507
+label = os | average = null | distance = 0.9556655803657899
+label = compiler | average = null | distance = 0.9705144255833911
+label = compiler | average = null | distance = 0.9705144255833911
+label = network | average = null | distance = 0.9712127360743755
+label = os | average = null | distance = 0.979793851622512
+label = os | average = null | distance = 0.9814699223964839
+------------------------------------------------------------------------
+
+input52의 원래 그룹 = computer_architecture
+------------------------------------------------------------------------
+avg list
+label = computer_architecture | average = 0.8234648597348576 | distance = null
+label = os | average = 0.9636818577310361 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_architecture | average = null | distance = 1.561067003988835E-6
+label = computer_architecture | average = null | distance = 0.8799431915343319
+label = computer_architecture | average = null | distance = 0.8877379343976632
+label = computer_architecture | average = null | distance = 0.8949645726104586
+label = computer_architecture | average = null | distance = 0.9081514510994914
+label = computer_architecture | average = null | distance = 0.9364985253215669
+label = computer_architecture | average = null | distance = 0.9617092696706742
+label = os | average = null | distance = 0.9636818577310361
+label = computer_architecture | average = null | distance = 0.9688068570069308
+label = computer_architecture | average = null | distance = 0.973370374905598
+------------------------------------------------------------------------
+
+input53의 원래 그룹 = computer_architecture
+------------------------------------------------------------------------
+avg list
+label = computer_architecture | average = 0.707274256580704 | distance = null
+label = compiler | average = 0.982169595161773 | distance = null
+label = os | average = 0.9837537742831389 | distance = null
+label = network | average = 0.9843947920775566 | distance = null
+label = Programming_Language | average = 0.9848130508870018 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_architecture | average = null | distance = 1.6526084921877425E-6
+label = computer_architecture | average = null | distance = 0.9100511927120547
+label = computer_architecture | average = null | distance = 0.956934928612041
+label = computer_architecture | average = null | distance = 0.9621092523902283
+label = compiler | average = null | distance = 0.982169595161773
+label = os | average = null | distance = 0.9828119838478885
+label = network | average = null | distance = 0.9841623020559509
+label = network | average = null | distance = 0.9846272820991623
+label = os | average = null | distance = 0.9846955647183894
+label = Programming_Language | average = null | distance = 0.9848130508870018
+------------------------------------------------------------------------
+
+input54의 원래 그룹 = computer_graphics
+------------------------------------------------------------------------
+avg list
+label = computer_graphics | average = 0.7648100137273489 | distance = null
+label = database | average = 0.9128497980598838 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_graphics | average = null | distance = 1.6806936983558276E-6
+label = computer_graphics | average = null | distance = 0.777668675139441
+label = computer_graphics | average = null | distance = 0.8484913393966691
+label = computer_graphics | average = null | distance = 0.8487525626565716
+label = computer_graphics | average = null | distance = 0.8556843505372694
+label = computer_graphics | average = null | distance = 0.8671457738354514
+label = computer_graphics | average = null | distance = 0.877043013182466
+label = computer_graphics | average = null | distance = 0.8978746434948978
+label = computer_graphics | average = null | distance = 0.9106280846096748
+label = database | average = null | distance = 0.9128497980598838
+------------------------------------------------------------------------
+
+input55의 원래 그룹 = computer_graphics
+------------------------------------------------------------------------
+avg list
+label = AI | average = 0.6264549599257299 | distance = null
+label = computer_graphics | average = 0.8261874257112805 | distance = null
+label = computer_architecture | average = 0.9667724274763182 | distance = null
+label = database | average = 0.9755564630756259 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_graphics | average = null | distance = 2.032743516659634E-6
+label = AI | average = null | distance = 0.6264549599257299
+label = computer_graphics | average = null | distance = 0.9342530627202535
+label = computer_graphics | average = null | distance = 0.9434314896532394
+label = computer_architecture | average = null | distance = 0.9667724274763182
+label = computer_graphics | average = null | distance = 0.9670525928345424
+label = computer_graphics | average = null | distance = 0.974668438790088
+label = database | average = null | distance = 0.9755564630756259
+label = computer_graphics | average = null | distance = 0.9800903914915297
+label = computer_graphics | average = null | distance = 0.983813971745794
+------------------------------------------------------------------------
+
+input56의 원래 그룹 = computer_graphics
+------------------------------------------------------------------------
+avg list
+label = computer_graphics | average = 0.6256528232035935 | distance = null
+label = os | average = 0.9604585846782747 | distance = null
+label = computer_architecture | average = 0.9630476227204384 | distance = null
+label = network | average = 0.9662164359148875 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_graphics | average = null | distance = 2.300413260427453E-6
+label = computer_graphics | average = null | distance = 0.9353511587951573
+label = computer_graphics | average = null | distance = 0.9416050104023628
+label = os | average = null | distance = 0.9509213121869143
+label = os | average = null | distance = 0.9585872235125253
+label = computer_architecture | average = null | distance = 0.9597909510876214
+label = computer_architecture | average = null | distance = 0.961311914798176
+label = network | average = null | distance = 0.9662164359148875
+label = computer_architecture | average = null | distance = 0.968040002275518
+label = os | average = null | distance = 0.9718672183353846
+------------------------------------------------------------------------
+
+input57의 원래 그룹 = computer_graphics
+------------------------------------------------------------------------
+avg list
+label = computer_graphics | average = 0.7881180941103969 | distance = null
+label = database | average = 0.9159731767862337 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_graphics | average = null | distance = 2.280860789372283E-6
+label = computer_graphics | average = null | distance = 0.8368174422907184
+label = computer_graphics | average = null | distance = 0.8475857159967144
+label = computer_graphics | average = null | distance = 0.8676689511939512
+label = computer_graphics | average = null | distance = 0.8714174699580367
+label = computer_graphics | average = null | distance = 0.8851160194777234
+label = computer_graphics | average = null | distance = 0.8946094947926666
+label = database | average = null | distance = 0.9159731767862337
+label = computer_graphics | average = null | distance = 0.941874683832005
+label = computer_graphics | average = null | distance = 0.9479707885909675
+------------------------------------------------------------------------
+
+input58의 원래 그룹 = computer_graphics
+------------------------------------------------------------------------
+avg list
+label = computer_graphics | average = 0.7568804384287222 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_graphics | average = null | distance = 1.4732774983352525E-6
+label = computer_graphics | average = null | distance = 0.6883581254247084
+label = computer_graphics | average = null | distance = 0.7490494189512966
+label = computer_graphics | average = null | distance = 0.8429758626262543
+label = computer_graphics | average = null | distance = 0.8452729666745409
+label = computer_graphics | average = null | distance = 0.8573769239893092
+label = computer_graphics | average = null | distance = 0.8620654667886521
+label = computer_graphics | average = null | distance = 0.8868091903560266
+label = computer_graphics | average = null | distance = 0.9033966946282983
+label = computer_graphics | average = null | distance = 0.9334982615706371
+------------------------------------------------------------------------
+
+input59의 원래 그룹 = computer_graphics
+------------------------------------------------------------------------
+avg list
+label = computer_graphics | average = 0.775946187483805 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_graphics | average = null | distance = 1.2686567249298755E-6
+label = computer_graphics | average = null | distance = 0.7839488442062486
+label = computer_graphics | average = null | distance = 0.8332050362172022
+label = computer_graphics | average = null | distance = 0.8392645726513955
+label = computer_graphics | average = null | distance = 0.8454157918459337
+label = computer_graphics | average = null | distance = 0.8603288952046808
+label = computer_graphics | average = null | distance = 0.8853213156331003
+label = computer_graphics | average = null | distance = 0.8968114864990816
+label = computer_graphics | average = null | distance = 0.902924176483544
+label = computer_graphics | average = null | distance = 0.9122404874401387
+------------------------------------------------------------------------
+
+input60의 원래 그룹 = computer_graphics
+------------------------------------------------------------------------
+avg list
+label = computer_graphics | average = 0.8216605368349076 | distance = null
+label = database | average = 0.9409025608808846 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_graphics | average = null | distance = 1.8176073888246923E-6
+label = computer_graphics | average = null | distance = 0.8747697740392455
+label = computer_graphics | average = null | distance = 0.9091661720547188
+label = computer_graphics | average = null | distance = 0.9100614397556065
+label = computer_graphics | average = null | distance = 0.9245909066353596
+label = computer_graphics | average = null | distance = 0.9387823764080802
+label = computer_graphics | average = null | distance = 0.9390302218752377
+label = database | average = null | distance = 0.9409025608808846
+label = computer_graphics | average = null | distance = 0.9414421611763178
+label = computer_graphics | average = null | distance = 0.9570999619622135
+------------------------------------------------------------------------
+
+input61의 원래 그룹 = computer_graphics
+------------------------------------------------------------------------
+avg list
+label = computer_graphics | average = 0.7074683130729071 | distance = null
+label = compiler | average = 0.9432868756511039 | distance = null
+label = Programming_Language | average = 0.9751483997273129 | distance = null
+label = database | average = 0.9787470564856119 | distance = null
+label = computer_architecture | average = 0.9841207176679914 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_graphics | average = null | distance = 1.5701768877449927E-6
+label = computer_graphics | average = null | distance = 0.9042745682249749
+label = compiler | average = null | distance = 0.9432868756511039
+label = computer_graphics | average = null | distance = 0.9455149930134518
+label = Programming_Language | average = null | distance = 0.9690344909209413
+label = database | average = null | distance = 0.9787470564856119
+label = computer_graphics | average = null | distance = 0.980082120876314
+label = Programming_Language | average = null | distance = 0.9812623085336846
+label = computer_architecture | average = null | distance = 0.9831253988964774
+label = computer_architecture | average = null | distance = 0.9851160364395052
+------------------------------------------------------------------------
+
+input62의 원래 그룹 = computer_graphics
+------------------------------------------------------------------------
+avg list
+label = computer_graphics | average = 0.747599190174136 | distance = null
+label = database | average = 0.8753501887784707 | distance = null
+label = Programming_Language | average = 0.9201971871929582 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_graphics | average = null | distance = 1.1152035570861096E-6
+label = computer_graphics | average = null | distance = 0.8299657361870072
+label = computer_graphics | average = null | distance = 0.8483241364032619
+label = computer_graphics | average = null | distance = 0.8615473271405789
+label = computer_graphics | average = null | distance = 0.8660030398283403
+label = database | average = null | distance = 0.8753501887784707
+label = computer_graphics | average = null | distance = 0.885528354048845
+label = Programming_Language | average = null | distance = 0.8961765001437813
+label = computer_graphics | average = null | distance = 0.9418246224073621
+label = Programming_Language | average = null | distance = 0.944217874242135
+------------------------------------------------------------------------
+
+input63의 원래 그룹 = computer_graphics
+------------------------------------------------------------------------
+avg list
+label = computer_graphics | average = 0.8037515589820503 | distance = null
+label = compiler | average = 0.9761356576752432 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_graphics | average = null | distance = 1.4226273171649421E-6
+label = computer_graphics | average = null | distance = 0.8294911621104148
+label = computer_graphics | average = null | distance = 0.8562985746134582
+label = computer_graphics | average = null | distance = 0.8733379270001594
+label = computer_graphics | average = null | distance = 0.8874187836457635
+label = computer_graphics | average = null | distance = 0.9178094587456601
+label = computer_graphics | average = null | distance = 0.9365738848004143
+label = computer_graphics | average = null | distance = 0.9610373546777025
+label = computer_graphics | average = null | distance = 0.9717954626175627
+label = compiler | average = null | distance = 0.9761356576752432
+------------------------------------------------------------------------
+
+input64의 원래 그룹 = computer_graphics
+------------------------------------------------------------------------
+avg list
+label = computer_graphics | average = 0.8183092972838228 | distance = null
+label = database | average = 0.9442809730769091 | distance = null
+label = Programming_Language | average = 0.981778093828247 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_graphics | average = null | distance = 1.158409085821178E-6
+label = computer_graphics | average = null | distance = 0.9291205737630929
+label = database | average = null | distance = 0.9442809730769091
+label = computer_graphics | average = null | distance = 0.9476015477805253
+label = computer_graphics | average = null | distance = 0.9564528107754525
+label = computer_graphics | average = null | distance = 0.9564886989237543
+label = computer_graphics | average = null | distance = 0.956671278863864
+label = Programming_Language | average = null | distance = 0.9805890610639196
+label = computer_graphics | average = null | distance = 0.9818290124709852
+label = Programming_Language | average = null | distance = 0.9829671265925742
+------------------------------------------------------------------------
+
+input65의 원래 그룹 = computer_graphics
+------------------------------------------------------------------------
+avg list
+label = computer_graphics | average = 0.7785741743318737 | distance = null
+label = database | average = 0.9484556996325529 | distance = null
+label = computer_architecture | average = 0.9732517094447313 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_graphics | average = null | distance = 1.976561913463385E-6
+label = computer_graphics | average = null | distance = 0.8734543311874128
+label = database | average = null | distance = 0.912659843656451
+label = computer_graphics | average = null | distance = 0.9268960074950193
+label = computer_graphics | average = null | distance = 0.9553021749850727
+label = computer_graphics | average = null | distance = 0.9567017228223509
+label = computer_graphics | average = null | distance = 0.9590888329394733
+label = computer_architecture | average = null | distance = 0.9720679557289581
+label = computer_architecture | average = null | distance = 0.9744354631605043
+label = database | average = null | distance = 0.9842515556086548
+------------------------------------------------------------------------
+
+input66의 원래 그룹 = computer_graphics
+------------------------------------------------------------------------
+avg list
+label = computer_graphics | average = 0.8517015744676669 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_graphics | average = null | distance = 1.2511683276842207E-6
+label = computer_graphics | average = null | distance = 0.9077761754846073
+label = computer_graphics | average = null | distance = 0.9294298926790631
+label = computer_graphics | average = null | distance = 0.9377719079826801
+label = computer_graphics | average = null | distance = 0.951417135955935
+label = computer_graphics | average = null | distance = 0.9533165487542465
+label = computer_graphics | average = null | distance = 0.9559817854835634
+label = computer_graphics | average = null | distance = 0.9583502289204432
+label = computer_graphics | average = null | distance = 0.9609941964229016
+label = computer_graphics | average = null | distance = 0.9619766218249027
+------------------------------------------------------------------------
+
+input67의 원래 그룹 = computer_graphics
+------------------------------------------------------------------------
+avg list
+label = computer_graphics | average = 0.8613485957830708 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_graphics | average = null | distance = 1.5635727114858813E-6
+label = computer_graphics | average = null | distance = 0.9155941425724384
+label = computer_graphics | average = null | distance = 0.9387896404897889
+label = computer_graphics | average = null | distance = 0.9397976705402038
+label = computer_graphics | average = null | distance = 0.9489584625575387
+label = computer_graphics | average = null | distance = 0.9633481668619132
+label = computer_graphics | average = null | distance = 0.9745086888475116
+label = computer_graphics | average = null | distance = 0.9746624024707701
+label = computer_graphics | average = null | distance = 0.9769752827391477
+label = computer_graphics | average = null | distance = 0.980849937178685
+------------------------------------------------------------------------
+
+input68의 원래 그룹 = computer_graphics
+------------------------------------------------------------------------
+avg list
+label = computer_graphics | average = 0.7608794019405765 | distance = null
+label = database | average = 0.895407056116581 | distance = null
+label = os | average = 0.9732947631860208 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_graphics | average = null | distance = 1.8841613067400255E-6
+label = computer_graphics | average = null | distance = 0.839934268856239
+label = database | average = null | distance = 0.895407056116581
+label = computer_graphics | average = null | distance = 0.911031367071903
+label = computer_graphics | average = null | distance = 0.9242272275638606
+label = computer_graphics | average = null | distance = 0.9443502257146144
+label = computer_graphics | average = null | distance = 0.9457314382755353
+label = os | average = null | distance = 0.9690280503695686
+label = os | average = null | distance = 0.9742990237840998
+label = os | average = null | distance = 0.976557215404394
+------------------------------------------------------------------------
+
+input69의 원래 그룹 = computer_graphics
+------------------------------------------------------------------------
+avg list
+label = computer_graphics | average = 0.8097887994803985 | distance = null
+label = database | average = 0.8574096418408638 | distance = null
+label = compiler | average = 0.9883064062707025 | distance = null
+label = os | average = 0.989946506728004 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_graphics | average = null | distance = 2.160552097956474E-6
+label = computer_graphics | average = null | distance = 0.8301218742447124
+label = database | average = null | distance = 0.8574096418408638
+label = computer_graphics | average = null | distance = 0.9430207294034073
+label = computer_graphics | average = null | distance = 0.9616346895797949
+label = computer_graphics | average = null | distance = 0.9770633765557477
+label = computer_graphics | average = null | distance = 0.9780525187718219
+label = computer_graphics | average = null | distance = 0.9786262472552079
+label = compiler | average = null | distance = 0.9883064062707025
+label = os | average = null | distance = 0.989946506728004
+------------------------------------------------------------------------
+
+input70의 원래 그룹 = computer_graphics
+------------------------------------------------------------------------
+avg list
+label = computer_graphics | average = 0.8119649131127463 | distance = null
+label = network | average = 0.9712869108907832 | distance = null
+label = database | average = 0.9806828732023839 | distance = null
+label = computer_architecture | average = 0.9867886857970443 | distance = null
+label = compiler | average = 0.9924993454500829 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_graphics | average = null | distance = 2.287567457115592E-6
+label = computer_graphics | average = null | distance = 0.9643553072384221
+label = computer_graphics | average = null | distance = 0.968182117033668
+label = network | average = null | distance = 0.9712869108907832
+label = computer_graphics | average = null | distance = 0.9756758501666383
+label = computer_graphics | average = null | distance = 0.9789131742928847
+label = database | average = null | distance = 0.9806828732023839
+label = computer_graphics | average = null | distance = 0.9846607423774076
+label = computer_architecture | average = null | distance = 0.9867886857970443
+label = compiler | average = null | distance = 0.9924993454500829
+------------------------------------------------------------------------
+
+input71의 원래 그룹 = computer_graphics
+------------------------------------------------------------------------
+avg list
+label = computer_graphics | average = 0.6955452295883482 | distance = null
+label = database | average = 0.9638659114912274 | distance = null
+label = compiler | average = 0.9704161755932063 | distance = null
+label = computer_architecture | average = 0.9871490203446293 | distance = null
+label = Programming_Language | average = 0.9882876861831988 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_graphics | average = null | distance = 1.7253536149100546E-6
+label = computer_graphics | average = null | distance = 0.8388462063225279
+label = database | average = null | distance = 0.9402044779074893
+label = compiler | average = null | distance = 0.9533435116636089
+label = computer_graphics | average = null | distance = 0.962832139939722
+label = computer_graphics | average = null | distance = 0.9805008467375279
+label = computer_architecture | average = null | distance = 0.9871490203446293
+label = compiler | average = null | distance = 0.9874888395228036
+label = database | average = null | distance = 0.9875273450749654
+label = Programming_Language | average = null | distance = 0.9882876861831988
+------------------------------------------------------------------------
+
+input72의 원래 그룹 = computer_graphics
+------------------------------------------------------------------------
+avg list
+label = computer_graphics | average = 0.636327064122758 | distance = null
+label = database | average = 0.9809239552936939 | distance = null
+label = compiler | average = 0.9834423582297399 | distance = null
+label = AI | average = 0.9837008962112035 | distance = null
+------------------------------------------------------------------------
+dis listlabel = computer_graphics | average = null | distance = 1.8649566670486294E-6
+label = computer_graphics | average = null | distance = 0.9398262764015612
+label = computer_graphics | average = null | distance = 0.9691530510100455
+label = compiler | average = null | distance = 0.9706602137755289
+label = database | average = null | distance = 0.9739239121165836
+label = AI | average = null | distance = 0.9837008962112035
+label = compiler | average = null | distance = 0.9870353370660885
+label = database | average = null | distance = 0.9879239984708044
+label = compiler | average = null | distance = 0.9880369410386712
+label = compiler | average = null | distance = 0.9880369410386712
+------------------------------------------------------------------------
+
+input73의 원래 그룹 = database
+------------------------------------------------------------------------
+avg list
+label = database | average = 0.8470258143575399 | distance = null
+label = Programming_Language | average = 0.9283000349122564 | distance = null
+------------------------------------------------------------------------
+dis listlabel = database | average = null | distance = 8.886327649291796E-7
+label = database | average = null | distance = 0.9132729556624064
+label = Programming_Language | average = null | distance = 0.9283000349122564
+label = database | average = null | distance = 0.9371302806240175
+label = database | average = null | distance = 0.9383401785982712
+label = database | average = null | distance = 0.9543022374128659
+label = database | average = null | distance = 0.9666660618082701
+label = database | average = null | distance = 0.9700503002025204
+label = database | average = null | distance = 0.9711178920007449
+label = database | average = null | distance = 0.9723515342759972
+------------------------------------------------------------------------
+
+input74의 원래 그룹 = database
+------------------------------------------------------------------------
+avg list
+label = database | average = 0.4801059180144996 | distance = null
+label = os | average = 0.9394033124064481 | distance = null
+label = Programming_Language | average = 0.9767772291972167 | distance = null
+label = AI | average = 0.9844836141619691 | distance = null
+------------------------------------------------------------------------
+dis listlabel = database | average = null | distance = 1.9846404773195536E-6
+label = os | average = null | distance = 0.8344630217624419
+label = os | average = null | distance = 0.9393412199547686
+label = os | average = null | distance = 0.954231991528368
+label = database | average = null | distance = 0.9602098513885219
+label = os | average = null | distance = 0.9647670811750138
+label = os | average = null | distance = 0.9717534997609473
+label = os | average = null | distance = 0.9718630602571492
+label = Programming_Language | average = null | distance = 0.9767772291972167
+label = AI | average = null | distance = 0.9844836141619691
+------------------------------------------------------------------------
+
+input75의 원래 그룹 = database
+------------------------------------------------------------------------
+avg list
+label = database | average = 0.7983181269365943 | distance = null
+label = network | average = 0.922876925873664 | distance = null
+label = computer_graphics | average = 0.9690286723243474 | distance = null
+label = computer_architecture | average = 0.9742156591893949 | distance = null
+------------------------------------------------------------------------
+dis listlabel = database | average = null | distance = 1.8294711408125252E-6
+label = network | average = null | distance = 0.922876925873664
+label = network | average = null | distance = 0.922876925873664
+label = database | average = null | distance = 0.9443165014873759
+label = database | average = null | distance = 0.9541504714313159
+label = database | average = null | distance = 0.958344604199642
+label = database | average = null | distance = 0.9627147627702478
+label = computer_graphics | average = null | distance = 0.9690286723243474
+label = database | average = null | distance = 0.9703805922598431
+label = computer_architecture | average = null | distance = 0.9742156591893949
+------------------------------------------------------------------------
+
+input76의 원래 그룹 = database
+------------------------------------------------------------------------
+avg list
+label = database | average = 0.8502953557387027 | distance = null
+------------------------------------------------------------------------
+dis listlabel = database | average = null | distance = 1.472201583839894E-6
+label = database | average = null | distance = 0.9099537386629212
+label = database | average = null | distance = 0.9185386543057519
+label = database | average = null | distance = 0.9272583772068742
+label = database | average = null | distance = 0.931874155194887
+label = database | average = null | distance = 0.9393817903532766
+label = database | average = null | distance = 0.961963849243358
+label = database | average = null | distance = 0.9668012841506959
+label = database | average = null | distance = 0.9691615849116457
+label = database | average = null | distance = 0.9780186511560318
+------------------------------------------------------------------------
+
+input77의 원래 그룹 = database
+------------------------------------------------------------------------
+avg list
+label = database | average = 0.8300061023500152 | distance = null
+label = computer_architecture | average = 0.9605100319122084 | distance = null
+------------------------------------------------------------------------
+dis listlabel = database | average = null | distance = 1.2626030701227185E-6
+label = database | average = null | distance = 0.888422821989841
+label = database | average = null | distance = 0.9006912316358674
+label = database | average = null | distance = 0.924729024738336
+label = database | average = null | distance = 0.9384998092845667
+label = database | average = null | distance = 0.9433561040567024
+label = database | average = null | distance = 0.9470364839782919
+label = computer_architecture | average = null | distance = 0.9605100319122084
+label = database | average = null | distance = 0.9634952596219817
+label = database | average = null | distance = 0.9638229232414794
+------------------------------------------------------------------------
+
+input78의 원래 그룹 = database
+------------------------------------------------------------------------
+avg list
+label = database | average = 0.8105478305174537 | distance = null
+label = os | average = 0.9544772629059868 | distance = null
+label = network | average = 0.9894458062844775 | distance = null
+label = compiler | average = 0.9910814773551507 | distance = null
+------------------------------------------------------------------------
+dis listlabel = database | average = null | distance = 2.344295666601449E-6
+label = os | average = null | distance = 0.9163318271181299
+label = database | average = null | distance = 0.9359488283599975
+label = database | average = null | distance = 0.974507332764821
+label = database | average = null | distance = 0.9812571900893068
+label = database | average = null | distance = 0.9817703119663496
+label = network | average = null | distance = 0.9894458062844775
+label = database | average = null | distance = 0.9898009756285807
+label = compiler | average = null | distance = 0.9910814773551507
+label = os | average = null | distance = 0.9926226986938437
+------------------------------------------------------------------------
+
+input79의 원래 그룹 = database
+------------------------------------------------------------------------
+avg list
+label = database | average = 1.8255851228035511E-6 | distance = null
+label = computer_graphics | average = 0.9842028958557666 | distance = null
+label = AI | average = 0.9896994655660303 | distance = null
+label = os | average = 0.9952680089700509 | distance = null
+label = network | average = 0.9965727131839525 | distance = null
+label = compiler | average = 0.9965736256767603 | distance = null
+------------------------------------------------------------------------
+dis listlabel = database | average = null | distance = 1.8255851228035511E-6
+label = computer_graphics | average = null | distance = 0.9842028958557666
+label = AI | average = null | distance = 0.9871330589299793
+label = AI | average = null | distance = 0.9872152150511321
+label = AI | average = null | distance = 0.9887012107199397
+label = AI | average = null | distance = 0.9906455552932572
+label = AI | average = null | distance = 0.9948022878358429
+label = os | average = null | distance = 0.9952680089700509
+label = network | average = null | distance = 0.9965727131839525
+label = compiler | average = null | distance = 0.9965736256767603
+------------------------------------------------------------------------
+
+input80의 원래 그룹 = database
+------------------------------------------------------------------------
+avg list
+label = database | average = 0.7041273244760635 | distance = null
+label = os | average = 0.8263797975268391 | distance = null
+label = network | average = 0.8427810495145354 | distance = null
+------------------------------------------------------------------------
+dis listlabel = database | average = null | distance = 1.2282875578150323E-6
+label = os | average = null | distance = 0.6981674230638829
+label = database | average = null | distance = 0.7605164904187316
+label = database | average = null | distance = 0.7963549183245371
+label = os | average = null | distance = 0.830742578646626
+label = database | average = null | distance = 0.8426541464805546
+label = network | average = null | distance = 0.8427810495145354
+label = database | average = null | distance = 0.9078210407375603
+label = database | average = null | distance = 0.91741612260744
+label = os | average = null | distance = 0.9502293908700086
+------------------------------------------------------------------------
+
+input81의 원래 그룹 = database
+------------------------------------------------------------------------
+avg list
+label = database | average = 0.6289362376973301 | distance = null
+label = os | average = 0.9610638917423293 | distance = null
+label = computer_architecture | average = 0.9674730826614786 | distance = null
+label = Programming_Language | average = 0.9707407072011184 | distance = null
+------------------------------------------------------------------------
+dis listlabel = database | average = null | distance = 1.0414865515455842E-6
+label = database | average = null | distance = 0.9204365145034098
+label = os | average = null | distance = 0.9503010964573568
+label = os | average = null | distance = 0.9537935012081865
+label = os | average = null | distance = 0.9661817715551976
+label = database | average = null | distance = 0.9663711571020288
+label = computer_architecture | average = null | distance = 0.96679810612179
+label = computer_architecture | average = null | distance = 0.9681480592011672
+label = Programming_Language | average = null | distance = 0.9707407072011184
+label = os | average = null | distance = 0.9739791977485762
+------------------------------------------------------------------------
+
+input82의 원래 그룹 = database
+------------------------------------------------------------------------
+avg list
+label = database | average = 0.6897991018567513 | distance = null
+label = os | average = 0.9137994159342135 | distance = null
+------------------------------------------------------------------------
+dis listlabel = database | average = null | distance = 1.313845969121674E-6
+label = database | average = null | distance = 0.7977876566425213
+label = database | average = null | distance = 0.871000233873916
+label = database | average = null | distance = 0.873015930846106
+label = os | average = null | distance = 0.8995314450463764
+label = database | average = null | distance = 0.907190374075244
+label = os | average = null | distance = 0.9094342121342815
+label = os | average = null | distance = 0.9126135553772994
+label = os | average = null | distance = 0.9210257315764894
+label = os | average = null | distance = 0.9263921355366205
+------------------------------------------------------------------------
+
+input83의 원래 그룹 = database
+------------------------------------------------------------------------
+avg list
+label = database | average = 0.8511831363802189 | distance = null
+------------------------------------------------------------------------
+dis listlabel = database | average = null | distance = 8.229619540620717E-7
+label = database | average = null | distance = 0.9036783009372038
+label = database | average = null | distance = 0.9141885386775982
+label = database | average = null | distance = 0.9197156297148658
+label = database | average = null | distance = 0.9363966715683243
+label = database | average = null | distance = 0.9589147544685568
+label = database | average = null | distance = 0.9636038824126211
+label = database | average = null | distance = 0.9715301338103632
+label = database | average = null | distance = 0.9715672763607258
+label = database | average = null | distance = 0.9722353528899762
+------------------------------------------------------------------------
+
+input84의 원래 그룹 = database
+------------------------------------------------------------------------
+avg list
+label = database | average = 0.8116503200796552 | distance = null
+label = computer_architecture | average = 0.962014914507449 | distance = null
+label = compiler | average = 0.9881330894510171 | distance = null
+------------------------------------------------------------------------
+dis listlabel = database | average = null | distance = 2.006845878210273E-6
+label = database | average = null | distance = 0.8663980775214006
+label = database | average = null | distance = 0.8953729911401302
+label = database | average = null | distance = 0.9041345602639171
+label = database | average = null | distance = 0.9233185504797365
+label = database | average = null | distance = 0.954284702450251
+label = computer_architecture | average = null | distance = 0.962014914507449
+label = database | average = null | distance = 0.9718390796222514
+label = database | average = null | distance = 0.9778525923136766
+label = compiler | average = null | distance = 0.9881330894510171
+------------------------------------------------------------------------
+
+input85의 원래 그룹 = database
+------------------------------------------------------------------------
+avg list
+label = database | average = 0.8402573526780053 | distance = null
+------------------------------------------------------------------------
+dis listlabel = database | average = null | distance = 1.9532299060051657E-6
+label = database | average = null | distance = 0.8927428840501745
+label = database | average = null | distance = 0.909189924326613
+label = database | average = null | distance = 0.9105854803162238
+label = database | average = null | distance = 0.9246544127530758
+label = database | average = null | distance = 0.9351475527634748
+label = database | average = null | distance = 0.9447455418454414
+label = database | average = null | distance = 0.9461727805760386
+label = database | average = null | distance = 0.9628299530704102
+label = database | average = null | distance = 0.9765030438486941
+------------------------------------------------------------------------
+
+input86의 원래 그룹 = database
+------------------------------------------------------------------------
+avg list
+label = database | average = 0.8267833085839289 | distance = null
+label = computer_graphics | average = 0.9366712209958681 | distance = null
+label = Programming_Language | average = 0.9758245917381698 | distance = null
+------------------------------------------------------------------------
+dis listlabel = database | average = null | distance = 1.7448349865061173E-6
+label = computer_graphics | average = null | distance = 0.8992250404176374
+label = database | average = null | distance = 0.9503295276792803
+label = database | average = null | distance = 0.9534675782255252
+label = database | average = null | distance = 0.9652014899635186
+label = database | average = null | distance = 0.9660352170690614
+label = computer_graphics | average = null | distance = 0.9741174015740987
+label = Programming_Language | average = null | distance = 0.9758245917381698
+label = database | average = null | distance = 0.9761994318479342
+label = database | average = null | distance = 0.9762481704671961
+------------------------------------------------------------------------
+
+input87의 원래 그룹 = database
+------------------------------------------------------------------------
+avg list
+label = database | average = 0.8711911577315686 | distance = null
+label = os | average = 0.9953982060460457 | distance = null
+label = AI | average = 0.9964778910825741 | distance = null
+------------------------------------------------------------------------
+dis listlabel = database | average = null | distance = 8.999950055005003E-7
+label = database | average = null | distance = 0.9947838195208824
+label = database | average = null | distance = 0.9953417009702656
+label = os | average = null | distance = 0.9953982060460457
+label = database | average = null | distance = 0.995441731344874
+label = database | average = null | distance = 0.9955426702918865
+label = database | average = null | distance = 0.9957733729985032
+label = database | average = null | distance = 0.9960215305638336
+label = AI | average = null | distance = 0.9964778910825741
+label = database | average = null | distance = 0.9966235361672989
+------------------------------------------------------------------------
+
+input88의 원래 그룹 = database
+------------------------------------------------------------------------
+avg list
+label = database | average = 0.724870284083154 | distance = null
+label = os | average = 0.9360855619022211 | distance = null
+label = computer_architecture | average = 0.957107797473343 | distance = null
+------------------------------------------------------------------------
+dis listlabel = database | average = null | distance = 1.7046824698687704E-6
+label = database | average = null | distance = 0.7655537037617878
+label = database | average = null | distance = 0.8114808100578257
+label = database | average = null | distance = 0.9004665678049503
+label = os | average = null | distance = 0.9041144631245732
+label = database | average = null | distance = 0.9260196335549901
+label = database | average = null | distance = 0.9456992846369008
+label = os | average = null | distance = 0.9472394208386219
+label = os | average = null | distance = 0.9569028017434685
+label = computer_architecture | average = null | distance = 0.957107797473343
+------------------------------------------------------------------------
+
+input89의 원래 그룹 = database
+------------------------------------------------------------------------
+avg list
+label = database | average = 0.8307774635267958 | distance = null
+label = Programming_Language | average = 0.9858870698941475 | distance = null
+------------------------------------------------------------------------
+dis listlabel = database | average = null | distance = 2.5797592070533366E-6
+label = database | average = null | distance = 0.8947321760134668
+label = database | average = null | distance = 0.9027251758250947
+label = database | average = null | distance = 0.9211682790159023
+label = database | average = null | distance = 0.9721614567719662
+label = database | average = null | distance = 0.983258004549682
+label = database | average = null | distance = 0.9841815723155427
+label = Programming_Language | average = null | distance = 0.9853899114013498
+label = Programming_Language | average = null | distance = 0.9863842283869454
+label = database | average = null | distance = 0.9879904639635045
+------------------------------------------------------------------------
+
+input90의 원래 그룹 = database
+------------------------------------------------------------------------
+avg list
+label = database | average = 0.8515443023956181 | distance = null
+label = Programming_Language | average = 0.9664827587247904 | distance = null
+------------------------------------------------------------------------
+dis listlabel = database | average = null | distance = 1.0806320914993426E-6
+label = database | average = null | distance = 0.9337735552950567
+label = database | average = null | distance = 0.9395737740299056
+label = database | average = null | distance = 0.9457170474821583
+label = database | average = null | distance = 0.9483801600621059
+label = Programming_Language | average = null | distance = 0.9664827587247904
+label = database | average = null | distance = 0.9703347310836749
+label = database | average = null | distance = 0.9739481856212602
+label = database | average = null | distance = 0.97543550570633
+label = database | average = null | distance = 0.976734681647979
+------------------------------------------------------------------------
+
+input91의 원래 그룹 = database
+------------------------------------------------------------------------
+avg list
+label = database | average = 0.8257992495287223 | distance = null
+label = AI | average = 0.94497812850733 | distance = null
+label = computer_graphics | average = 0.9572937030430488 | distance = null
+------------------------------------------------------------------------
+dis listlabel = database | average = null | distance = 1.9848836546522747E-6
+label = database | average = null | distance = 0.9282666725448852
+label = database | average = null | distance = 0.942221067224082
+label = AI | average = null | distance = 0.94497812850733
+label = computer_graphics | average = null | distance = 0.9489347438893355
+label = database | average = null | distance = 0.9619909362270012
+label = computer_graphics | average = null | distance = 0.9656526621967623
+label = database | average = null | distance = 0.9771519820644013
+label = database | average = null | distance = 0.9800933996564155
+label = database | average = null | distance = 0.9908687041006156
+------------------------------------------------------------------------
+
+input92의 원래 그룹 = database
+------------------------------------------------------------------------
+avg list
+label = database | average = 0.6918754175088279 | distance = null
+label = os | average = 0.9791427051423239 | distance = null
+label = network | average = 0.9820567582688451 | distance = null
+------------------------------------------------------------------------
+dis listlabel = database | average = null | distance = 1.3788792042231902E-6
+label = database | average = null | distance = 0.6941940361715438
+label = database | average = null | distance = 0.826633980266648
+label = database | average = null | distance = 0.9566986724144199
+label = os | average = null | distance = 0.9744930436165671
+label = os | average = null | distance = 0.976854751983235
+label = network | average = null | distance = 0.9776591556057989
+label = database | average = null | distance = 0.9818490198123234
+label = os | average = null | distance = 0.9860803198271694
+label = network | average = null | distance = 0.9864543609318912
+------------------------------------------------------------------------
+
+input93의 원래 그룹 = network
+------------------------------------------------------------------------
+avg list
+label = network | average = 0.7727138785504976 | distance = null
+label = AI | average = 0.9500193384967686 | distance = null
+label = Programming_Language | average = 0.9615396426853521 | distance = null
+------------------------------------------------------------------------
+dis listlabel = network | average = null | distance = 1.8451692738258215E-6
+label = network | average = null | distance = 0.8804027136336616
+label = network | average = null | distance = 0.9207101853821469
+label = network | average = null | distance = 0.9322629110794914
+label = AI | average = null | distance = 0.9419361512822925
+label = network | average = null | distance = 0.9443191528294413
+label = AI | average = null | distance = 0.9522182218844065
+label = AI | average = null | distance = 0.9559036423236066
+label = network | average = null | distance = 0.95858646320897
+label = Programming_Language | average = null | distance = 0.9615396426853521
+------------------------------------------------------------------------
+
+input94의 원래 그룹 = network
+------------------------------------------------------------------------
+avg list
+label = network | average = 0.742655300683526 | distance = null
+label = database | average = 0.972120146878795 | distance = null
+label = compiler | average = 0.9760451991208988 | distance = null
+label = AI | average = 0.9789141993576169 | distance = null
+------------------------------------------------------------------------
+dis listlabel = network | average = null | distance = 1.798934290075254E-6
+label = network | average = null | distance = 0.8448827257618082
+label = network | average = null | distance = 0.8634807568400603
+label = network | average = null | distance = 0.869585434499883
+label = network | average = null | distance = 0.8955967875994983
+label = database | average = null | distance = 0.972120146878795
+label = compiler | average = null | distance = 0.9760451991208988
+label = AI | average = null | distance = 0.9764068135027322
+label = AI | average = null | distance = 0.9814215852125017
+label = network | average = null | distance = 0.9823843004656159
+------------------------------------------------------------------------
+
+input95의 원래 그룹 = network
+------------------------------------------------------------------------
+avg list
+label = network | average = 0.7279455966651402 | distance = null
+label = database | average = 0.9715378125325973 | distance = null
+label = compiler | average = 0.9810053143609714 | distance = null
+------------------------------------------------------------------------
+dis listlabel = network | average = null | distance = 1.7328166550983131E-6
+label = network | average = null | distance = 0.7565470804968564
+label = network | average = null | distance = 0.8110363437190038
+label = network | average = null | distance = 0.8173767127025571
+label = network | average = null | distance = 0.8540550763280204
+label = network | average = null | distance = 0.8790652107647662
+label = database | average = null | distance = 0.9586102048496256
+label = network | average = null | distance = 0.9775370198281235
+label = compiler | average = null | distance = 0.9810053143609714
+label = database | average = null | distance = 0.984465420215569
+------------------------------------------------------------------------
+
+input96의 원래 그룹 = network
+------------------------------------------------------------------------
+avg list
+label = network | average = 0.4904235218041853 | distance = null
+label = AI | average = 0.9698765322284082 | distance = null
+label = database | average = 0.974825693268818 | distance = null
+label = computer_architecture | average = 0.9912451444543057 | distance = null
+label = compiler | average = 0.9922688792851877 | distance = null
+------------------------------------------------------------------------
+dis listlabel = network | average = null | distance = 2.2074570505170724E-6
+label = AI | average = null | distance = 0.9478111586053288
+label = database | average = null | distance = 0.964681725910418
+label = database | average = null | distance = 0.9729649160020457
+label = network | average = null | distance = 0.9808448361513201
+label = database | average = null | distance = 0.9868304378939904
+label = computer_architecture | average = null | distance = 0.9912451444543057
+label = compiler | average = null | distance = 0.9917841612422056
+label = AI | average = null | distance = 0.9919419058514877
+label = compiler | average = null | distance = 0.9927535973281699
+------------------------------------------------------------------------
+
+input97의 원래 그룹 = network
+------------------------------------------------------------------------
+avg list
+label = network | average = 0.7058297953606506 | distance = null
+label = os | average = 0.7879521536317671 | distance = null
+label = database | average = 0.9174660627895624 | distance = null
+------------------------------------------------------------------------
+dis listlabel = network | average = null | distance = 1.7651161751197984E-6
+label = network | average = null | distance = 0.7328798797401744
+label = os | average = null | distance = 0.7879521536317671
+label = network | average = null | distance = 0.7894011264875355
+label = network | average = null | distance = 0.7989025705507293
+label = network | average = null | distance = 0.805551023308279
+label = network | average = null | distance = 0.8812108116925725
+label = database | average = null | distance = 0.8887272359525101
+label = network | average = null | distance = 0.9328613906290888
+label = database | average = null | distance = 0.9462048896266148
+------------------------------------------------------------------------
+
+input98의 원래 그룹 = network
+------------------------------------------------------------------------
+avg list
+label = network | average = 0.7724825582152691 | distance = null
+label = database | average = 0.9731391716126574 | distance = null
+label = computer_architecture | average = 0.9853903524222517 | distance = null
+------------------------------------------------------------------------
+dis listlabel = network | average = null | distance = 1.5709417634919839E-6
+label = network | average = null | distance = 0.8488436396365168
+label = network | average = null | distance = 0.8538851421744175
+label = network | average = null | distance = 0.8935421377041924
+label = network | average = null | distance = 0.9118286222654353
+label = network | average = null | distance = 0.9295806523215985
+label = network | average = null | distance = 0.9696961424629602
+label = database | average = null | distance = 0.9731391716126574
+label = computer_architecture | average = null | distance = 0.984626355688099
+label = computer_architecture | average = null | distance = 0.9861543491564044
+------------------------------------------------------------------------
+
+input99의 원래 그룹 = network
+------------------------------------------------------------------------
+avg list
+label = network | average = 0.8074802091922183 | distance = null
+label = computer_graphics | average = 0.9692686304938513 | distance = null
+label = computer_architecture | average = 0.9710517971821582 | distance = null
+------------------------------------------------------------------------
+dis listlabel = network | average = null | distance = 1.638262858188795E-6
+label = network | average = null | distance = 0.9575553171513134
+label = computer_architecture | average = null | distance = 0.9588814084132095
+label = network | average = null | distance = 0.9649446928980481
+label = network | average = null | distance = 0.9657860840713854
+label = computer_graphics | average = null | distance = 0.9663529261835061
+label = computer_graphics | average = null | distance = 0.9721843348041964
+label = network | average = null | distance = 0.9782885197830637
+label = network | average = null | distance = 0.9783050029866411
+label = computer_architecture | average = null | distance = 0.983222185951107
+------------------------------------------------------------------------
+
+input100의 원래 그룹 = network
+------------------------------------------------------------------------
+avg list
+label = network | average = 0.7158440011119882 | distance = null
+label = database | average = 0.9651767478901832 | distance = null
+label = compiler | average = 0.9847514373531894 | distance = null
+label = AI | average = 0.9876220988895754 | distance = null
+label = Programming_Language | average = 0.9913112073100816 | distance = null
+------------------------------------------------------------------------
+dis listlabel = network | average = null | distance = 1.5076410894382661E-6
+label = network | average = null | distance = 0.9399270498839793
+label = network | average = null | distance = 0.9488372616627931
+label = database | average = null | distance = 0.9651767478901832
+label = network | average = null | distance = 0.9746101852600909
+label = compiler | average = null | distance = 0.9817365151542081
+label = compiler | average = null | distance = 0.98625889845268
+label = compiler | average = null | distance = 0.98625889845268
+label = AI | average = null | distance = 0.9876220988895754
+label = Programming_Language | average = null | distance = 0.9913112073100816
+------------------------------------------------------------------------
+
+input101의 원래 그룹 = network
+------------------------------------------------------------------------
+avg list
+label = network | average = 0.7355572396152124 | distance = null
+label = computer_architecture | average = 0.9879287211451098 | distance = null
+label = compiler | average = 0.9910750485904699 | distance = null
+------------------------------------------------------------------------
+dis listlabel = network | average = null | distance = 1.6560912122172225E-6
+label = network | average = null | distance = 0.9619922297550642
+label = computer_architecture | average = null | distance = 0.9878583371072392
+label = computer_architecture | average = null | distance = 0.9879991051829804
+label = network | average = null | distance = 0.9896683282556165
+label = network | average = null | distance = 0.9905667443589565
+label = compiler | average = null | distance = 0.9908214891287027
+label = compiler | average = null | distance = 0.9908214891287027
+label = compiler | average = null | distance = 0.9913286080522371
+label = compiler | average = null | distance = 0.9913286080522371
+------------------------------------------------------------------------
+
+input102의 원래 그룹 = network
+------------------------------------------------------------------------
+avg list
+label = network | average = 0.7812787599882387 | distance = null
+label = os | average = 0.9513865045262823 | distance = null
+label = database | average = 0.9521729765460716 | distance = null
+------------------------------------------------------------------------
+dis listlabel = network | average = null | distance = 2.0320723095969E-6
+label = network | average = null | distance = 0.8299610670601583
+label = network | average = null | distance = 0.891996320599183
+label = network | average = null | distance = 0.919654438302416
+label = network | average = null | distance = 0.9382621357767759
+label = network | average = null | distance = 0.9440338195249137
+label = network | average = null | distance = 0.9450415065819142
+label = os | average = null | distance = 0.9454490911214058
+label = database | average = null | distance = 0.9521729765460716
+label = os | average = null | distance = 0.9573239179311587
+------------------------------------------------------------------------
+
+input103의 원래 그룹 = network
+------------------------------------------------------------------------
+avg list
+label = network | average = 0.7710558042108132 | distance = null
+label = database | average = 0.9641956684662715 | distance = null
+label = os | average = 0.9652599122422012 | distance = null
+------------------------------------------------------------------------
+dis listlabel = network | average = null | distance = 1.8444003630312585E-6
+label = network | average = null | distance = 0.8283057765078147
+label = network | average = null | distance = 0.8306612460707845
+label = network | average = null | distance = 0.9024304609348303
+label = network | average = null | distance = 0.911487890405673
+label = network | average = null | distance = 0.9463857493046187
+label = os | average = null | distance = 0.9623794824764992
+label = database | average = null | distance = 0.9641956684662715
+label = os | average = null | distance = 0.9681403420079031
+label = network | average = null | distance = 0.9781176618516088
+------------------------------------------------------------------------
+
+input104의 원래 그룹 = network
+------------------------------------------------------------------------
+avg list
+label = network | average = 0.7669645187383779 | distance = null
+label = os | average = 0.9550883998793733 | distance = null
+label = database | average = 0.965929169812761 | distance = null
+label = computer_graphics | average = 0.9698821143656657 | distance = null
+------------------------------------------------------------------------
+dis listlabel = network | average = null | distance = 1.4317417848080387E-6
+label = network | average = null | distance = 0.9475474421676552
+label = os | average = null | distance = 0.9550883998793733
+label = database | average = null | distance = 0.9582938715407965
+label = network | average = null | distance = 0.9605453400619768
+label = network | average = null | distance = 0.9628362582198592
+label = network | average = null | distance = 0.9638921215006137
+label = computer_graphics | average = null | distance = 0.9672371544360572
+label = computer_graphics | average = null | distance = 0.9725270742952743
+label = database | average = null | distance = 0.9735644680847255
+------------------------------------------------------------------------
+
+input105의 원래 그룹 = network
+------------------------------------------------------------------------
+avg list
+label = network | average = 0.7828817600712996 | distance = null
+label = computer_graphics | average = 0.9761328963316694 | distance = null
+label = AI | average = 0.9856719662309104 | distance = null
+------------------------------------------------------------------------
+dis listlabel = network | average = null | distance = 1.4846700787776254E-6
+label = network | average = null | distance = 0.9667982070853222
+label = computer_graphics | average = null | distance = 0.9675531186703854
+label = computer_graphics | average = null | distance = 0.97029483554915
+label = network | average = null | distance = 0.9762908919086911
+label = computer_graphics | average = null | distance = 0.9805883001935892
+label = network | average = null | distance = 0.9849687913505106
+label = AI | average = null | distance = 0.9856719662309104
+label = computer_graphics | average = null | distance = 0.9860953309135533
+label = network | average = null | distance = 0.9863494253418958
+------------------------------------------------------------------------
+
+input106의 원래 그룹 = network
+------------------------------------------------------------------------
+avg list
+label = network | average = 0.660146284224574 | distance = null
+label = database | average = 0.983272391672679 | distance = null
+label = computer_architecture | average = 0.9854334546072264 | distance = null
+label = AI | average = 0.9858669569706324 | distance = null
+label = os | average = 0.988073606598583 | distance = null
+label = compiler | average = 0.9908542283401164 | distance = null
+------------------------------------------------------------------------
+dis listlabel = network | average = null | distance = 1.3426437235170172E-6
+label = database | average = null | distance = 0.983272391672679
+label = computer_architecture | average = null | distance = 0.9854334546072264
+label = AI | average = null | distance = 0.9858669569706324
+label = os | average = null | distance = 0.9864545374564109
+label = os | average = null | distance = 0.9870767208144097
+label = network | average = null | distance = 0.9902187550149992
+label = network | average = null | distance = 0.9902187550149992
+label = os | average = null | distance = 0.9906895615249286
+label = compiler | average = null | distance = 0.9908542283401164
+------------------------------------------------------------------------
+
+input107의 원래 그룹 = network
+------------------------------------------------------------------------
+avg list
+label = network | average = 0.7636049946868096 | distance = null
+label = database | average = 0.9866530898156998 | distance = null
+label = computer_graphics | average = 0.9884831120000589 | distance = null
+label = Programming_Language | average = 0.9887169701640333 | distance = null
+------------------------------------------------------------------------
+dis listlabel = network | average = null | distance = 2.6417872931212145E-6
+label = network | average = null | distance = 0.6635381199772024
+label = network | average = null | distance = 0.9681585045462815
+label = network | average = null | distance = 0.9728761443521827
+label = database | average = null | distance = 0.9863765334024285
+label = database | average = null | distance = 0.9869296462289712
+label = network | average = null | distance = 0.9883766389540286
+label = computer_graphics | average = null | distance = 0.9884831120000589
+label = network | average = null | distance = 0.9886779185038699
+label = Programming_Language | average = null | distance = 0.9887169701640333
+------------------------------------------------------------------------
+
+input108의 원래 그룹 = network
+------------------------------------------------------------------------
+avg list
+label = network | average = 0.5695670697788552 | distance = null
+label = database | average = 0.9710416403085067 | distance = null
+label = AI | average = 0.9756432160178807 | distance = null
+label = computer_graphics | average = 0.9766184517272067 | distance = null
+label = Programming_Language | average = 0.976874796684455 | distance = null
+------------------------------------------------------------------------
+dis listlabel = network | average = null | distance = 1.9773735895504364E-6
+label = network | average = null | distance = 1.9773735895504364E-6
+label = network | average = null | distance = 0.9110026872280519
+label = network | average = null | distance = 0.9565719805165338
+label = database | average = null | distance = 0.9710416403085067
+label = AI | average = null | distance = 0.9754545334319704
+label = AI | average = null | distance = 0.9758318986037912
+label = computer_graphics | average = null | distance = 0.9766184517272067
+label = Programming_Language | average = null | distance = 0.976874796684455
+label = network | average = null | distance = 0.9802567264025115
+------------------------------------------------------------------------
+
+input109의 원래 그룹 = network
+------------------------------------------------------------------------
+avg list
+label = network | average = 0.5695670697788552 | distance = null
+label = database | average = 0.9710416403085067 | distance = null
+label = AI | average = 0.9756432160178807 | distance = null
+label = computer_graphics | average = 0.9766184517272067 | distance = null
+label = Programming_Language | average = 0.976874796684455 | distance = null
+------------------------------------------------------------------------
+dis listlabel = network | average = null | distance = 1.9773735895504364E-6
+label = network | average = null | distance = 1.9773735895504364E-6
+label = network | average = null | distance = 0.9110026872280519
+label = network | average = null | distance = 0.9565719805165338
+label = database | average = null | distance = 0.9710416403085067
+label = AI | average = null | distance = 0.9754545334319704
+label = AI | average = null | distance = 0.9758318986037912
+label = computer_graphics | average = null | distance = 0.9766184517272067
+label = Programming_Language | average = null | distance = 0.976874796684455
+label = network | average = null | distance = 0.9802567264025115
+------------------------------------------------------------------------
+
+input110의 원래 그룹 = os
+------------------------------------------------------------------------
+avg list
+label = os | average = 0.788014420584631 | distance = null
+label = network | average = 0.9570615159302105 | distance = null
+------------------------------------------------------------------------
+dis listlabel = os | average = null | distance = 1.5140291293517981E-6
+label = os | average = null | distance = 0.925504177596477
+label = os | average = null | distance = 0.9404390138528372
+label = os | average = null | distance = 0.9423181241774361
+label = network | average = null | distance = 0.9461574668701189
+label = os | average = null | distance = 0.9531718742290805
+label = network | average = null | distance = 0.9576707930371864
+label = network | average = null | distance = 0.9617828286301152
+label = network | average = null | distance = 0.9626349751834213
+label = os | average = null | distance = 0.9666518196228259
+------------------------------------------------------------------------
+
+input111의 원래 그룹 = os
+------------------------------------------------------------------------
+avg list
+label = os | average = 0.7413990479296513 | distance = null
+label = computer_architecture | average = 0.9429133231965303 | distance = null
+label = network | average = 0.9534584730973068 | distance = null
+------------------------------------------------------------------------
+dis listlabel = os | average = null | distance = 1.35233402269216E-6
+label = os | average = null | distance = 0.9136897857821229
+label = os | average = null | distance = 0.9191323412186024
+label = os | average = null | distance = 0.9231451959253507
+label = computer_architecture | average = null | distance = 0.9321091087286943
+label = computer_architecture | average = null | distance = 0.9422037415366258
+label = network | average = null | distance = 0.945472546624777
+label = os | average = null | distance = 0.9510265643881578
+label = computer_architecture | average = null | distance = 0.9544271193242709
+label = network | average = null | distance = 0.9614443995698366
+------------------------------------------------------------------------
+
+input112의 원래 그룹 = os
+------------------------------------------------------------------------
+avg list
+label = os | average = 0.7508552607379073 | distance = null
+label = computer_architecture | average = 0.9763192162508141 | distance = null
+------------------------------------------------------------------------
+dis listlabel = os | average = null | distance = 1.5463315143804655E-6
+label = os | average = null | distance = 0.42635311392247666
+label = os | average = null | distance = 0.7331493018052125
+label = os | average = null | distance = 0.9609896457016603
+label = os | average = null | distance = 0.9689853835455314
+label = os | average = null | distance = 0.9690969204765502
+label = os | average = null | distance = 0.9716151152437016
+label = computer_architecture | average = null | distance = 0.973695374706011
+label = os | average = null | distance = 0.9766510588766112
+label = computer_architecture | average = null | distance = 0.9789430577956171
+------------------------------------------------------------------------
+
+input113의 원래 그룹 = os
+------------------------------------------------------------------------
+avg list
+label = os | average = 0.6671610962499541 | distance = null
+label = Programming_Language | average = 0.9493736721891967 | distance = null
+------------------------------------------------------------------------
+dis listlabel = os | average = null | distance = 1.284664796199853E-6
+label = os | average = null | distance = 0.27950262049578994
+label = os | average = null | distance = 0.523286916488429
+label = Programming_Language | average = null | distance = 0.9399468408918671
+label = Programming_Language | average = null | distance = 0.9411272607639337
+label = os | average = null | distance = 0.9609144436439059
+label = os | average = null | distance = 0.9632844477058513
+label = Programming_Language | average = null | distance = 0.9670469149117888
+label = os | average = null | distance = 0.9688065061490302
+label = os | average = null | distance = 0.974331454601876
+------------------------------------------------------------------------
+
+input114의 원래 그룹 = os
+------------------------------------------------------------------------
+avg list
+label = os | average = 0.6480549263862851 | distance = null
+label = database | average = 0.9287264268365937 | distance = null
+label = network | average = 0.977139752610773 | distance = null
+label = AI | average = 0.9861500956524893 | distance = null
+label = compiler | average = 0.989899546526687 | distance = null
+------------------------------------------------------------------------
+dis listlabel = os | average = null | distance = 1.1785104578846503E-6
+label = database | average = null | distance = 0.9287264268365937
+label = os | average = null | distance = 0.9591234385477165
+label = network | average = null | distance = 0.973949694791538
+label = network | average = null | distance = 0.9803298104300079
+label = os | average = null | distance = 0.985040162100681
+label = AI | average = null | distance = 0.9861500956524893
+label = compiler | average = null | distance = 0.9898145575307468
+label = compiler | average = null | distance = 0.9898145575307468
+label = compiler | average = null | distance = 0.9900695245185678
+------------------------------------------------------------------------
+
+input115의 원래 그룹 = os
+------------------------------------------------------------------------
+avg list
+label = os | average = 0.6565149757446395 | distance = null
+label = AI | average = 0.9799066657075175 | distance = null
+label = network | average = 0.9820114558351174 | distance = null
+label = Programming_Language | average = 0.9844206248644091 | distance = null
+------------------------------------------------------------------------
+dis listlabel = os | average = null | distance = 1.3139071409641476E-6
+label = AI | average = null | distance = 0.9720217823401245
+label = network | average = null | distance = 0.9774448413581854
+label = AI | average = null | distance = 0.9780700291953247
+label = AI | average = null | distance = 0.9830841117830913
+label = os | average = null | distance = 0.9838896357199253
+label = Programming_Language | average = null | distance = 0.9844206248644091
+label = os | average = null | distance = 0.9856539776068524
+label = AI | average = null | distance = 0.9864507395115296
+label = network | average = null | distance = 0.9865780703120494
+------------------------------------------------------------------------
+
+input116의 원래 그룹 = os
+------------------------------------------------------------------------
+avg list
+label = os | average = 0.5964293454383596 | distance = null
+label = Programming_Language | average = 0.9543984992535566 | distance = null
+label = computer_architecture | average = 0.9601096337390767 | distance = null
+label = compiler | average = 0.9701515937043286 | distance = null
+------------------------------------------------------------------------
+dis listlabel = os | average = null | distance = 1.80760146847466E-6
+label = os | average = null | distance = 0.8778542803933055
+label = os | average = null | distance = 0.9114319483203047
+label = computer_architecture | average = null | distance = 0.9429019232591751
+label = Programming_Language | average = null | distance = 0.9470593819921803
+label = computer_architecture | average = null | distance = 0.9544435344449645
+label = Programming_Language | average = null | distance = 0.9617376165149327
+label = compiler | average = null | distance = 0.9701515937043286
+label = computer_architecture | average = null | distance = 0.9713394169551
+label = computer_architecture | average = null | distance = 0.9717536602970673
+------------------------------------------------------------------------
+
+input117의 원래 그룹 = os
+------------------------------------------------------------------------
+avg list
+label = os | average = 0.6922831318304767 | distance = null
+label = computer_architecture | average = 0.9185707628373124 | distance = null
+------------------------------------------------------------------------
+dis listlabel = os | average = null | distance = 2.2455550715302713E-6
+label = os | average = null | distance = 0.6161599105470618
+label = os | average = null | distance = 0.619095706837723
+label = os | average = null | distance = 0.8731402211108339
+label = os | average = null | distance = 0.8794655055292787
+label = computer_architecture | average = null | distance = 0.8990410452193217
+label = os | average = null | distance = 0.9076847016909172
+label = computer_architecture | average = null | distance = 0.9184301256252112
+label = computer_architecture | average = null | distance = 0.9382411176674043
+label = os | average = null | distance = 0.950433631542451
+------------------------------------------------------------------------
+
+input118의 원래 그룹 = os
+------------------------------------------------------------------------
+avg list
+label = os | average = 0.8366939010483936 | distance = null
+label = computer_architecture | average = 0.9603848205425887 | distance = null
+------------------------------------------------------------------------
+dis listlabel = os | average = null | distance = 1.1838788159784704E-6
+label = os | average = null | distance = 0.9260301342612356
+label = os | average = null | distance = 0.953524183443346
+label = computer_architecture | average = null | distance = 0.9546954837145977
+label = os | average = null | distance = 0.9567427951418217
+label = os | average = null | distance = 0.957464781282312
+label = os | average = null | distance = 0.9643153706715427
+label = computer_architecture | average = null | distance = 0.9660741573705796
+label = os | average = null | distance = 0.9675287814041498
+label = os | average = null | distance = 0.967943978303925
+------------------------------------------------------------------------
+
+input119의 원래 그룹 = os
+------------------------------------------------------------------------
+avg list
+label = os | average = 0.7474925585786378 | distance = null
+label = AI | average = 0.9801297717462244 | distance = null
+label = computer_architecture | average = 0.9861056057518276 | distance = null
+------------------------------------------------------------------------
+dis listlabel = os | average = null | distance = 1.4060625846407717E-6
+label = os | average = null | distance = 0.8990436448750715
+label = os | average = null | distance = 0.9279088407797951
+label = os | average = null | distance = 0.9492627843155264
+label = os | average = null | distance = 0.9612461168602117
+label = AI | average = null | distance = 0.9801297717462244
+label = computer_architecture | average = null | distance = 0.9848740084164678
+label = computer_architecture | average = null | distance = 0.9858668523241245
+label = computer_architecture | average = null | distance = 0.9865368236010797
+label = computer_architecture | average = null | distance = 0.987144738665638
+------------------------------------------------------------------------
+
+input120의 원래 그룹 = os
+------------------------------------------------------------------------
+avg list
+label = os | average = 0.5428651832479248 | distance = null
+label = network | average = 0.8666939570197805 | distance = null
+label = computer_architecture | average = 0.9252428355039662 | distance = null
+label = database | average = 0.9446295260682349 | distance = null
+label = Programming_Language | average = 0.9449154332150572 | distance = null
+------------------------------------------------------------------------
+dis listlabel = os | average = null | distance = 2.0036078719576402E-6
+label = os | average = null | distance = 0.6365054813548473
+label = os | average = null | distance = 0.7627038543621792
+label = os | average = null | distance = 0.7722493936668003
+label = network | average = null | distance = 0.8666939570197805
+label = computer_architecture | average = null | distance = 0.9161769280754118
+label = computer_architecture | average = null | distance = 0.9262554134017115
+label = computer_architecture | average = null | distance = 0.9332961650347754
+label = database | average = null | distance = 0.9446295260682349
+label = Programming_Language | average = null | distance = 0.9449154332150572
+------------------------------------------------------------------------
+
+input121의 원래 그룹 = os
+------------------------------------------------------------------------
+avg list
+label = os | average = 0.7089009231186418 | distance = null
+label = computer_architecture | average = 0.94422463469798 | distance = null
+label = compiler | average = 0.9622870565810216 | distance = null
+------------------------------------------------------------------------
+dis listlabel = os | average = null | distance = 2.1098225961834838E-6
+label = os | average = null | distance = 0.735595524766014
+label = os | average = null | distance = 0.7708120065777143
+label = os | average = null | distance = 0.8313381562927189
+label = computer_architecture | average = null | distance = 0.9312433544250581
+label = computer_architecture | average = null | distance = 0.9447251265192786
+label = os | average = null | distance = 0.9540507497754868
+label = computer_architecture | average = null | distance = 0.9567054231496035
+label = os | average = null | distance = 0.9616069914773211
+label = compiler | average = null | distance = 0.9622870565810216
+------------------------------------------------------------------------
+
+input122의 원래 그룹 = os
+------------------------------------------------------------------------
+avg list
+label = os | average = 0.7827681336398892 | distance = null
+label = computer_architecture | average = 0.9498268423647122 | distance = null
+label = computer_graphics | average = 0.9521973146946663 | distance = null
+label = database | average = 0.959266482174292 | distance = null
+label = Programming_Language | average = 0.9701476437778597 | distance = null
+------------------------------------------------------------------------
+dis listlabel = os | average = null | distance = 1.90785944677368E-6
+label = os | average = null | distance = 0.9086490041315614
+label = os | average = null | distance = 0.9194181779396481
+label = computer_architecture | average = null | distance = 0.9498268423647122
+label = os | average = null | distance = 0.9499895558892334
+label = computer_graphics | average = null | distance = 0.9521973146946663
+label = os | average = null | distance = 0.9527061067083354
+label = database | average = null | distance = 0.959266482174292
+label = os | average = null | distance = 0.9658440493111096
+label = Programming_Language | average = null | distance = 0.9701476437778597
+------------------------------------------------------------------------
+
+input123의 원래 그룹 = os
+------------------------------------------------------------------------
+avg list
+label = os | average = 0.6863149227892367 | distance = null
+label = computer_architecture | average = 0.9329451096674534 | distance = null
+label = database | average = 0.9442366689744844 | distance = null
+label = network | average = 0.946399267284722 | distance = null
+------------------------------------------------------------------------
+dis listlabel = os | average = null | distance = 1.9169872189748104E-6
+label = os | average = null | distance = 0.564437815865115
+label = os | average = null | distance = 0.6529087853116878
+label = os | average = null | distance = 0.881228504641328
+label = os | average = null | distance = 0.8816642678854839
+label = os | average = null | distance = 0.8818583326015444
+label = computer_architecture | average = null | distance = 0.9329451096674534
+label = os | average = null | distance = 0.9421048362322788
+label = database | average = null | distance = 0.9442366689744844
+label = network | average = null | distance = 0.946399267284722
+------------------------------------------------------------------------
+
+input124의 원래 그룹 = os
+------------------------------------------------------------------------
+avg list
+label = os | average = 0.7708338062621263 | distance = null
+label = database | average = 0.9807532259180431 | distance = null
+label = AI | average = 0.9881743808998985 | distance = null
+label = computer_graphics | average = 0.9914413715559176 | distance = null
+------------------------------------------------------------------------
+dis listlabel = os | average = null | distance = 2.223437440207189E-6
+label = os | average = null | distance = 0.9381346856308032
+label = os | average = null | distance = 0.9634967067998291
+label = os | average = null | distance = 0.9642822423991592
+label = database | average = null | distance = 0.971007435621301
+label = AI | average = null | distance = 0.9851150013029653
+label = os | average = null | distance = 0.9882531730433995
+label = database | average = null | distance = 0.9904990162147853
+label = AI | average = null | distance = 0.9912337604968318
+label = computer_graphics | average = null | distance = 0.9914413715559176
+------------------------------------------------------------------------
+
+input125의 원래 그룹 = os
+------------------------------------------------------------------------
+avg list
+label = os | average = 0.6815734206510123 | distance = null
+label = computer_architecture | average = 0.9002604184985584 | distance = null
+label = Programming_Language | average = 0.9162575625553009 | distance = null
+------------------------------------------------------------------------
+dis listlabel = os | average = null | distance = 2.8951892093178664E-6
+label = computer_architecture | average = null | distance = 0.873710826393421
+label = os | average = null | distance = 0.8859292222053081
+label = computer_architecture | average = null | distance = 0.8869461295991281
+label = computer_architecture | average = null | distance = 0.8957755338493346
+label = Programming_Language | average = null | distance = 0.9099706755549625
+label = os | average = null | distance = 0.911670077088588
+label = Programming_Language | average = null | distance = 0.9225444495556394
+label = os | average = null | distance = 0.9286914881209438
+label = computer_architecture | average = null | distance = 0.9446091841523501
+------------------------------------------------------------------------
+
+input126의 원래 그룹 = os
+------------------------------------------------------------------------
+avg list
+label = os | average = 0.7365763429871661 | distance = null
+label = computer_architecture | average = 0.9586440622150444 | distance = null
+------------------------------------------------------------------------
+dis listlabel = os | average = null | distance = 1.9854039972513647E-6
+label = os | average = null | distance = 0.6427639911243772
+label = os | average = null | distance = 0.8819680308930723
+label = os | average = null | distance = 0.8898720955432626
+label = os | average = null | distance = 0.9073420392395001
+label = os | average = null | distance = 0.9095917492972948
+label = os | average = null | distance = 0.9244945094086588
+label = computer_architecture | average = null | distance = 0.9417454145602164
+label = computer_architecture | average = null | distance = 0.9621121621976652
+label = computer_architecture | average = null | distance = 0.9720746098872517
+------------------------------------------------------------------------
+
+input127의 원래 그룹 = Programming_Language
+------------------------------------------------------------------------
+avg list
+label = Programming_Language | average = 0.7559365591356157 | distance = null
+label = computer_graphics | average = 0.9739637535846115 | distance = null
+label = compiler | average = 0.984223618267167 | distance = null
+------------------------------------------------------------------------
+dis listlabel = Programming_Language | average = null | distance = 1.8843162627974307E-6
+label = Programming_Language | average = null | distance = 0.8196461305839339
+label = Programming_Language | average = null | distance = 0.8458839578245331
+label = Programming_Language | average = null | distance = 0.9482196027487374
+label = Programming_Language | average = null | distance = 0.9520254826977317
+label = Programming_Language | average = null | distance = 0.9698422966424953
+label = computer_graphics | average = null | distance = 0.9739637535846115
+label = compiler | average = null | distance = 0.983518832826244
+label = compiler | average = null | distance = 0.983518832826244
+label = compiler | average = null | distance = 0.9856331891490129
+------------------------------------------------------------------------
+
+input128의 원래 그룹 = Programming_Language
+------------------------------------------------------------------------
+avg list
+label = Programming_Language | average = 0.7259401427232485 | distance = null
+label = database | average = 0.9012900445762257 | distance = null
+label = compiler | average = 0.9408708181772925 | distance = null
+label = os | average = 0.9683495840459408 | distance = null
+label = network | average = 0.9690434658551894 | distance = null
+------------------------------------------------------------------------
+dis listlabel = Programming_Language | average = null | distance = 1.561937291945325E-6
+label = database | average = null | distance = 0.9012900445762257
+label = compiler | average = null | distance = 0.9408708181772925
+label = Programming_Language | average = null | distance = 0.9650785396048489
+label = os | average = null | distance = 0.9663083810257516
+label = network | average = null | distance = 0.968567979460675
+label = Programming_Language | average = null | distance = 0.9687199509986147
+label = network | average = null | distance = 0.9695189522497037
+label = Programming_Language | average = null | distance = 0.9699605183522385
+label = os | average = null | distance = 0.97039078706613
+------------------------------------------------------------------------
+
+input129의 원래 그룹 = Programming_Language
+------------------------------------------------------------------------
+avg list
+label = Programming_Language | average = 0.7901100672821602 | distance = null
+label = compiler | average = 0.9571821370292574 | distance = null
+------------------------------------------------------------------------
+dis listlabel = Programming_Language | average = null | distance = 1.8580856284605577E-6
+label = Programming_Language | average = null | distance = 0.6909418122283945
+label = Programming_Language | average = null | distance = 0.9061976290061275
+label = Programming_Language | average = null | distance = 0.9221888536971254
+label = Programming_Language | average = null | distance = 0.9349884959270031
+label = Programming_Language | average = null | distance = 0.9454209409677818
+label = Programming_Language | average = null | distance = 0.9563675888025291
+label = compiler | average = null | distance = 0.9567865297063781
+label = compiler | average = null | distance = 0.9575777443521366
+label = Programming_Language | average = null | distance = 0.9647733595426916
+------------------------------------------------------------------------
+
+input130의 원래 그룹 = Programming_Language
+------------------------------------------------------------------------
+avg list
+label = Programming_Language | average = 0.7285042521317968 | distance = null
+label = computer_graphics | average = 0.9789352466711632 | distance = null
+label = AI | average = 0.9792787129372003 | distance = null
+label = computer_architecture | average = 0.9821766987845799 | distance = null
+------------------------------------------------------------------------
+dis listlabel = Programming_Language | average = null | distance = 1.8522459370132344E-6
+label = Programming_Language | average = null | distance = 0.7839894760080958
+label = Programming_Language | average = null | distance = 0.9131204197361734
+label = Programming_Language | average = null | distance = 0.9626961208759875
+label = AI | average = null | distance = 0.9737644398325174
+label = computer_graphics | average = null | distance = 0.9767601114929823
+label = computer_graphics | average = null | distance = 0.9811103818493441
+label = computer_architecture | average = null | distance = 0.9821766987845799
+label = Programming_Language | average = null | distance = 0.98271339179279
+label = AI | average = null | distance = 0.9847929860418831
+------------------------------------------------------------------------
+
+input131의 원래 그룹 = Programming_Language
+------------------------------------------------------------------------
+avg list
+label = Programming_Language | average = 0.8044793943803715 | distance = null
+label = compiler | average = 0.9552682169615611 | distance = null
+------------------------------------------------------------------------
+dis listlabel = Programming_Language | average = null | distance = 1.5118793921331818E-6
+label = Programming_Language | average = null | distance = 0.9450455623502289
+label = compiler | average = null | distance = 0.95091660451541
+label = compiler | average = null | distance = 0.95091660451541
+label = compiler | average = null | distance = 0.9580010627978265
+label = compiler | average = null | distance = 0.9612385960175976
+label = Programming_Language | average = null | distance = 0.9660244177220014
+label = Programming_Language | average = null | distance = 0.9695420149881261
+label = Programming_Language | average = null | distance = 0.9707575875000858
+label = Programming_Language | average = null | distance = 0.9755052718423951
+------------------------------------------------------------------------
+
+input132의 원래 그룹 = Programming_Language
+------------------------------------------------------------------------
+avg list
+label = Programming_Language | average = 0.7866718296180967 | distance = null
+label = os | average = 0.9721547884283073 | distance = null
+------------------------------------------------------------------------
+dis listlabel = Programming_Language | average = null | distance = 1.3764278149806668E-6
+label = Programming_Language | average = null | distance = 0.9209276191773701
+label = Programming_Language | average = null | distance = 0.926300900381685
+label = Programming_Language | average = null | distance = 0.9396170018124747
+label = Programming_Language | average = null | distance = 0.9536985620444962
+label = os | average = null | distance = 0.9541724281431982
+label = os | average = null | distance = 0.9731908764720357
+label = os | average = null | distance = 0.9760785919880591
+label = Programming_Language | average = null | distance = 0.979485517864739
+label = os | average = null | distance = 0.9851772571099358
+------------------------------------------------------------------------
+
+input133의 원래 그룹 = Programming_Language
+------------------------------------------------------------------------
+avg list
+label = Programming_Language | average = 0.7254800272946982 | distance = null
+label = compiler | average = 0.8729545648323148 | distance = null
+------------------------------------------------------------------------
+dis listlabel = Programming_Language | average = null | distance = 2.0423553781086123E-6
+label = compiler | average = null | distance = 0.8404500468037989
+label = compiler | average = null | distance = 0.8645120613754489
+label = compiler | average = null | distance = 0.8645120613754489
+label = compiler | average = null | distance = 0.886953256790672
+label = Programming_Language | average = null | distance = 0.8974977469935523
+label = Programming_Language | average = null | distance = 0.8985348959045013
+label = compiler | average = null | distance = 0.9083453978162052
+label = Programming_Language | average = null | distance = 0.9105693131758571
+label = Programming_Language | average = null | distance = 0.9207961380442018
+------------------------------------------------------------------------
+
+input134의 원래 그룹 = Programming_Language
+------------------------------------------------------------------------
+avg list
+label = Programming_Language | average = 0.7672002253141029 | distance = null
+label = os | average = 0.948892207363243 | distance = null
+------------------------------------------------------------------------
+dis listlabel = Programming_Language | average = null | distance = 1.5379268008119236E-6
+label = Programming_Language | average = null | distance = 0.7942139113294372
+label = Programming_Language | average = null | distance = 0.8224465855755428
+label = Programming_Language | average = null | distance = 0.8984351140121534
+label = os | average = null | distance = 0.9253285304202142
+label = Programming_Language | average = null | distance = 0.9255239471196075
+label = os | average = null | distance = 0.9573680491356117
+label = os | average = null | distance = 0.9639800425339032
+label = Programming_Language | average = null | distance = 0.9640056057173575
+label = Programming_Language | average = null | distance = 0.9657748755178203
+------------------------------------------------------------------------
+
+input135의 원래 그룹 = Programming_Language
+------------------------------------------------------------------------
+avg list
+label = Programming_Language | average = 0.4823886451020225 | distance = null
+label = os | average = 0.9826805432374582 | distance = null
+label = computer_architecture | average = 0.9891854856358111 | distance = null
+label = database | average = 0.9956533625175453 | distance = null
+------------------------------------------------------------------------
+dis listlabel = Programming_Language | average = null | distance = 1.6853702168804104E-6
+label = Programming_Language | average = null | distance = 0.9647756048338282
+label = os | average = null | distance = 0.9777506458262234
+label = os | average = null | distance = 0.9818051275350422
+label = os | average = null | distance = 0.9821815989095041
+label = os | average = null | distance = 0.9846919940920766
+label = os | average = null | distance = 0.9869733498244446
+label = computer_architecture | average = null | distance = 0.987376693623564
+label = computer_architecture | average = null | distance = 0.9909942776480584
+label = database | average = null | distance = 0.9956533625175453
+------------------------------------------------------------------------
+
+input136의 원래 그룹 = Programming_Language
+------------------------------------------------------------------------
+avg list
+label = Programming_Language | average = 0.7301417267694338 | distance = null
+label = compiler | average = 0.9668120651508006 | distance = null
+------------------------------------------------------------------------
+dis listlabel = Programming_Language | average = null | distance = 1.5571855450003349E-6
+label = compiler | average = null | distance = 0.9605678571712292
+label = compiler | average = null | distance = 0.9605678571712292
+label = compiler | average = null | distance = 0.9624904472778687
+label = Programming_Language | average = null | distance = 0.963887339426647
+label = compiler | average = null | distance = 0.9714776013861249
+label = compiler | average = null | distance = 0.9714776013861249
+label = compiler | average = null | distance = 0.9742910265122271
+label = Programming_Language | average = null | distance = 0.9756698642128261
+label = Programming_Language | average = null | distance = 0.981008146252717
+------------------------------------------------------------------------
+
+input137의 원래 그룹 = Programming_Language
+------------------------------------------------------------------------
+avg list
+label = Programming_Language | average = 0.7237721262525327 | distance = null
+label = AI | average = 0.9772314519997083 | distance = null
+label = compiler | average = 0.9815784638828894 | distance = null
+------------------------------------------------------------------------
+dis listlabel = Programming_Language | average = null | distance = 1.5407890316268559E-6
+label = Programming_Language | average = null | distance = 1.5407890316268559E-6
+label = Programming_Language | average = null | distance = 0.9344308732969294
+label = Programming_Language | average = null | distance = 0.9637722186468493
+label = Programming_Language | average = null | distance = 0.964777428868302
+label = Programming_Language | average = null | distance = 0.9661079556079312
+label = AI | average = null | distance = 0.9772314519997083
+label = Programming_Language | average = null | distance = 0.9804767189531207
+label = Programming_Language | average = null | distance = 0.980608733069066
+label = compiler | average = null | distance = 0.9815784638828894
+------------------------------------------------------------------------
+
+input138의 원래 그룹 = Programming_Language
+------------------------------------------------------------------------
+avg list
+label = Programming_Language | average = 0.7594144534922024 | distance = null
+label = compiler | average = 0.9595502597636086 | distance = null
+------------------------------------------------------------------------
+dis listlabel = Programming_Language | average = null | distance = 1.4957673976215985E-6
+label = Programming_Language | average = null | distance = 0.7874809506170684
+label = Programming_Language | average = null | distance = 0.900305693004107
+label = Programming_Language | average = null | distance = 0.9397414980905257
+label = compiler | average = null | distance = 0.9493097822223086
+label = compiler | average = null | distance = 0.9541577180226892
+label = Programming_Language | average = null | distance = 0.9605956705246672
+label = compiler | average = null | distance = 0.9673667694047182
+label = compiler | average = null | distance = 0.9673667694047182
+label = Programming_Language | average = null | distance = 0.9683614129494479
+------------------------------------------------------------------------
+
+input139의 원래 그룹 = Programming_Language
+------------------------------------------------------------------------
+avg list
+label = Programming_Language | average = 0.7301238616026711 | distance = null
+label = network | average = 0.8730896246890947 | distance = null
+label = compiler | average = 0.9422710285720011 | distance = null
+label = database | average = 0.9612570994975402 | distance = null
+------------------------------------------------------------------------
+dis listlabel = Programming_Language | average = null | distance = 2.2009832082881363E-6
+label = network | average = null | distance = 0.808526790707812
+label = Programming_Language | average = null | distance = 0.9025638936630198
+label = Programming_Language | average = null | distance = 0.9115049560989307
+label = Programming_Language | average = null | distance = 0.9123993808458228
+label = compiler | average = null | distance = 0.9140768998762181
+label = Programming_Language | average = null | distance = 0.9241488764223739
+label = network | average = null | distance = 0.9376524586703773
+label = database | average = null | distance = 0.9612570994975402
+label = compiler | average = null | distance = 0.9704651572677842
+------------------------------------------------------------------------
+
+input140의 원래 그룹 = Programming_Language
+------------------------------------------------------------------------
+avg list
+label = Programming_Language | average = 0.7901100672821602 | distance = null
+label = compiler | average = 0.9571821370292574 | distance = null
+------------------------------------------------------------------------
+dis listlabel = Programming_Language | average = null | distance = 1.8580856284605577E-6
+label = Programming_Language | average = null | distance = 0.6909418122283945
+label = Programming_Language | average = null | distance = 0.9061976290061275
+label = Programming_Language | average = null | distance = 0.9221888536971254
+label = Programming_Language | average = null | distance = 0.9349884959270031
+label = Programming_Language | average = null | distance = 0.9454209409677818
+label = Programming_Language | average = null | distance = 0.9563675888025291
+label = compiler | average = null | distance = 0.9567865297063781
+label = compiler | average = null | distance = 0.9575777443521366
+label = Programming_Language | average = null | distance = 0.9647733595426916
+------------------------------------------------------------------------
+
+input141의 원래 그룹 = Programming_Language
+------------------------------------------------------------------------
+avg list
+label = Programming_Language | average = 0.7818923943441715 | distance = null
+label = compiler | average = 0.9581862489491697 | distance = null
+label = os | average = 0.9603866209503069 | distance = null
+------------------------------------------------------------------------
+dis listlabel = Programming_Language | average = null | distance = 1.4140242026202024E-6
+label = Programming_Language | average = null | distance = 0.8590380459619835
+label = Programming_Language | average = null | distance = 0.8901452583803277
+label = Programming_Language | average = null | distance = 0.9074728790245155
+label = Programming_Language | average = null | distance = 0.9173248136675716
+label = Programming_Language | average = null | distance = 0.9448656048662353
+label = Programming_Language | average = null | distance = 0.9543987444843639
+label = compiler | average = null | distance = 0.9581705012740745
+label = compiler | average = null | distance = 0.9582019966242648
+label = os | average = null | distance = 0.9603866209503069
+------------------------------------------------------------------------
+
+input142의 원래 그룹 = Programming_Language
+------------------------------------------------------------------------
+avg list
+label = Programming_Language | average = 0.7914854547181587 | distance = null
+label = compiler | average = 0.9768689643604147 | distance = null
+------------------------------------------------------------------------
+dis listlabel = Programming_Language | average = null | distance = 2.013496093615919E-6
+label = Programming_Language | average = null | distance = 0.8871603388338335
+label = Programming_Language | average = null | distance = 0.9066652623903507
+label = Programming_Language | average = null | distance = 0.9103108509646047
+label = Programming_Language | average = null | distance = 0.9320195301519516
+label = Programming_Language | average = null | distance = 0.9320953696968882
+label = compiler | average = null | distance = 0.9698137043829583
+label = Programming_Language | average = null | distance = 0.9721448174933875
+label = compiler | average = null | distance = 0.980396594349143
+label = compiler | average = null | distance = 0.980396594349143
+------------------------------------------------------------------------
+

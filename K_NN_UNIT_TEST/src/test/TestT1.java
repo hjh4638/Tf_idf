@@ -1,8 +1,12 @@
 package test;
+import static org.junit.Assert.assertNotEquals;
+
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
 import java.sql.DriverManager;
@@ -15,13 +19,16 @@ import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.apache.ibatis.session.SqlSessionFactoryBuilder;
-import org.junit.*;
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Ignore;
+import org.junit.Test;
 
 import com.mysql.jdbc.Connection;
 
 import dto.ClientVector;
+import dto.KnnResult;
 import dto.TrainedVector;
-import static org.junit.Assert.*;
 public class TestT1 {
 
 	SqlSessionFactory sqlSessionFactory;
@@ -29,6 +36,7 @@ public class TestT1 {
 	String words[];
 	int input_dimension;
 	int vector_dimension;
+	
 	@Before
 	public void INIT() throws IOException {
 		//마이버티스 초기화
@@ -46,6 +54,7 @@ public class TestT1 {
 		assertNotEquals(sqlSessionFactory, null);
 		assertNotEquals(session, null);
 	}
+	
 	//mybatis 연결 테스트
 	@Test
 	public void mybatisInitTest() throws IOException{
@@ -93,7 +102,7 @@ public class TestT1 {
 		session.commit();
 	}
 	@Test
-	//@Ignore
+	@Ignore
 	public void insertRandomTf() throws IOException{
 		ClientVector in2 = new ClientVector();
 		String str[] = getRandomWord();
@@ -106,6 +115,7 @@ public class TestT1 {
 		session.commit();
 	}
 	@Test
+	@Ignore
 	public void insertRandomTrained() throws IOException{
 		TrainedVector in1 = new TrainedVector();
 		String str[] = getRandomWord();
@@ -149,6 +159,156 @@ public class TestT1 {
 		}
 		return str;
 	}
+	@Test
+	@Ignore
+	public void getLineFileAndInsert() throws IOException{
+		File f1 = new File("tf_idf_group/vector.txt");
+		
+		FileReader r = new FileReader(f1);
+		BufferedReader br = new BufferedReader(r);
+		
+		int p_size = 6;
+		String line =null;
+		String str[] = new String[10];
+		TrainedVector vec = new TrainedVector();
+		while((line = br.readLine()) !=null){
+			str = line.split("/ /");
+			vec.Set(str[0], str[2], str[1], Double.parseDouble(str[3]), Double.parseDouble(str[4]), Double.parseDouble(str[5]), Double.parseDouble(str[6]), null);
+			session.insert("test.insert1", vec);
+		}
+		session.commit();
+		br.close();
+	}
+	@Test
+	@Ignore
+	public void getID(){
+		Integer id = session.selectOne("test.getClientSeq");
+		Integer in = session.selectOne("test.sel1");
+		List<TrainedVector> a = session.selectList("test.sel3");
+		a.get(0).toString();
+		System.out.println(id);
+		System.out.println(in);
+	}
+	@Test
+	@Ignore
+	public void getLineFileAndInsertInput() throws IOException{
+		session.delete("test.reset2");
+		session.commit();
+		
+		Integer id = session.selectOne("test.getClientSeq");
+		
+		
+		File f1 = new File("input/input0.txt");
+	
+		FileReader r = new FileReader(f1);
+		BufferedReader br = new BufferedReader(r);
+		ClientVector in2 = new ClientVector();
+		
+		String label = new String();
+		int p_size = 6;
+		String line =null;
+		String str[] = new String[10];
+		TrainedVector vec = new TrainedVector();
+		
+		
+		while((line = br.readLine()) !=null){
+			str = line.split("/ /");
+			label = str[1];
+			try{
+				in2.Set(id, str[0], str[2], Double.parseDouble(str[3]), null);
+			}
+			catch(NumberFormatException e){
+				System.out.println(str);
+			}
+			session.insert("test.insert2", in2);
+		}
+		session.commit();
+		
+		int num = 0;
+		FileWriter fw = new FileWriter("output/output"+num+".txt", true);
+		BufferedWriter bw = new BufferedWriter(fw);
+		System.out.println("input의 원래 그룹 = " +label);
+		System.out.println("------------------------------------------------------------------------");
+		System.out.println("avg list");
+		List<KnnResult> avg = session.selectList("test.getKnnAvg", id);
+		String test =avg.toString();
+		System.out.println("------------------------------------------------------------------------");
+		System.out.println("dis list");
+		List<KnnResult> dis = session.selectList("test.getKnnDistance", id);
+		dis.toString();
+		System.out.println("------------------------------------------------------------------------");
+		System.out.println();
+	
+		br.close();
+	}
+	@Test
+	public void getOutput() throws IOException{
+		int num = 0;
+		FileWriter fw = new FileWriter("output/output.txt", true);
+		BufferedWriter bw = new BufferedWriter(fw);
+		
+		for(int ou =0 ;ou<143;ou++){
+			session.delete("test.reset2");
+			session.commit();
+			
+			Integer id = session.selectOne("test.getClientSeq");
+			
+			
+			File f1 = new File("input/input"+num+".txt");
+		
+			FileReader r = new FileReader(f1);
+			BufferedReader br = new BufferedReader(r);
+			ClientVector in2 = new ClientVector();
+			
+			String label = new String();
+			int p_size = 6;
+			String line =null;
+			String str[] = new String[10];
+			TrainedVector vec = new TrainedVector();
+			
+			
+			while((line = br.readLine()) !=null){
+				str = line.split("/ /");
+				label = str[1];
+				try{
+					in2.Set(id, str[0], str[2], Double.parseDouble(str[3]), null);
+				}
+				catch(NumberFormatException e){
+					System.out.println(str);
+				}
+				session.insert("test.insert2", in2);
+			}
+			session.commit();
+			
+		
+			bw.write("input"+num+"의 원래 그룹 = " +label); bw.newLine();
+			bw.write("------------------------------------------------------------------------"); 
+			bw.newLine();
+			bw.write("avg list"); bw.newLine();
+			List<KnnResult> avg = session.selectList("test.getKnnAvg", id);
+			for(int i=0;i<avg.size();i++){
+				bw.write("label = "+avg.get(i).getLabel() + " | "+"average = "+avg.get(i).getAverage() + " | "+"distance = "+avg.get(i).getDistance());
+				bw.newLine();
+			}
+			bw.write("------------------------------------------------------------------------"); 
+			bw.newLine();
+			bw.write("dis list");
+			bw.newLine();
+			List<KnnResult> dis = session.selectList("test.getKnnDistance", id);
+			for(int i=0;i<dis.size();i++){
+				bw.write("label = "+dis.get(i).getLabel() + " | "+"average = "+dis.get(i).getAverage() + " | "+"distance = "+dis.get(i).getDistance());
+				bw.newLine();
+			}
+			bw.write("------------------------------------------------------------------------"); 
+			bw.newLine();
+			bw.newLine();
+			bw.flush();
+			br.close();
+			
+			num++;
+		}
+	}
+	
 	
 	//@After
 	public void resetDB(){

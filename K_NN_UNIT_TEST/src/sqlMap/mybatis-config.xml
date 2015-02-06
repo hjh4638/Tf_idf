@@ -6,6 +6,7 @@
 	<typeAliases>
 		  <typeAlias type="dto.ClientVector" alias="ClientVector"/>
 		  <typeAlias type="dto.TrainedVector" alias="TrainedVector"/>
+		  <typeAlias type="dto.KnnResult" alias="KnnResult"/>
 	</typeAliases>
 	
   <environments default="development">

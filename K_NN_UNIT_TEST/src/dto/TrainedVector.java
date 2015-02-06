@@ -73,5 +73,18 @@ public class TrainedVector {
 	public void setSeq(Integer seq) {
 		this.seq = seq;
 	}
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		System.out.println("file_name = " + this.file_name);
+		System.out.println("keyword = " + this.keyword);
+		System.out.println("label = " + this.label);
+		System.out.println("tf = " + this.tf);
+		System.out.println("df = " + this.df);
+		System.out.println("idf = " + this.idf);
+		System.out.println("tf_idf = " + this.tf_idf);
+		System.out.println("---------------------------");
+		return super.toString();
+	}
 	
 }
