@@ -1,360 +1,142 @@
-conscioushb.pdf.txt/ /AI/ /conscious/ /125/ /9/ /1.15836/ /0.687762
-conscioushb.pdf.txt/ /AI/ /dennett/ /41/ /3/ /1.5563/ /0.303083
-conscioushb.pdf.txt/ /AI/ /self-model/ /28/ /2/ /1.68124/ /0.2236
-conscioushb.pdf.txt/ /AI/ /computationalist/ /20/ /1/ /1.85733/ /0.176443
-conscioushb.pdf.txt/ /AI/ /searl/ /26/ /5/ /1.38021/ /0.170452
-conscioushb.pdf.txt/ /AI/ /robot/ /55/ /36/ /0.590161/ /0.154176
-conscioushb.pdf.txt/ /AI/ /ai/ /57/ /41/ /0.535113/ /0.144879
-conscioushb.pdf.txt/ /AI/ /zombi/ /21/ /5/ /1.38021/ /0.137673
-conscioushb.pdf.txt/ /AI/ /brain/ /39/ /33/ /0.626884/ /0.116128
-conscioushb.pdf.txt/ /AI/ /sloman/ /16/ /5/ /1.38021/ /0.104894
-conscioushb.pdf.txt/ /AI/ /minski/ /18/ /8/ /1.20412/ /0.10295
-conscioushb.pdf.txt/ /AI/ /mccarthi/ /23/ /16/ /0.927914/ /0.101372
-conscioushb.pdf.txt/ /AI/ /per/ /16/ /6/ /1.31326/ /0.0998058
-conscioushb.pdf.txt/ /AI/ /qualia/ /12/ /3/ /1.5563/ /0.0887072
-conscioushb.pdf.txt/ /AI/ /harnad/ /10/ /1/ /1.85733/ /0.0882213
-conscioushb.pdf.txt/ /AI/ /intent/ /45/ /55/ /0.410174/ /0.0876728
-conscioushb.pdf.txt/ /AI/ /connectionist/ /10/ /3/ /1.5563/ /0.0739227
-conscioushb.pdf.txt/ /AI/ /moodi/ /9/ /2/ /1.68124/ /0.0718714
-conscioushb.pdf.txt/ /AI/ /intellig/ /28/ /47/ /0.477121/ /0.0634557
-conscioushb.pdf.txt/ /AI/ /mcdermott/ /10/ /6/ /1.31326/ /0.0623786
-conscioushb.pdf.txt/ /AI/ /mind/ /44/ /73/ /0.289131/ /0.060427
-conscioushb.pdf.txt/ /AI/ /hofstadt/ /9/ /5/ /1.38021/ /0.0590027
-conscioushb.pdf.txt/ /AI/ /cat/ /16/ /26/ /0.726999/ /0.0552506
-conscioushb.pdf.txt/ /AI/ /sensat/ /9/ /7/ /1.25527/ /0.0536617
-conscioushb.pdf.txt/ /AI/ /theater/ /9/ /7/ /1.25527/ /0.0536617
-conscioushb.pdf.txt/ /AI/ /symbol/ /45/ /80/ /0.249877/ /0.0534101
-conscioushb.pdf.txt/ /AI/ /tuner/ /6/ /1/ /1.85733/ /0.0529328
-conscioushb.pdf.txt/ /AI/ /chess/ /14/ /23/ /0.778151/ /0.0517459
-conscioushb.pdf.txt/ /AI/ /belief/ /14/ /23/ /0.778151/ /0.0517459
-conscioushb.pdf.txt/ /AI/ /qual/ /7/ /3/ /1.5563/ /0.0517459
-conscioushb.pdf.txt/ /AI/ /philosoph/ /13/ /20/ /0.836143/ /0.0516307
-conscioushb.pdf.txt/ /AI/ /tp/ /12/ /17/ /0.90309/ /0.051475
-conscioushb.pdf.txt/ /AI/ /theori/ /42/ /79/ /0.255273/ /0.0509257
-conscioushb.pdf.txt/ /AI/ /taco/ /6/ /2/ /1.68124/ /0.0479143
-conscioushb.pdf.txt/ /AI/ /self/ /23/ /52/ /0.434087/ /0.0474229
-conscioushb.pdf.txt/ /AI/ /smith/ /19/ /42/ /0.524894/ /0.0473706
-conscioushb.pdf.txt/ /AI/ /press/ /29/ /65/ /0.338819/ /0.0466712
-conscioushb.pdf.txt/ /AI/ /stori/ /19/ /43/ /0.51491/ /0.0464696
-conscioushb.pdf.txt/ /AI/ /geologist/ /6/ /3/ /1.5563/ /0.0443536
-conscioushb.pdf.txt/ /AI/ /self-consci/ /5/ /1/ /1.85733/ /0.0441106
-conscioushb.pdf.txt/ /AI/ /chrisley/ /5/ /1/ /1.85733/ /0.0441106
-conscioushb.pdf.txt/ /AI/ /kitchen/ /8/ /9/ /1.15836/ /0.0440168
-conscioushb.pdf.txt/ /AI/ /introspect/ /7/ /6/ /1.31326/ /0.043665
-conscioushb.pdf.txt/ /AI/ /someon/ /17/ /43/ /0.51491/ /0.041578
-conscioushb.pdf.txt/ /AI/ /simul/ /27/ /68/ /0.319513/ /0.0409767
-conscioushb.pdf.txt/ /AI/ /neuron/ /9/ /15/ /0.954243/ /0.0407929
-conscioushb.pdf.txt/ /AI/ /hypothesi/ /10/ /19/ /0.857332/ /0.0407224
-conscioushb.pdf.txt/ /AI/ /tenni/ /7/ /8/ /1.20412/ /0.0400361
-conscioushb.pdf.txt/ /AI/ /fodor/ /5/ /2/ /1.68124/ /0.0399286
-conscioushb.pdf.txt/ /AI/ /meme/ /5/ /2/ /1.68124/ /0.0399286
-conscioushb.pdf.txt/ /AI/ /spici/ /5/ /2/ /1.68124/ /0.0399286
-conscioushb.pdf.txt/ /AI/ /umbrella/ /6/ /5/ /1.38021/ /0.0393351
-conscioushb.pdf.txt/ /AI/ /cambridg/ /15/ /41/ /0.535113/ /0.0381259
-conscioushb.pdf.txt/ /AI/ /anthil/ /4/ /1/ /1.85733/ /0.0352885
-conscioushb.pdf.txt/ /AI/ /behaviorist/ /5/ /4/ /1.45939/ /0.0346598
-conscioushb.pdf.txt/ /AI/ /oxford/ /10/ /26/ /0.726999/ /0.0345317
-conscioushb.pdf.txt/ /AI/ /critic/ /10/ /26/ /0.726999/ /0.0345317
-conscioushb.pdf.txt/ /AI/ /ture/ /17/ /53/ /0.425969/ /0.0343962
-conscioushb.pdf.txt/ /AI/ /chessboard/ /5/ /5/ /1.38021/ /0.0327793
-conscioushb.pdf.txt/ /AI/ /scheutz/ /4/ /2/ /1.68124/ /0.0319429
-conscioushb.pdf.txt/ /AI/ /baar/ /4/ /2/ /1.68124/ /0.0319429
-conscioushb.pdf.txt/ /AI/ /oneself/ /6/ /10/ /1.11697/ /0.0318329
-conscioushb.pdf.txt/ /AI/ /creatur/ /6/ /10/ /1.11697/ /0.0318329
-conscioushb.pdf.txt/ /AI/ /cartesian/ /6/ /10/ /1.11697/ /0.0318329
-conscioushb.pdf.txt/ /AI/ /thought/ /14/ /50/ /0.450792/ /0.029977
-conscioushb.pdf.txt/ /AI/ /journalist/ /4/ /3/ /1.5563/ /0.0295691
-conscioushb.pdf.txt/ /AI/ /churchland/ /4/ /3/ /1.5563/ /0.0295691
-conscioushb.pdf.txt/ /AI/ /experi/ /34/ /94/ /0.180639/ /0.0291725
-conscioushb.pdf.txt/ /AI/ /mit/ /13/ /48/ /0.468166/ /0.0289086
-conscioushb.pdf.txt/ /AI/ /hypothes/ /5/ /8/ /1.20412/ /0.0285972
-conscioushb.pdf.txt/ /AI/ /thing/ /44/ /105/ /0.133057/ /0.0278082
-conscioushb.pdf.txt/ /AI/ /abil/ /26/ /86/ /0.218843/ /0.0270265
-conscioushb.pdf.txt/ /AI/ /agent/ /10/ /38/ /0.567298/ /0.026946
-conscioushb.pdf.txt/ /AI/ /person/ /20/ /74/ /0.283301/ /0.026913
-conscioushb.pdf.txt/ /AI/ /research/ /33/ /96/ /0.171591/ /0.0268962
-conscioushb.pdf.txt/ /AI/ /question/ /45/ /107/ /0.124939/ /0.0267051
-conscioushb.pdf.txt/ /AI/ /peopl/ /28/ /90/ /0.199321/ /0.0265091
-conscioushb.pdf.txt/ /AI/ /prong/ /3/ /1/ /1.85733/ /0.0264664
-conscioushb.pdf.txt/ /AI/ /clancey/ /3/ /1/ /1.85733/ /0.0264664
-conscioushb.pdf.txt/ /AI/ /libet/ /3/ /1/ /1.85733/ /0.0264664
-conscioushb.pdf.txt/ /AI/ /glacier/ /3/ /1/ /1.85733/ /0.0264664
-conscioushb.pdf.txt/ /AI/ /lifeboat/ /3/ /1/ /1.85733/ /0.0264664
-conscioushb.pdf.txt/ /AI/ /rock/ /6/ /16/ /0.927914/ /0.0264449
-conscioushb.pdf.txt/ /AI/ /propos/ /9/ /34/ /0.614294/ /0.0262605
-conscioushb.pdf.txt/ /AI/ /moravec/ /4/ /5/ /1.38021/ /0.0262234
-conscioushb.pdf.txt/ /AI/ /rumelhart/ /4/ /5/ /1.38021/ /0.0262234
-conscioushb.pdf.txt/ /AI/ /claim/ /11/ /45/ /0.495605/ /0.0258948
-conscioushb.pdf.txt/ /AI/ /stanc/ /7/ /23/ /0.778151/ /0.0258729
-conscioushb.pdf.txt/ /AI/ /model/ /79/ /122/ /0.0684574/ /0.025688
-conscioushb.pdf.txt/ /AI/ /york/ /15/ /62/ /0.359022/ /0.0255797
-conscioushb.pdf.txt/ /AI/ /pawn/ /4/ /6/ /1.31326/ /0.0249515
-conscioushb.pdf.txt/ /AI/ /ontolog/ /4/ /6/ /1.31326/ /0.0249515
-conscioushb.pdf.txt/ /AI/ /penros/ /4/ /6/ /1.31326/ /0.0249515
-conscioushb.pdf.txt/ /AI/ /someth/ /29/ /94/ /0.180639/ /0.0248824
-conscioushb.pdf.txt/ /AI/ /idea/ /38/ /104/ /0.137173/ /0.0247592
-conscioushb.pdf.txt/ /AI/ /cognit/ /6/ /19/ /0.857332/ /0.0244334
-conscioushb.pdf.txt/ /AI/ /judg/ /5/ /13/ /1.01223/ /0.02404
-conscioushb.pdf.txt/ /AI/ /said/ /3/ /2/ /1.68124/ /0.0239571
-conscioushb.pdf.txt/ /AI/ /nagel/ /3/ /2/ /1.68124/ /0.0239571
-conscioushb.pdf.txt/ /AI/ /first-person/ /3/ /2/ /1.68124/ /0.0239571
-conscioushb.pdf.txt/ /AI/ /hurrican/ /3/ /2/ /1.68124/ /0.0239571
-conscioushb.pdf.txt/ /AI/ /groceri/ /4/ /7/ /1.25527/ /0.0238496
-conscioushb.pdf.txt/ /AI/ /information-process/ /4/ /7/ /1.25527/ /0.0238496
-conscioushb.pdf.txt/ /AI/ /net/ /10/ /45/ /0.495605/ /0.0235407
-conscioushb.pdf.txt/ /AI/ /episod/ /4/ /8/ /1.20412/ /0.0228778
-conscioushb.pdf.txt/ /AI/ /air/ /8/ /36/ /0.590161/ /0.0224256
-conscioushb.pdf.txt/ /AI/ /boddi/ /3/ /3/ /1.5563/ /0.0221768
-conscioushb.pdf.txt/ /AI/ /furnac/ /3/ /3/ /1.5563/ /0.0221768
-conscioushb.pdf.txt/ /AI/ /fellow/ /5/ /16/ /0.927914/ /0.0220374
-conscioushb.pdf.txt/ /AI/ /wilk/ /4/ /9/ /1.15836/ /0.0220084
-conscioushb.pdf.txt/ /AI/ /argument/ /22/ /88/ /0.208972/ /0.0218371
-conscioushb.pdf.txt/ /AI/ /wind/ /5/ /17/ /0.90309/ /0.0214479
-conscioushb.pdf.txt/ /AI/ /notion/ /13/ /64/ /0.345449/ /0.021331
-conscioushb.pdf.txt/ /AI/ /impuls/ /4/ /10/ /1.11697/ /0.0212219
-conscioushb.pdf.txt/ /AI/ /sens/ /26/ /96/ /0.171591/ /0.021191
-conscioushb.pdf.txt/ /AI/ /veloc/ /6/ /25/ /0.743389/ /0.0211861
-conscioushb.pdf.txt/ /AI/ /minor/ /5/ /18/ /0.879609/ /0.0208902
-conscioushb.pdf.txt/ /AI/ /transduc/ /3/ /4/ /1.45939/ /0.0207959
-conscioushb.pdf.txt/ /AI/ /sentenc/ /8/ /40/ /0.545579/ /0.0207315
-conscioushb.pdf.txt/ /AI/ /evid/ /6/ /26/ /0.726999/ /0.020719
-conscioushb.pdf.txt/ /AI/ /te/ /5/ /19/ /0.857332/ /0.0203612
-conscioushb.pdf.txt/ /AI/ /attack/ /6/ /27/ /0.711204/ /0.0202689
-conscioushb.pdf.txt/ /AI/ /explan/ /11/ /58/ /0.38751/ /0.020247
-conscioushb.pdf.txt/ /AI/ /analogu/ /4/ /12/ /1.04442/ /0.0198435
-conscioushb.pdf.txt/ /AI/ /chalmer/ /3/ /5/ /1.38021/ /0.0196676
-conscioushb.pdf.txt/ /AI/ /paper/ /20/ /89/ /0.20412/ /0.019391
-conscioushb.pdf.txt/ /AI/ /observ/ /12/ /65/ /0.338819/ /0.0193122
-conscioushb.pdf.txt/ /AI/ /everyon/ /8/ /44/ /0.50515/ /0.0191953
-conscioushb.pdf.txt/ /AI/ /comput/ /162/ /135/ /0.0248236/ /0.0191013
-conscioushb.pdf.txt/ /AI/ /winograd/ /3/ /6/ /1.31326/ /0.0187136
-conscioushb.pdf.txt/ /AI/ /lemon/ /3/ /6/ /1.31326/ /0.0187136
-conscioushb.pdf.txt/ /AI/ /lion/ /4/ /14/ /0.982271/ /0.0186627
-conscioushb.pdf.txt/ /AI/ /percept/ /6/ /31/ /0.653212/ /0.0186161
-conscioushb.pdf.txt/ /AI/ /event/ /15/ /78/ /0.260735/ /0.018577
-conscioushb.pdf.txt/ /AI/ /encod/ /8/ /46/ /0.486265/ /0.0184776
-conscioushb.pdf.txt/ /AI/ /philosophi/ /7/ /40/ /0.545579/ /0.0181401
-conscioushb.pdf.txt/ /AI/ /critiqu/ /4/ /15/ /0.954243/ /0.0181302
-conscioushb.pdf.txt/ /AI/ /will/ /5/ /24/ /0.760423/ /0.0180596
-conscioushb.pdf.txt/ /AI/ /jackson/ /3/ /7/ /1.25527/ /0.0178872
-conscioushb.pdf.txt/ /AI/ /intrus/ /3/ /7/ /1.25527/ /0.0178872
-conscioushb.pdf.txt/ /AI/ /matchup/ /2/ /1/ /1.85733/ /0.0176443
-conscioushb.pdf.txt/ /AI/ /staunton/ /2/ /1/ /1.85733/ /0.0176443
-conscioushb.pdf.txt/ /AI/ /roboticist/ /2/ /1/ /1.85733/ /0.0176443
-conscioushb.pdf.txt/ /AI/ /eau/ /2/ /1/ /1.85733/ /0.0176443
-conscioushb.pdf.txt/ /AI/ /observer-rel/ /2/ /1/ /1.85733/ /0.0176443
-conscioushb.pdf.txt/ /AI/ /mehler/ /2/ /1/ /1.85733/ /0.0176443
-conscioushb.pdf.txt/ /AI/ /dretsk/ /2/ /1/ /1.85733/ /0.0176443
-conscioushb.pdf.txt/ /AI/ /eurotax/ /2/ /1/ /1.85733/ /0.0176443
-conscioushb.pdf.txt/ /AI/ /turbotax/ /2/ /1/ /1.85733/ /0.0176443
-conscioushb.pdf.txt/ /AI/ /dawkin/ /2/ /1/ /1.85733/ /0.0176443
-conscioushb.pdf.txt/ /AI/ /inevit/ /2/ /1/ /1.85733/ /0.0176443
-conscioushb.pdf.txt/ /AI/ /occupi/ /2/ /1/ /1.85733/ /0.0176443
-conscioushb.pdf.txt/ /AI/ /ecuador/ /2/ /1/ /1.85733/ /0.0176443
-conscioushb.pdf.txt/ /AI/ /psycholog/ /4/ /16/ /0.927914/ /0.01763
-conscioushb.pdf.txt/ /AI/ /pressur/ /6/ /34/ /0.614294/ /0.017507
-conscioushb.pdf.txt/ /AI/ /appear/ /7/ /42/ /0.524894/ /0.0174523
-conscioushb.pdf.txt/ /AI/ /subject/ /11/ /66/ /0.332288/ /0.0173616
-conscioushb.pdf.txt/ /AI/ /player/ /6/ /35/ /0.60206/ /0.0171583
-conscioushb.pdf.txt/ /AI/ /realm/ /4/ /18/ /0.879609/ /0.0167122
-conscioushb.pdf.txt/ /AI/ /object/ /46/ /120/ /0.0755771/ /0.0165132
-conscioushb.pdf.txt/ /AI/ /psychologist/ /3/ /9/ /1.15836/ /0.0165063
-conscioushb.pdf.txt/ /AI/ /phrase/ /8/ /52/ /0.434087/ /0.0164949
-conscioushb.pdf.txt/ /AI/ /skill/ /7/ /45/ /0.495605/ /0.0164785
-conscioushb.pdf.txt/ /AI/ /anyth/ /13/ /78/ /0.260735/ /0.0161
-conscioushb.pdf.txt/ /AI/ /qualiti/ /10/ /65/ /0.338819/ /0.0160935
-conscioushb.pdf.txt/ /AI/ /concept/ /28/ /108/ /0.120936/ /0.0160841
-conscioushb.pdf.txt/ /AI/ /brentano/ /2/ /2/ /1.68124/ /0.0159714
-conscioushb.pdf.txt/ /AI/ /johnson-laird/ /2/ /2/ /1.68124/ /0.0159714
-conscioushb.pdf.txt/ /AI/ /kirk/ /2/ /2/ /1.68124/ /0.0159714
-conscioushb.pdf.txt/ /AI/ /condition/ /2/ /2/ /1.68124/ /0.0159714
-conscioushb.pdf.txt/ /AI/ /neural-net/ /2/ /2/ /1.68124/ /0.0159714
-conscioushb.pdf.txt/ /AI/ /jeann/ /2/ /2/ /1.68124/ /0.0159714
-conscioushb.pdf.txt/ /AI/ /theolog/ /2/ /2/ /1.68124/ /0.0159714
-conscioushb.pdf.txt/ /AI/ /innard/ /2/ /2/ /1.68124/ /0.0159714
-conscioushb.pdf.txt/ /AI/ /accus/ /2/ /2/ /1.68124/ /0.0159714
-conscioushb.pdf.txt/ /AI/ /saunder/ /2/ /2/ /1.68124/ /0.0159714
-conscioushb.pdf.txt/ /AI/ /semant/ /9/ /60/ /0.373033/ /0.0159468
-conscioushb.pdf.txt/ /AI/ /davidson/ /3/ /10/ /1.11697/ /0.0159165
-conscioushb.pdf.txt/ /AI/ /noth/ /16/ /88/ /0.208972/ /0.0158815
-conscioushb.pdf.txt/ /AI/ /chanc/ /8/ /55/ /0.410174/ /0.0155863
-conscioushb.pdf.txt/ /AI/ /mean/ /28/ /109/ /0.11697/ /0.0155566
-conscioushb.pdf.txt/ /AI/ /decemb/ /5/ /31/ /0.653212/ /0.0155134
-conscioushb.pdf.txt/ /AI/ /piec/ /16/ /89/ /0.20412/ /0.0155128
-conscioushb.pdf.txt/ /AI/ /tent/ /3/ /11/ /1.07918/ /0.015378
-conscioushb.pdf.txt/ /AI/ /convers/ /12/ /78/ /0.260735/ /0.0148616
-conscioushb.pdf.txt/ /AI/ /answer/ /16/ /91/ /0.194575/ /0.0147873
-conscioushb.pdf.txt/ /AI/ /chasm/ /2/ /3/ /1.5563/ /0.0147845
-conscioushb.pdf.txt/ /AI/ /epam/ /2/ /3/ /1.5563/ /0.0147845
-conscioushb.pdf.txt/ /AI/ /opi/ /2/ /3/ /1.5563/ /0.0147845
-conscioushb.pdf.txt/ /AI/ /hayes-roth/ /2/ /3/ /1.5563/ /0.0147845
-conscioushb.pdf.txt/ /AI/ /pinker/ /2/ /3/ /1.5563/ /0.0147845
-conscioushb.pdf.txt/ /AI/ /pylyshyn/ /2/ /3/ /1.5563/ /0.0147845
-conscioushb.pdf.txt/ /AI/ /self-awar/ /2/ /3/ /1.5563/ /0.0147845
-conscioushb.pdf.txt/ /AI/ /homunculus/ /2/ /3/ /1.5563/ /0.0147845
-conscioushb.pdf.txt/ /AI/ /jayn/ /2/ /3/ /1.5563/ /0.0147845
-conscioushb.pdf.txt/ /AI/ /waterloo/ /2/ /3/ /1.5563/ /0.0147845
-conscioushb.pdf.txt/ /AI/ /entiti/ /12/ /79/ /0.255273/ /0.0145502
-conscioushb.pdf.txt/ /AI/ /metaphor/ /4/ /24/ /0.760423/ /0.0144477
-conscioushb.pdf.txt/ /AI/ /new/ /16/ /92/ /0.18988/ /0.0144305
-conscioushb.pdf.txt/ /AI/ /modul/ /12/ /80/ /0.249877/ /0.0142427
-conscioushb.pdf.txt/ /AI/ /attent/ /8/ /60/ /0.373033/ /0.0141749
-conscioushb.pdf.txt/ /AI/ /ground/ /7/ /53/ /0.425969/ /0.0141631
-conscioushb.pdf.txt/ /AI/ /doesn/ /6/ /45/ /0.495605/ /0.0141244
-conscioushb.pdf.txt/ /AI/ /spite/ /4/ /25/ /0.743389/ /0.0141241
-conscioushb.pdf.txt/ /AI/ /opinion/ /5/ /36/ /0.590161/ /0.014016
-conscioushb.pdf.txt/ /AI/ /hous/ /5/ /36/ /0.590161/ /0.014016
-conscioushb.pdf.txt/ /AI/ /state/ /48/ /124/ /0.0614525/ /0.0140108
-conscioushb.pdf.txt/ /AI/ /awar/ /3/ /14/ /0.982271/ /0.013997
-conscioushb.pdf.txt/ /AI/ /distort/ /3/ /14/ /0.982271/ /0.013997
-conscioushb.pdf.txt/ /AI/ /book/ /14/ /88/ /0.208972/ /0.0138964
-conscioushb.pdf.txt/ /AI/ /languag/ /25/ /109/ /0.11697/ /0.0138898
-conscioushb.pdf.txt/ /AI/ /membran/ /2/ /4/ /1.45939/ /0.0138639
-conscioushb.pdf.txt/ /AI/ /connection/ /2/ /4/ /1.45939/ /0.0138639
-conscioushb.pdf.txt/ /AI/ /haugeland/ /2/ /4/ /1.45939/ /0.0138639
-conscioushb.pdf.txt/ /AI/ /cantwel/ /2/ /4/ /1.45939/ /0.0138639
-conscioushb.pdf.txt/ /AI/ /meltzer/ /2/ /4/ /1.45939/ /0.0138639
-conscioushb.pdf.txt/ /AI/ /geolog/ /2/ /4/ /1.45939/ /0.0138639
-conscioushb.pdf.txt/ /AI/ /genc/ /2/ /4/ /1.45939/ /0.0138639
-conscioushb.pdf.txt/ /AI/ /skeptic/ /2/ /4/ /1.45939/ /0.0138639
-conscioushb.pdf.txt/ /AI/ /wittgenstein/ /2/ /4/ /1.45939/ /0.0138639
-conscioushb.pdf.txt/ /AI/ /theorist/ /3/ /15/ /0.954243/ /0.0135976
-conscioushb.pdf.txt/ /AI/ /dean/ /3/ /15/ /0.954243/ /0.0135976
-conscioushb.pdf.txt/ /AI/ /wouldn/ /3/ /15/ /0.954243/ /0.0135976
-conscioushb.pdf.txt/ /AI/ /pattern/ /14/ /89/ /0.20412/ /0.0135737
-conscioushb.pdf.txt/ /AI/ /feel/ /5/ /38/ /0.567298/ /0.013473
-conscioushb.pdf.txt/ /AI/ /conclus/ /7/ /56/ /0.402488/ /0.0133824
-conscioushb.pdf.txt/ /AI/ /ital/ /4/ /28/ /0.695964/ /0.013223
-conscioushb.pdf.txt/ /AI/ /icon/ /4/ /28/ /0.695964/ /0.013223
-conscioushb.pdf.txt/ /AI/ /ant/ /3/ /16/ /0.927914/ /0.0132225
-conscioushb.pdf.txt/ /AI/ /kind/ /19/ /102/ /0.145525/ /0.0131334
-conscioushb.pdf.txt/ /AI/ /pronoun/ /2/ /5/ /1.38021/ /0.0131117
-conscioushb.pdf.txt/ /AI/ /reluct/ /2/ /5/ /1.38021/ /0.0131117
-conscioushb.pdf.txt/ /AI/ /rey/ /2/ /5/ /1.38021/ /0.0131117
-conscioushb.pdf.txt/ /AI/ /intelli/ /2/ /5/ /1.38021/ /0.0131117
-conscioushb.pdf.txt/ /AI/ /about/ /2/ /5/ /1.38021/ /0.0131117
-conscioushb.pdf.txt/ /AI/ /michi/ /2/ /5/ /1.38021/ /0.0131117
-conscioushb.pdf.txt/ /AI/ /reflect/ /5/ /40/ /0.545579/ /0.0129572
-conscioushb.pdf.txt/ /AI/ /retriev/ /5/ /40/ /0.545579/ /0.0129572
-conscioushb.pdf.txt/ /AI/ /way/ /71/ /131/ /0.0377886/ /0.0127439
-conscioushb.pdf.txt/ /AI/ /human/ /7/ /59/ /0.380211/ /0.0126417
-conscioushb.pdf.txt/ /AI/ /brien/ /2/ /6/ /1.31326/ /0.0124757
-conscioushb.pdf.txt/ /AI/ /machineri/ /4/ /31/ /0.653212/ /0.0124108
-conscioushb.pdf.txt/ /AI/ /world/ /19/ /104/ /0.137173/ /0.0123796
-conscioushb.pdf.txt/ /AI/ /topic/ /11/ /83/ /0.234083/ /0.0122306
-conscioushb.pdf.txt/ /AI/ /view/ /22/ /109/ /0.11697/ /0.0122231
-conscioushb.pdf.txt/ /AI/ /sensor/ /4/ /32/ /0.639849/ /0.0121568
-conscioushb.pdf.txt/ /AI/ /tate/ /2/ /7/ /1.25527/ /0.0119248
-conscioushb.pdf.txt/ /AI/ /plausibl/ /2/ /7/ /1.25527/ /0.0119248
-conscioushb.pdf.txt/ /AI/ /kurzweil/ /2/ /7/ /1.25527/ /0.0119248
-conscioushb.pdf.txt/ /AI/ /affair/ /2/ /7/ /1.25527/ /0.0119248
-conscioushb.pdf.txt/ /AI/ /budget/ /3/ /20/ /0.836143/ /0.0119148
-conscioushb.pdf.txt/ /AI/ /phenomenon/ /4/ /33/ /0.626884/ /0.0119105
-conscioushb.pdf.txt/ /AI/ /lot/ /10/ /80/ /0.249877/ /0.0118689
-conscioushb.pdf.txt/ /AI/ /motion/ /5/ /45/ /0.495605/ /0.0117703
-conscioushb.pdf.txt/ /AI/ /scienc/ /16/ /100/ /0.154041/ /0.0117069
-conscioushb.pdf.txt/ /AI/ /test/ /21/ /109/ /0.11697/ /0.0116675
-conscioushb.pdf.txt/ /AI/ /section/ /24/ /113/ /0.101458/ /0.0115659
-conscioushb.pdf.txt/ /AI/ /cipher/ /2/ /8/ /1.20412/ /0.0114389
-conscioushb.pdf.txt/ /AI/ /room/ /8/ /71/ /0.30103/ /0.0114389
-conscioushb.pdf.txt/ /AI/ /todd/ /2/ /8/ /1.20412/ /0.0114389
-conscioushb.pdf.txt/ /AI/ /red/ /4/ /35/ /0.60206/ /0.0114389
-conscioushb.pdf.txt/ /AI/ /surround/ /2/ /8/ /1.20412/ /0.0114389
-conscioushb.pdf.txt/ /AI/ /one/ /16/ /101/ /0.149762/ /0.0113817
-conscioushb.pdf.txt/ /AI/ /incom/ /3/ /22/ /0.796635/ /0.0113518
-conscioushb.pdf.txt/ /AI/ /connect/ /13/ /94/ /0.180639/ /0.0111542
-conscioushb.pdf.txt/ /AI/ /shop/ /3/ /23/ /0.778151/ /0.0110884
-conscioushb.pdf.txt/ /AI/ /magazin/ /3/ /23/ /0.778151/ /0.0110884
-conscioushb.pdf.txt/ /AI/ /posit/ /16/ /102/ /0.145525/ /0.0110597
-conscioushb.pdf.txt/ /AI/ /apparatus/ /2/ /9/ /1.15836/ /0.0110042
-conscioushb.pdf.txt/ /AI/ /ether/ /2/ /9/ /1.15836/ /0.0110042
-conscioushb.pdf.txt/ /AI/ /blackboard/ /2/ /9/ /1.15836/ /0.0110042
-conscioushb.pdf.txt/ /AI/ /anim/ /5/ /49/ /0.459393/ /0.0109103
-conscioushb.pdf.txt/ /AI/ /role/ /11/ /89/ /0.20412/ /0.010665
-conscioushb.pdf.txt/ /AI/ /organ/ /10/ /85/ /0.223864/ /0.0106333
-conscioushb.pdf.txt/ /AI/ /newman/ /2/ /10/ /1.11697/ /0.010611
-conscioushb.pdf.txt/ /AI/ /curri/ /2/ /10/ /1.11697/ /0.010611
-conscioushb.pdf.txt/ /AI/ /cart/ /2/ /10/ /1.11697/ /0.010611
-conscioushb.pdf.txt/ /AI/ /battl/ /2/ /10/ /1.11697/ /0.010611
-conscioushb.pdf.txt/ /AI/ /campbel/ /2/ /10/ /1.11697/ /0.010611
-conscioushb.pdf.txt/ /AI/ /moor/ /3/ /25/ /0.743389/ /0.0105931
-conscioushb.pdf.txt/ /AI/ /simon/ /3/ /25/ /0.743389/ /0.0105931
-conscioushb.pdf.txt/ /AI/ /intuit/ /4/ /39/ /0.556302/ /0.0105695
-conscioushb.pdf.txt/ /AI/ /subsystem/ /4/ /39/ /0.556302/ /0.0105695
-conscioushb.pdf.txt/ /AI/ /account/ /12/ /93/ /0.185235/ /0.0105581
-conscioushb.pdf.txt/ /AI/ /move/ /8/ /75/ /0.277549/ /0.0105466
-conscioushb.pdf.txt/ /AI/ /realiti/ /6/ /61/ /0.365971/ /0.0104299
-conscioushb.pdf.txt/ /AI/ /disciplin/ /4/ /40/ /0.545579/ /0.0103658
-conscioushb.pdf.txt/ /AI/ /surrog/ /2/ /11/ /1.07918/ /0.010252
-conscioushb.pdf.txt/ /AI/ /stake/ /2/ /11/ /1.07918/ /0.010252
-conscioushb.pdf.txt/ /AI/ /conjectur/ /2/ /11/ /1.07918/ /0.010252
-conscioushb.pdf.txt/ /AI/ /rain/ /2/ /11/ /1.07918/ /0.010252
-conscioushb.pdf.txt/ /AI/ /problem/ /57/ /131/ /0.0377886/ /0.010231
-conscioushb.pdf.txt/ /AI/ /motor/ /3/ /27/ /0.711204/ /0.0101344
-conscioushb.pdf.txt/ /AI/ /ball/ /3/ /27/ /0.711204/ /0.0101344
-conscioushb.pdf.txt/ /AI/ /survey/ /5/ /53/ /0.425969/ /0.0101165
-conscioushb.pdf.txt/ /AI/ /plan/ /7/ /71/ /0.30103/ /0.010009
-conscioushb.pdf.txt/ /AI/ /quot/ /4/ /42/ /0.524894/ /0.00997276
-conscioushb.pdf.txt/ /AI/ /cb/ /2/ /12/ /1.04442/ /0.00992176
-conscioushb.pdf.txt/ /AI/ /oppon/ /2/ /12/ /1.04442/ /0.00992176
-conscioushb.pdf.txt/ /AI/ /e-mail/ /3/ /28/ /0.695964/ /0.00991727
-conscioushb.pdf.txt/ /AI/ /progress/ /6/ /64/ /0.345449/ /0.00984508
-conscioushb.pdf.txt/ /AI/ /matter/ /9/ /84/ /0.228944/ /0.00978711
-conscioushb.pdf.txt/ /AI/ /evolut/ /5/ /55/ /0.410174/ /0.00974142
-conscioushb.pdf.txt/ /AI/ /outset/ /2/ /13/ /1.01223/ /0.00961601
-conscioushb.pdf.txt/ /AI/ /dream/ /2/ /13/ /1.01223/ /0.00961601
-conscioushb.pdf.txt/ /AI/ /predict/ /4/ /44/ /0.50515/ /0.00959763
-conscioushb.pdf.txt/ /AI/ /owner/ /3/ /30/ /0.667001/ /0.00950454
-conscioushb.pdf.txt/ /AI/ /anyon/ /4/ /45/ /0.495605/ /0.00941627
-conscioushb.pdf.txt/ /AI/ /hay/ /2/ /14/ /0.982271/ /0.00933136
-conscioushb.pdf.txt/ /AI/ /trail/ /2/ /14/ /0.982271/ /0.00933136
-conscioushb.pdf.txt/ /AI/ /sketch/ /3/ /31/ /0.653212/ /0.00930807
-conscioushb.pdf.txt/ /AI/ /cpus/ /3/ /31/ /0.653212/ /0.00930807
-conscioushb.pdf.txt/ /AI/ /american/ /3/ /31/ /0.653212/ /0.00930807
-conscioushb.pdf.txt/ /AI/ /remark/ /3/ /31/ /0.653212/ /0.00930807
-conscioushb.pdf.txt/ /AI/ /sort/ /8/ /81/ /0.244549/ /0.00929264
-conscioushb.pdf.txt/ /AI/ /reason/ /19/ /113/ /0.101458/ /0.00915634
-conscioushb.pdf.txt/ /AI/ /word/ /17/ /110/ /0.113039/ /0.00912773
-conscioushb.pdf.txt/ /AI/ /tax/ /3/ /32/ /0.639849/ /0.00911763
-conscioushb.pdf.txt/ /AI/ /decis/ /11/ /96/ /0.171591/ /0.00896541
-conscioushb.pdf.txt/ /AI/ /categori/ /9/ /88/ /0.208972/ /0.00893337
-conscioushb.pdf.txt/ /AI/ /temperatur/ /3/ /33/ /0.626884/ /0.00893289
-conscioushb.pdf.txt/ /AI/ /x-recogn/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /crick/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /vignett/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /discontin/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /anti-computationalist/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /thoroughgo/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /panthera/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /amazing-structures-and-process/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /antireductionist/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /digital-comput/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /minskyesqu/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /pattern-learn/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /party-poop/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /just-so/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /anteat/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /conversationalist/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /demolit/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /symbol-ground/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /guilford/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /umm/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /perspicac/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /zelder/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /s-region/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /shyness/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /bootstrapp/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /pessimist/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /paranoia/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /time-drain/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /behavioral-inevit/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /faci/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /innoc/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /time-passag/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /goedel/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /sour/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /20technic/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /definiendum/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /chessboard-recognit/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /information-transmiss/ /1/ /1/ /1.85733/ /0.00882213
-conscioushb.pdf.txt/ /AI/ /o-region/ /1/ /1/ /1.85733/ /0.00882213
+computer_architecture
+140
+memori 36
+cpu 23
+machin 19
+comput 17
+instruct 15
+state 11
+model 10
+speed 10
+architectur 9
+cycl 9
+time 8
+data 8
+level 8
+ram 7
+program 6
+card 6
+symbol 5
+regist 5
+unit 5
+access 5
+cost 5
+von 4
+neumann 4
+hierarchi 4
+tape 4
+logic 4
+number 4
+pci 4
+clock 4
+jump 4
+size 4
+local 4
+element 4
+ture 3
+disk 3
+slot 3
+random 3
+control 3
+graphic 3
+arithmet 3
+pc 3
+command 3
+mother 3
+board 3
+communic 3
+perform 3
+technolog 3
+rule 2
+input 2
+movement 2
+first 2
+northbridg 2
+southbridg 2
+usb 2
+bus 2
+hub 2
+i/o 2
+stuff 2
+alu 2
+ir 2
+counter 2
+oper 2
+set 2
+criteria 2
+cach 2
+cdl 1
+medicina 1
+veterinaria 1
+everyth 1
+anyth 1
+devic 1
+strip 1
+head 1
+tabl 1
+algorithm 1
+output 1
+realiti 1
+eniac 1
+modern 1
+area 1
+harvard 1
+mass 1
+connector 1
+chipset 1
+processor 1
+socket 1
+serial 1
+audio 1
+word 1
+latin 1
+omnibus 1
+cell 1
+io 1
+input/output 1
+central 1
+connect 1
+rest 1
+extens 1
+lot 1
+standard 1
+express 1
+ethernet 1
+cu 1
+increment 1
+decod 1
+case 1
+frequenc 1
+billion 1
+oscil 1
+gigahertz 1
+sum 1
+subtract 1
+valu 1
+risc 1
+cisc 1
+potenti 1
+easi 1
+store 1
+exchang 1
+bottl 1
+neck 1
+requir 1
+enanch 1
+order 1
+limit 1
+main 1
+issu 1
+part 1
+solut 1
+type 1
+dynam 1
+allocaton 1
+effici 1
+automat 1
+ideal 1
+compromis 1
+user 1
+amount 1
+distanc 1
+drive 1

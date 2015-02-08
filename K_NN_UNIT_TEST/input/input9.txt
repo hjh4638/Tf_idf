@@ -1,360 +1,689 @@
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /crevier/ /76/ /2/ /1.68124/ /0.548859
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /mccorduck/ /81/ /4/ /1.45939/ /0.507779
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /norvig/ /57/ /6/ /1.31326/ /0.321547
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /ai/ /127/ /41/ /0.535113/ /0.291922
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /russel/ /60/ /25/ /0.743389/ /0.191595
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /intellig/ /77/ /47/ /0.477121/ /0.157811
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /minski/ /29/ /8/ /1.20412/ /0.149998
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /oclc/ /15/ /1/ /1.85733/ /0.119674
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /dreyfus/ /18/ /4/ /1.45939/ /0.11284
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /moravec/ /19/ /5/ /1.38021/ /0.112646
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /mccarthi/ /20/ /16/ /0.927914/ /0.0797177
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /marvin/ /14/ /8/ /1.20412/ /0.0724128
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /newel/ /15/ /11/ /1.07918/ /0.0695349
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /isbn/ /22/ /27/ /0.711204/ /0.0672101
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /nrc/ /8/ /1/ /1.85733/ /0.0638259
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /weizenbaum/ /10/ /5/ /1.38021/ /0.0592875
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /simon/ /18/ /25/ /0.743389/ /0.0574786
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /research/ /77/ /96/ /0.171591/ /0.0567547
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /darpa/ /12/ /13/ /1.01223/ /0.0521771
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /dartmouth/ /10/ /10/ /1.11697/ /0.0479798
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /octob/ /17/ /34/ /0.614294/ /0.0448583
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /html/ /17/ /35/ /0.60206/ /0.0439649
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /llull/ /6/ /2/ /1.68124/ /0.043331
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /agent/ /17/ /38/ /0.567298/ /0.0414264
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /cordeschi/ /5/ /1/ /1.85733/ /0.0398912
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /perceptron/ /7/ /6/ /1.31326/ /0.0394882
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /kurzweil/ /7/ /7/ /1.25527/ /0.0377445
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /lighthil/ /6/ /4/ /1.45939/ /0.0376132
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /connection/ /6/ /4/ /1.45939/ /0.0376132
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /cnet/ /5/ /2/ /1.68124/ /0.0361092
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /searl/ /6/ /5/ /1.38021/ /0.0355725
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /scruffi/ /5/ /3/ /1.5563/ /0.0334258
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /lenat/ /5/ /3/ /1.5563/ /0.0334258
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /robot/ /13/ /36/ /0.590161/ /0.0329557
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /philosoph/ /9/ /20/ /0.836143/ /0.0323251
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /be/ /13/ /38/ /0.567298/ /0.031679
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /schank/ /5/ /4/ /1.45939/ /0.0313444
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /leibniz/ /6/ /8/ /1.20412/ /0.031034
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /feigenbaum/ /6/ /8/ /1.20412/ /0.031034
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /artifici/ /8/ /17/ /0.90309/ /0.031034
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /fund/ /9/ /23/ /0.778151/ /0.0300832
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /papert/ /5/ /5/ /1.38021/ /0.0296437
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /60s/ /4/ /2/ /1.68124/ /0.0288873
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /critiqu/ /7/ /15/ /0.954243/ /0.0286929
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /paradigm/ /11/ /35/ /0.60206/ /0.0284479
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /pamela/ /5/ /6/ /1.31326/ /0.0282059
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /winter/ /7/ /16/ /0.927914/ /0.0279012
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /neat/ /4/ /3/ /1.5563/ /0.0267406
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /chess/ /8/ /23/ /0.778151/ /0.0267406
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /expert/ /12/ /43/ /0.51491/ /0.0265418
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /confer/ /13/ /48/ /0.468166/ /0.0261433
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /hobb/ /5/ /8/ /1.20412/ /0.0258617
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /deduct/ /6/ /14/ /0.982271/ /0.0253163
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /histori/ /28/ /88/ /0.208972/ /0.0251342
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /eliza/ /4/ /4/ /1.45939/ /0.0250755
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /allen/ /7/ /22/ /0.796635/ /0.0239538
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /takwin/ /3/ /1/ /1.85733/ /0.0239347
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /berlinski/ /3/ /1/ /1.85733/ /0.0239347
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /wason/ /3/ /1/ /1.85733/ /0.0239347
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /economist/ /4/ /5/ /1.38021/ /0.023715
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /pearl/ /4/ /5/ /1.38021/ /0.023715
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /pitt/ /4/ /5/ /1.38021/ /0.023715
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /automaton/ /6/ /17/ /0.90309/ /0.0232755
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /arpa/ /4/ /6/ /1.31326/ /0.0225647
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /lakoff/ /3/ /2/ /1.68124/ /0.0216655
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /buchanan/ /4/ /7/ /1.25527/ /0.0215683
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /john/ /16/ /69/ /0.313264/ /0.0215302
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /dollar/ /9/ /39/ /0.556302/ /0.0215066
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /machin/ /57/ /117/ /0.0864805/ /0.0211744
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /centuri/ /8/ /34/ /0.614294/ /0.0211098
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /govern/ /9/ /40/ /0.545579/ /0.021092
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /ture/ /11/ /53/ /0.425969/ /0.0201274
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /logic/ /20/ /83/ /0.234083/ /0.0201103
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /bostrom/ /3/ /3/ /1.5563/ /0.0200555
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /colbi/ /3/ /3/ /1.5563/ /0.0200555
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /herbert/ /4/ /9/ /1.15836/ /0.0199032
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /vision/ /8/ /38/ /0.567298/ /0.0194948
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /cmu/ /4/ /10/ /1.11697/ /0.0191919
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /hubert/ /3/ /4/ /1.45939/ /0.0188066
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /rosenblatt/ /3/ /4/ /1.45939/ /0.0188066
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /cybernet/ /3/ /4/ /1.45939/ /0.0188066
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /70s/ /3/ /4/ /1.45939/ /0.0188066
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /hopfield/ /3/ /4/ /1.45939/ /0.0188066
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /critic/ /6/ /26/ /0.726999/ /0.0187371
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /myth/ /4/ /11/ /1.07918/ /0.0185426
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /gps/ /4/ /11/ /1.07918/ /0.0185426
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /propos/ /7/ /34/ /0.614294/ /0.0184711
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /theorem/ /9/ /47/ /0.477121/ /0.0184454
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /han/ /5/ /19/ /0.857332/ /0.0184135
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /birth/ /5/ /19/ /0.857332/ /0.0184135
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /symbol/ /17/ /80/ /0.249877/ /0.0182471
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /joseph/ /5/ /20/ /0.836143/ /0.0179584
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /hewitt/ /3/ /5/ /1.38021/ /0.0177862
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /ferranti/ /3/ /5/ /1.38021/ /0.0177862
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /rumelhart/ /3/ /5/ /1.38021/ /0.0177862
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /hofstadt/ /3/ /5/ /1.38021/ /0.0177862
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /doyl/ /3/ /5/ /1.38021/ /0.0177862
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /rodney/ /3/ /5/ /1.38021/ /0.0177862
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /speech/ /6/ /30/ /0.667001/ /0.0171908
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /edinburgh/ /3/ /6/ /1.31326/ /0.0169235
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /hawkin/ /3/ /6/ /1.31326/ /0.0169235
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /gottfri/ /3/ /6/ /1.31326/ /0.0169235
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /qualif/ /4/ /14/ /0.982271/ /0.0168775
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /prolog/ /4/ /15/ /0.954243/ /0.0163959
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /brook/ /4/ /15/ /0.954243/ /0.0163959
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /year/ /26/ /102/ /0.145525/ /0.0162528
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /guha/ /3/ /7/ /1.25527/ /0.0161762
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /geometri/ /6/ /33/ /0.626884/ /0.0161568
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /scientist/ /7/ /41/ /0.535113/ /0.0160902
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /mit/ /8/ /48/ /0.468166/ /0.0160882
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /o'connor/ /2/ /1/ /1.85733/ /0.0159565
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /darrach/ /2/ /1/ /1.85733/ /0.0159565
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /steiger/ /2/ /1/ /1.85733/ /0.0159565
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /paracelsus/ /2/ /1/ /1.85733/ /0.0159565
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /judah/ /2/ /1/ /1.85733/ /0.0159565
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /loew/ /2/ /1/ /1.85733/ /0.0159565
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /chatterbot/ /2/ /1/ /1.85733/ /0.0159565
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /rosch/ /2/ /1/ /1.85733/ /0.0159565
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /filosof/ /2/ /1/ /1.85733/ /0.0159565
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /alumni/ /2/ /1/ /1.85733/ /0.0159565
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /kolata/ /2/ /1/ /1.85733/ /0.0159565
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /seymour/ /3/ /8/ /1.20412/ /0.015517
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /nick/ /3/ /9/ /1.15836/ /0.0149274
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /mind/ /12/ /73/ /0.289131/ /0.0149037
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /skill/ /7/ /45/ /0.495605/ /0.0149022
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /net/ /7/ /45/ /0.495605/ /0.0149022
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /recognit/ /7/ /45/ /0.495605/ /0.0149022
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /reason/ /34/ /113/ /0.101458/ /0.0148177
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /hypothesi/ /4/ /19/ /0.857332/ /0.0147308
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /mccullough/ /2/ /2/ /1.68124/ /0.0144437
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /al-jazari/ /2/ /2/ /1.68124/ /0.0144437
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /leviathan/ /2/ /2/ /1.68124/ /0.0144437
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /intract/ /2/ /2/ /1.68124/ /0.0144437
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /levitt/ /2/ /2/ /1.68124/ /0.0144437
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /howe/ /2/ /2/ /1.68124/ /0.0144437
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /jeopardi/ /2/ /2/ /1.68124/ /0.0144437
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /tverski/ /2/ /2/ /1.68124/ /0.0144437
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /micro-world/ /2/ /2/ /1.68124/ /0.0144437
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /bonner/ /2/ /2/ /1.68124/ /0.0144437
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /menabrea/ /2/ /2/ /1.68124/ /0.0144437
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /luca/ /3/ /10/ /1.11697/ /0.014394
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /claud/ /3/ /10/ /1.11697/ /0.014394
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /mip/ /4/ /21/ /0.81594/ /0.0140196
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /project/ /20/ /98/ /0.162727/ /0.01398
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /success/ /11/ /72/ /0.29504/ /0.0139409
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /del/ /3/ /11/ /1.07918/ /0.013907
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /shannon/ /3/ /11/ /1.07918/ /0.013907
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /york/ /9/ /62/ /0.359022/ /0.0138797
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /invest/ /4/ /22/ /0.796635/ /0.0136879
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /money/ /6/ /42/ /0.524894/ /0.0135282
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /brain/ /5/ /33/ /0.626884/ /0.013464
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /hal/ /3/ /12/ /1.04442/ /0.013459
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /champion/ /3/ /12/ /1.04442/ /0.013459
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /50s/ /2/ /3/ /1.5563/ /0.0133703
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /blakesle/ /2/ /3/ /1.5563/ /0.0133703
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /craftsman/ /2/ /3/ /1.5563/ /0.0133703
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /marr/ /2/ /3/ /1.5563/ /0.0133703
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /ramon/ /2/ /3/ /1.5563/ /0.0133703
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /judea/ /2/ /3/ /1.5563/ /0.0133703
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /kowalski/ /2/ /3/ /1.5563/ /0.0133703
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /golem/ /2/ /3/ /1.5563/ /0.0133703
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /magazin/ /4/ /23/ /0.778151/ /0.0133703
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /knowledg/ /19/ /98/ /0.162727/ /0.013281
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /alan/ /5/ /34/ /0.614294/ /0.0131936
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /gerald/ /3/ /13/ /1.01223/ /0.0130443
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /dream/ /3/ /13/ /1.01223/ /0.0130443
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /moor/ /4/ /25/ /0.743389/ /0.012773
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /deep/ /3/ /14/ /0.982271/ /0.0126581
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /cnn/ /2/ /4/ /1.45939/ /0.0125377
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /haugeland/ /2/ /4/ /1.45939/ /0.0125377
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /xcon/ /2/ /4/ /1.45939/ /0.0125377
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /reviv/ /2/ /4/ /1.45939/ /0.0125377
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /cyc/ /2/ /4/ /1.45939/ /0.0125377
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /setback/ /2/ /4/ /1.45939/ /0.0125377
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /antiqu/ /2/ /4/ /1.45939/ /0.0125377
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /investor/ /2/ /4/ /1.45939/ /0.0125377
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /boom/ /2/ /4/ /1.45939/ /0.0125377
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /shakey/ /2/ /4/ /1.45939/ /0.0125377
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /rumor/ /2/ /4/ /1.45939/ /0.0125377
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /brad/ /2/ /4/ /1.45939/ /0.0125377
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /statu/ /2/ /4/ /1.45939/ /0.0125377
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /goebel/ /2/ /4/ /1.45939/ /0.0125377
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /decad/ /6/ /46/ /0.486265/ /0.0125326
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /revolut/ /4/ /26/ /0.726999/ /0.0124914
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /specul/ /3/ /15/ /0.954243/ /0.012297
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /fiction/ /3/ /15/ /0.954243/ /0.012297
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /arthur/ /3/ /15/ /0.954243/ /0.012297
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /theorist/ /3/ /15/ /0.954243/ /0.012297
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /explos/ /4/ /27/ /0.711204/ /0.01222
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /pdf/ /4/ /28/ /0.695964/ /0.0119582
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /blue/ /4/ /28/ /0.695964/ /0.0119582
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /dendral/ /2/ /5/ /1.38021/ /0.0118575
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /mackworth/ /2/ /5/ /1.38021/ /0.0118575
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /frege/ /2/ /5/ /1.38021/ /0.0118575
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /commonsens/ /2/ /5/ /1.38021/ /0.0118575
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /principia/ /2/ /5/ /1.38021/ /0.0118575
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /mcculloch/ /2/ /5/ /1.38021/ /0.0118575
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /econom/ /4/ /29/ /0.681241/ /0.0117052
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /thought/ /6/ /50/ /0.450792/ /0.0116184
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /nathan/ /2/ /6/ /1.31326/ /0.0112824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /olsen/ /2/ /6/ /1.31326/ /0.0112824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /bust/ /2/ /6/ /1.31326/ /0.0112824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /whitehead/ /2/ /6/ /1.31326/ /0.0112824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /corpor/ /5/ /42/ /0.524894/ /0.0112735
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /david/ /6/ /52/ /0.434087/ /0.0111878
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /industri/ /6/ /52/ /0.434087/ /0.0111878
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /stori/ /5/ /43/ /0.51491/ /0.0110591
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /men/ /3/ /19/ /0.857332/ /0.0110481
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /agenc/ /4/ /32/ /0.639849/ /0.010994
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /theori/ /10/ /79/ /0.255273/ /0.0109653
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /predict/ /5/ /44/ /0.50515/ /0.0108494
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /rochest/ /2/ /7/ /1.25527/ /0.0107841
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /sir/ /2/ /7/ /1.25527/ /0.0107841
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /urban/ /2/ /7/ /1.25527/ /0.0107841
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /dougla/ /3/ /20/ /0.836143/ /0.0107751
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /contributor/ /3/ /20/ /0.836143/ /0.0107751
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /scienc/ /16/ /100/ /0.154041/ /0.010587
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /chap/ /3/ /21/ /0.81594/ /0.0105147
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /strachey/ /2/ /8/ /1.20412/ /0.0103447
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /lunch/ /2/ /8/ /1.20412/ /0.0103447
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /sussman/ /2/ /8/ /1.20412/ /0.0103447
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /butler/ /2/ /8/ /1.20412/ /0.0103447
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /frame/ /9/ /77/ /0.266268/ /0.0102939
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /samuel/ /3/ /22/ /0.796635/ /0.0102659
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /press/ /7/ /65/ /0.338819/ /0.0101879
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /discoveri/ /3/ /23/ /0.778151/ /0.0100277
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /world/ /17/ /104/ /0.137173/ /0.010017
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /lovelac/ /2/ /9/ /1.15836/ /0.00995158
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /interview/ /2/ /9/ /1.15836/ /0.00995158
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /maze/ /2/ /9/ /1.15836/ /0.00995158
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /victori/ /2/ /9/ /1.15836/ /0.00995158
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /psychologist/ /2/ /9/ /1.15836/ /0.00995158
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /articl/ /5/ /49/ /0.459393/ /0.00986669
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /student/ /6/ /59/ /0.380211/ /0.00979927
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /edward/ /3/ /24/ /0.760423/ /0.00979927
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /calculus/ /3/ /24/ /0.760423/ /0.00979927
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /ibm/ /6/ /59/ /0.380211/ /0.00979927
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /new/ /12/ /92/ /0.18988/ /0.00978761
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /paper/ /11/ /89/ /0.20412/ /0.00964485
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /neural/ /2/ /10/ /1.11697/ /0.00959597
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /battl/ /2/ /10/ /1.11697/ /0.00959597
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /pittsburgh/ /2/ /10/ /1.11697/ /0.00959597
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /daniel/ /3/ /25/ /0.743389/ /0.00957976
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /fifth/ /3/ /25/ /0.743389/ /0.00957976
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /heurist/ /3/ /25/ /0.743389/ /0.00957976
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /field/ /21/ /112/ /0.105284/ /0.00949728
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /philosophi/ /4/ /40/ /0.545579/ /0.00937421
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /stanford/ /3/ /26/ /0.726999/ /0.00936855
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /algebra/ /5/ /52/ /0.434087/ /0.00932317
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /carl/ /2/ /11/ /1.07918/ /0.00927132
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /bishop/ /2/ /11/ /1.07918/ /0.00927132
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /precursor/ /2/ /11/ /1.07918/ /0.00927132
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /strateg/ /2/ /11/ /1.07918/ /0.00927132
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /walter/ /2/ /11/ /1.07918/ /0.00927132
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /jame/ /4/ /41/ /0.535113/ /0.00919439
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /promis/ /3/ /27/ /0.711204/ /0.00916501
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /tank/ /2/ /12/ /1.04442/ /0.00897268
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /mathematica/ /2/ /12/ /1.04442/ /0.00897268
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /doctor/ /2/ /12/ /1.04442/ /0.00897268
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /faith/ /2/ /12/ /1.04442/ /0.00897268
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /incomplet/ /2/ /12/ /1.04442/ /0.00897268
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /jeff/ /2/ /13/ /1.01223/ /0.00869618
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /actor/ /2/ /13/ /1.01223/ /0.00869618
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /checker/ /3/ /30/ /0.667001/ /0.00859538
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /colleagu/ /3/ /30/ /0.667001/ /0.00859538
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /hay/ /2/ /14/ /0.982271/ /0.00843876
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /ross/ /2/ /14/ /0.982271/ /0.00843876
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /eniac/ /2/ /14/ /0.982271/ /0.00843876
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /paradox/ /2/ /14/ /0.982271/ /0.00843876
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /god/ /2/ /14/ /0.982271/ /0.00843876
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /campus/ /2/ /14/ /0.982271/ /0.00843876
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /von/ /3/ /31/ /0.653212/ /0.00841769
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /colleg/ /3/ /32/ /0.639849/ /0.00824548
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /collaps/ /2/ /15/ /0.954243/ /0.00819797
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /neuron/ /2/ /15/ /0.954243/ /0.00819797
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /reput/ /2/ /15/ /0.954243/ /0.00819797
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /see/ /2/ /15/ /0.954243/ /0.00819797
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /generat/ /11/ /96/ /0.171591/ /0.00810782
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /lisp/ /3/ /33/ /0.626884/ /0.0080784
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /ray/ /3/ /33/ /0.626884/ /0.0080784
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /law/ /5/ /60/ /0.373033/ /0.00801188
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /cyanidethistl/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /crystallina/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /dhn/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /dsachan/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /coolerhead/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /tanthoni/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /dank/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /darker/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /commonsdelink/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /darre1/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /charlesgillingham/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /devourer09/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /changchienfu/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /burzmali/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /bugon/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /tedcol/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /kellner/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /trovator/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /vadmium/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /viridita/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /dionysiusthrax/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /brokensegu/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /wa3frp/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /blogjack/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /waltbusterkey/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /raja/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /willingand/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /woohookitti/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /bkkbrad/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /syncategoremata/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /stanselm/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /spencerk/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /doctoroxenbrieri/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /dreadstar/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /myscrnnm/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /skittley/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /barticus88/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /ayyu/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /elmer/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /titanium/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /axem/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /australianmelodrama/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /elsendero/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /audiodud/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /aov2/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /ferris37/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /cyde/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /firsfron/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /froth/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /mind/lix/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /tassedeth/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /gaius/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /kinney/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /turingarticl/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /serouj/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /tp2-ie/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /wronkiew/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /herm/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /samfre/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /yuriz/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /samatjain/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /grafen/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /zy26/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /quibik/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /graham87/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /gwern/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /bizjourn/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /getting-machines-to-think-like-us/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /s0140525x00005756/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /rootxploit/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /mindsbrainsprogram/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /neonoet/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /hilgerdenaar/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /davidlud/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /scotus/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /journalindex/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /rjwilmsi/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /hmain/ /1/ /1/ /1.85733/ /0.00797824
-CS405-4.1-WIKIPEDIA.pdf.txt/ /AI/ /tchjr/ /1/ /1/ /1.85733/ /0.00797824
+computer_architecture
+687
+memori 193
+data 118
+comput 115
+disk 61
+card 58
+chip 56
+program 53
+bus 52
+number 48
+address 45
+instruct 41
+processor 39
+ram 39
+bit 38
+microprocessor 38
+type 37
+byte 34
+devic 32
+pc 31
+content 28
+time 27
+speed 27
+oper 25
+ibm 24
+locat 23
+switch 23
+mb 23
+power 22
+board 22
+monitor 22
+regist 22
+word 21
+video 21
+control 21
+circuit 21
+rom 21
+line 21
+dos 21
+set 20
+code 19
+transfer 19
+cach 18
+kb 18
+display 18
+mode 17
+compon 16
+use 16
+drive 15
+system 15
+architectur 14
+way 14
+cpu 14
+transistor 14
+standard 14
+machin 14
+access 14
+driver 14
+activ 13
+intel 13
+screen 13
+port 13
+interfac 13
+alu 13
+motherboard 12
+size 12
+isa 12
+signal 12
+how 11
+clock 11
+mhz 11
+i/o 11
+adapt 11
+color 11
+pixel 11
+part 10
+microcomput 10
+logic 10
+eisa 10
+exampl 10
+file 10
+block 9
+electron 9
+play 9
+coprocessor 9
+mca 9
+printer 9
+case 9
+dip 9
+charact 9
+differ 9
+sequenc 9
+process 9
+section 9
+store 9
+output 9
+input 9
+graphic 9
+dram 9
+expans 9
+pci 9
+buffer 9
+resolut 9
+vga 9
+head 9
+suppli 8
+binari 8
+flow 8
+thing 8
+end 8
+segment 8
+eprom 8
+area 8
+track 8
+packag 7
+state 7
+function 7
+manufactur 7
+voltag 7
+diod 7
+answer 7
+step 7
+cycl 7
+width 7
+sram 7
+daughter 6
+analog 6
+ascii 6
+megabyt 6
+famili 6
+buss 6
+path 6
+connect 6
+plastic 6
+capacitor 6
+support 6
+form 6
+cu 6
+languag 6
+ml 6
+connector 6
+order 6
+vesa 6
+today 6
+interrupt 6
+name 6
+build 5
+kilobyt 5
+develop 5
+socket 5
+compat 5
+appl 5
+abil 5
+do 5
+ic 5
+parallel 5
+routin 5
+pictur 5
+inform 5
+communic 5
+programm 5
+load 5
+specif 5
+mos 5
+umb 5
+base 5
+colour 5
+slot 5
+beam 5
+densiti 5
+consol 4
+major 4
+motorola 4
+layout 4
+term 4
+keyboard 4
+place 4
+softwar 4
+at 4
+network 4
+digit 4
+rang 4
+group 4
+design 4
+letter 4
+decim 4
+result 4
+nybbl 4
+capac 4
+unit 4
+student 4
+side 4
+inp 4
+accumul 4
+----- 4
+task 4
+microinstruct 4
+assembl 4
+level 4
+circuitri 4
+manag 4
+window 4
+gb 4
+charg 4
+problem 4
+bank 4
+em 4
+hma 4
+local 4
+conflict 4
+sector 4
+ide 4
+convers 3
+action 3
+histori 3
+addit 3
+subtract 3
+storag 3
+model 3
+bio 3
+print 3
+in-lin 3
+rate 3
+tabl 3
+blank 3
+hex 3
+fact 3
+ff 3
+intern 3
+desk 3
+100a 3
+goto 3
+situat 3
+noth 3
+move 3
+puls 3
+acc 3
+compani 3
+cmos 3
+industri 3
+clone 3
+xt 3
+pentium 3
+increas 3
+random 3
+zone 3
+magnet 3
+light 3
+array 3
+second 3
+technolog 3
+plate 3
+pin 3
+techniqu 3
+advent 3
+capabl 3
+portion 3
+def 3
+seg 3
+advantag 3
+improv 3
+applic 3
+desktop 3
+servic 3
+vector 3
+cga 3
+imag 3
+svga 3
+inch 3
+tube 3
+phosphor 3
+rll 3
+introduct 2
+scene 2
+stage 2
+front 2
+math 2
+protect 2
+transmiss 2
+person 2
+cabl 2
+other 2
+commodor 2
+amiga 2
+market 2
+msdos 2
+generat 2
+version 2
+wall 2
+outlet 2
+current 2
+peripher 2
+piec 2
+silicon 2
+resistor 2
+instal 2
+command 2
+instructor 2
+follow 2
+book 2
+strength 2
+radio 2
+symbol 2
+coupl 2
+hand 2
+repeat 2
+fill 2
+hexadecim 2
+notat 2
+arithmet 2
+comparison 2
+thenc 2
+purpos 2
+flag 2
+input/output 2
+right 2
+garbag 2
+total 2
+mean 2
+mar 2
+mi 2
+op-cod 2
+basic 2
+interpret 2
+compil 2
+begin 2
+hardwar 2
+boot 2
+run 2
+examin 2
+factor 2
+kind 2
+calcul 2
+micro 2
+environ 2
+year 2
+powerpc 2
+circl 2
+condit 2
+ultraviolet 2
+eeprom 2
+earom 2
+setup 2
+dynam 2
+static 2
+cell 2
+refresh 2
+quantiti 2
+ns 2
+oxid 2
+nmos 2
+batteri 2
+juggler 2
+seri 2
+return 2
+sip 2
+singl 2
+mbit 2
+simm 2
+modul 2
+chunk 2
+devicehigh 2
+mous 2
+appear 2
+statement 2
+request 2
+hit 2
+nec 2
+counter 2
+reset 2
+nmi 2
+prioriti 2
+dma 2
+disadvantag 2
+text 2
+publish 2
+ega 2
+offer 2
+diagon 2
+measur 2
+cathod 2
+ray 2
+paint 2
+matrix 2
+medium 2
+metal 2
+fat 2
+scsi 2
+mfm 2
+scheme 2
+decimal/binari 1
+multipl 1
+divis 1
+boolean 1
+or 1
+xor 1
+not 1
+real 1
+virtual 1
+i/o-commun 1
+definit 1
+world 1
+mice 1
+ribbon 1
+main 1
+steve 1
+job 1
+nich 1
+deal 1
+point 1
+interest 1
+volt 1
+ac 1
+dc 1
+filter 1
+surg 1
+suppressor 1
+fluctuat 1
+resin 1
+outsid 1
+4line 1
+conductor 1
+scanner 1
+thousand 1
+dual 1
+remov 1
+peopl 1
+daughterboard 1
+hard 1
+floppi 1
+microscop 1
+regular 1
+loud 1
+speaker 1
+theori 1
+volum 1
+interchang 1
+repres 1
+let 1
+count 1
+multipli 1
+column 1
+row 1
+notic 1
+and 1
+kilo 1
+kilobit 1
+buse 1
+c-64 1
+2fa 1
+oscil 1
+megahertz 1
+brain 1
+outfit 1
+chalk 1
+stand 1
+show 1
+explan 1
+chang 1
+comp 1
+reg 1
+x+i 1
+inc 1
+go 1
+divid 1
+copi 1
+marker 1
+turn 1
+face 1
+discuss 1
+gigo 1
+execut 1
+subact 1
+fro 1
+electr 1
+instanc 1
+mi-2 1
+opcod 1
+mnemon 1
+aid 1
+lda 1
+equival 1
+high 1
+fortran 1
+cobol 1
+extent 1
+simpl 1
+z80 1
+shack 1
+august 1
+hundr 1
+add-on 1
+256kb 1
+mathemat 1
+precis 1
+logarithm 1
+decad 1
+doubl 1
+inclus 1
+plan 1
+advanc 1
+bip 1
+billion 1
+!! 1
+properti 1
+extern 1
+onboard 1
+atari 1
+68xxx 1
+choic 1
+explain 1
+read 1
+materi 1
+tape 1
+startup 1
+diagram 1
+push 1
+intersect 1
+pattern 1
+shone 1
+quartz 1
+prototyp 1
+prom 1
+termin 1
+circumst 1
+read/writ 1
+accid 1
+wordprocess 1
+volatil 1
+millisecond 1
+ms 1
+sec 1
+configur 1
+overhead 1
+sens 1
+*** 1
+semiconductor 1
+n-channel 1
+complimentari 1
+have 1
+stick 1
+physic 1
+anyon 1
+kbit 1
+teeth 1
+comb 1
+miniatur 1
+much 1
+question 1
+limit 1
+arrang 1
+map 1
+extend 1
+expand 1
+lotus 1
+microsoft 1
+lim 1
+extra 1
+quirk 1
+upper 1
+tsr 1
+stay 1
+resid 1
+press 1
+rem 1
+xms 1
+40-50k 1
+page 1
+refer 1
+zero 1
+b8000 1
+b800 1
+hb800 1
+mimic 1
+bottleneck 1
+wait 1
+principl 1
+32k 1
+vicin 1
+percentag 1
+100mhz 1
+acronym 1
+structur 1
+variat 1
+solut 1
+microchannel 1
+parti 1
+invest 1
+consortium 1
+compaq 1
+epson 1
+hewlitt-packard 1
+ollivetti 1
+tandi 1
+burst 1
+view 1
+ploy 1
+baggag 1
+master 1
+vl 1
+perform 1
+interconnect 1
+ground 1
+implement 1
+serial 1
+wire 1
+modem 1
+minimum 1
+shift 1
+lot 1
+document 1
+event 1
+jump 1
+non-mask 1
+maskabl 1
+pdt 1
+direct 1
+multifunct 1
+com2 1
+day 1
+monochrom 1
+1970s 1
+game 1
+solitair 1
+checker 1
+session 1
+palett 1
+amount 1
+someth 1
+super 1
+multisync 1
+varieti 1
+requir 1
+flicker 1
+frequenc 1
+glow 1
+intens 1
+bright 1
+interlac 1
+top 1
+procedur 1
+permit 1
+ttl 1
+emitt 1
+ecl 1
+dac 1
+convert 1
+figur 1
+method 1
+squar 1
+ellips 1
+crystal 1
+shade 1
+grey 1
+gas 1
+plasma 1
+crt 1
+weight 1
+period 1
+laptop 1
+notebook 1
+electromagnet 1
+write 1
+ring 1
+pie 1
+wedg 1
+sssd 1
+cylind 1
+dssd 1
+dsdd 1
+720kb 1
+dshd 1
+format 1
+720k 1
+cabinet 1
+surfac 1
+120mb 1
+gigabyt 1
+alloc 1
+organ 1
+esdi 1
+qualiti 1
+coat 1
+integr 1
+eid 1
+reason 1
+com 1
+fragment 1

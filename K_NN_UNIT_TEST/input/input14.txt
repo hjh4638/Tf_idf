@@ -1,360 +1,304 @@
-qai.pdf.txt/ /AI/ /septemb/ /738/ /30/ /0.667001/ /0.364044
-qai.pdf.txt/ /AI/ /cambridg/ /799/ /41/ /0.535113/ /0.316201
-qai.pdf.txt/ /AI/ /ai/ /685/ /41/ /0.535113/ /0.271086
-qai.pdf.txt/ /AI/ /press/ /866/ /65/ /0.338819/ /0.216998
-qai.pdf.txt/ /AI/ /intellig/ /534/ /47/ /0.477121/ /0.188426
-qai.pdf.txt/ /AI/ /sri/ /186/ /6/ /1.31326/ /0.180649
-qai.pdf.txt/ /AI/ /robot/ /387/ /36/ /0.590161/ /0.168909
-qai.pdf.txt/ /AI/ /print/ /716/ /74/ /0.283301/ /0.150014
-qai.pdf.txt/ /AI/ /artifici/ /224/ /17/ /0.90309/ /0.149606
-qai.pdf.txt/ /AI/ /shakey/ /133/ /4/ /1.45939/ /0.143547
-qai.pdf.txt/ /AI/ /darpa/ /189/ /13/ /1.01223/ /0.141486
-qai.pdf.txt/ /AI/ /vol/ /335/ /39/ /0.556302/ /0.137825
-qai.pdf.txt/ /AI/ /vision/ /292/ /38/ /0.567298/ /0.122508
-qai.pdf.txt/ /AI/ /version/ /1609/ /113/ /0.101458/ /0.120729
-qai.pdf.txt/ /AI/ /courtesi/ /158/ /13/ /1.01223/ /0.118279
-qai.pdf.txt/ /AI/ /speech/ /239/ /30/ /0.667001/ /0.117895
-qai.pdf.txt/ /AI/ /photograph/ /202/ /25/ /0.743389/ /0.111055
-qai.pdf.txt/ /AI/ /stanford/ /192/ /26/ /0.726999/ /0.10323
-qai.pdf.txt/ /AI/ /recognit/ /236/ /45/ /0.495605/ /0.0865005
-qai.pdf.txt/ /AI/ /minski/ /97/ /8/ /1.20412/ /0.0863799
-qai.pdf.txt/ /AI/ /right/ /810/ /103/ /0.141329/ /0.0846619
-qai.pdf.txt/ /AI/ /learn/ /258/ /52/ /0.434087/ /0.0828261
-qai.pdf.txt/ /AI/ /sentenc/ /202/ /40/ /0.545579/ /0.0815042
-qai.pdf.txt/ /AI/ /chess/ /140/ /23/ /0.778151/ /0.0805681
-qai.pdf.txt/ /AI/ /mccarthi/ /117/ /16/ /0.927914/ /0.0802906
-qai.pdf.txt/ /AI/ /newel/ /99/ /11/ /1.07918/ /0.0790134
-qai.pdf.txt/ /AI/ /research/ /613/ /96/ /0.171591/ /0.0777903
-qai.pdf.txt/ /AI/ /probabl/ /212/ /47/ /0.477121/ /0.0748059
-qai.pdf.txt/ /AI/ /mit/ /212/ /48/ /0.468166/ /0.0734019
-qai.pdf.txt/ /AI/ /onlin/ /213/ /53/ /0.425969/ /0.0671009
-qai.pdf.txt/ /AI/ /brain/ /139/ /33/ /0.626884/ /0.0644426
-qai.pdf.txt/ /AI/ /photo/ /93/ /16/ /0.927914/ /0.0638207
-qai.pdf.txt/ /AI/ /expert/ /165/ /43/ /0.51491/ /0.0628328
-qai.pdf.txt/ /AI/ /john/ /264/ /69/ /0.313264/ /0.0611627
-qai.pdf.txt/ /AI/ /prospector/ /49/ /2/ /1.68124/ /0.0609253
-qai.pdf.txt/ /AI/ /imag/ /397/ /89/ /0.20412/ /0.0599304
-qai.pdf.txt/ /AI/ /scene/ /151/ /41/ /0.535113/ /0.0597577
-qai.pdf.txt/ /AI/ /feigenbaum/ /67/ /8/ /1.20412/ /0.0596645
-qai.pdf.txt/ /AI/ /vehicl/ /134/ /35/ /0.60206/ /0.0596645
-qai.pdf.txt/ /AI/ /grammar/ /139/ /38/ /0.567298/ /0.0583173
-qai.pdf.txt/ /AI/ /soar/ /57/ /5/ /1.38021/ /0.0581824
-qai.pdf.txt/ /AI/ /simon/ /104/ /25/ /0.743389/ /0.0571769
-qai.pdf.txt/ /AI/ /carnegi/ /66/ /9/ /1.15836/ /0.0565405
-qai.pdf.txt/ /AI/ /confer/ /163/ /48/ /0.468166/ /0.0564364
-qai.pdf.txt/ /AI/ /selfridg/ /49/ /3/ /1.5563/ /0.0563977
-qai.pdf.txt/ /AI/ /edinburgh/ /57/ /6/ /1.31326/ /0.0553603
-qai.pdf.txt/ /AI/ /cyc/ /49/ /4/ /1.45939/ /0.0528858
-qai.pdf.txt/ /AI/ /michi/ /50/ /5/ /1.38021/ /0.0510372
-qai.pdf.txt/ /AI/ /marr/ /44/ /3/ /1.5563/ /0.0506428
-qai.pdf.txt/ /AI/ /hlai/ /36/ /1/ /1.85733/ /0.0494497
-qai.pdf.txt/ /AI/ /reinforc/ /53/ /7/ /1.25527/ /0.0492023
-qai.pdf.txt/ /AI/ /network/ /508/ /106/ /0.128979/ /0.0484566
-qai.pdf.txt/ /AI/ /plan/ /217/ /71/ /0.30103/ /0.0483104
-qai.pdf.txt/ /AI/ /bbn/ /47/ /5/ /1.38021/ /0.047975
-qai.pdf.txt/ /AI/ /agent/ /112/ /38/ /0.567298/ /0.0469895
-qai.pdf.txt/ /AI/ /demon/ /48/ /6/ /1.31326/ /0.0466192
-qai.pdf.txt/ /AI/ /knowledg/ /380/ /98/ /0.162727/ /0.0457315
-qai.pdf.txt/ /AI/ /cmu/ /55/ /10/ /1.11697/ /0.0454334
-qai.pdf.txt/ /AI/ /mellon/ /51/ /8/ /1.20412/ /0.0454162
-qai.pdf.txt/ /AI/ /rosenblatt/ /42/ /4/ /1.45939/ /0.0453307
-qai.pdf.txt/ /AI/ /robert/ /111/ /40/ /0.545579/ /0.044787
-qai.pdf.txt/ /AI/ /harpi/ /36/ /2/ /1.68124/ /0.0447614
-qai.pdf.txt/ /AI/ /schank/ /41/ /4/ /1.45939/ /0.0442514
-qai.pdf.txt/ /AI/ /human/ /156/ /59/ /0.380211/ /0.0438653
-qai.pdf.txt/ /AI/ /david/ /133/ /52/ /0.434087/ /0.0426972
-qai.pdf.txt/ /AI/ /act-r/ /31/ /1/ /1.85733/ /0.0425817
-qai.pdf.txt/ /AI/ /infer/ /93/ /34/ /0.614294/ /0.0422504
-qai.pdf.txt/ /AI/ /proceed/ /177/ /68/ /0.319513/ /0.0418248
-qai.pdf.txt/ /AI/ /raphael/ /36/ /3/ /1.5563/ /0.041435
-qai.pdf.txt/ /AI/ /marvin/ /46/ /8/ /1.20412/ /0.0409637
-qai.pdf.txt/ /AI/ /neural/ /49/ /10/ /1.11697/ /0.040477
-qai.pdf.txt/ /AI/ /neuron/ /57/ /15/ /0.954243/ /0.0402258
-qai.pdf.txt/ /AI/ /dissert/ /45/ /8/ /1.20412/ /0.0400732
-qai.pdf.txt/ /AI/ /edward/ /71/ /24/ /0.760423/ /0.0399286
-qai.pdf.txt/ /AI/ /strateg/ /50/ /11/ /1.07918/ /0.0399058
-qai.pdf.txt/ /AI/ /hart/ /46/ /9/ /1.15836/ /0.039407
-qai.pdf.txt/ /AI/ /licklid/ /34/ /3/ /1.5563/ /0.0391331
-qai.pdf.txt/ /AI/ /dreyfus/ /36/ /4/ /1.45939/ /0.0388549
-qai.pdf.txt/ /AI/ /mycin/ /40/ /6/ /1.31326/ /0.0388493
-qai.pdf.txt/ /AI/ /search/ /229/ /84/ /0.228944/ /0.0387735
-qai.pdf.txt/ /AI/ /cognit/ /59/ /19/ /0.857332/ /0.0374087
-qai.pdf.txt/ /AI/ /markov/ /42/ /8/ /1.20412/ /0.0374016
-qai.pdf.txt/ /AI/ /gus/ /27/ /1/ /1.85733/ /0.0370873
-qai.pdf.txt/ /AI/ /perceptron/ /38/ /6/ /1.31326/ /0.0369069
-qai.pdf.txt/ /AI/ /duda/ /32/ /3/ /1.5563/ /0.0368311
-qai.pdf.txt/ /AI/ /nilsson/ /34/ /4/ /1.45939/ /0.0366963
-qai.pdf.txt/ /AI/ /roland/ /29/ /2/ /1.68124/ /0.0360578
-qai.pdf.txt/ /AI/ /professor/ /70/ /28/ /0.695964/ /0.0360293
-qai.pdf.txt/ /AI/ /ipto/ /26/ /1/ /1.85733/ /0.0357137
-qai.pdf.txt/ /AI/ /languag/ /406/ /109/ /0.11697/ /0.0351213
-qai.pdf.txt/ /AI/ /project/ /291/ /98/ /0.162727/ /0.0350207
-qai.pdf.txt/ /AI/ /clue/ /48/ /14/ /0.982271/ /0.0348694
-qai.pdf.txt/ /AI/ /ball/ /66/ /27/ /0.711204/ /0.0347144
-qai.pdf.txt/ /AI/ /searl/ /34/ /5/ /1.38021/ /0.0347053
-qai.pdf.txt/ /AI/ /game/ /165/ /74/ /0.283301/ /0.0345703
-qai.pdf.txt/ /AI/ /ibid/ /32/ /4/ /1.45939/ /0.0345377
-qai.pdf.txt/ /AI/ /synset/ /25/ /1/ /1.85733/ /0.03434
-qai.pdf.txt/ /AI/ /esprit/ /25/ /1/ /1.85733/ /0.03434
-qai.pdf.txt/ /AI/ /gps/ /43/ /11/ /1.07918/ /0.034319
-qai.pdf.txt/ /AI/ /proposit/ /50/ /16/ /0.927914/ /0.0343122
-qai.pdf.txt/ /AI/ /richard/ /85/ /40/ /0.545579/ /0.0342963
-qai.pdf.txt/ /AI/ /dartmouth/ /41/ /10/ /1.11697/ /0.0338685
-qai.pdf.txt/ /AI/ /machin/ /525/ /117/ /0.0864805/ /0.0335775
-qai.pdf.txt/ /AI/ /alv/ /27/ /2/ /1.68124/ /0.0335711
-qai.pdf.txt/ /AI/ /blackboard/ /39/ /9/ /1.15836/ /0.0334103
-qai.pdf.txt/ /AI/ /thoma/ /70/ /32/ /0.639849/ /0.0331243
-qai.pdf.txt/ /AI/ /york/ /123/ /62/ /0.359022/ /0.0326586
-qai.pdf.txt/ /AI/ /paper/ /216/ /89/ /0.20412/ /0.032607
-qai.pdf.txt/ /AI/ /pandemonium/ /26/ /2/ /1.68124/ /0.0323277
-qai.pdf.txt/ /AI/ /nlp/ /26/ /2/ /1.68124/ /0.0323277
-qai.pdf.txt/ /AI/ /wordnet/ /26/ /2/ /1.68124/ /0.0323277
-qai.pdf.txt/ /AI/ /checker/ /65/ /30/ /0.667001/ /0.0320635
-qai.pdf.txt/ /AI/ /mino/ /23/ /1/ /1.85733/ /0.0315928
-qai.pdf.txt/ /AI/ /heurist/ /57/ /25/ /0.743389/ /0.0313374
-qai.pdf.txt/ /AI/ /cit/ /29/ /4/ /1.45939/ /0.0312998
-qai.pdf.txt/ /AI/ /barrow/ /25/ /2/ /1.68124/ /0.0310843
-qai.pdf.txt/ /AI/ /donald/ /50/ /20/ /0.836143/ /0.0309187
-qai.pdf.txt/ /AI/ /symbol/ /163/ /80/ /0.249877/ /0.0301221
-qai.pdf.txt/ /AI/ /valuat/ /31/ /6/ /1.31326/ /0.0301082
-qai.pdf.txt/ /AI/ /winograd/ /31/ /6/ /1.31326/ /0.0301082
-qai.pdf.txt/ /AI/ /tenenbaum/ /24/ /2/ /1.68124/ /0.0298409
-qai.pdf.txt/ /AI/ /train/ /73/ /40/ /0.545579/ /0.0294545
-qai.pdf.txt/ /AI/ /calculus/ /52/ /24/ /0.760423/ /0.0292435
-qai.pdf.txt/ /AI/ /herb/ /27/ /4/ /1.45939/ /0.0291412
-qai.pdf.txt/ /AI/ /deep/ /40/ /14/ /0.982271/ /0.0290578
-qai.pdf.txt/ /AI/ /deduct/ /40/ /14/ /0.982271/ /0.0290578
-qai.pdf.txt/ /AI/ /mumford/ /21/ /1/ /1.85733/ /0.0288456
-qai.pdf.txt/ /AI/ /philco/ /21/ /1/ /1.85733/ /0.0288456
-qai.pdf.txt/ /AI/ /permiss/ /95/ /55/ /0.410174/ /0.028818
-qai.pdf.txt/ /AI/ /institut/ /100/ /58/ /0.38751/ /0.0286586
-qai.pdf.txt/ /AI/ /shortliff/ /23/ /2/ /1.68124/ /0.0285976
-qai.pdf.txt/ /AI/ /dragon/ /33/ /9/ /1.15836/ /0.0282703
-qai.pdf.txt/ /AI/ /figur/ /269/ /103/ /0.141329/ /0.0281161
-qai.pdf.txt/ /AI/ /ma/ /78/ /46/ /0.486265/ /0.0280504
-qai.pdf.txt/ /AI/ /colleagu/ /56/ /30/ /0.667001/ /0.0276239
-qai.pdf.txt/ /AI/ /technolog/ /211/ /95/ /0.176091/ /0.0274784
-qai.pdf.txt/ /AI/ /quest/ /40/ /16/ /0.927914/ /0.0274498
-qai.pdf.txt/ /AI/ /linguist/ /41/ /17/ /0.90309/ /0.0273833
-qai.pdf.txt/ /AI/ /theori/ /145/ /79/ /0.255273/ /0.0273743
-qai.pdf.txt/ /AI/ /book/ /177/ /88/ /0.208972/ /0.0273548
-qai.pdf.txt/ /AI/ /selman/ /22/ /2/ /1.68124/ /0.0273542
-qai.pdf.txt/ /AI/ /georg/ /59/ /33/ /0.626884/ /0.0273533
-qai.pdf.txt/ /AI/ /rule/ /254/ /102/ /0.145525/ /0.0273365
-qai.pdf.txt/ /AI/ /weight/ /88/ /54/ /0.418/ /0.0272038
-qai.pdf.txt/ /AI/ /allen/ /46/ /22/ /0.796635/ /0.0271012
-qai.pdf.txt/ /AI/ /student/ /96/ /59/ /0.380211/ /0.026994
-qai.pdf.txt/ /AI/ /journal/ /84/ /52/ /0.434087/ /0.0269666
-qai.pdf.txt/ /AI/ /jame/ /68/ /41/ /0.535113/ /0.0269108
-qai.pdf.txt/ /AI/ /workshop/ /58/ /33/ /0.626884/ /0.0268897
-qai.pdf.txt/ /AI/ /tree/ /191/ /92/ /0.18988/ /0.0268215
-qai.pdf.txt/ /AI/ /brook/ /38/ /15/ /0.954243/ /0.0268172
-qai.pdf.txt/ /AI/ /puzzl/ /38/ /15/ /0.954243/ /0.0268172
-qai.pdf.txt/ /AI/ /score/ /53/ /29/ /0.681241/ /0.0267023
-qai.pdf.txt/ /AI/ /schaeffer/ /23/ /3/ /1.5563/ /0.0264724
-qai.pdf.txt/ /AI/ /waveform/ /32/ /10/ /1.11697/ /0.026434
-qai.pdf.txt/ /AI/ /quinlan/ /27/ /6/ /1.31326/ /0.0262233
-qai.pdf.txt/ /AI/ /action/ /236/ /101/ /0.149762/ /0.0261388
-qai.pdf.txt/ /AI/ /lunar/ /21/ /2/ /1.68124/ /0.0261108
-qai.pdf.txt/ /AI/ /databas/ /117/ /71/ /0.30103/ /0.0260476
-qai.pdf.txt/ /AI/ /michael/ /62/ /38/ /0.567298/ /0.026012
-qai.pdf.txt/ /AI/ /kaufmann/ /41/ /19/ /0.857332/ /0.0259959
-qai.pdf.txt/ /AI/ /sir/ /28/ /7/ /1.25527/ /0.0259937
-qai.pdf.txt/ /AI/ /roger/ /43/ /21/ /0.81594/ /0.0259476
-qai.pdf.txt/ /AI/ /note/ /202/ /96/ /0.171591/ /0.025634
-qai.pdf.txt/ /AI/ /logic/ /148/ /83/ /0.234083/ /0.0256214
-qai.pdf.txt/ /AI/ /andrew/ /53/ /31/ /0.653212/ /0.0256036
-qai.pdf.txt/ /AI/ /ronald/ /32/ /11/ /1.07918/ /0.0255397
-qai.pdf.txt/ /AI/ /aaai/ /25/ /5/ /1.38021/ /0.0255186
-qai.pdf.txt/ /AI/ /stanley/ /25/ /5/ /1.38021/ /0.0255186
-qai.pdf.txt/ /AI/ /english/ /75/ /49/ /0.459393/ /0.025481
-qai.pdf.txt/ /AI/ /medicin/ /34/ /13/ /1.01223/ /0.0254525
-qai.pdf.txt/ /AI/ /belief/ /44/ /23/ /0.778151/ /0.0253214
-qai.pdf.txt/ /AI/ /bart/ /22/ /3/ /1.5563/ /0.0253214
-qai.pdf.txt/ /AI/ /arpa/ /26/ /6/ /1.31326/ /0.0252521
-qai.pdf.txt/ /AI/ /thesi/ /49/ /28/ /0.695964/ /0.0252205
-qai.pdf.txt/ /AI/ /peopl/ /171/ /90/ /0.199321/ /0.025207
-qai.pdf.txt/ /AI/ /scienc/ /221/ /100/ /0.154041/ /0.0251768
-qai.pdf.txt/ /AI/ /new/ /179/ /92/ /0.18988/ /0.0251364
-qai.pdf.txt/ /AI/ /pars/ /72/ /48/ /0.468166/ /0.0249289
-qai.pdf.txt/ /AI/ /team/ /72/ /48/ /0.468166/ /0.0249289
-qai.pdf.txt/ /AI/ /apprentic/ /20/ /2/ /1.68124/ /0.0248675
-qai.pdf.txt/ /AI/ /hearsay-ii/ /20/ /2/ /1.68124/ /0.0248675
-qai.pdf.txt/ /AI/ /freddi/ /20/ /2/ /1.68124/ /0.0248675
-qai.pdf.txt/ /AI/ /shrdlu/ /23/ /4/ /1.45939/ /0.024824
-qai.pdf.txt/ /AI/ /cart/ /30/ /10/ /1.11697/ /0.0247819
-qai.pdf.txt/ /AI/ /np/ /31/ /11/ /1.07918/ /0.0247416
-qai.pdf.txt/ /AI/ /joint/ /45/ /25/ /0.743389/ /0.02474
-qai.pdf.txt/ /AI/ /web/ /146/ /84/ /0.228944/ /0.0247202
-qai.pdf.txt/ /AI/ /psycholog/ /36/ /16/ /0.927914/ /0.0247048
-qai.pdf.txt/ /AI/ /understand/ /159/ /88/ /0.208972/ /0.024573
-qai.pdf.txt/ /AI/ /rodney/ /24/ /5/ /1.38021/ /0.0244979
-qai.pdf.txt/ /AI/ /1960s/ /49/ /30/ /0.667001/ /0.0241709
-qai.pdf.txt/ /AI/ /corpor/ /62/ /42/ /0.524894/ /0.0240677
-qai.pdf.txt/ /AI/ /peter/ /63/ /43/ /0.51491/ /0.0239907
-qai.pdf.txt/ /AI/ /memo/ /33/ /14/ /0.982271/ /0.0239727
-qai.pdf.txt/ /AI/ /acronym/ /46/ /28/ /0.695964/ /0.0236764
-qai.pdf.txt/ /AI/ /percept/ /49/ /31/ /0.653212/ /0.0236713
-qai.pdf.txt/ /AI/ /pp/ /50/ /32/ /0.639849/ /0.0236602
-qai.pdf.txt/ /AI/ /gsat/ /19/ /2/ /1.68124/ /0.0236241
-qai.pdf.txt/ /AI/ /director/ /42/ /24/ /0.760423/ /0.0236198
-qai.pdf.txt/ /AI/ /samuel/ /40/ /22/ /0.796635/ /0.0235662
-qai.pdf.txt/ /AI/ /mcculloch/ /23/ /5/ /1.38021/ /0.0234771
-qai.pdf.txt/ /AI/ /dendral/ /23/ /5/ /1.38021/ /0.0234771
-qai.pdf.txt/ /AI/ /op/ /57/ /39/ /0.556302/ /0.0234508
-qai.pdf.txt/ /AI/ /queri/ /73/ /52/ /0.434087/ /0.0234353
-qai.pdf.txt/ /AI/ /method/ /322/ /114/ /0.0976646/ /0.0232576
-qai.pdf.txt/ /AI/ /ross/ /32/ /14/ /0.982271/ /0.0232462
-qai.pdf.txt/ /AI/ /reason/ /309/ /113/ /0.101458/ /0.0231854
-qai.pdf.txt/ /AI/ /tank/ /30/ /12/ /1.04442/ /0.0231722
-qai.pdf.txt/ /AI/ /walter/ /29/ /11/ /1.07918/ /0.0231453
-qai.pdf.txt/ /AI/ /intern/ /120/ /78/ /0.260735/ /0.0231394
-qai.pdf.txt/ /AI/ /morgan/ /43/ /26/ /0.726999/ /0.0231192
-qai.pdf.txt/ /AI/ /fgcs/ /20/ /3/ /1.5563/ /0.0230195
-qai.pdf.txt/ /AI/ /lenat/ /20/ /3/ /1.5563/ /0.0230195
-qai.pdf.txt/ /AI/ /surfac/ /73/ /53/ /0.425969/ /0.022997
-qai.pdf.txt/ /AI/ /scientist/ /58/ /41/ /0.535113/ /0.0229533
-qai.pdf.txt/ /AI/ /san/ /65/ /47/ /0.477121/ /0.0229358
-qai.pdf.txt/ /AI/ /alan/ /50/ /34/ /0.614294/ /0.0227153
-qai.pdf.txt/ /AI/ /laird/ /22/ /5/ /1.38021/ /0.0224564
-qai.pdf.txt/ /AI/ /articl/ /66/ /49/ /0.459393/ /0.0224233
-qai.pdf.txt/ /AI/ /brachman/ /18/ /2/ /1.68124/ /0.0223807
-qai.pdf.txt/ /AI/ /lsa/ /18/ /2/ /1.68124/ /0.0223807
-qai.pdf.txt/ /AI/ /koza/ /18/ /2/ /1.68124/ /0.0223807
-qai.pdf.txt/ /AI/ /horn/ /28/ /11/ /1.07918/ /0.0223472
-qai.pdf.txt/ /AI/ /feldman/ /24/ /7/ /1.25527/ /0.0222803
-qai.pdf.txt/ /AI/ /propos/ /49/ /34/ /0.614294/ /0.022261
-qai.pdf.txt/ /AI/ /theorem/ /63/ /47/ /0.477121/ /0.0222301
-qai.pdf.txt/ /AI/ /comput/ /1207/ /135/ /0.0248236/ /0.0221587
-qai.pdf.txt/ /AI/ /ieee/ /66/ /50/ /0.450792/ /0.0220035
-qai.pdf.txt/ /AI/ /summer/ /40/ /25/ /0.743389/ /0.0219911
-qai.pdf.txt/ /AI/ /russel/ /40/ /25/ /0.743389/ /0.0219911
-qai.pdf.txt/ /AI/ /albus/ /16/ /1/ /1.85733/ /0.0219776
-qai.pdf.txt/ /AI/ /dpll/ /16/ /1/ /1.85733/ /0.0219776
-qai.pdf.txt/ /AI/ /heilmeier/ /16/ /1/ /1.85733/ /0.0219776
-qai.pdf.txt/ /AI/ /consult/ /39/ /24/ /0.760423/ /0.0219326
-qai.pdf.txt/ /AI/ /march/ /52/ /38/ /0.567298/ /0.0218165
-qai.pdf.txt/ /AI/ /sc/ /37/ /22/ /0.796635/ /0.0217988
-qai.pdf.txt/ /AI/ /goal/ /186/ /99/ /0.158363/ /0.0217839
-qai.pdf.txt/ /AI/ /compani/ /94/ /69/ /0.313264/ /0.0217776
-qai.pdf.txt/ /AI/ /william/ /55/ /41/ /0.535113/ /0.021766
-qai.pdf.txt/ /AI/ /e-mail/ /42/ /28/ /0.695964/ /0.0216176
-qai.pdf.txt/ /AI/ /nil/ /34/ /19/ /0.857332/ /0.0215576
-qai.pdf.txt/ /AI/ /demonstr/ /40/ /26/ /0.726999/ /0.0215063
-qai.pdf.txt/ /AI/ /lee/ /39/ /25/ /0.743389/ /0.0214413
-qai.pdf.txt/ /AI/ /francisco/ /50/ /37/ /0.578579/ /0.0213946
-qai.pdf.txt/ /AI/ /reddi/ /23/ /7/ /1.25527/ /0.0213519
-qai.pdf.txt/ /AI/ /claus/ /57/ /44/ /0.50515/ /0.0212945
-qai.pdf.txt/ /AI/ /wood/ /36/ /22/ /0.796635/ /0.0212096
-qai.pdf.txt/ /AI/ /levesqu/ /17/ /2/ /1.68124/ /0.0211373
-qai.pdf.txt/ /AI/ /engin/ /180/ /99/ /0.158363/ /0.0210812
-qai.pdf.txt/ /AI/ /report/ /150/ /92/ /0.18988/ /0.021064
-qai.pdf.txt/ /AI/ /air/ /48/ /36/ /0.590161/ /0.0209499
-qai.pdf.txt/ /AI/ /center/ /82/ /64/ /0.345449/ /0.0209493
-qai.pdf.txt/ /AI/ /node/ /121/ /83/ /0.234083/ /0.0209472
-qai.pdf.txt/ /AI/ /martin/ /43/ /31/ /0.653212/ /0.0207728
-qai.pdf.txt/ /AI/ /entrant/ /15/ /1/ /1.85733/ /0.020604
-qai.pdf.txt/ /AI/ /hasp/siap/ /15/ /1/ /1.85733/ /0.020604
-qai.pdf.txt/ /AI/ /hildreth/ /15/ /1/ /1.85733/ /0.020604
-qai.pdf.txt/ /AI/ /chat-80/ /15/ /1/ /1.85733/ /0.020604
-qai.pdf.txt/ /AI/ /idea/ /203/ /104/ /0.137173/ /0.0205938
-qai.pdf.txt/ /AI/ /juli/ /48/ /37/ /0.578579/ /0.0205388
-qai.pdf.txt/ /AI/ /raj/ /19/ /4/ /1.45939/ /0.0205068
-qai.pdf.txt/ /AI/ /eliza/ /19/ /4/ /1.45939/ /0.0205068
-qai.pdf.txt/ /AI/ /ture/ /65/ /53/ /0.425969/ /0.0204768
-qai.pdf.txt/ /AI/ /symposium/ /38/ /26/ /0.726999/ /0.0204309
-qai.pdf.txt/ /AI/ /pump/ /22/ /7/ /1.25527/ /0.0204236
-qai.pdf.txt/ /AI/ /word/ /244/ /110/ /0.113039/ /0.0203982
-qai.pdf.txt/ /AI/ /prize/ /26/ /12/ /1.04442/ /0.0200826
-qai.pdf.txt/ /AI/ /biolog/ /26/ /12/ /1.04442/ /0.0200826
-qai.pdf.txt/ /AI/ /august/ /46/ /36/ /0.590161/ /0.020077
-qai.pdf.txt/ /AI/ /blue/ /39/ /28/ /0.695964/ /0.0200735
-qai.pdf.txt/ /AI/ /p3/ /34/ /22/ /0.796635/ /0.0200313
-qai.pdf.txt/ /AI/ /man/ /71/ /59/ /0.380211/ /0.0199643
-qai.pdf.txt/ /AI/ /lisp/ /43/ /33/ /0.626884/ /0.0199355
-qai.pdf.txt/ /AI/ /backprop/ /16/ /2/ /1.68124/ /0.019894
-qai.pdf.txt/ /AI/ /sensor/ /42/ /32/ /0.639849/ /0.0198746
-qai.pdf.txt/ /AI/ /defens/ /41/ /31/ /0.653212/ /0.0198066
-qai.pdf.txt/ /AI/ /publish/ /56/ /47/ /0.477121/ /0.01976
-qai.pdf.txt/ /AI/ /societi/ /56/ /47/ /0.477121/ /0.01976
-qai.pdf.txt/ /AI/ /technic/ /65/ /55/ /0.410174/ /0.0197176
-qai.pdf.txt/ /AI/ /herbert/ /23/ /9/ /1.15836/ /0.0197035
-qai.pdf.txt/ /AI/ /ocean/ /23/ /9/ /1.15836/ /0.0197035
-qai.pdf.txt/ /AI/ /progress/ /77/ /64/ /0.345449/ /0.0196719
-qai.pdf.txt/ /AI/ /spacecraft/ /22/ /8/ /1.20412/ /0.0195913
-qai.pdf.txt/ /AI/ /epam/ /17/ /3/ /1.5563/ /0.0195665
-qai.pdf.txt/ /AI/ /alvinn/ /17/ /3/ /1.5563/ /0.0195665
-qai.pdf.txt/ /AI/ /buchanan/ /21/ /7/ /1.25527/ /0.0194952
-qai.pdf.txt/ /AI/ /kahn/ /21/ /7/ /1.25527/ /0.0194952
-qai.pdf.txt/ /AI/ /washington/ /33/ /22/ /0.796635/ /0.0194422
-qai.pdf.txt/ /AI/ /norvig/ /20/ /6/ /1.31326/ /0.0194247
-qai.pdf.txt/ /AI/ /probabilist/ /20/ /6/ /1.31326/ /0.0194247
-qai.pdf.txt/ /AI/ /work/ /404/ /123/ /0.0649408/ /0.0194031
-qai.pdf.txt/ /AI/ /ibm/ /69/ /59/ /0.380211/ /0.0194019
-qai.pdf.txt/ /AI/ /gelernt/ /19/ /5/ /1.38021/ /0.0193941
-qai.pdf.txt/ /AI/ /rumelhart/ /19/ /5/ /1.38021/ /0.0193941
-qai.pdf.txt/ /AI/ /semant/ /70/ /60/ /0.373033/ /0.0193115
-qai.pdf.txt/ /AI/ /pilot/ /25/ /12/ /1.04442/ /0.0193102
-qai.pdf.txt/ /AI/ /calo/ /14/ /1/ /1.85733/ /0.0192304
-qai.pdf.txt/ /AI/ /charl/ /43/ /35/ /0.60206/ /0.0191461
-qai.pdf.txt/ /AI/ /octob/ /42/ /34/ /0.614294/ /0.0190808
-qai.pdf.txt/ /AI/ /p4/ /27/ /15/ /0.954243/ /0.0190543
-qai.pdf.txt/ /AI/ /fund/ /33/ /23/ /0.778151/ /0.0189911
-qai.pdf.txt/ /AI/ /magazin/ /33/ /23/ /0.778151/ /0.0189911
-qai.pdf.txt/ /AI/ /offic/ /58/ /51/ /0.442359/ /0.0189747
-qai.pdf.txt/ /AI/ /terrain/ /22/ /9/ /1.15836/ /0.0188468
-qai.pdf.txt/ /AI/ /museum/ /22/ /9/ /1.15836/ /0.0188468
-qai.pdf.txt/ /AI/ /dialog/ /35/ /26/ /0.726999/ /0.018818
-qai.pdf.txt/ /AI/ /architectur/ /185/ /104/ /0.137173/ /0.0187678
-qai.pdf.txt/ /AI/ /program/ /905/ /134/ /0.0280287/ /0.0187596
-qai.pdf.txt/ /AI/ /strip/ /38/ /30/ /0.667001/ /0.0187448
-qai.pdf.txt/ /AI/ /obstacl/ /31/ /21/ /0.81594/ /0.0187064
-qai.pdf.txt/ /AI/ /stuart/ /21/ /8/ /1.20412/ /0.0187008
-qai.pdf.txt/ /AI/ /thought/ /56/ /50/ /0.450792/ /0.0186696
-qai.pdf.txt/ /AI/ /hector/ /15/ /2/ /1.68124/ /0.0186506
-qai.pdf.txt/ /AI/ /rosenbloom/ /15/ /2/ /1.68124/ /0.0186506
-qai.pdf.txt/ /AI/ /nation/ /71/ /63/ /0.352183/ /0.0184926
-qai.pdf.txt/ /AI/ /chapter/ /138/ /94/ /0.180639/ /0.0184358
-qai.pdf.txt/ /AI/ /icot/ /16/ /3/ /1.5563/ /0.0184156
-qai.pdf.txt/ /AI/ /rax/ /16/ /3/ /1.5563/ /0.0184156
-qai.pdf.txt/ /AI/ /ijcai/ /16/ /3/ /1.5563/ /0.0184156
-qai.pdf.txt/ /AI/ /janet/ /16/ /3/ /1.5563/ /0.0184156
-qai.pdf.txt/ /AI/ /vaucanson/ /16/ /3/ /1.5563/ /0.0184156
-qai.pdf.txt/ /AI/ /pearl/ /18/ /5/ /1.38021/ /0.0183734
-qai.pdf.txt/ /AI/ /cybernet/ /17/ /4/ /1.45939/ /0.0183481
-qai.pdf.txt/ /AI/ /triangl/ /37/ /30/ /0.667001/ /0.0182515
-qai.pdf.txt/ /AI/ /road/ /43/ /38/ /0.567298/ /0.0180406
-qai.pdf.txt/ /AI/ /achiev/ /35/ /28/ /0.695964/ /0.0180147
-qai.pdf.txt/ /AI/ /face/ /64/ /59/ /0.380211/ /0.017996
-qai.pdf.txt/ /AI/ /intens/ /32/ /24/ /0.760423/ /0.017996
-qai.pdf.txt/ /AI/ /schwartz/ /21/ /9/ /1.15836/ /0.0179902
-qai.pdf.txt/ /AI/ /london/ /42/ /37/ /0.578579/ /0.0179715
-qai.pdf.txt/ /AI/ /motor/ /34/ /27/ /0.711204/ /0.0178832
-qai.pdf.txt/ /AI/ /lifer/ /13/ /1/ /1.85733/ /0.0178568
-qai.pdf.txt/ /AI/ /td-gammon/ /13/ /1/ /1.85733/ /0.0178568
-qai.pdf.txt/ /AI/ /dinneen/ /13/ /1/ /1.85733/ /0.0178568
-qai.pdf.txt/ /AI/ /landauer/ /13/ /1/ /1.85733/ /0.0178568
-qai.pdf.txt/ /AI/ /sobel/ /13/ /1/ /1.85733/ /0.0178568
-qai.pdf.txt/ /AI/ /vector/ /85/ /74/ /0.283301/ /0.017809
-qai.pdf.txt/ /AI/ /represent/ /170/ /103/ /0.141329/ /0.0177685
-qai.pdf.txt/ /AI/ /jonathan/ /23/ /12/ /1.04442/ /0.0177654
-qai.pdf.txt/ /AI/ /hypothesi/ /28/ /19/ /0.857332/ /0.0177533
-qai.pdf.txt/ /AI/ /site/ /90/ /77/ /0.266268/ /0.0177228
-qai.pdf.txt/ /AI/ /prolog/ /25/ /15/ /0.954243/ /0.0176429
-qai.pdf.txt/ /AI/ /mind/ /82/ /73/ /0.289131/ /0.0175339
-qai.pdf.txt/ /AI/ /cortex/ /18/ /6/ /1.31326/ /0.0174822
-qai.pdf.txt/ /AI/ /stanhop/ /14/ /2/ /1.68124/ /0.0174072
-qai.pdf.txt/ /AI/ /berthold/ /14/ /2/ /1.68124/ /0.0174072
-qai.pdf.txt/ /AI/ /kanal/ /14/ /2/ /1.68124/ /0.0174072
-qai.pdf.txt/ /AI/ /georgeff/ /14/ /2/ /1.68124/ /0.0174072
-qai.pdf.txt/ /AI/ /laveen/ /14/ /2/ /1.68124/ /0.0174072
-qai.pdf.txt/ /AI/ /cbc/ /14/ /2/ /1.68124/ /0.0174072
-qai.pdf.txt/ /AI/ /iu/ /14/ /2/ /1.68124/ /0.0174072
-qai.pdf.txt/ /AI/ /hendrix/ /14/ /2/ /1.68124/ /0.0174072
-qai.pdf.txt/ /AI/ /pitt/ /17/ /5/ /1.38021/ /0.0173526
-qai.pdf.txt/ /AI/ /california/ /42/ /39/ /0.556302/ /0.0172795
-qai.pdf.txt/ /AI/ /hubert/ /16/ /4/ /1.45939/ /0.0172688
-qai.pdf.txt/ /AI/ /lederberg/ /16/ /4/ /1.45939/ /0.0172688
-qai.pdf.txt/ /AI/ /kirsch/ /15/ /3/ /1.5563/ /0.0172646
-qai.pdf.txt/ /AI/ /bay/ /23/ /13/ /1.01223/ /0.0172179
-qai.pdf.txt/ /AI/ /controversi/ /25/ /16/ /0.927914/ /0.0171561
+computer_graphics
+302
+hologram 60
+graphic 21
+display 20
+content 19
+comput 18
+figur 16
+interact 15
+wave 14
+applic 13
+light 11
+object 11
+effect 11
+oliv 10
+bimber 10
+refer 10
+element 10
+holograph 9
+imag 9
+april 9
+screen 9
+reflect 8
+projector 8
+desktop 8
+window 8
+qualiti 7
+type 7
+techniqu 7
+area 7
+variat 7
+illumin 7
+project 6
+scene 6
+view 6
+plate 6
+emuls 6
+render 5
+simul 5
+museum 5
+transmiss 5
+rainbow 5
+intens 5
+amplitud 5
+portion 5
+front 5
+experi 5
+data 5
+frame 5
+artifact 5
+scienc 4
+today 4
+goal 4
+space 4
+wavelength 4
+posit 4
+color 4
+video 4
+case 4
+investig 4
+side 4
+inform 4
+dinosaur 4
+skull 4
+tissu 4
+record 4
+user 4
+photograph 4
+zone 4
+rate 4
+model 4
+tool 3
+research 3
+present 3
+domain 3
+technolog 3
+advantag 3
+realism 3
+concept 3
+visual 3
+result 3
+white-light 3
+monochrom 3
+state 3
+combin 3
+addit 3
+shadow 3
+prototyp 3
+car 3
+perspect 3
+environ 3
+exampl 3
+devic 3
+develop 3
+demonstr 3
+engin 2
+industri 2
+educ 2
+support 2
+potenti 2
+new 2
+holographi 2
+algorithm 2
+registr 2
+method 2
+design 2
+point-sourc 2
+number 2
+angl 2
+sourc 2
+time 2
+layer 2
+3d 2
+represent 2
+bone 2
+shade 2
+sceneri 2
+hardwar 2
+corner 2
+compon 2
+track 2
+glass 2
+movi 2
+instanc 2
+motion 2
+process 2
+headlight 2
+cad 2
+reconstruct 2
+way 2
+mode 2
+integr 2
+scientist 2
+feedback 2
+illustr 2
+futur 2
+form 2
+deutsch 2
+forschungsgemeinschaft 2
+dfg 2
+author 1
+junior 1
+professor 1
+augment 1
+realiti 1
+bauhaus 1
+weimar 1
+germani 1
+phd 1
+technic 1
+darmstadt 1
+problem 1
+possibl 1
+queue 1
+observ 1
+cost 1
+effici 1
+capabl 1
+anim 1
+topic 1
+respect 1
+metaphor 1
+outcom 1
+paleontolog 1
+patholog 1
+densiti 1
+medicin 1
+biomedicin 1
+orthoped 1
+archeolog 1
+manufactur 1
+assur 1
+train 1
+laser 1
+other 1
+diffract 1
+viewer 1
+point 1
+contrast 1
+parallax 1
+videoprojector 1
+lamp 1
+wavefront 1
+indifferentdirect 1
+depend 1
+gap 1
+back 1
+dimension 1
+occlus 1
+fraction 1
+permit 1
+modif 1
+uniform 1
+influenc 1
+synthet 1
+rainbowholograma 1
+vice 1
+shelf 1
+sheet 1
+head-find 1
+crt 1
+stereo 1
+touch 1
+pc 1
+output 1
+card 1
+protect 1
+mirror 1
+beam 1
+splitter 1
+mous 1
+multiplex 1
+digit 1
+use 1
+printer 1
+2d 1
+achievewith 1
+non-expert 1
+print 1
+seri 1
+resolut 1
+appear 1
+sharp 1
+step 1
+sub-zon 1
+plane 1
+abil 1
+desktop-window 1
+softwar 1
+screen/desktop 1
+dimens 1
+graphicswindowar 1
+bind 1
+referencewav 1
+top 1
+boundari 1
+focus 1
+togetherwith 1
+barrier 1
+outlook 1
+amount 1
+loss 1
+moor 1
+law 1
+power 1
+month 1
+order 1
+altern 1
+consum 1
+archaeologist 1
+archiv 1
+copi 1
+access 1
+replica 1
+pack 1
+task 1
+collect 1
+album 1
+x-ray 1
+ct 1
+mri 1
+organ 1
+set 1
+system 1
+counterpart 1
+releas 1
+resourc 1
+interferogram 1
+measur 1
+test 1
+analogu 1
+vibrat 1
+ordeform 1
+multimedia 1
+exhibitor 1
+excit 1
+text 1
+respond 1
+spotlight 1
+fashion 1
+input 1
+progress 1
+solut 1
+properti 1
+setup 1
+factor 1
+varieti 1
+calibr 1
+optic 1
+regist 1
+limit 1
+approach 1
+evalu 1
+implement 1
+address 1
+expert 1
+acknowledg 1
+daimlerchrysl 1
+ag 1
+byohio 1
+depart 1
+biomed 1
+januari 1
+ieee 1

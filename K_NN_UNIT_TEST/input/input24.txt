@@ -1,360 +1,471 @@
-Compilers.pdf.txt/ /compiler/ /grammar/ /165/ /38/ /0.567298/ /0.390281
-Compilers.pdf.txt/ /compiler/ /pars/ /179/ /48/ /0.468166/ /0.34941
-Compilers.pdf.txt/ /compiler/ /parser/ /123/ /34/ /0.614294/ /0.315038
-Compilers.pdf.txt/ /compiler/ /lr/ /58/ /17/ /0.90309/ /0.218394
-Compilers.pdf.txt/ /compiler/ /intexp/ /28/ /2/ /1.68124/ /0.196277
-Compilers.pdf.txt/ /compiler/ /goto/ /73/ /33/ /0.626884/ /0.190806
-Compilers.pdf.txt/ /compiler/ /simplenod/ /23/ /2/ /1.68124/ /0.161228
-Compilers.pdf.txt/ /compiler/ /dfa/ /31/ /9/ /1.15836/ /0.149723
-Compilers.pdf.txt/ /compiler/ /analys/ /53/ /34/ /0.614294/ /0.135748
-Compilers.pdf.txt/ /compiler/ /javacc/ /22/ /4/ /1.45939/ /0.133868
-Compilers.pdf.txt/ /compiler/ /reg/ /38/ /22/ /0.796635/ /0.126219
-Compilers.pdf.txt/ /compiler/ /symbol/ /117/ /80/ /0.249877/ /0.121897
-Compilers.pdf.txt/ /compiler/ /lexicalanalys/ /17/ /2/ /1.68124/ /0.119168
-Compilers.pdf.txt/ /compiler/ /multexp/ /17/ /2/ /1.68124/ /0.119168
-Compilers.pdf.txt/ /compiler/ /closur/ /39/ /31/ /0.653212/ /0.106219
-Compilers.pdf.txt/ /compiler/ /token/ /45/ /39/ /0.556302/ /0.104377
-Compilers.pdf.txt/ /compiler/ /node/ /104/ /83/ /0.234083/ /0.101505
-Compilers.pdf.txt/ /compiler/ /boolexp/ /15/ /3/ /1.5563/ /0.0973346
-Compilers.pdf.txt/ /compiler/ /jjtree/ /15/ /3/ /1.5563/ /0.0973346
-Compilers.pdf.txt/ /compiler/ /slr/ /18/ /7/ /1.25527/ /0.094209
-Compilers.pdf.txt/ /compiler/ /string/ /101/ /86/ /0.218843/ /0.0921587
-Compilers.pdf.txt/ /compiler/ /tac/ /16/ /5/ /1.38021/ /0.0920762
-Compilers.pdf.txt/ /compiler/ /express/ /96/ /85/ /0.223864/ /0.089606
-Compilers.pdf.txt/ /compiler/ /lexem/ /14/ /4/ /1.45939/ /0.0851887
-Compilers.pdf.txt/ /compiler/ /ai-product/ /11/ /2/ /1.68124/ /0.0771089
-Compilers.pdf.txt/ /compiler/ /temp/ /26/ /27/ /0.711204/ /0.0770991
-Compilers.pdf.txt/ /compiler/ /tree/ /96/ /92/ /0.18988/ /0.0760031
-Compilers.pdf.txt/ /compiler/ /deriv/ /38/ /48/ /0.468166/ /0.0741764
-Compilers.pdf.txt/ /compiler/ /ll/ /25/ /27/ /0.711204/ /0.0741338
-Compilers.pdf.txt/ /compiler/ /aj/ /13/ /6/ /1.31326/ /0.0711832
-Compilers.pdf.txt/ /compiler/ /lrp/ /10/ /2/ /1.68124/ /0.070099
-Compilers.pdf.txt/ /compiler/ /temp3/ /10/ /2/ /1.68124/ /0.070099
-Compilers.pdf.txt/ /compiler/ /cababc/ /10/ /2/ /1.68124/ /0.070099
-Compilers.pdf.txt/ /compiler/ /lex/ /19/ /18/ /0.879609/ /0.0696827
-Compilers.pdf.txt/ /compiler/ /current/ /26/ /32/ /0.639849/ /0.0693637
-Compilers.pdf.txt/ /compiler/ /languag/ /142/ /109/ /0.11697/ /0.0692538
-Compilers.pdf.txt/ /compiler/ /syntax/ /49/ /65/ /0.338819/ /0.0692221
-Compilers.pdf.txt/ /compiler/ /visit/ /23/ /29/ /0.681241/ /0.0653297
-Compilers.pdf.txt/ /compiler/ /optimis/ /13/ /8/ /1.20412/ /0.0652672
-Compilers.pdf.txt/ /compiler/ /children/ /30/ /46/ /0.486265/ /0.0608241
-Compilers.pdf.txt/ /compiler/ /dmem/ /9/ /3/ /1.5563/ /0.0584007
-Compilers.pdf.txt/ /compiler/ /bca/ /12/ /10/ /1.11697/ /0.0558862
-Compilers.pdf.txt/ /compiler/ /first/ /76/ /95/ /0.176091/ /0.0557999
-Compilers.pdf.txt/ /compiler/ /i4/ /9/ /4/ /1.45939/ /0.0547642
-Compilers.pdf.txt/ /compiler/ /dfas/ /9/ /4/ /1.45939/ /0.0547642
-Compilers.pdf.txt/ /compiler/ /coursework/ /10/ /6/ /1.31326/ /0.0547563
-Compilers.pdf.txt/ /compiler/ /identifi/ /39/ /66/ /0.332288/ /0.0540332
-Compilers.pdf.txt/ /compiler/ /i7/ /10/ /7/ /1.25527/ /0.0523383
-Compilers.pdf.txt/ /compiler/ /:{/ /9/ /5/ /1.38021/ /0.0517929
-Compilers.pdf.txt/ /compiler/ /i2/ /13/ /15/ /0.954243/ /0.051723
-Compilers.pdf.txt/ /compiler/ /xm/ /10/ /8/ /1.20412/ /0.0502055
-Compilers.pdf.txt/ /compiler/ /visitor/ /13/ /17/ /0.90309/ /0.0489504
-Compilers.pdf.txt/ /compiler/ /shift/reduc/ /8/ /4/ /1.45939/ /0.0486792
-Compilers.pdf.txt/ /compiler/ /product/ /93/ /107/ /0.124939/ /0.0484464
-Compilers.pdf.txt/ /compiler/ /keyword/ /27/ /55/ /0.410174/ /0.0461758
-Compilers.pdf.txt/ /compiler/ /bac/ /8/ /5/ /1.38021/ /0.0460381
-Compilers.pdf.txt/ /compiler/ /recurs/ /26/ /54/ /0.418/ /0.0453139
-Compilers.pdf.txt/ /compiler/ /i3/ /9/ /8/ /1.20412/ /0.045185
-Compilers.pdf.txt/ /compiler/ /ai/ /20/ /41/ /0.535113/ /0.0446229
-Compilers.pdf.txt/ /compiler/ /prefix/ /25/ /53/ /0.425969/ /0.0444017
-Compilers.pdf.txt/ /compiler/ /instruct/ /56/ /92/ /0.18988/ /0.0443351
-Compilers.pdf.txt/ /compiler/ /int/ /30/ /63/ /0.352183/ /0.0440525
-Compilers.pdf.txt/ /compiler/ /exp/ /17/ /34/ /0.614294/ /0.0435419
-Compilers.pdf.txt/ /compiler/ /match/ /33/ /69/ /0.313264/ /0.0431029
-Compilers.pdf.txt/ /compiler/ /integerexpress/ /6/ /2/ /1.68124/ /0.0420594
-Compilers.pdf.txt/ /compiler/ /compil/ /45/ /85/ /0.223864/ /0.0420028
-Compilers.pdf.txt/ /compiler/ /sm/ /8/ /7/ /1.25527/ /0.0418707
-Compilers.pdf.txt/ /compiler/ /rule/ /67/ /102/ /0.145525/ /0.0406532
-Compilers.pdf.txt/ /compiler/ /lalr/ /9/ /11/ /1.07918/ /0.0404966
-Compilers.pdf.txt/ /compiler/ /writeln/ /7/ /5/ /1.38021/ /0.0402833
-Compilers.pdf.txt/ /compiler/ /assign/ /36/ /77/ /0.266268/ /0.0399671
-Compilers.pdf.txt/ /compiler/ /dump/ /11/ /19/ /0.857332/ /0.0393209
-Compilers.pdf.txt/ /compiler/ /intvalu/ /6/ /3/ /1.5563/ /0.0389338
-Compilers.pdf.txt/ /compiler/ /tostr/ /7/ /6/ /1.31326/ /0.0383294
-Compilers.pdf.txt/ /compiler/ /lda/ /7/ /6/ /1.31326/ /0.0383294
-Compilers.pdf.txt/ /compiler/ /code/ /92/ /114/ /0.0976646/ /0.0374634
-Compilers.pdf.txt/ /compiler/ /i6/ /6/ /4/ /1.45939/ /0.0365094
-Compilers.pdf.txt/ /compiler/ /var/ /15/ /37/ /0.578579/ /0.0361856
-Compilers.pdf.txt/ /compiler/ /error/ /82/ /112/ /0.105284/ /0.0359963
-Compilers.pdf.txt/ /compiler/ /re/ /16/ /41/ /0.535113/ /0.0356983
-Compilers.pdf.txt/ /compiler/ /command/ /44/ /91/ /0.194575/ /0.0356961
-Compilers.pdf.txt/ /compiler/ /integ/ /37/ /84/ /0.228944/ /0.0353193
-Compilers.pdf.txt/ /compiler/ /r12/ /7/ /8/ /1.20412/ /0.0351439
-Compilers.pdf.txt/ /compiler/ /temp4/ /5/ /2/ /1.68124/ /0.0350495
-Compilers.pdf.txt/ /compiler/ /daddr/ /5/ /2/ /1.68124/ /0.0350495
-Compilers.pdf.txt/ /compiler/ /temp2/ /5/ /2/ /1.68124/ /0.0350495
-Compilers.pdf.txt/ /compiler/ /equd/ /5/ /2/ /1.68124/ /0.0350495
-Compilers.pdf.txt/ /compiler/ /efc/ /5/ /2/ /1.68124/ /0.0350495
-Compilers.pdf.txt/ /compiler/ /<mult>/ /5/ /2/ /1.68124/ /0.0350495
-Compilers.pdf.txt/ /compiler/ /termin/ /34/ /82/ /0.239284/ /0.0339215
-Compilers.pdf.txt/ /compiler/ /item/ /39/ /89/ /0.20412/ /0.0331919
-Compilers.pdf.txt/ /compiler/ /i0/ /7/ /10/ /1.11697/ /0.0326003
-Compilers.pdf.txt/ /compiler/ /phrase/ /18/ /52/ /0.434087/ /0.0325785
-Compilers.pdf.txt/ /compiler/ /temp1/ /5/ /3/ /1.5563/ /0.0324449
-Compilers.pdf.txt/ /compiler/ /alphanum/ /5/ /3/ /1.5563/ /0.0324449
-Compilers.pdf.txt/ /compiler/ /x1/ /10/ /24/ /0.760423/ /0.0317057
-Compilers.pdf.txt/ /compiler/ /start/ /39/ /91/ /0.194575/ /0.0316397
-Compilers.pdf.txt/ /compiler/ /yylex/ /6/ /7/ /1.25527/ /0.031403
-Compilers.pdf.txt/ /compiler/ /r1/ /13/ /37/ /0.578579/ /0.0313608
-Compilers.pdf.txt/ /compiler/ /regist/ /26/ /73/ /0.289131/ /0.0313436
-Compilers.pdf.txt/ /compiler/ /ab/ /15/ /45/ /0.495605/ /0.0309962
-Compilers.pdf.txt/ /compiler/ /lookahead/ /8/ /16/ /0.927914/ /0.0309513
-Compilers.pdf.txt/ /compiler/ /alphabet/ /12/ /34/ /0.614294/ /0.0307355
-Compilers.pdf.txt/ /compiler/ /input/ /97/ /120/ /0.0755771/ /0.0305664
-Compilers.pdf.txt/ /compiler/ /alphanumer/ /5/ /4/ /1.45939/ /0.0304245
-Compilers.pdf.txt/ /compiler/ /i10/ /5/ /4/ /1.45939/ /0.0304245
-Compilers.pdf.txt/ /compiler/ /i1/ /8/ /17/ /0.90309/ /0.0301233
-Compilers.pdf.txt/ /compiler/ /pc/ /17/ /55/ /0.410174/ /0.0290736
-Compilers.pdf.txt/ /compiler/ /abb/ /5/ /5/ /1.38021/ /0.0287738
-Compilers.pdf.txt/ /compiler/ /tabl/ /57/ /108/ /0.120936/ /0.0287417
-Compilers.pdf.txt/ /compiler/ /algorithm/ /50/ /104/ /0.137173/ /0.028597
-Compilers.pdf.txt/ /compiler/ /construct/ /29/ /83/ /0.234083/ /0.0283041
-Compilers.pdf.txt/ /compiler/ /maxc/ /4/ /2/ /1.68124/ /0.0280396
-Compilers.pdf.txt/ /compiler/ /multiplicationexpress/ /4/ /2/ /1.68124/ /0.0280396
-Compilers.pdf.txt/ /compiler/ /3s4/ /4/ /2/ /1.68124/ /0.0280396
-Compilers.pdf.txt/ /compiler/ /a-product/ /4/ /2/ /1.68124/ /0.0280396
-Compilers.pdf.txt/ /compiler/ /7t10/ /4/ /2/ /1.68124/ /0.0280396
-Compilers.pdf.txt/ /compiler/ /simpleexp/ /4/ /2/ /1.68124/ /0.0280396
-Compilers.pdf.txt/ /compiler/ /ifpart/ /4/ /2/ /1.68124/ /0.0280396
-Compilers.pdf.txt/ /compiler/ /aj-product/ /4/ /2/ /1.68124/ /0.0280396
-Compilers.pdf.txt/ /compiler/ /notic/ /24/ /75/ /0.277549/ /0.0277736
-Compilers.pdf.txt/ /compiler/ /return/ /35/ /92/ /0.18988/ /0.0277095
-Compilers.pdf.txt/ /compiler/ /transit/ /20/ /66/ /0.332288/ /0.0277093
-Compilers.pdf.txt/ /compiler/ /i5/ /5/ /6/ /1.31326/ /0.0273781
-Compilers.pdf.txt/ /compiler/ /ak/ /5/ /6/ /1.31326/ /0.0273781
-Compilers.pdf.txt/ /compiler/ /reread/ /6/ /11/ /1.07918/ /0.0269977
-Compilers.pdf.txt/ /compiler/ /lexic/ /7/ /17/ /0.90309/ /0.0263579
-Compilers.pdf.txt/ /compiler/ /whitespac/ /7/ /17/ /0.90309/ /0.0263579
-Compilers.pdf.txt/ /compiler/ /is/ /6/ /12/ /1.04442/ /0.0261281
-Compilers.pdf.txt/ /compiler/ /imem/ /4/ /3/ /1.5563/ /0.0259559
-Compilers.pdf.txt/ /compiler/ /state/ /101/ /124/ /0.0614525/ /0.0258787
-Compilers.pdf.txt/ /compiler/ /file/ /48/ /106/ /0.128979/ /0.0258132
-Compilers.pdf.txt/ /compiler/ /arc/ /9/ /30/ /0.667001/ /0.0250294
-Compilers.pdf.txt/ /compiler/ /nil/ /7/ /19/ /0.857332/ /0.0250224
-Compilers.pdf.txt/ /compiler/ /halt/ /10/ /36/ /0.590161/ /0.0246066
-Compilers.pdf.txt/ /compiler/ /ldc/ /4/ /4/ /1.45939/ /0.0243396
-Compilers.pdf.txt/ /compiler/ /<int>/ /5/ /9/ /1.15836/ /0.0241488
-Compilers.pdf.txt/ /compiler/ /declar/ /13/ /51/ /0.442359/ /0.0239773
-Compilers.pdf.txt/ /compiler/ /end/ /76/ /120/ /0.0755771/ /0.0239489
-Compilers.pdf.txt/ /compiler/ /week/ /11/ /43/ /0.51491/ /0.023616
-Compilers.pdf.txt/ /compiler/ /colon/ /9/ /33/ /0.626884/ /0.023524
-Compilers.pdf.txt/ /compiler/ /phase/ /19/ /72/ /0.29504/ /0.0233731
-Compilers.pdf.txt/ /compiler/ /parenthesi/ /6/ /16/ /0.927914/ /0.0232135
-Compilers.pdf.txt/ /compiler/ /action/ /37/ /101/ /0.149762/ /0.0231039
-Compilers.pdf.txt/ /compiler/ /ldr/ /4/ /5/ /1.38021/ /0.023019
-Compilers.pdf.txt/ /compiler/ /char/ /12/ /50/ /0.450792/ /0.0225548
-Compilers.pdf.txt/ /compiler/ /newlin/ /7/ /24/ /0.760423/ /0.022194
-Compilers.pdf.txt/ /compiler/ /method/ /54/ /114/ /0.0976646/ /0.0219894
-Compilers.pdf.txt/ /compiler/ /a-za-z/ /4/ /6/ /1.31326/ /0.0219025
-Compilers.pdf.txt/ /compiler/ /java/ /12/ /52/ /0.434087/ /0.021719
-Compilers.pdf.txt/ /compiler/ /ca/ /10/ /43/ /0.51491/ /0.0214691
-Compilers.pdf.txt/ /compiler/ /member/ /18/ /74/ /0.283301/ /0.0212619
-Compilers.pdf.txt/ /compiler/ /charact/ /33/ /100/ /0.154041/ /0.021195
-Compilers.pdf.txt/ /compiler/ /yn/ /5/ /13/ /1.01223/ /0.0211025
-Compilers.pdf.txt/ /compiler/ /statementlist/ /3/ /2/ /1.68124/ /0.0210297
-Compilers.pdf.txt/ /compiler/ /readstat/ /3/ /2/ /1.68124/ /0.0210297
-Compilers.pdf.txt/ /compiler/ /iaddr/ /3/ /2/ /1.68124/ /0.0210297
-Compilers.pdf.txt/ /compiler/ /jjt/ /3/ /2/ /1.68124/ /0.0210297
-Compilers.pdf.txt/ /compiler/ /gfd/ /3/ /2/ /1.68124/ /0.0210297
-Compilers.pdf.txt/ /compiler/ /babc/ /3/ /2/ /1.68124/ /0.0210297
-Compilers.pdf.txt/ /compiler/ /declist/ /3/ /2/ /1.68124/ /0.0210297
-Compilers.pdf.txt/ /compiler/ /a4-product/ /3/ /2/ /1.68124/ /0.0210297
-Compilers.pdf.txt/ /compiler/ /parseexcept/ /3/ /2/ /1.68124/ /0.0210297
-Compilers.pdf.txt/ /compiler/ /caabc/ /3/ /2/ /1.68124/ /0.0210297
-Compilers.pdf.txt/ /compiler/ /jjtthis/ /3/ /2/ /1.68124/ /0.0210297
-Compilers.pdf.txt/ /compiler/ /floatvalu/ /3/ /2/ /1.68124/ /0.0210297
-Compilers.pdf.txt/ /compiler/ /repeatstat/ /3/ /2/ /1.68124/ /0.0210297
-Compilers.pdf.txt/ /compiler/ /readln/ /3/ /2/ /1.68124/ /0.0210297
-Compilers.pdf.txt/ /compiler/ /javatre/ /3/ /2/ /1.68124/ /0.0210297
-Compilers.pdf.txt/ /compiler/ /leftpar/ /3/ /2/ /1.68124/ /0.0210297
-Compilers.pdf.txt/ /compiler/ /rightpar/ /3/ /2/ /1.68124/ /0.0210297
-Compilers.pdf.txt/ /compiler/ /<div>/ /3/ /2/ /1.68124/ /0.0210297
-Compilers.pdf.txt/ /compiler/ /get/ /6/ /20/ /0.836143/ /0.0209177
-Compilers.pdf.txt/ /compiler/ /section/ /49/ /113/ /0.101458/ /0.0207282
-Compilers.pdf.txt/ /compiler/ /procedur/ /37/ /105/ /0.133057/ /0.0205267
-Compilers.pdf.txt/ /compiler/ /a4/ /5/ /14/ /0.982271/ /0.0204778
-Compilers.pdf.txt/ /compiler/ /letter/ /18/ /77/ /0.266268/ /0.0199836
-Compilers.pdf.txt/ /compiler/ /r0/ /6/ /22/ /0.796635/ /0.0199293
-Compilers.pdf.txt/ /compiler/ /rightmost/ /5/ /15/ /0.954243/ /0.0198935
-Compilers.pdf.txt/ /compiler/ /nontermin/ /5/ /15/ /0.954243/ /0.0198935
-Compilers.pdf.txt/ /compiler/ /assignstat/ /3/ /3/ /1.5563/ /0.0194669
-Compilers.pdf.txt/ /compiler/ /<minus>/ /3/ /3/ /1.5563/ /0.0194669
-Compilers.pdf.txt/ /compiler/ /gettyp/ /3/ /3/ /1.5563/ /0.0194669
-Compilers.pdf.txt/ /compiler/ /getint/ /3/ /3/ /1.5563/ /0.0194669
-Compilers.pdf.txt/ /compiler/ /<plus>/ /3/ /3/ /1.5563/ /0.0194669
-Compilers.pdf.txt/ /compiler/ /mult/ /5/ /16/ /0.927914/ /0.0193446
-Compilers.pdf.txt/ /compiler/ /recognis/ /4/ /9/ /1.15836/ /0.0193191
-Compilers.pdf.txt/ /compiler/ /friday/ /4/ /9/ /1.15836/ /0.0193191
-Compilers.pdf.txt/ /compiler/ /variabl/ /21/ /86/ /0.218843/ /0.0191617
-Compilers.pdf.txt/ /compiler/ /valu/ /58/ /119/ /0.0791813/ /0.0191484
-Compilers.pdf.txt/ /compiler/ /div/ /5/ /17/ /0.90309/ /0.0188271
-Compilers.pdf.txt/ /compiler/ /analysi/ /24/ /93/ /0.185235/ /0.018536
-Compilers.pdf.txt/ /compiler/ /xyz/ /5/ /18/ /0.879609/ /0.0183376
-Compilers.pdf.txt/ /compiler/ /shift/ /14/ /69/ /0.313264/ /0.0182861
-Compilers.pdf.txt/ /compiler/ /elsepart/ /3/ /4/ /1.45939/ /0.0182547
-Compilers.pdf.txt/ /compiler/ /yylval/ /3/ /4/ /1.45939/ /0.0182547
-Compilers.pdf.txt/ /compiler/ /ifstat/ /3/ /4/ /1.45939/ /0.0182547
-Compilers.pdf.txt/ /compiler/ /err/ /4/ /11/ /1.07918/ /0.0179985
-Compilers.pdf.txt/ /compiler/ /theorem/ /9/ /47/ /0.477121/ /0.0179041
-Compilers.pdf.txt/ /compiler/ /tm/ /5/ /19/ /0.857332/ /0.0178731
-Compilers.pdf.txt/ /compiler/ /null/ /12/ /63/ /0.352183/ /0.017621
-Compilers.pdf.txt/ /compiler/ /automata/ /5/ /20/ /0.836143/ /0.0174314
-Compilers.pdf.txt/ /compiler/ /statement/ /27/ /100/ /0.154041/ /0.0173413
-Compilers.pdf.txt/ /compiler/ /<id>/ /3/ /5/ /1.38021/ /0.0172643
-Compilers.pdf.txt/ /compiler/ /abc/ /7/ /36/ /0.590161/ /0.0172246
-Compilers.pdf.txt/ /compiler/ /pattern/ /20/ /89/ /0.20412/ /0.0170215
-Compilers.pdf.txt/ /compiler/ /semi/ /5/ /21/ /0.81594/ /0.0170102
-Compilers.pdf.txt/ /compiler/ /root/ /15/ /76/ /0.271872/ /0.0170035
-Compilers.pdf.txt/ /compiler/ /id/ /12/ /65/ /0.338819/ /0.0169524
-Compilers.pdf.txt/ /compiler/ /machin/ /47/ /117/ /0.0864805/ /0.0169472
-Compilers.pdf.txt/ /compiler/ /context-fre/ /4/ /13/ /1.01223/ /0.016882
-Compilers.pdf.txt/ /compiler/ /side/ /20/ /90/ /0.199321/ /0.0166213
-Compilers.pdf.txt/ /compiler/ /exp2/ /3/ /6/ /1.31326/ /0.0164269
-Compilers.pdf.txt/ /compiler/ /i8/ /3/ /6/ /1.31326/ /0.0164269
-Compilers.pdf.txt/ /compiler/ /yytext/ /3/ /6/ /1.31326/ /0.0164269
-Compilers.pdf.txt/ /compiler/ /bnf/ /4/ /14/ /0.982271/ /0.0163822
-Compilers.pdf.txt/ /compiler/ /leftmost/ /6/ /31/ /0.653212/ /0.0163413
-Compilers.pdf.txt/ /compiler/ /rm/ /5/ /24/ /0.760423/ /0.0158528
-Compilers.pdf.txt/ /compiler/ /ld/ /5/ /24/ /0.760423/ /0.0158528
-Compilers.pdf.txt/ /compiler/ /if-stat/ /3/ /7/ /1.25527/ /0.0157015
-Compilers.pdf.txt/ /compiler/ /pascal/ /7/ /42/ /0.524894/ /0.0153197
-Compilers.pdf.txt/ /compiler/ /jump/ /9/ /56/ /0.402488/ /0.0151035
-Compilers.pdf.txt/ /compiler/ /fi/ /6/ /35/ /0.60206/ /0.0150617
-Compilers.pdf.txt/ /compiler/ /iter/ /10/ /63/ /0.352183/ /0.0146842
-Compilers.pdf.txt/ /compiler/ /factor/ /16/ /86/ /0.218843/ /0.0145994
-Compilers.pdf.txt/ /compiler/ /minus/ /5/ /28/ /0.695964/ /0.014509
-Compilers.pdf.txt/ /compiler/ /ed/ /5/ /28/ /0.695964/ /0.014509
-Compilers.pdf.txt/ /compiler/ /brace/ /5/ /28/ /0.695964/ /0.014509
-Compilers.pdf.txt/ /compiler/ /shift-reduc/ /3/ /9/ /1.15836/ /0.0144893
-Compilers.pdf.txt/ /compiler/ /semi-colon/ /3/ /9/ /1.15836/ /0.0144893
-Compilers.pdf.txt/ /compiler/ /descent/ /4/ /19/ /0.857332/ /0.0142985
-Compilers.pdf.txt/ /compiler/ /rest/ /16/ /87/ /0.21388/ /0.0142683
-Compilers.pdf.txt/ /compiler/ /assembl/ /10/ /65/ /0.338819/ /0.014127
-Compilers.pdf.txt/ /compiler/ /ekind/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /caac/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /fullstop/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /realarray/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /baac/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /boolop/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /jeq/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /dfam/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /ak-product/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /ckind/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /file-typ/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /jjtgetchild/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /i11/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /cabac/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /writestat/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /a3d/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /b-product/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /toktyp/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /installint/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /actionn/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /intvar/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /actioni/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /xmsm/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /a2h/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /cgfd/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /a4fdh/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /jjtgetnumchildren/ /2/ /2/ /1.68124/ /0.0140198
-Compilers.pdf.txt/ /compiler/ /non-termin/ /3/ /10/ /1.11697/ /0.0139715
-Compilers.pdf.txt/ /compiler/ /decid/ /3/ /10/ /1.11697/ /0.0139715
-Compilers.pdf.txt/ /compiler/ /opcod/ /4/ /20/ /0.836143/ /0.0139451
-Compilers.pdf.txt/ /compiler/ /foo/ /5/ /30/ /0.667001/ /0.0139052
-Compilers.pdf.txt/ /compiler/ /float/ /6/ /40/ /0.545579/ /0.0136487
-Compilers.pdf.txt/ /compiler/ /subexpress/ /5/ /31/ /0.653212/ /0.0136178
-Compilers.pdf.txt/ /compiler/ /stmt/ /3/ /11/ /1.07918/ /0.0134989
-Compilers.pdf.txt/ /compiler/ /output/ /33/ /114/ /0.0976646/ /0.013438
-Compilers.pdf.txt/ /compiler/ /boolean/ /8/ /56/ /0.402488/ /0.0134253
-Compilers.pdf.txt/ /compiler/ /macro/ /6/ /42/ /0.524894/ /0.0131312
-Compilers.pdf.txt/ /compiler/ /name/ /31/ /113/ /0.101458/ /0.0131138
-Compilers.pdf.txt/ /compiler/ /exp4/ /2/ /3/ /1.5563/ /0.0129779
-Compilers.pdf.txt/ /compiler/ /behaviour/ /4/ /24/ /0.760423/ /0.0126823
-Compilers.pdf.txt/ /compiler/ /ro/ /4/ /24/ /0.760423/ /0.0126823
-Compilers.pdf.txt/ /compiler/ /address/ /20/ /101/ /0.149762/ /0.0124886
-Compilers.pdf.txt/ /compiler/ /diagram/ /11/ /76/ /0.271872/ /0.0124692
-Compilers.pdf.txt/ /compiler/ /loop/ /15/ /90/ /0.199321/ /0.012466
-Compilers.pdf.txt/ /compiler/ /concaten/ /6/ /45/ /0.495605/ /0.0123985
-Compilers.pdf.txt/ /compiler/ /type/ /85/ /132/ /0.0345109/ /0.0122308
-Compilers.pdf.txt/ /compiler/ /nfas/ /2/ /4/ /1.45939/ /0.0121698
-Compilers.pdf.txt/ /compiler/ /jlt/ /2/ /4/ /1.45939/ /0.0121698
-Compilers.pdf.txt/ /compiler/ /mulop/ /2/ /4/ /1.45939/ /0.0121698
-Compilers.pdf.txt/ /compiler/ /i9/ /2/ /4/ /1.45939/ /0.0121698
-Compilers.pdf.txt/ /compiler/ /addop/ /2/ /4/ /1.45939/ /0.0121698
-Compilers.pdf.txt/ /compiler/ /r2/ /6/ /46/ /0.486265/ /0.0121648
-Compilers.pdf.txt/ /compiler/ /plus/ /4/ /26/ /0.726999/ /0.0121248
-Compilers.pdf.txt/ /compiler/ /substr/ /3/ /15/ /0.954243/ /0.0119361
-Compilers.pdf.txt/ /compiler/ /target/ /11/ /79/ /0.255273/ /0.0117079
-Compilers.pdf.txt/ /compiler/ /tab/ /5/ /39/ /0.556302/ /0.0115975
-Compilers.pdf.txt/ /compiler/ /repeat/ /7/ /57/ /0.394934/ /0.0115267
-Compilers.pdf.txt/ /compiler/ /jne/ /2/ /5/ /1.38021/ /0.0115095
-Compilers.pdf.txt/ /compiler/ /a-za-z0-9/ /2/ /5/ /1.38021/ /0.0115095
-Compilers.pdf.txt/ /compiler/ /bab/ /2/ /5/ /1.38021/ /0.0115095
-Compilers.pdf.txt/ /compiler/ /sparcstat/ /2/ /5/ /1.38021/ /0.0115095
-Compilers.pdf.txt/ /compiler/ /jle/ /2/ /5/ /1.38021/ /0.0115095
-Compilers.pdf.txt/ /compiler/ /conflict/ /10/ /76/ /0.271872/ /0.0113356
-Compilers.pdf.txt/ /compiler/ /notat/ /9/ /71/ /0.30103/ /0.0112962
-Compilers.pdf.txt/ /compiler/ /automaton/ /3/ /17/ /0.90309/ /0.0112962
-Compilers.pdf.txt/ /compiler/ /y1/ /3/ /17/ /0.90309/ /0.0112962
-Compilers.pdf.txt/ /compiler/ /str/ /3/ /17/ /0.90309/ /0.0112962
-Compilers.pdf.txt/ /compiler/ /ambigu/ /6/ /50/ /0.450792/ /0.0112774
-Compilers.pdf.txt/ /compiler/ /num/ /6/ /50/ /0.450792/ /0.0112774
-Compilers.pdf.txt/ /compiler/ /alpha/ /5/ /41/ /0.535113/ /0.0111557
-Compilers.pdf.txt/ /compiler/ /no/ /5/ /41/ /0.535113/ /0.0111557
-Compilers.pdf.txt/ /compiler/ /afternoon/ /2/ /6/ /1.31326/ /0.0109513
-Compilers.pdf.txt/ /compiler/ /hand/ /18/ /102/ /0.145525/ /0.0109218
-Compilers.pdf.txt/ /compiler/ /load/ /11/ /83/ /0.234083/ /0.0107361
-Compilers.pdf.txt/ /compiler/ /top/ /12/ /87/ /0.21388/ /0.0107012
-Compilers.pdf.txt/ /compiler/ /denot/ /4/ /32/ /0.639849/ /0.0106713
-Compilers.pdf.txt/ /compiler/ /nfa/ /2/ /7/ /1.25527/ /0.0104677
-Compilers.pdf.txt/ /compiler/ /xy/ /3/ /20/ /0.836143/ /0.0104588
-Compilers.pdf.txt/ /compiler/ /preprocessor/ /3/ /20/ /0.836143/ /0.0104588
-Compilers.pdf.txt/ /compiler/ /g2/ /3/ /20/ /0.836143/ /0.0104588
-Compilers.pdf.txt/ /compiler/ /r3/ /4/ /33/ /0.626884/ /0.0104551
-Compilers.pdf.txt/ /compiler/ /occurr/ /6/ /55/ /0.410174/ /0.0102613
-Compilers.pdf.txt/ /compiler/ /fragment/ /6/ /55/ /0.410174/ /0.0102613
-Compilers.pdf.txt/ /compiler/ /printf/ /4/ /34/ /0.614294/ /0.0102452
-Compilers.pdf.txt/ /compiler/ /rn/ /3/ /21/ /0.81594/ /0.0102061
-Compilers.pdf.txt/ /compiler/ /class/ /26/ /115/ /0.0939045/ /0.0101799
-Compilers.pdf.txt/ /compiler/ /parenthes/ /5/ /46/ /0.486265/ /0.0101374
-Compilers.pdf.txt/ /compiler/ /set/ /59/ /130/ /0.0410912/ /0.0101084
-Compilers.pdf.txt/ /compiler/ /sequenc/ /20/ /108/ /0.120936/ /0.0100848
-Compilers.pdf.txt/ /compiler/ /form/ /53/ /129/ /0.0444192/ /0.00981585
-Compilers.pdf.txt/ /compiler/ /object/ /31/ /120/ /0.0755771/ /0.00976864
-Compilers.pdf.txt/ /compiler/ /mov/ /3/ /23/ /0.778151/ /0.00973346
-Compilers.pdf.txt/ /compiler/ /memori/ /23/ /113/ /0.101458/ /0.00972958
-Compilers.pdf.txt/ /compiler/ /xk/ /2/ /9/ /1.15836/ /0.00965954
-Compilers.pdf.txt/ /compiler/ /ws/ /2/ /9/ /1.15836/ /0.00965954
-Compilers.pdf.txt/ /compiler/ /exampl/ /93/ /135/ /0.0248236/ /0.00962564
-Compilers.pdf.txt/ /compiler/ /array/ /11/ /88/ /0.208972/ /0.00958437
-Compilers.pdf.txt/ /compiler/ /case/ /37/ /124/ /0.0614525/ /0.00948031
-Compilers.pdf.txt/ /compiler/ /midnight/ /2/ /10/ /1.11697/ /0.00931436
-Compilers.pdf.txt/ /compiler/ /chomski/ /2/ /10/ /1.11697/ /0.00931436
-Compilers.pdf.txt/ /compiler/ /nk/ /2/ /10/ /1.11697/ /0.00931436
-Compilers.pdf.txt/ /compiler/ /decis/ /13/ /96/ /0.171591/ /0.00930077
-Compilers.pdf.txt/ /compiler/ /comma/ /4/ /39/ /0.556302/ /0.00927797
-Compilers.pdf.txt/ /compiler/ /program/ /79/ /134/ /0.0280287/ /0.00923236
-Compilers.pdf.txt/ /compiler/ /od/ /3/ /26/ /0.726999/ /0.00909362
-Compilers.pdf.txt/ /compiler/ /descend/ /3/ /26/ /0.726999/ /0.00909362
-Compilers.pdf.txt/ /compiler/ /cab/ /2/ /11/ /1.07918/ /0.00899925
-Compilers.pdf.txt/ /compiler/ /m3/ /2/ /11/ /1.07918/ /0.00899925
-Compilers.pdf.txt/ /compiler/ /list/ /27/ /119/ /0.0791813/ /0.0089139
-Compilers.pdf.txt/ /compiler/ /argument/ /10/ /88/ /0.208972/ /0.00871306
-Compilers.pdf.txt/ /compiler/ /yacc/ /2/ /12/ /1.04442/ /0.00870937
-Compilers.pdf.txt/ /compiler/ /1a/ /2/ /12/ /1.04442/ /0.00870937
-Compilers.pdf.txt/ /compiler/ /new/ /11/ /92/ /0.18988/ /0.00870869
-Compilers.pdf.txt/ /compiler/ /definit/ /24/ /117/ /0.0864805/ /0.00865388
-Compilers.pdf.txt/ /compiler/ /out/ /3/ /29/ /0.681241/ /0.00852126
-Compilers.pdf.txt/ /compiler/ /ba/ /3/ /29/ /0.681241/ /0.00852126
-Compilers.pdf.txt/ /compiler/ /theori/ /8/ /79/ /0.255273/ /0.00851483
-Compilers.pdf.txt/ /compiler/ /af/ /2/ /13/ /1.01223/ /0.00844098
-Compilers.pdf.txt/ /compiler/ /ij/ /2/ /13/ /1.01223/ /0.00844098
-Compilers.pdf.txt/ /compiler/ /deadlin/ /2/ /13/ /1.01223/ /0.00844098
-Compilers.pdf.txt/ /compiler/ /static/ /3/ /30/ /0.667001/ /0.00834314
-Compilers.pdf.txt/ /compiler/ /semicolon/ /3/ /30/ /0.667001/ /0.00834314
-Compilers.pdf.txt/ /compiler/ /loader/ /3/ /30/ /0.667001/ /0.00834314
-Compilers.pdf.txt/ /compiler/ /liter/ /3/ /30/ /0.667001/ /0.00834314
-Compilers.pdf.txt/ /compiler/ /index/ /11/ /94/ /0.180639/ /0.00828487
-Compilers.pdf.txt/ /compiler/ /arithmet/ /7/ /74/ /0.283301/ /0.00826853
-Compilers.pdf.txt/ /compiler/ /recognit/ /4/ /45/ /0.495605/ /0.00826565
+os
+469
+task 258
+freerto 138
+queue 73
+semaphor 68
+memori 67
+oper 60
+prioriti 56
+system 55
+function 52
+text 43
+time 42
+interrupt 41
+studi 37
+nicola 37
+melot 37
+block 36
+schedul 34
+manag 31
+figur 30
+valu 30
+section 26
+xwanteds 26
+state 20
+size 20
+byte 20
+element 20
+licens 20
+appendix 19
+implement 19
+kernel 19
+number 18
+mutex 17
+list 17
+applic 17
+resourc 16
+api 16
+creation 15
+code 15
+portbas 15
+space 15
+pvreturn 15
+null 14
+xtickstowait 14
+configus 14
+return 13
+pv 13
+tcb 13
+xblocksiz 13
+case 12
+gnu 12
+general 12
+public 12
+except 12
+detail 12
+mpu 12
+pxnextfreeblock 12
+xblocklink 12
+pxblock 12
+hardwar 11
+method 11
+includ 11
+pvportmalloc 11
+configtot 11
+portbyt 11
+event 10
+pointer 10
+heap 10
+softwar 9
+configmax 9
+xtaskresumeal 9
+file 9
+life 8
+cycl 8
+prototyp 8
+alloc 8
+refer 8
+mutext 8
+mechan 8
+use 8
+isr 8
+vtasksuspendal 8
+*************************************************************************** 8
+train 8
+hour 8
+warranti 8
+contact 8
+xnextfreebyt 8
+exampl 7
+support 7
+purpos 7
+context 7
+call 7
+structur 7
+max 7
+copi 7
+real 7
+level 7
+maximum 7
+xqueue 7
+portticktyp 7
+xsemaphoretak 7
+handler 7
+vportfre 7
+pxiter 7
+illustr 6
+noth 6
+control 6
+end 6
+clock 6
+work 6
+xqueuehandl 6
+void 6
+ressourc 6
+char 6
+vapplicationmallocfailedhook 6
+handl 5
+routin 5
+sourc 5
+access 5
+micro 5
+compil 5
+vtaskdelet 5
+vtasksuspend 5
+instanc 5
+run 5
+loop 5
+practic 5
+manual 5
+mode 5
+xsemaphor 5
+configkernel 5
+chang 5
+version 5
+portion 5
+solut 5
+malloc 5
+part 5
+wrapper 5
+web 5
+site 5
+align 5
+heapstruct 5
+pxpreviousblock 5
+binari 4
+port 4
+limit 4
+readi 4
+argument 4
+pvparamet 4
+signatur 4
+const 4
+tick 4
+preempt 4
+order 4
+pvitemtoqueu 4
+way 4
+xsemaphorehandl 4
+problem 4
+taskexit 4
+thread 4
+new 4
+skill 4
+product 4
+look 4
+ebook 4
+guid 4
+pdf 4
+inbox 4
+minut 4
+gmt 4
+circumst 4
+distribut 4
+term 4
+free 4
+foundat 4
+gpl 4
+compon 4
+hope 4
+ani 4
+merchant 4
+fit 4
+richard 4
+barri 4
+tab 4
+servic 4
+definit 4
+struct 4
+start 4
+xstart 4
+xend 4
+pxblocktoinsert 4
+pxfirstfreeblock 4
+pxnewblocklink 4
+pxlink 4
+starvat 3
+inherit 3
+communic 3
+paramet 3
+vtaskresum 3
+option 3
+user 3
+reason 3
+length 3
+pxcreatedtask 3
+programm 3
+fifo 3
+pvbuffer 3
+pdpass 3
+xqueuerec 3
+xqueuesend 3
+lifo 3
+xqueuesendtoback 3
+xqueuesendtofront 3
+front 3
+item 3
+pdfals 3
+xgivesemaphorefromisr 3
+instruct 3
+execut 3
+job 3
+registri 3
+taskent 3
+porta 3
+lot 3
+fragment 3
+array 3
+strategi 3
+algorithm 3
+prvinsertblockintofreelist 3
+cast 3
+warn 3
+devic 2
+introduct 2
+suspend 2
+dealloc 2
+conclus 2
+design 2
+set 2
+synchron 2
+driver 2
+characterist 2
+other 2
+vtaskcreat 2
+vtaskpriorityset 2
+core 2
+calcul 2
+delay 2
+infinit 2
+pvtaskcod 2
+pcname 2
+activ 2
+ataskfunct 2
+uxprior 2
+identifi 2
+variabl 2
+ivariableexampl 2
+xtaskhandl 2
+width 2
+frequenc 2
+idea 2
+turn 2
+t5 2
+process 2
+data 2
+read 2
+errqueu 2
+first 2
+uxitems 2
+synonym 2
+xquesend 2
+input 2
+scenario 2
+back 2
+xsemaphoreg 2
+exclus 2
+differ 2
+amount 2
+uxmaxcount 2
+uxinitialcount 2
+avail 2
+xsemaphoregivefromisr 2
+goal 2
+organ 2
+need 2
+load 2
+address 2
+pdtrue 2
+situat 2
+allocation/dealloc 2
+source/portable/memmang 2
+scheme 2
+cb 2
+fig 2
+iz 2
+re 2
+sp 2
+document 2
+pc 2
+macro 2
+non 2
+union 2
+xrtos 2
+portdoubl 2
+ddummi 2
+uldummi 2
+ucheap 2
+xheap 2
+vportinitialiseblock 2
+xportgetfreeheaps 2
+sizeof 2
+heapminimum 2
+posit 2
+prvheapinit 2
+puc 2
+linker 2
+sommair 1
+engin 1
+network 1
+filesystem 1
+featur 1
+develop 1
+footprint2 1
+kbyte 1
+arm7 1
+gcc 1
+openwatcom 1
+borland 1
+c++ 1
+rtos 1
+destruct 1
+uxtaskpriorityget 1
+delay/resum 1
+vtaskdelay 1
+vtaskdelayuntil 1
+vtaskresumefromisr 1
+sequenc 1
+moment 1
+represent 1
+show 1
+processor 1
+everyth 1
+synchronis 1
+xtaskresumefromisr 1
+runningnot 1
+vtaskdestroy 1
+exit 1
+name 1
+word 1
+bit 1
+instanti 1
+futur 1
+xtaskdestroy 1
+respons 1
+int 1
+xtaskcreat 1
+pdtask 1
+portchar 1
+portshort 1
+pxtask 1
+account 1
+multi 1
+vtaskpriorityget 1
+type 1
+rate 1
+monoton 1
+share 1
+round 1
+robin 1
+quantum 1
+environ 1
+subject 1
+mean 1
+medium 1
+t13 1
+move 1
+behavior 1
+begin 1
+buffer 1
+rule 1
+xqueuepeek 1
+attempt 1
+inf 1
+xqueuecreat 1
+uxqueuelength 1
+poll 1
+receiv 1
+xssemaphor 1
+take 1
+pdfail 1
+vsemaphorecreatebinari 1
+deadlock 1
+holder 1
+invers 1
+phenomenon 1
+complex 1
+stil 1
+capac 1
+abil 1
+lack 1
+constant 1
+xsemaphorecreatecount 1
+piec 1
+wqueuereceivefromisr 1
+t4 1
+i/o 1
+affect 1
+form 1
+whole 1
+constraint 1
+taskstart 1
+speak 1
+regist 1
+switch 1
+notic 1
+caus 1
+preemption 1
+string 1
+printf 1
+stdout 1
+pvportfre 1
+repeat 1
+ram 1
+reserv 1
+manipul 1
+drawback 1
+footprint 1
+bus 1
+usb 1
+pci 1
+protocol 1
+ip 1
+output 1
+primit 1
+book 1
+requir 1
+these 1
+configur 1
+on 1
+configtick 1
+configminim 1
+configidl 1
+configcheck 1
+configqueu 1
+hook 1
+tracetask 1
+xtaskcallapplicationtaskhook 1
+tracequeu 1
+pxqueue 1
+room 1
+overflow 1
+increment 1
+index 1
+past 1
+page 1
+sampl 1
+typedef 1
+coupl 1
+link 1
+track 1
+static 1
+updat 1
+xheaphasbeeninitialis 1
+initialis 1
+setup 1
+addit 1
+marker 1
+xfreebytesremain 1
+quiet 1
+area 1

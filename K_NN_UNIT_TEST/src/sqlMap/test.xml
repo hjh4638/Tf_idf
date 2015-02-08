@@ -275,4 +275,12 @@ group by file_name
 ORDER BY distance
 LIMIT 10
 </select>
+<select id="getLabel" resultType="String" parameterType="String">
+SELECT DISTINCT
+    (label) AS label
+FROM
+    knn.trained_vector
+WHERE 
+	file_name = #{file_name}
+</select>
   </mapper>

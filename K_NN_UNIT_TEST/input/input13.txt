@@ -1,360 +1,88 @@
-Lesson_01.pdf.txt/ /AI/ /kharagpur/ /11/ /1/ /1.85733/ /0.431968
-Lesson_01.pdf.txt/ /AI/ /iit/ /11/ /1/ /1.85733/ /0.431968
-Lesson_01.pdf.txt/ /AI/ /ai/ /34/ /41/ /0.535113/ /0.384674
-Lesson_01.pdf.txt/ /AI/ /cse/ /11/ /4/ /1.45939/ /0.339417
-Lesson_01.pdf.txt/ /AI/ /agent/ /21/ /38/ /0.567298/ /0.251883
-Lesson_01.pdf.txt/ /AI/ /intellig/ /21/ /47/ /0.477121/ /0.211844
-Lesson_01.pdf.txt/ /AI/ /interrog/ /5/ /10/ /1.11697/ /0.118081
-Lesson_01.pdf.txt/ /AI/ /robot/ /8/ /36/ /0.590161/ /0.0998227
-Lesson_01.pdf.txt/ /AI/ /chess/ /6/ /23/ /0.778151/ /0.0987152
-Lesson_01.pdf.txt/ /AI/ /goddess/ /2/ /1/ /1.85733/ /0.0785396
-Lesson_01.pdf.txt/ /AI/ /centuri/ /6/ /34/ /0.614294/ /0.0779286
-Lesson_01.pdf.txt/ /AI/ /diagnosi/ /4/ /18/ /0.879609/ /0.0743907
-Lesson_01.pdf.txt/ /AI/ /ture/ /8/ /53/ /0.425969/ /0.0720504
-Lesson_01.pdf.txt/ /AI/ /thought/ /7/ /50/ /0.450792/ /0.066718
-Lesson_01.pdf.txt/ /AI/ /snarc/ /2/ /3/ /1.5563/ /0.0658101
-Lesson_01.pdf.txt/ /AI/ /alvinn/ /2/ /3/ /1.5563/ /0.0658101
-Lesson_01.pdf.txt/ /AI/ /talo/ /2/ /3/ /1.5563/ /0.0658101
-Lesson_01.pdf.txt/ /AI/ /statu/ /2/ /4/ /1.45939/ /0.0617122
-Lesson_01.pdf.txt/ /AI/ /vision/ /5/ /38/ /0.567298/ /0.0599722
-Lesson_01.pdf.txt/ /AI/ /speech/ /4/ /30/ /0.667001/ /0.0564099
-Lesson_01.pdf.txt/ /AI/ /human/ /7/ /59/ /0.380211/ /0.0562719
-Lesson_01.pdf.txt/ /AI/ /coast/ /2/ /6/ /1.31326/ /0.055533
-Lesson_01.pdf.txt/ /AI/ /feigenbaum/ /2/ /8/ /1.20412/ /0.0509177
-Lesson_01.pdf.txt/ /AI/ /rover/ /2/ /8/ /1.20412/ /0.0509177
-Lesson_01.pdf.txt/ /AI/ /vehicl/ /4/ /35/ /0.60206/ /0.0509177
-Lesson_01.pdf.txt/ /AI/ /minski/ /2/ /8/ /1.20412/ /0.0509177
-Lesson_01.pdf.txt/ /AI/ /neural/ /2/ /10/ /1.11697/ /0.0472324
-Lesson_01.pdf.txt/ /AI/ /imit/ /2/ /12/ /1.04442/ /0.0441645
-Lesson_01.pdf.txt/ /AI/ /champion/ /2/ /12/ /1.04442/ /0.0441645
-Lesson_01.pdf.txt/ /AI/ /percept/ /3/ /31/ /0.653212/ /0.0414328
-Lesson_01.pdf.txt/ /AI/ /dean/ /2/ /15/ /0.954243/ /0.0403513
-Lesson_01.pdf.txt/ /AI/ /student/ /5/ /59/ /0.380211/ /0.0401942
-Lesson_01.pdf.txt/ /AI/ /olio/ /1/ /1/ /1.85733/ /0.0392698
-Lesson_01.pdf.txt/ /AI/ /crawler/ /1/ /1/ /1.85733/ /0.0392698
-Lesson_01.pdf.txt/ /AI/ /meteorit/ /1/ /1/ /1.85733/ /0.0392698
-Lesson_01.pdf.txt/ /AI/ /aphrodit/ /1/ /1/ /1.85733/ /0.0392698
-Lesson_01.pdf.txt/ /AI/ /robo-cup/ /1/ /1/ /1.85733/ /0.0392698
-Lesson_01.pdf.txt/ /AI/ /world-wide-web/ /1/ /1/ /1.85733/ /0.0392698
-Lesson_01.pdf.txt/ /AI/ /rock/ /2/ /16/ /0.927914/ /0.0392379
-Lesson_01.pdf.txt/ /AI/ /infer/ /3/ /34/ /0.614294/ /0.0389643
-Lesson_01.pdf.txt/ /AI/ /anim/ /4/ /49/ /0.459393/ /0.0388519
-Lesson_01.pdf.txt/ /AI/ /task/ /18/ /113/ /0.101458/ /0.0386123
-Lesson_01.pdf.txt/ /AI/ /machin/ /21/ /117/ /0.0864805/ /0.0383978
-Lesson_01.pdf.txt/ /AI/ /nomad/ /1/ /2/ /1.68124/ /0.0355467
-Lesson_01.pdf.txt/ /AI/ /antarctica/ /1/ /2/ /1.68124/ /0.0355467
-Lesson_01.pdf.txt/ /AI/ /therapi/ /1/ /2/ /1.68124/ /0.0355467
-Lesson_01.pdf.txt/ /AI/ /hubbl/ /1/ /2/ /1.68124/ /0.0355467
-Lesson_01.pdf.txt/ /AI/ /crater/ /1/ /2/ /1.68124/ /0.0355467
-Lesson_01.pdf.txt/ /AI/ /bronz/ /1/ /2/ /1.68124/ /0.0355467
-Lesson_01.pdf.txt/ /AI/ /cyprus/ /1/ /2/ /1.68124/ /0.0355467
-Lesson_01.pdf.txt/ /AI/ /pygmalion/ /1/ /2/ /1.68124/ /0.0355467
-Lesson_01.pdf.txt/ /AI/ /europa/ /1/ /2/ /1.68124/ /0.0355467
-Lesson_01.pdf.txt/ /AI/ /logic/ /7/ /83/ /0.234083/ /0.0346447
-Lesson_01.pdf.txt/ /AI/ /mile/ /2/ /21/ /0.81594/ /0.034503
-Lesson_01.pdf.txt/ /AI/ /specialist/ /2/ /21/ /0.81594/ /0.034503
-Lesson_01.pdf.txt/ /AI/ /endeavour/ /1/ /3/ /1.5563/ /0.0329051
-Lesson_01.pdf.txt/ /AI/ /nervous/ /1/ /3/ /1.5563/ /0.0329051
-Lesson_01.pdf.txt/ /AI/ /gottlob/ /1/ /3/ /1.5563/ /0.0329051
-Lesson_01.pdf.txt/ /AI/ /ivori/ /1/ /3/ /1.5563/ /0.0329051
-Lesson_01.pdf.txt/ /AI/ /edmond/ /1/ /3/ /1.5563/ /0.0329051
-Lesson_01.pdf.txt/ /AI/ /hephaestus/ /1/ /3/ /1.5563/ /0.0329051
-Lesson_01.pdf.txt/ /AI/ /pomerleau/ /1/ /3/ /1.5563/ /0.0329051
-Lesson_01.pdf.txt/ /AI/ /mytholog/ /1/ /3/ /1.5563/ /0.0329051
-Lesson_01.pdf.txt/ /AI/ /behaviour/ /2/ /24/ /0.760423/ /0.0321554
-Lesson_01.pdf.txt/ /AI/ /calculus/ /2/ /24/ /0.760423/ /0.0321554
-Lesson_01.pdf.txt/ /AI/ /spirit/ /2/ /24/ /0.760423/ /0.0321554
-Lesson_01.pdf.txt/ /AI/ /ration/ /2/ /24/ /0.760423/ /0.0321554
-Lesson_01.pdf.txt/ /AI/ /translat/ /6/ /81/ /0.244549/ /0.0310231
-Lesson_01.pdf.txt/ /AI/ /zeus/ /1/ /4/ /1.45939/ /0.0308561
-Lesson_01.pdf.txt/ /AI/ /slagl/ /1/ /4/ /1.45939/ /0.0308561
-Lesson_01.pdf.txt/ /AI/ /freshman/ /1/ /4/ /1.45939/ /0.0308561
-Lesson_01.pdf.txt/ /AI/ /resurg/ /1/ /4/ /1.45939/ /0.0308561
-Lesson_01.pdf.txt/ /AI/ /lederberg/ /1/ /4/ /1.45939/ /0.0308561
-Lesson_01.pdf.txt/ /AI/ /shakey/ /1/ /4/ /1.45939/ /0.0308561
-Lesson_01.pdf.txt/ /AI/ /intellectu/ /1/ /4/ /1.45939/ /0.0308561
-Lesson_01.pdf.txt/ /AI/ /bertram/ /1/ /4/ /1.45939/ /0.0308561
-Lesson_01.pdf.txt/ /AI/ /patrol/ /1/ /4/ /1.45939/ /0.0308561
-Lesson_01.pdf.txt/ /AI/ /king/ /2/ /27/ /0.711204/ /0.0300741
-Lesson_01.pdf.txt/ /AI/ /reason/ /14/ /113/ /0.101458/ /0.0300318
-Lesson_01.pdf.txt/ /AI/ /game/ /5/ /74/ /0.283301/ /0.0299493
-Lesson_01.pdf.txt/ /AI/ /achiev/ /2/ /28/ /0.695964/ /0.0294297
-Lesson_01.pdf.txt/ /AI/ /blue/ /2/ /28/ /0.695964/ /0.0294297
-Lesson_01.pdf.txt/ /AI/ /mcculloch/ /1/ /5/ /1.38021/ /0.029182
-Lesson_01.pdf.txt/ /AI/ /julian/ /1/ /5/ /1.38021/ /0.029182
-Lesson_01.pdf.txt/ /AI/ /spectra/ /1/ /5/ /1.38021/ /0.029182
-Lesson_01.pdf.txt/ /AI/ /soccer/ /1/ /5/ /1.38021/ /0.029182
-Lesson_01.pdf.txt/ /AI/ /predat/ /1/ /5/ /1.38021/ /0.029182
-Lesson_01.pdf.txt/ /AI/ /frege/ /1/ /5/ /1.38021/ /0.029182
-Lesson_01.pdf.txt/ /AI/ /pitt/ /1/ /5/ /1.38021/ /0.029182
-Lesson_01.pdf.txt/ /AI/ /locomot/ /1/ /5/ /1.38021/ /0.029182
-Lesson_01.pdf.txt/ /AI/ /gelernt/ /1/ /5/ /1.38021/ /0.029182
-Lesson_01.pdf.txt/ /AI/ /imman/ /1/ /5/ /1.38021/ /0.029182
-Lesson_01.pdf.txt/ /AI/ /cog/ /1/ /5/ /1.38021/ /0.029182
-Lesson_01.pdf.txt/ /AI/ /articl/ /3/ /49/ /0.459393/ /0.029139
-Lesson_01.pdf.txt/ /AI/ /checker/ /2/ /30/ /0.667001/ /0.0282049
-Lesson_01.pdf.txt/ /AI/ /toy/ /2/ /30/ /0.667001/ /0.0282049
-Lesson_01.pdf.txt/ /AI/ /sri/ /1/ /6/ /1.31326/ /0.0277665
-Lesson_01.pdf.txt/ /AI/ /teletyp/ /1/ /6/ /1.31326/ /0.0277665
-Lesson_01.pdf.txt/ /AI/ /mycin/ /1/ /6/ /1.31326/ /0.0277665
-Lesson_01.pdf.txt/ /AI/ /tutor/ /1/ /6/ /1.31326/ /0.0277665
-Lesson_01.pdf.txt/ /AI/ /telescop/ /1/ /6/ /1.31326/ /0.0277665
-Lesson_01.pdf.txt/ /AI/ /whitehead/ /1/ /6/ /1.31326/ /0.0277665
-Lesson_01.pdf.txt/ /AI/ /saint/ /1/ /6/ /1.31326/ /0.0277665
-Lesson_01.pdf.txt/ /AI/ /novelti/ /1/ /6/ /1.31326/ /0.0277665
-Lesson_01.pdf.txt/ /AI/ /lesson/ /2/ /31/ /0.653212/ /0.0276219
-Lesson_01.pdf.txt/ /AI/ /learn/ /3/ /52/ /0.434087/ /0.0275338
-Lesson_01.pdf.txt/ /AI/ /languag/ /11/ /109/ /0.11697/ /0.0272042
-Lesson_01.pdf.txt/ /AI/ /buchanan/ /1/ /7/ /1.25527/ /0.0265404
-Lesson_01.pdf.txt/ /AI/ /prey/ /1/ /7/ /1.25527/ /0.0265404
-Lesson_01.pdf.txt/ /AI/ /crete/ /1/ /7/ /1.25527/ /0.0265404
-Lesson_01.pdf.txt/ /AI/ /byron/ /1/ /7/ /1.25527/ /0.0265404
-Lesson_01.pdf.txt/ /AI/ /reinforc/ /1/ /7/ /1.25527/ /0.0265404
-Lesson_01.pdf.txt/ /AI/ /stochast/ /1/ /7/ /1.25527/ /0.0265404
-Lesson_01.pdf.txt/ /AI/ /feldman/ /1/ /7/ /1.25527/ /0.0265404
-Lesson_01.pdf.txt/ /AI/ /aristotl/ /1/ /7/ /1.25527/ /0.0265404
-Lesson_01.pdf.txt/ /AI/ /lisp/ /2/ /33/ /0.626884/ /0.0265085
-Lesson_01.pdf.txt/ /AI/ /bool/ /2/ /34/ /0.614294/ /0.0259762
-Lesson_01.pdf.txt/ /AI/ /today/ /5/ /81/ /0.244549/ /0.0258526
-Lesson_01.pdf.txt/ /AI/ /dissert/ /1/ /8/ /1.20412/ /0.0254588
-Lesson_01.pdf.txt/ /AI/ /marvin/ /1/ /8/ /1.20412/ /0.0254588
-Lesson_01.pdf.txt/ /AI/ /kasparov/ /1/ /8/ /1.20412/ /0.0254588
-Lesson_01.pdf.txt/ /AI/ /surround/ /1/ /8/ /1.20412/ /0.0254588
-Lesson_01.pdf.txt/ /AI/ /plan/ /4/ /71/ /0.30103/ /0.0254588
-Lesson_01.pdf.txt/ /AI/ /peopl/ /6/ /90/ /0.199321/ /0.0252856
-Lesson_01.pdf.txt/ /AI/ /fraud/ /1/ /9/ /1.15836/ /0.0244914
-Lesson_01.pdf.txt/ /AI/ /sutherland/ /1/ /9/ /1.15836/ /0.0244914
-Lesson_01.pdf.txt/ /AI/ /kurt/ /1/ /9/ /1.15836/ /0.0244914
-Lesson_01.pdf.txt/ /AI/ /grand/ /1/ /9/ /1.15836/ /0.0244914
-Lesson_01.pdf.txt/ /AI/ /face/ /3/ /59/ /0.380211/ /0.0241165
-Lesson_01.pdf.txt/ /AI/ /knowledg/ /7/ /98/ /0.162727/ /0.0240839
-Lesson_01.pdf.txt/ /AI/ /be/ /2/ /38/ /0.567298/ /0.0239889
-Lesson_01.pdf.txt/ /AI/ /beach/ /1/ /10/ /1.11697/ /0.0236162
-Lesson_01.pdf.txt/ /AI/ /dartmouth/ /1/ /10/ /1.11697/ /0.0236162
-Lesson_01.pdf.txt/ /AI/ /autonomi/ /1/ /10/ /1.11697/ /0.0236162
-Lesson_01.pdf.txt/ /AI/ /cmu/ /1/ /10/ /1.11697/ /0.0236162
-Lesson_01.pdf.txt/ /AI/ /descart/ /1/ /10/ /1.11697/ /0.0236162
-Lesson_01.pdf.txt/ /AI/ /twin/ /1/ /10/ /1.11697/ /0.0236162
-Lesson_01.pdf.txt/ /AI/ /iq/ /1/ /10/ /1.11697/ /0.0236162
-Lesson_01.pdf.txt/ /AI/ /version/ /11/ /113/ /0.101458/ /0.0235964
-Lesson_01.pdf.txt/ /AI/ /abil/ /5/ /86/ /0.218843/ /0.0231351
-Lesson_01.pdf.txt/ /AI/ /newel/ /1/ /11/ /1.07918/ /0.0228172
-Lesson_01.pdf.txt/ /AI/ /medic/ /1/ /11/ /1.07918/ /0.0228172
-Lesson_01.pdf.txt/ /AI/ /pet/ /1/ /11/ /1.07918/ /0.0228172
-Lesson_01.pdf.txt/ /AI/ /woman/ /1/ /11/ /1.07918/ /0.0228172
-Lesson_01.pdf.txt/ /AI/ /nasa/ /1/ /11/ /1.07918/ /0.0228172
-Lesson_01.pdf.txt/ /AI/ /stimulus/ /1/ /11/ /1.07918/ /0.0228172
-Lesson_01.pdf.txt/ /AI/ /myth/ /1/ /11/ /1.07918/ /0.0228172
-Lesson_01.pdf.txt/ /AI/ /schedul/ /3/ /62/ /0.359022/ /0.0227725
-Lesson_01.pdf.txt/ /AI/ /analog/ /3/ /62/ /0.359022/ /0.0227725
-Lesson_01.pdf.txt/ /AI/ /understand/ /5/ /88/ /0.208972/ /0.0220916
-Lesson_01.pdf.txt/ /AI/ /doctor/ /1/ /12/ /1.04442/ /0.0220823
-Lesson_01.pdf.txt/ /AI/ /planner/ /1/ /12/ /1.04442/ /0.0220823
-Lesson_01.pdf.txt/ /AI/ /rod/ /1/ /12/ /1.04442/ /0.0220823
-Lesson_01.pdf.txt/ /AI/ /gari/ /1/ /12/ /1.04442/ /0.0220823
-Lesson_01.pdf.txt/ /AI/ /found/ /1/ /12/ /1.04442/ /0.0220823
-Lesson_01.pdf.txt/ /AI/ /expert/ /2/ /43/ /0.51491/ /0.0217736
-Lesson_01.pdf.txt/ /AI/ /robinson/ /1/ /13/ /1.01223/ /0.0214018
-Lesson_01.pdf.txt/ /AI/ /dream/ /1/ /13/ /1.01223/ /0.0214018
-Lesson_01.pdf.txt/ /AI/ /judgement/ /1/ /13/ /1.01223/ /0.0214018
-Lesson_01.pdf.txt/ /AI/ /studi/ /4/ /80/ /0.249877/ /0.0211327
-Lesson_01.pdf.txt/ /AI/ /recognit/ /2/ /45/ /0.495605/ /0.0209572
-Lesson_01.pdf.txt/ /AI/ /appli/ /2/ /45/ /0.495605/ /0.0209572
-Lesson_01.pdf.txt/ /AI/ /offici/ /1/ /14/ /0.982271/ /0.0207683
-Lesson_01.pdf.txt/ /AI/ /categor/ /1/ /14/ /0.982271/ /0.0207683
-Lesson_01.pdf.txt/ /AI/ /manifest/ /1/ /14/ /0.982271/ /0.0207683
-Lesson_01.pdf.txt/ /AI/ /east/ /1/ /14/ /0.982271/ /0.0207683
-Lesson_01.pdf.txt/ /AI/ /alfr/ /1/ /14/ /0.982271/ /0.0207683
-Lesson_01.pdf.txt/ /AI/ /deep/ /1/ /14/ /0.982271/ /0.0207683
-Lesson_01.pdf.txt/ /AI/ /1950s/ /1/ /14/ /0.982271/ /0.0207683
-Lesson_01.pdf.txt/ /AI/ /love/ /1/ /14/ /0.982271/ /0.0207683
-Lesson_01.pdf.txt/ /AI/ /saw/ /1/ /14/ /0.982271/ /0.0207683
-Lesson_01.pdf.txt/ /AI/ /puzzl/ /1/ /15/ /0.954243/ /0.0201757
-Lesson_01.pdf.txt/ /AI/ /brook/ /1/ /15/ /0.954243/ /0.0201757
-Lesson_01.pdf.txt/ /AI/ /prolog/ /1/ /15/ /0.954243/ /0.0201757
-Lesson_01.pdf.txt/ /AI/ /probe/ /1/ /15/ /0.954243/ /0.0201757
-Lesson_01.pdf.txt/ /AI/ /theorist/ /1/ /15/ /0.954243/ /0.0201757
-Lesson_01.pdf.txt/ /AI/ /neuron/ /1/ /15/ /0.954243/ /0.0201757
-Lesson_01.pdf.txt/ /AI/ /newspap/ /1/ /15/ /0.954243/ /0.0201757
-Lesson_01.pdf.txt/ /AI/ /appreci/ /1/ /15/ /0.954243/ /0.0201757
-Lesson_01.pdf.txt/ /AI/ /internet/ /3/ /69/ /0.313264/ /0.0198702
-Lesson_01.pdf.txt/ /AI/ /confer/ /2/ /48/ /0.468166/ /0.019797
-Lesson_01.pdf.txt/ /AI/ /mit/ /2/ /48/ /0.468166/ /0.019797
-Lesson_01.pdf.txt/ /AI/ /mccarthi/ /1/ /16/ /0.927914/ /0.019619
-Lesson_01.pdf.txt/ /AI/ /babbag/ /1/ /17/ /0.90309/ /0.0190941
-Lesson_01.pdf.txt/ /AI/ /evan/ /1/ /17/ /0.90309/ /0.0190941
-Lesson_01.pdf.txt/ /AI/ /artifici/ /1/ /17/ /0.90309/ /0.0190941
-Lesson_01.pdf.txt/ /AI/ /phd/ /1/ /17/ /0.90309/ /0.0190941
-Lesson_01.pdf.txt/ /AI/ /ada/ /1/ /17/ /0.90309/ /0.0190941
-Lesson_01.pdf.txt/ /AI/ /faculti/ /1/ /17/ /0.90309/ /0.0190941
-Lesson_01.pdf.txt/ /AI/ /network/ /7/ /106/ /0.128979/ /0.0190891
-Lesson_01.pdf.txt/ /AI/ /duti/ /1/ /19/ /0.857332/ /0.0181267
-Lesson_01.pdf.txt/ /AI/ /cognit/ /1/ /19/ /0.857332/ /0.0181267
-Lesson_01.pdf.txt/ /AI/ /mission/ /1/ /20/ /0.836143/ /0.0176787
-Lesson_01.pdf.txt/ /AI/ /philosoph/ /1/ /20/ /0.836143/ /0.0176787
-Lesson_01.pdf.txt/ /AI/ /chemic/ /1/ /20/ /0.836143/ /0.0176787
-Lesson_01.pdf.txt/ /AI/ /father/ /1/ /20/ /0.836143/ /0.0176787
-Lesson_01.pdf.txt/ /AI/ /deal/ /3/ /75/ /0.277549/ /0.0176047
-Lesson_01.pdf.txt/ /AI/ /view/ /7/ /109/ /0.11697/ /0.0173117
-Lesson_01.pdf.txt/ /AI/ /obstacl/ /1/ /21/ /0.81594/ /0.0172515
-Lesson_01.pdf.txt/ /AI/ /domain/ /3/ /77/ /0.266268/ /0.0168892
-Lesson_01.pdf.txt/ /AI/ /site/ /3/ /77/ /0.266268/ /0.0168892
-Lesson_01.pdf.txt/ /AI/ /allen/ /1/ /22/ /0.796635/ /0.0168433
-Lesson_01.pdf.txt/ /AI/ /maker/ /1/ /22/ /0.796635/ /0.0168433
-Lesson_01.pdf.txt/ /AI/ /samuel/ /1/ /22/ /0.796635/ /0.0168433
-Lesson_01.pdf.txt/ /AI/ /tube/ /1/ /23/ /0.778151/ /0.0164525
-Lesson_01.pdf.txt/ /AI/ /west/ /1/ /23/ /0.778151/ /0.0164525
-Lesson_01.pdf.txt/ /AI/ /vacuum/ /1/ /23/ /0.778151/ /0.0164525
-Lesson_01.pdf.txt/ /AI/ /edward/ /1/ /24/ /0.760423/ /0.0160777
-Lesson_01.pdf.txt/ /AI/ /law/ /2/ /60/ /0.373033/ /0.0157741
-Lesson_01.pdf.txt/ /AI/ /advent/ /1/ /25/ /0.743389/ /0.0157176
-Lesson_01.pdf.txt/ /AI/ /simon/ /1/ /25/ /0.743389/ /0.0157176
-Lesson_01.pdf.txt/ /AI/ /heurist/ /1/ /25/ /0.743389/ /0.0157176
-Lesson_01.pdf.txt/ /AI/ /russel/ /1/ /25/ /0.743389/ /0.0157176
-Lesson_01.pdf.txt/ /AI/ /artifact/ /1/ /26/ /0.726999/ /0.015371
-Lesson_01.pdf.txt/ /AI/ /stanford/ /1/ /26/ /0.726999/ /0.015371
-Lesson_01.pdf.txt/ /AI/ /meet/ /1/ /27/ /0.711204/ /0.0150371
-Lesson_01.pdf.txt/ /AI/ /land/ /1/ /27/ /0.711204/ /0.0150371
-Lesson_01.pdf.txt/ /AI/ /exhibit/ /1/ /27/ /0.711204/ /0.0150371
-Lesson_01.pdf.txt/ /AI/ /represent/ /5/ /103/ /0.141329/ /0.0149407
-Lesson_01.pdf.txt/ /AI/ /act/ /2/ /63/ /0.352183/ /0.0148925
-Lesson_01.pdf.txt/ /AI/ /test/ /6/ /109/ /0.11697/ /0.0148386
-Lesson_01.pdf.txt/ /AI/ /explor/ /1/ /28/ /0.695964/ /0.0147149
-Lesson_01.pdf.txt/ /AI/ /idea/ /5/ /104/ /0.137173/ /0.0145013
-Lesson_01.pdf.txt/ /AI/ /visit/ /1/ /29/ /0.681241/ /0.0144036
-Lesson_01.pdf.txt/ /AI/ /qualiti/ /2/ /65/ /0.338819/ /0.0143274
-Lesson_01.pdf.txt/ /AI/ /1960s/ /1/ /30/ /0.667001/ /0.0141025
-Lesson_01.pdf.txt/ /AI/ /popular/ /1/ /30/ /0.667001/ /0.0141025
-Lesson_01.pdf.txt/ /AI/ /layer/ /2/ /66/ /0.332288/ /0.0140512
-Lesson_01.pdf.txt/ /AI/ /machineri/ /1/ /31/ /0.653212/ /0.0138109
-Lesson_01.pdf.txt/ /AI/ /bc/ /1/ /31/ /0.653212/ /0.0138109
-Lesson_01.pdf.txt/ /AI/ /region/ /2/ /67/ /0.325854/ /0.0137791
-Lesson_01.pdf.txt/ /AI/ /thoma/ /1/ /32/ /0.639849/ /0.0135284
-Lesson_01.pdf.txt/ /AI/ /colleg/ /1/ /32/ /0.639849/ /0.0135284
-Lesson_01.pdf.txt/ /AI/ /complet/ /2/ /68/ /0.319513/ /0.013511
-Lesson_01.pdf.txt/ /AI/ /improv/ /2/ /68/ /0.319513/ /0.013511
-Lesson_01.pdf.txt/ /AI/ /natur/ /4/ /99/ /0.158363/ /0.0133931
-Lesson_01.pdf.txt/ /AI/ /histori/ /3/ /88/ /0.208972/ /0.013255
-Lesson_01.pdf.txt/ /AI/ /geometri/ /1/ /33/ /0.626884/ /0.0132543
-Lesson_01.pdf.txt/ /AI/ /georg/ /1/ /33/ /0.626884/ /0.0132543
-Lesson_01.pdf.txt/ /AI/ /brain/ /1/ /33/ /0.626884/ /0.0132543
-Lesson_01.pdf.txt/ /AI/ /match/ /2/ /69/ /0.313264/ /0.0132468
-Lesson_01.pdf.txt/ /AI/ /alan/ /1/ /34/ /0.614294/ /0.0129881
-Lesson_01.pdf.txt/ /AI/ /integr/ /2/ /70/ /0.307104/ /0.0129863
-Lesson_01.pdf.txt/ /AI/ /imag/ /3/ /89/ /0.20412/ /0.0129472
-Lesson_01.pdf.txt/ /AI/ /north/ /1/ /35/ /0.60206/ /0.0127294
-Lesson_01.pdf.txt/ /AI/ /charl/ /1/ /35/ /0.60206/ /0.0127294
-Lesson_01.pdf.txt/ /AI/ /room/ /2/ /71/ /0.30103/ /0.0127294
-Lesson_01.pdf.txt/ /AI/ /mine/ /1/ /35/ /0.60206/ /0.0127294
-Lesson_01.pdf.txt/ /AI/ /credit/ /1/ /36/ /0.590161/ /0.0124778
-Lesson_01.pdf.txt/ /AI/ /hill/ /1/ /36/ /0.590161/ /0.0124778
-Lesson_01.pdf.txt/ /AI/ /success/ /2/ /72/ /0.29504/ /0.0124761
-Lesson_01.pdf.txt/ /AI/ /scope/ /2/ /72/ /0.29504/ /0.0124761
-Lesson_01.pdf.txt/ /AI/ /compound/ /1/ /37/ /0.578579/ /0.012233
-Lesson_01.pdf.txt/ /AI/ /date/ /2/ /73/ /0.289131/ /0.0122262
-Lesson_01.pdf.txt/ /AI/ /problem/ /15/ /131/ /0.0377886/ /0.0119845
-Lesson_01.pdf.txt/ /AI/ /street/ /1/ /39/ /0.556302/ /0.011762
-Lesson_01.pdf.txt/ /AI/ /april/ /1/ /39/ /0.556302/ /0.011762
-Lesson_01.pdf.txt/ /AI/ /news/ /1/ /39/ /0.556302/ /0.011762
-Lesson_01.pdf.txt/ /AI/ /mar/ /1/ /40/ /0.545579/ /0.0115352
-Lesson_01.pdf.txt/ /AI/ /month/ /1/ /40/ /0.545579/ /0.0115352
-Lesson_01.pdf.txt/ /AI/ /trace/ /1/ /41/ /0.535113/ /0.011314
-Lesson_01.pdf.txt/ /AI/ /scene/ /1/ /41/ /0.535113/ /0.011314
-Lesson_01.pdf.txt/ /AI/ /jame/ /1/ /41/ /0.535113/ /0.011314
-Lesson_01.pdf.txt/ /AI/ /usa/ /1/ /42/ /0.524894/ /0.0110979
-Lesson_01.pdf.txt/ /AI/ /extract/ /1/ /42/ /0.524894/ /0.0110979
-Lesson_01.pdf.txt/ /AI/ /pascal/ /1/ /42/ /0.524894/ /0.0110979
-Lesson_01.pdf.txt/ /AI/ /stori/ /1/ /43/ /0.51491/ /0.0108868
-Lesson_01.pdf.txt/ /AI/ /sound/ /1/ /43/ /0.51491/ /0.0108868
-Lesson_01.pdf.txt/ /AI/ /camera/ /1/ /43/ /0.51491/ /0.0108868
-Lesson_01.pdf.txt/ /AI/ /theori/ /2/ /79/ /0.255273/ /0.0107945
-Lesson_01.pdf.txt/ /AI/ /entiti/ /2/ /79/ /0.255273/ /0.0107945
-Lesson_01.pdf.txt/ /AI/ /manner/ /2/ /79/ /0.255273/ /0.0107945
-Lesson_01.pdf.txt/ /AI/ /growth/ /1/ /44/ /0.50515/ /0.0106804
-Lesson_01.pdf.txt/ /AI/ /lot/ /2/ /80/ /0.249877/ /0.0105664
-Lesson_01.pdf.txt/ /AI/ /emphasi/ /1/ /45/ /0.495605/ /0.0104786
-Lesson_01.pdf.txt/ /AI/ /skill/ /1/ /45/ /0.495605/ /0.0104786
-Lesson_01.pdf.txt/ /AI/ /devic/ /3/ /98/ /0.162727/ /0.0103217
-Lesson_01.pdf.txt/ /AI/ /system/ /39/ /139/ /0.0122345/ /0.0100883
-Lesson_01.pdf.txt/ /AI/ /theorem/ /1/ /47/ /0.477121/ /0.0100878
-Lesson_01.pdf.txt/ /AI/ /team/ /1/ /48/ /0.468166/ /0.00989849
-Lesson_01.pdf.txt/ /AI/ /topic/ /2/ /83/ /0.234083/ /0.00989849
-Lesson_01.pdf.txt/ /AI/ /circuit/ /1/ /48/ /0.468166/ /0.00989849
-Lesson_01.pdf.txt/ /AI/ /mass/ /1/ /49/ /0.459393/ /0.00971298
-Lesson_01.pdf.txt/ /AI/ /web/ /2/ /84/ /0.228944/ /0.00968116
-Lesson_01.pdf.txt/ /AI/ /action/ /3/ /101/ /0.149762/ /0.00949932
-Lesson_01.pdf.txt/ /AI/ /past/ /1/ /51/ /0.442359/ /0.00935285
-Lesson_01.pdf.txt/ /AI/ /rang/ /3/ /102/ /0.145525/ /0.00923057
-Lesson_01.pdf.txt/ /AI/ /scenario/ /1/ /52/ /0.434087/ /0.00917794
-Lesson_01.pdf.txt/ /AI/ /self/ /1/ /52/ /0.434087/ /0.00917794
-Lesson_01.pdf.txt/ /AI/ /algebra/ /1/ /52/ /0.434087/ /0.00917794
-Lesson_01.pdf.txt/ /AI/ /drive/ /1/ /53/ /0.425969/ /0.0090063
-Lesson_01.pdf.txt/ /AI/ /comput/ /17/ /135/ /0.0248236/ /0.00892242
-Lesson_01.pdf.txt/ /AI/ /master/ /1/ /54/ /0.418/ /0.00883781
-Lesson_01.pdf.txt/ /AI/ /architectur/ /3/ /104/ /0.137173/ /0.0087008
-Lesson_01.pdf.txt/ /AI/ /world/ /3/ /104/ /0.137173/ /0.0087008
-Lesson_01.pdf.txt/ /AI/ /possibl/ /2/ /89/ /0.20412/ /0.00863146
-Lesson_01.pdf.txt/ /AI/ /behavior/ /2/ /89/ /0.20412/ /0.00863146
-Lesson_01.pdf.txt/ /AI/ /paper/ /2/ /89/ /0.20412/ /0.00863146
-Lesson_01.pdf.txt/ /AI/ /proof/ /1/ /56/ /0.402488/ /0.00850984
-Lesson_01.pdf.txt/ /AI/ /conclus/ /1/ /56/ /0.402488/ /0.00850984
-Lesson_01.pdf.txt/ /AI/ /build/ /2/ /90/ /0.199321/ /0.00842853
-Lesson_01.pdf.txt/ /AI/ /car/ /1/ /57/ /0.394934/ /0.00835014
-Lesson_01.pdf.txt/ /AI/ /environ/ /3/ /106/ /0.128979/ /0.00818103
-Lesson_01.pdf.txt/ /AI/ /ibm/ /1/ /59/ /0.380211/ /0.00803885
-Lesson_01.pdf.txt/ /AI/ /opportun/ /1/ /59/ /0.380211/ /0.00803885
-Lesson_01.pdf.txt/ /AI/ /situat/ /2/ /92/ /0.18988/ /0.00802929
-Lesson_01.pdf.txt/ /AI/ /instruct/ /2/ /92/ /0.18988/ /0.00802929
-Lesson_01.pdf.txt/ /AI/ /attent/ /1/ /60/ /0.373033/ /0.00788707
-Lesson_01.pdf.txt/ /AI/ /resolut/ /1/ /60/ /0.373033/ /0.00788707
-Lesson_01.pdf.txt/ /AI/ /realiti/ /1/ /61/ /0.365971/ /0.00773776
-Lesson_01.pdf.txt/ /AI/ /concept/ /3/ /108/ /0.120936/ /0.00767089
-Lesson_01.pdf.txt/ /AI/ /experi/ /2/ /94/ /0.180639/ /0.00763853
-Lesson_01.pdf.txt/ /AI/ /secur/ /1/ /62/ /0.359022/ /0.00759084
-Lesson_01.pdf.txt/ /AI/ /card/ /1/ /63/ /0.352183/ /0.00744623
-Lesson_01.pdf.txt/ /AI/ /notion/ /1/ /64/ /0.345449/ /0.00730387
-Lesson_01.pdf.txt/ /AI/ /progress/ /1/ /64/ /0.345449/ /0.00730387
-Lesson_01.pdf.txt/ /AI/ /copi/ /2/ /96/ /0.171591/ /0.00725592
-Lesson_01.pdf.txt/ /AI/ /research/ /2/ /96/ /0.171591/ /0.00725592
-Lesson_01.pdf.txt/ /AI/ /focus/ /1/ /66/ /0.332288/ /0.00702559
-Lesson_01.pdf.txt/ /AI/ /monitor/ /1/ /68/ /0.319513/ /0.00675551
-Lesson_01.pdf.txt/ /AI/ /advanc/ /2/ /99/ /0.158363/ /0.00669655
-Lesson_01.pdf.txt/ /AI/ /impact/ /1/ /69/ /0.313264/ /0.00662338
-Lesson_01.pdf.txt/ /AI/ /total/ /1/ /70/ /0.307104/ /0.00649313
-Lesson_01.pdf.txt/ /AI/ /object/ /4/ /120/ /0.0755771/ /0.00639174
-Lesson_01.pdf.txt/ /AI/ /one/ /2/ /101/ /0.149762/ /0.00633288
-Lesson_01.pdf.txt/ /AI/ /difficulti/ /1/ /72/ /0.29504/ /0.00623805
-Lesson_01.pdf.txt/ /AI/ /approach/ /3/ /114/ /0.0976646/ /0.0061948
-Lesson_01.pdf.txt/ /AI/ /year/ /2/ /102/ /0.145525/ /0.00615371
-Lesson_01.pdf.txt/ /AI/ /correct/ /1/ /73/ /0.289131/ /0.00611312
-Lesson_01.pdf.txt/ /AI/ /mind/ /1/ /73/ /0.289131/ /0.00611312
-Lesson_01.pdf.txt/ /AI/ /creation/ /1/ /73/ /0.289131/ /0.00611312
-Lesson_01.pdf.txt/ /AI/ /person/ /1/ /74/ /0.283301/ /0.00598987
-Lesson_01.pdf.txt/ /AI/ /benefit/ /1/ /75/ /0.277549/ /0.00586825
-Lesson_01.pdf.txt/ /AI/ /develop/ /2/ /104/ /0.137173/ /0.00580053
-Lesson_01.pdf.txt/ /AI/ /mechan/ /2/ /104/ /0.137173/ /0.00580053
-Lesson_01.pdf.txt/ /AI/ /measur/ /1/ /76/ /0.271872/ /0.00574821
-Lesson_01.pdf.txt/ /AI/ /life/ /1/ /76/ /0.271872/ /0.00574821
-Lesson_01.pdf.txt/ /AI/ /root/ /1/ /76/ /0.271872/ /0.00574821
-Lesson_01.pdf.txt/ /AI/ /reader/ /1/ /77/ /0.266268/ /0.00562973
-Lesson_01.pdf.txt/ /AI/ /frame/ /1/ /77/ /0.266268/ /0.00562973
-Lesson_01.pdf.txt/ /AI/ /thing/ /2/ /105/ /0.133057/ /0.00562646
-Lesson_01.pdf.txt/ /AI/ /effort/ /1/ /78/ /0.260735/ /0.00551276
-Lesson_01.pdf.txt/ /AI/ /definit/ /3/ /117/ /0.0864805/ /0.0054854
-Lesson_01.pdf.txt/ /AI/ /sampl/ /1/ /79/ /0.255273/ /0.00539725
-Lesson_01.pdf.txt/ /AI/ /optim/ /1/ /79/ /0.255273/ /0.00539725
-Lesson_01.pdf.txt/ /AI/ /program/ /9/ /134/ /0.0280287/ /0.00533353
-Lesson_01.pdf.txt/ /AI/ /question/ /2/ /107/ /0.124939/ /0.00528319
-Lesson_01.pdf.txt/ /AI/ /modul/ /1/ /80/ /0.249877/ /0.00528319
-Lesson_01.pdf.txt/ /AI/ /characterist/ /1/ /81/ /0.244549/ /0.00517052
-Lesson_01.pdf.txt/ /AI/ /messag/ /1/ /82/ /0.239284/ /0.00505922
-Lesson_01.pdf.txt/ /AI/ /scheme/ /1/ /82/ /0.239284/ /0.00505922
-Lesson_01.pdf.txt/ /AI/ /util/ /1/ /82/ /0.239284/ /0.00505922
-Lesson_01.pdf.txt/ /AI/ /space/ /3/ /119/ /0.0791813/ /0.00502241
-Lesson_01.pdf.txt/ /AI/ /interest/ /1/ /83/ /0.234083/ /0.00494925
-Lesson_01.pdf.txt/ /AI/ /matter/ /1/ /84/ /0.228944/ /0.00484058
-Lesson_01.pdf.txt/ /AI/ /detail/ /2/ /110/ /0.113039/ /0.00478001
-Lesson_01.pdf.txt/ /AI/ /bodi/ /1/ /85/ /0.223864/ /0.00473318
-Lesson_01.pdf.txt/ /AI/ /interpret/ /1/ /85/ /0.223864/ /0.00473318
-Lesson_01.pdf.txt/ /AI/ /capabl/ /1/ /86/ /0.218843/ /0.00462703
-Lesson_01.pdf.txt/ /AI/ /term/ /3/ /121/ /0.0720027/ /0.00456708
+computer_graphics
+86
+graphic 15
+art 13
+design 7
+ga/art 6
+requir 5
+or 5
+student 4
+field 4
+cours 4
+ohlon 4
+colleg 4
+unit 4
+arts/comput 3
+grade 3
+plan 3
+photography/graph 3
+newspap 3
+staff 3
+curriculum 2
+certif 2
+achiev 2
+artist 2
+varieti 2
+skill 2
+job 2
+portfolio 2
+point 2
+averag 2
+techniqu 2
+qualiti 2
+present 2
+survey 2
+world 2
+histori 2
+th 2
+centuri 2
+photographi 2
+digit 2
+ii 2
+advanc 2
+guid 1
+career 1
+print 1
+compani 1
+media 1
+firm 1
+order 1
+rang 1
+opportun 1
+placement 1
+work 1
+willing 1
+area 1
+avail 1
+associ 1
+degre 1
+general 1
+educ 1
+csu 1
+ge 1
+igetc 1
+catalog 1
+learn 1
+outcom 1
+process 1
+imag 1
+problem 1
+solut 1
+group 1
+project 1
+growth 1
+art-103a 1
+prehistor 1
+art-104c 1
+color 1
+art-106a 1
+descript 1
+art-133a 1
+black 1
+white 1
+art-138a 1
+photoshop 1
+art-139a 1
+begin 1
+comput 1
+jour-147 1

@@ -1,0 +1,347 @@
+filename = input/input0.txt , 원래 그룹 = AI
+Distance List
+label = AI | average = null | distance = 0.9328006845114005
+label = AI | average = null | distance = 0.9429735455048497
+label = AI | average = null | distance = 0.9475947074037879
+------------------------------------------------------------------------
+Label = AI | count = 3
+분류가 성공하였습니다
+------------------------------------------------------------------------
+
+filename = input/input1.txt , 원래 그룹 = AI
+Distance List
+label = AI | average = null | distance = 0.8256422346629373
+label = AI | average = null | distance = 0.8272308999530709
+label = AI | average = null | distance = 0.8379887494344626
+------------------------------------------------------------------------
+Label = AI | count = 3
+분류가 성공하였습니다
+------------------------------------------------------------------------
+
+filename = input/input2.txt , 원래 그룹 = AI
+Distance List
+label = AI | average = null | distance = 0.7578700967525804
+label = AI | average = null | distance = 0.8827750558030467
+label = AI | average = null | distance = 0.8843709869779268
+------------------------------------------------------------------------
+Label = AI | count = 3
+분류가 성공하였습니다
+------------------------------------------------------------------------
+
+filename = input/input3.txt , 원래 그룹 = AI
+Distance List
+label = AI | average = null | distance = 0.9999979338248114
+label = network | average = null | distance = 0.9999979835797939
+label = os | average = null | distance = 0.9999980224716781
+------------------------------------------------------------------------
+Label = network | count = 1
+Label = AI | count = 1
+Label = os | count = 1
+분류가 실패하였습니다
+------------------------------------------------------------------------
+
+filename = input/input4.txt , 원래 그룹 = compiler
+Distance List
+label = Programming_Language | average = null | distance = 0.9297504627257334
+label = Programming_Language | average = null | distance = 0.9434233661534909
+label = compiler | average = null | distance = 0.9592693469231938
+------------------------------------------------------------------------
+Label = Programming_Language | count = 2
+Label = compiler | count = 1
+분류가 실패하였습니다
+------------------------------------------------------------------------
+
+filename = input/input5.txt , 원래 그룹 = compiler
+Distance List
+label = compiler | average = null | distance = 0.8726904767891162
+label = Programming_Language | average = null | distance = 0.8958944760476748
+label = compiler | average = null | distance = 0.9468705204668953
+------------------------------------------------------------------------
+Label = compiler | count = 2
+Label = Programming_Language | count = 1
+분류가 성공하였습니다
+------------------------------------------------------------------------
+
+filename = input/input6.txt , 원래 그룹 = compiler
+Distance List
+label = compiler | average = null | distance = 0.8132179714439594
+label = compiler | average = null | distance = 0.8132179714439594
+label = compiler | average = null | distance = 0.8493390336211745
+------------------------------------------------------------------------
+Label = compiler | count = 3
+분류가 성공하였습니다
+------------------------------------------------------------------------
+
+filename = input/input7.txt , 원래 그룹 = compiler
+Distance List
+label = computer_architecture | average = null | distance = 0.959451771125593
+label = os | average = null | distance = 0.9744126929631172
+label = computer_architecture | average = null | distance = 0.9757987082387425
+------------------------------------------------------------------------
+Label = computer_architecture | count = 2
+Label = os | count = 1
+분류가 실패하였습니다
+------------------------------------------------------------------------
+
+filename = input/input8.txt , 원래 그룹 = computer_architecture
+Distance List
+label = computer_architecture | average = null | distance = 0.9603646202372994
+label = computer_graphics | average = null | distance = 0.9800118381722212
+label = AI | average = null | distance = 0.9811448148316463
+------------------------------------------------------------------------
+Label = computer_architecture | count = 1
+Label = AI | count = 1
+Label = computer_graphics | count = 1
+분류가 성공하였습니다
+------------------------------------------------------------------------
+
+filename = input/input9.txt , 원래 그룹 = computer_architecture
+Distance List
+label = computer_architecture | average = null | distance = 0.8939381721752498
+label = computer_architecture | average = null | distance = 0.9034425072173273
+label = computer_architecture | average = null | distance = 0.9429720703169772
+------------------------------------------------------------------------
+Label = computer_architecture | count = 3
+분류가 성공하였습니다
+------------------------------------------------------------------------
+
+filename = input/input10.txt , 원래 그룹 = computer_architecture
+Distance List
+label = computer_architecture | average = null | distance = 0.7443588515197026
+label = computer_architecture | average = null | distance = 0.7508395218545101
+label = computer_architecture | average = null | distance = 0.7649371992476498
+------------------------------------------------------------------------
+Label = computer_architecture | count = 3
+분류가 성공하였습니다
+------------------------------------------------------------------------
+
+filename = input/input11.txt , 원래 그룹 = computer_architecture
+Distance List
+label = computer_architecture | average = null | distance = 0.925390153734635
+label = computer_architecture | average = null | distance = 0.9411131210512669
+label = computer_architecture | average = null | distance = 0.9522462068708598
+------------------------------------------------------------------------
+Label = computer_architecture | count = 3
+분류가 성공하였습니다
+------------------------------------------------------------------------
+
+filename = input/input12.txt , 원래 그룹 = computer_graphics
+Distance List
+label = computer_graphics | average = null | distance = 0.8628936018555575
+label = computer_graphics | average = null | distance = 0.8772295392314631
+label = computer_graphics | average = null | distance = 0.8862950840511851
+------------------------------------------------------------------------
+Label = computer_graphics | count = 3
+분류가 성공하였습니다
+------------------------------------------------------------------------
+
+filename = input/input13.txt , 원래 그룹 = computer_graphics
+Distance List
+label = computer_graphics | average = null | distance = 0.9240759778352283
+label = database | average = null | distance = 0.9418090038527246
+label = os | average = null | distance = 0.9871134211450302
+------------------------------------------------------------------------
+Label = computer_graphics | count = 1
+Label = os | count = 1
+Label = database | count = 1
+분류가 성공하였습니다
+------------------------------------------------------------------------
+
+filename = input/input14.txt , 원래 그룹 = computer_graphics
+Distance List
+label = computer_graphics | average = null | distance = 0.9270001878734881
+label = computer_graphics | average = null | distance = 0.9417378224292027
+label = computer_graphics | average = null | distance = 0.9451622448388998
+------------------------------------------------------------------------
+Label = computer_graphics | count = 3
+분류가 성공하였습니다
+------------------------------------------------------------------------
+
+filename = input/input15.txt , 원래 그룹 = computer_graphics
+Distance List
+label = computer_graphics | average = null | distance = 0.9054275333998447
+label = database | average = null | distance = 0.9164786185861794
+label = computer_graphics | average = null | distance = 0.9349387061181728
+------------------------------------------------------------------------
+Label = computer_graphics | count = 2
+Label = database | count = 1
+분류가 성공하였습니다
+------------------------------------------------------------------------
+
+filename = input/input16.txt , 원래 그룹 = database
+Distance List
+label = database | average = null | distance = 0.8899090780038518
+label = database | average = null | distance = 0.9346680917826801
+label = database | average = null | distance = 0.9523914501272946
+------------------------------------------------------------------------
+Label = database | count = 3
+분류가 성공하였습니다
+------------------------------------------------------------------------
+
+filename = input/input17.txt , 원래 그룹 = database
+Distance List
+label = database | average = null | distance = 0.96438087446404
+label = database | average = null | distance = 0.9657720205813752
+label = database | average = null | distance = 0.9668519111841026
+------------------------------------------------------------------------
+Label = database | count = 3
+분류가 성공하였습니다
+------------------------------------------------------------------------
+
+filename =  , 원래 그룹 = database
+Distance List
+label = AI | average = null | distance = 0.9999979338248114
+label = network | average = null | distance = 0.9999979835797939
+label = os | average = null | distance = 0.9999980224716781
+------------------------------------------------------------------------
+Label = network | count = 1
+Label = AI | count = 1
+Label = os | count = 1
+분류가 실패하였습니다
+------------------------------------------------------------------------
+
+filename =  , 원래 그룹 = database
+Distance List
+label = AI | average = null | distance = 0.9999979338248114
+label = network | average = null | distance = 0.9999979835797939
+label = os | average = null | distance = 0.9999980224716781
+------------------------------------------------------------------------
+Label = network | count = 1
+Label = AI | count = 1
+Label = os | count = 1
+분류가 실패하였습니다
+------------------------------------------------------------------------
+
+filename = input/input20.txt , 원래 그룹 = network
+Distance List
+label = network | average = null | distance = 0.9826356069699762
+label = AI | average = null | distance = 0.9838457591789445
+label = computer_graphics | average = null | distance = 0.989745398089373
+------------------------------------------------------------------------
+Label = network | count = 1
+Label = AI | count = 1
+Label = computer_graphics | count = 1
+분류가 성공하였습니다
+------------------------------------------------------------------------
+
+filename = input/input21.txt , 원래 그룹 = network
+Distance List
+label = network | average = null | distance = 0.9529399205375265
+label = AI | average = null | distance = 0.9770920872859181
+label = computer_architecture | average = null | distance = 0.9892029781913099
+------------------------------------------------------------------------
+Label = network | count = 1
+Label = computer_architecture | count = 1
+Label = AI | count = 1
+분류가 성공하였습니다
+------------------------------------------------------------------------
+
+filename = input/input22.txt , 원래 그룹 = network
+Distance List
+label = computer_architecture | average = null | distance = 0.9837682471229614
+label = computer_architecture | average = null | distance = 0.988334759251502
+label = network | average = null | distance = 0.989722816214993
+------------------------------------------------------------------------
+Label = computer_architecture | count = 2
+Label = network | count = 1
+분류가 실패하였습니다
+------------------------------------------------------------------------
+
+filename = input/input23.txt , 원래 그룹 = network
+Distance List
+label = network | average = null | distance = 0.9532040307516181
+label = network | average = null | distance = 0.9635432827633045
+label = network | average = null | distance = 0.9807698389262297
+------------------------------------------------------------------------
+Label = network | count = 3
+분류가 성공하였습니다
+------------------------------------------------------------------------
+
+filename = input/input24.txt , 원래 그룹 = os
+Distance List
+label = os | average = null | distance = 9.23964468883852E-7
+label = os | average = null | distance = 0.8930270950358575
+label = os | average = null | distance = 0.923842964069729
+------------------------------------------------------------------------
+Label = os | count = 3
+분류가 성공하였습니다
+------------------------------------------------------------------------
+
+filename = input/input25.txt , 원래 그룹 = os
+Distance List
+label = os | average = null | distance = 0.8866439045524646
+label = os | average = null | distance = 0.9081623519987015
+label = Programming_Language | average = null | distance = 0.9654243918468329
+------------------------------------------------------------------------
+Label = os | count = 2
+Label = Programming_Language | count = 1
+분류가 성공하였습니다
+------------------------------------------------------------------------
+
+filename = input/input26.txt , 원래 그룹 = os
+Distance List
+label = os | average = null | distance = 0.9331282268712606
+label = os | average = null | distance = 0.9493699399542324
+label = os | average = null | distance = 0.9512994445316497
+------------------------------------------------------------------------
+Label = os | count = 3
+분류가 성공하였습니다
+------------------------------------------------------------------------
+
+filename = input/input27.txt , 원래 그룹 = os
+Distance List
+label = computer_architecture | average = null | distance = 0.9601292741478357
+label = computer_architecture | average = null | distance = 0.971954095961029
+label = network | average = null | distance = 0.973011801787458
+------------------------------------------------------------------------
+Label = computer_architecture | count = 2
+Label = network | count = 1
+분류가 실패하였습니다
+------------------------------------------------------------------------
+
+filename = input/input28.txt , 원래 그룹 = Programming_Language
+Distance List
+label = compiler | average = null | distance = 0.9826075274548939
+label = Programming_Language | average = null | distance = 0.984214354540444
+label = computer_graphics | average = null | distance = 0.9877170835458436
+------------------------------------------------------------------------
+Label = compiler | count = 1
+Label = computer_graphics | count = 1
+Label = Programming_Language | count = 1
+분류가 실패하였습니다
+------------------------------------------------------------------------
+
+filename = input/input29.txt , 원래 그룹 = Programming_Language
+Distance List
+label = os | average = null | distance = 0.9685124135908484
+label = compiler | average = null | distance = 0.9757812805847276
+label = computer_graphics | average = null | distance = 0.9781781081923687
+------------------------------------------------------------------------
+Label = compiler | count = 1
+Label = computer_graphics | count = 1
+Label = os | count = 1
+분류가 실패하였습니다
+------------------------------------------------------------------------
+
+filename = input/input30.txt , 원래 그룹 = Programming_Language
+Distance List
+label = Programming_Language | average = null | distance = 0.8893164011748135
+label = Programming_Language | average = null | distance = 0.9013253153693918
+label = os | average = null | distance = 0.9460194995877955
+------------------------------------------------------------------------
+Label = Programming_Language | count = 2
+Label = os | count = 1
+분류가 성공하였습니다
+------------------------------------------------------------------------
+
+filename = input/input31.txt , 원래 그룹 = Programming_Language
+Distance List
+label = Programming_Language | average = null | distance = 0.9010813114766362
+label = compiler | average = null | distance = 0.9085394797058319
+label = compiler | average = null | distance = 0.9085394797058319
+------------------------------------------------------------------------
+Label = compiler | count = 2
+Label = Programming_Language | count = 1
+분류가 실패하였습니다
+------------------------------------------------------------------------
+

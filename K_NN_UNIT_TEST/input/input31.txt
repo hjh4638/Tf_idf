@@ -1,360 +1,1957 @@
-sdccman.pdf.txt/ /compiler/ /sdcc/ /412/ /1/ /1.85733/ /0.896466
-sdccman.pdf.txt/ /compiler/ /ic/ /171/ /31/ /0.653212/ /0.130857
-sdccman.pdf.txt/ /compiler/ /mov/ /128/ /23/ /0.778151/ /0.116687
-sdccman.pdf.txt/ /compiler/ /sdcdb/ /50/ /1/ /1.85733/ /0.108794
-sdccman.pdf.txt/ /compiler/ /<value>/ /38/ /1/ /1.85733/ /0.0826838
-sdccman.pdf.txt/ /compiler/ /asm/ /58/ /9/ /1.15836/ /0.0787081
-sdccman.pdf.txt/ /compiler/ /icod/ /32/ /1/ /1.85733/ /0.0696285
-sdccman.pdf.txt/ /compiler/ /sdcclib/ /30/ /1/ /1.85733/ /0.0652767
-sdccman.pdf.txt/ /compiler/ /option/ /265/ /88/ /0.208972/ /0.0648757
-sdccman.pdf.txt/ /compiler/ /int/ /148/ /63/ /0.352183/ /0.0610628
-sdccman.pdf.txt/ /compiler/ /pic16/ /31/ /2/ /1.68124/ /0.0610575
-sdccman.pdf.txt/ /compiler/ /assembl/ /149/ /65/ /0.338819/ /0.0591426
-sdccman.pdf.txt/ /compiler/ /char/ /111/ /50/ /0.450792/ /0.0586201
-sdccman.pdf.txt/ /compiler/ /mcu/ /31/ /3/ /1.5563/ /0.0565201
-sdccman.pdf.txt/ /compiler/ /port/ /111/ /52/ /0.434087/ /0.0564477
-sdccman.pdf.txt/ /compiler/ /compil/ /214/ /85/ /0.223864/ /0.0561236
-sdccman.pdf.txt/ /compiler/ /pragma/ /38/ /7/ /1.25527/ /0.0558816
-sdccman.pdf.txt/ /compiler/ /sfr/ /30/ /3/ /1.5563/ /0.0546969
-sdccman.pdf.txt/ /compiler/ /linker/ /78/ /36/ /0.590161/ /0.0539277
-sdccman.pdf.txt/ /compiler/ /regist/ /157/ /73/ /0.289131/ /0.0531791
-sdccman.pdf.txt/ /compiler/ /endasm/ /23/ /1/ /1.85733/ /0.0500455
-sdccman.pdf.txt/ /compiler/ /z80/ /29/ /4/ /1.45939/ /0.0495812
-sdccman.pdf.txt/ /compiler/ /interrupt/ /93/ /50/ /0.450792/ /0.0491141
-sdccman.pdf.txt/ /compiler/ /file/ /304/ /106/ /0.128979/ /0.0459345
-sdccman.pdf.txt/ /compiler/ /mcs51/ /21/ /1/ /1.85733/ /0.0456937
-sdccman.pdf.txt/ /compiler/ /dpl/ /24/ /3/ /1.5563/ /0.0437575
-sdccman.pdf.txt/ /compiler/ /xdata/ /20/ /1/ /1.85733/ /0.0435178
-sdccman.pdf.txt/ /compiler/ /debugg/ /49/ /25/ /0.743389/ /0.0426736
-sdccman.pdf.txt/ /compiler/ /bank/ /88/ /56/ /0.402488/ /0.0414937
-sdccman.pdf.txt/ /compiler/ /code/ /340/ /114/ /0.0976646/ /0.0389012
-sdccman.pdf.txt/ /compiler/ /dptr/ /21/ /3/ /1.5563/ /0.0382878
-sdccman.pdf.txt/ /compiler/ /isr/ /30/ /12/ /1.04442/ /0.0367065
-sdccman.pdf.txt/ /compiler/ /pic14/ /16/ /1/ /1.85733/ /0.0348142
-sdccman.pdf.txt/ /compiler/ /xpage/ /16/ /1/ /1.85733/ /0.0348142
-sdccman.pdf.txt/ /compiler/ /xstack/ /16/ /1/ /1.85733/ /0.0348142
-sdccman.pdf.txt/ /compiler/ /dph/ /15/ /1/ /1.85733/ /0.0326383
-sdccman.pdf.txt/ /compiler/ /librari/ /143/ /91/ /0.194575/ /0.0325964
-sdccman.pdf.txt/ /compiler/ /printf/ /45/ /34/ /0.614294/ /0.0323844
-sdccman.pdf.txt/ /compiler/ /routin/ /74/ /60/ /0.373033/ /0.0323389
-sdccman.pdf.txt/ /compiler/ /ram/ /51/ /41/ /0.535113/ /0.0319715
-sdccman.pdf.txt/ /compiler/ /variabl/ /124/ /86/ /0.218843/ /0.0317908
-sdccman.pdf.txt/ /compiler/ /optim/ /105/ /79/ /0.255273/ /0.0314008
-sdccman.pdf.txt/ /compiler/ /bit/ /161/ /98/ /0.162727/ /0.0306926
-sdccman.pdf.txt/ /compiler/ /sdcc/support/script/ /14/ /1/ /1.85733/ /0.0304625
-sdccman.pdf.txt/ /compiler/ /inlin/ /29/ /18/ /0.879609/ /0.0298837
-sdccman.pdf.txt/ /compiler/ /default/ /94/ /77/ /0.266268/ /0.029322
-sdccman.pdf.txt/ /compiler/ /byte/ /95/ /78/ /0.260735/ /0.0290182
-sdccman.pdf.txt/ /compiler/ /preprocessor/ /29/ /20/ /0.836143/ /0.028407
-sdccman.pdf.txt/ /compiler/ /pdata/ /13/ /1/ /1.85733/ /0.0282866
-sdccman.pdf.txt/ /compiler/ /pointer/ /88/ /76/ /0.271872/ /0.0280281
-sdccman.pdf.txt/ /compiler/ /directori/ /62/ /59/ /0.380211/ /0.0276162
-sdccman.pdf.txt/ /compiler/ /<file>/ /15/ /3/ /1.5563/ /0.0273484
-sdccman.pdf.txt/ /compiler/ /sdcc/bin/ /12/ /1/ /1.85733/ /0.0261107
-sdccman.pdf.txt/ /compiler/ /itemp21/ /12/ /1/ /1.85733/ /0.0261107
-sdccman.pdf.txt/ /compiler/ /idata/ /12/ /1/ /1.85733/ /0.0261107
-sdccman.pdf.txt/ /compiler/ /config/ /21/ /12/ /1.04442/ /0.0256946
-sdccman.pdf.txt/ /compiler/ /exclud/ /14/ /3/ /1.5563/ /0.0255252
-sdccman.pdf.txt/ /compiler/ /bin/ /22/ /15/ /0.954243/ /0.024594
-sdccman.pdf.txt/ /compiler/ /instal/ /38/ /40/ /0.545579/ /0.0242878
-sdccman.pdf.txt/ /compiler/ /ucsim/ /11/ /1/ /1.85733/ /0.0239348
-sdccman.pdf.txt/ /compiler/ /hc08/ /11/ /1/ /1.85733/ /0.0239348
-sdccman.pdf.txt/ /compiler/ /gint/ /11/ /1/ /1.85733/ /0.0239348
-sdccman.pdf.txt/ /compiler/ /gameboy/ /11/ /1/ /1.85733/ /0.0239348
-sdccman.pdf.txt/ /compiler/ /wreg/ /11/ /1/ /1.85733/ /0.0239348
-sdccman.pdf.txt/ /compiler/ /itemp6/ /11/ /1/ /1.85733/ /0.0239348
-sdccman.pdf.txt/ /compiler/ /chapter/ /113/ /94/ /0.180639/ /0.0239132
-sdccman.pdf.txt/ /compiler/ /microcontrol/ /17/ /9/ /1.15836/ /0.0230696
-sdccman.pdf.txt/ /compiler/ /putchar/ /17/ /9/ /1.15836/ /0.0230696
-sdccman.pdf.txt/ /compiler/ /microchip/ /14/ /5/ /1.38021/ /0.0226371
-sdccman.pdf.txt/ /compiler/ /codeseg/ /10/ /1/ /1.85733/ /0.0217589
-sdccman.pdf.txt/ /compiler/ /mcs51/ds390/ /10/ /1/ /1.85733/ /0.0217589
-sdccman.pdf.txt/ /compiler/ /z180/ /10/ /1/ /1.85733/ /0.0217589
-sdccman.pdf.txt/ /compiler/ /xemac/ /10/ /1/ /1.85733/ /0.0217589
-sdccman.pdf.txt/ /compiler/ /itemp17/ /10/ /1/ /1.85733/ /0.0217589
-sdccman.pdf.txt/ /compiler/ /nooverlay/ /10/ /1/ /1.85733/ /0.0217589
-sdccman.pdf.txt/ /compiler/ /subvers/ /10/ /1/ /1.85733/ /0.0217589
-sdccman.pdf.txt/ /compiler/ /sdcpp/ /10/ /1/ /1.85733/ /0.0217589
-sdccman.pdf.txt/ /compiler/ /sdar/ /10/ /1/ /1.85733/ /0.0217589
-sdccman.pdf.txt/ /compiler/ /debug/ /37/ /45/ /0.495605/ /0.0214825
-sdccman.pdf.txt/ /compiler/ /header/ /48/ /60/ /0.373033/ /0.0209766
-sdccman.pdf.txt/ /compiler/ /macro/ /34/ /42/ /0.524894/ /0.0209073
-sdccman.pdf.txt/ /compiler/ /nop/ /17/ /13/ /1.01223/ /0.0201594
-sdccman.pdf.txt/ /compiler/ /path/ /82/ /88/ /0.208972/ /0.0200748
-sdccman.pdf.txt/ /compiler/ /rabbit/ /13/ /6/ /1.31326/ /0.0200006
-sdccman.pdf.txt/ /compiler/ /r0/ /21/ /22/ /0.796635/ /0.0195986
-sdccman.pdf.txt/ /compiler/ /gbz80/ /9/ /1/ /1.85733/ /0.019583
-sdccman.pdf.txt/ /compiler/ /hex/ /18/ /16/ /0.927914/ /0.0195671
-sdccman.pdf.txt/ /compiler/ /reentrant/ /12/ /5/ /1.38021/ /0.0194032
-sdccman.pdf.txt/ /compiler/ /command/ /85/ /91/ /0.194575/ /0.0193755
-sdccman.pdf.txt/ /compiler/ /lib/ /18/ /18/ /0.879609/ /0.0185485
-sdccman.pdf.txt/ /compiler/ /bug/ /35/ /50/ /0.450792/ /0.0184838
-sdccman.pdf.txt/ /compiler/ /win32/ /13/ /8/ /1.20412/ /0.0183384
-sdccman.pdf.txt/ /compiler/ /keyword/ /38/ /55/ /0.410174/ /0.0182599
-sdccman.pdf.txt/ /compiler/ /configur/ /50/ /70/ /0.307104/ /0.0179888
-sdccman.pdf.txt/ /compiler/ /mcus/ /9/ /2/ /1.68124/ /0.0177264
-sdccman.pdf.txt/ /compiler/ /regress/ /18/ /20/ /0.836143/ /0.0176319
-sdccman.pdf.txt/ /compiler/ /processor/ /70/ /87/ /0.21388/ /0.0175394
-sdccman.pdf.txt/ /compiler/ /noinduct/ /8/ /1/ /1.85733/ /0.0174071
-sdccman.pdf.txt/ /compiler/ /udata/ /8/ /1/ /1.85733/ /0.0174071
-sdccman.pdf.txt/ /compiler/ /constseg/ /8/ /1/ /1.85733/ /0.0174071
-sdccman.pdf.txt/ /compiler/ /ds390/ /8/ /1/ /1.85733/ /0.0174071
-sdccman.pdf.txt/ /compiler/ /itemp/ /8/ /1/ /1.85733/ /0.0174071
-sdccman.pdf.txt/ /compiler/ /simul/ /44/ /68/ /0.319513/ /0.0164698
-sdccman.pdf.txt/ /compiler/ /memori/ /136/ /113/ /0.101458/ /0.0161648
-sdccman.pdf.txt/ /compiler/ /pic/ /14/ /14/ /0.982271/ /0.0161104
-sdccman.pdf.txt/ /compiler/ /sourceforg/ /8/ /2/ /1.68124/ /0.0157568
-sdccman.pdf.txt/ /compiler/ /goto/ /21/ /33/ /0.626884/ /0.0154225
-sdccman.pdf.txt/ /compiler/ /bitfield/ /9/ /4/ /1.45939/ /0.0153873
-sdccman.pdf.txt/ /compiler/ /ddd/ /9/ /4/ /1.45939/ /0.0153873
-sdccman.pdf.txt/ /compiler/ /gputil/ /7/ /1/ /1.85733/ /0.0152312
-sdccman.pdf.txt/ /compiler/ /srecord/ /7/ /1/ /1.85733/ /0.0152312
-sdccman.pdf.txt/ /compiler/ /prj/ /7/ /1/ /1.85733/ /0.0152312
-sdccman.pdf.txt/ /compiler/ /datarootdir/ /7/ /1/ /1.85733/ /0.0152312
-sdccman.pdf.txt/ /compiler/ /banksel/ /7/ /1/ /1.85733/ /0.0152312
-sdccman.pdf.txt/ /compiler/ /packihx/ /7/ /1/ /1.85733/ /0.0152312
-sdccman.pdf.txt/ /compiler/ /<bitname>/ /7/ /1/ /1.85733/ /0.0152312
-sdccman.pdf.txt/ /compiler/ /address/ /86/ /101/ /0.149762/ /0.0150886
-sdccman.pdf.txt/ /compiler/ /elimin/ /24/ /41/ /0.535113/ /0.0150454
-sdccman.pdf.txt/ /compiler/ /iso/ /18/ /27/ /0.711204/ /0.0149973
-sdccman.pdf.txt/ /compiler/ /gcc/ /14/ /17/ /0.90309/ /0.0148117
-sdccman.pdf.txt/ /compiler/ /cdb/ /8/ /3/ /1.5563/ /0.0145858
-sdccman.pdf.txt/ /compiler/ /databank/ /8/ /3/ /1.5563/ /0.0145858
-sdccman.pdf.txt/ /compiler/ /ms/ /19/ /31/ /0.653212/ /0.0145397
-sdccman.pdf.txt/ /compiler/ /inc/ /17/ /26/ /0.726999/ /0.0144787
-sdccman.pdf.txt/ /compiler/ /startup/ /17/ /27/ /0.711204/ /0.0141642
-sdccman.pdf.txt/ /compiler/ /anatomi/ /9/ /6/ /1.31326/ /0.0138466
-sdccman.pdf.txt/ /compiler/ /trouble-shoot/ /7/ /2/ /1.68124/ /0.0137872
-sdccman.pdf.txt/ /compiler/ /peep/ /7/ /2/ /1.68124/ /0.0137872
-sdccman.pdf.txt/ /compiler/ /movx/ /7/ /2/ /1.68124/ /0.0137872
-sdccman.pdf.txt/ /compiler/ /sig/ /14/ /20/ /0.836143/ /0.0137137
-sdccman.pdf.txt/ /compiler/ /function/ /309/ /131/ /0.0377886/ /0.0136794
-sdccman.pdf.txt/ /compiler/ /segment/ /40/ /73/ /0.289131/ /0.0135488
-sdccman.pdf.txt/ /compiler/ /licens/ /22/ /42/ /0.524894/ /0.0135282
-sdccman.pdf.txt/ /compiler/ /foo/ /17/ /30/ /0.667001/ /0.0132838
-sdccman.pdf.txt/ /compiler/ /support/ /77/ /102/ /0.145525/ /0.0131273
-sdccman.pdf.txt/ /compiler/ /model-larg/ /6/ /1/ /1.85733/ /0.0130553
-sdccman.pdf.txt/ /compiler/ /splint/ /6/ /1/ /1.85733/ /0.0130553
-sdccman.pdf.txt/ /compiler/ /nojtbound/ /6/ /1/ /1.85733/ /0.0130553
-sdccman.pdf.txt/ /compiler/ /portmod/ /6/ /1/ /1.85733/ /0.0130553
-sdccman.pdf.txt/ /compiler/ /djnz/ /6/ /1/ /1.85733/ /0.0130553
-sdccman.pdf.txt/ /compiler/ /codepag/ /6/ /1/ /1.85733/ /0.0130553
-sdccman.pdf.txt/ /compiler/ /xxxxxxxx/ /6/ /1/ /1.85733/ /0.0130553
-sdccman.pdf.txt/ /compiler/ /nogcs/ /6/ /1/ /1.85733/ /0.0130553
-sdccman.pdf.txt/ /compiler/ /lcall/ /6/ /1/ /1.85733/ /0.0130553
-sdccman.pdf.txt/ /compiler/ /sdas/ /6/ /1/ /1.85733/ /0.0130553
-sdccman.pdf.txt/ /compiler/ /3000a/ /6/ /1/ /1.85733/ /0.0130553
-sdccman.pdf.txt/ /compiler/ /standard-compli/ /6/ /1/ /1.85733/ /0.0130553
-sdccman.pdf.txt/ /compiler/ /cygwin/ /8/ /5/ /1.38021/ /0.0129355
-sdccman.pdf.txt/ /compiler/ /section/ /108/ /113/ /0.101458/ /0.0128368
-sdccman.pdf.txt/ /compiler/ /msvc/ /7/ /3/ /1.5563/ /0.0127626
-sdccman.pdf.txt/ /compiler/ /note/ /61/ /96/ /0.171591/ /0.0122623
-sdccman.pdf.txt/ /compiler/ /operand/ /23/ /50/ /0.450792/ /0.0121465
-sdccman.pdf.txt/ /compiler/ /sourc/ /125/ /118/ /0.0828156/ /0.0121274
-sdccman.pdf.txt/ /compiler/ /document/ /45/ /84/ /0.228944/ /0.0120695
-sdccman.pdf.txt/ /compiler/ /ret/ /12/ /19/ /0.857332/ /0.0120525
-sdccman.pdf.txt/ /compiler/ /devic/ /63/ /98/ /0.162727/ /0.0120101
-sdccman.pdf.txt/ /compiler/ /induct/ /15/ /29/ /0.681241/ /0.0119712
-sdccman.pdf.txt/ /compiler/ /callee-sav/ /7/ /4/ /1.45939/ /0.0119679
-sdccman.pdf.txt/ /compiler/ /adb/ /7/ /4/ /1.45939/ /0.0119679
-sdccman.pdf.txt/ /compiler/ /ansi/ /13/ /23/ /0.778151/ /0.011851
-sdccman.pdf.txt/ /compiler/ /<num>/ /6/ /2/ /1.68124/ /0.0118176
-sdccman.pdf.txt/ /compiler/ /mingw32/ /6/ /2/ /1.68124/ /0.0118176
-sdccman.pdf.txt/ /compiler/ /reti/ /6/ /2/ /1.68124/ /0.0118176
-sdccman.pdf.txt/ /compiler/ /pedant/ /6/ /2/ /1.68124/ /0.0118176
-sdccman.pdf.txt/ /compiler/ /linkag/ /12/ /21/ /0.81594/ /0.0114706
-sdccman.pdf.txt/ /compiler/ /loop/ /49/ /90/ /0.199321/ /0.0114419
-sdccman.pdf.txt/ /compiler/ /paramet/ /65/ /101/ /0.149762/ /0.0114042
-sdccman.pdf.txt/ /compiler/ /doc/ /11/ /18/ /0.879609/ /0.0113352
-sdccman.pdf.txt/ /compiler/ /bison/ /7/ /5/ /1.38021/ /0.0113186
-sdccman.pdf.txt/ /compiler/ /gpl/ /8/ /8/ /1.20412/ /0.0112851
-sdccman.pdf.txt/ /compiler/ /bp/ /8/ /8/ /1.20412/ /0.0112851
-sdccman.pdf.txt/ /compiler/ /patch/ /15/ /32/ /0.639849/ /0.0112439
-sdccman.pdf.txt/ /compiler/ /ds80c390/ /5/ /1/ /1.85733/ /0.0108794
-sdccman.pdf.txt/ /compiler/ /mulint/ /5/ /1/ /1.85733/ /0.0108794
-sdccman.pdf.txt/ /compiler/ /aomf/ /5/ /1/ /1.85733/ /0.0108794
-sdccman.pdf.txt/ /compiler/ /bit-rot/ /5/ /1/ /1.85733/ /0.0108794
-sdccman.pdf.txt/ /compiler/ /preprocessoropt/ /5/ /1/ /1.85733/ /0.0108794
-sdccman.pdf.txt/ /compiler/ /changelog/ /5/ /1/ /1.85733/ /0.0108794
-sdccman.pdf.txt/ /compiler/ /noinvari/ /5/ /1/ /1.85733/ /0.0108794
-sdccman.pdf.txt/ /compiler/ /asmopt/ /5/ /1/ /1.85733/ /0.0108794
-sdccman.pdf.txt/ /compiler/ /linkopt/ /5/ /1/ /1.85733/ /0.0108794
-sdccman.pdf.txt/ /compiler/ /ioport/ /5/ /1/ /1.85733/ /0.0108794
-sdccman.pdf.txt/ /compiler/ /mclk/ /5/ /1/ /1.85733/ /0.0108794
-sdccman.pdf.txt/ /compiler/ /anl/ /5/ /1/ /1.85733/ /0.0108794
-sdccman.pdf.txt/ /compiler/ /itemp2/ /5/ /1/ /1.85733/ /0.0108794
-sdccman.pdf.txt/ /compiler/ /sbit/ /5/ /1/ /1.85733/ /0.0108794
-sdccman.pdf.txt/ /compiler/ /itemp11/ /5/ /1/ /1.85733/ /0.0108794
-sdccman.pdf.txt/ /compiler/ /cyclomat/ /5/ /1/ /1.85733/ /0.0108794
-sdccman.pdf.txt/ /compiler/ /modulus/ /8/ /9/ /1.15836/ /0.0108563
-sdccman.pdf.txt/ /compiler/ /const/ /11/ /20/ /0.836143/ /0.0107751
-sdccman.pdf.txt/ /compiler/ /arch/ /7/ /6/ /1.31326/ /0.0107695
-sdccman.pdf.txt/ /compiler/ /c99/ /7/ /6/ /1.31326/ /0.0107695
-sdccman.pdf.txt/ /compiler/ /intel/ /20/ /49/ /0.459393/ /0.0107637
-sdccman.pdf.txt/ /compiler/ /instruct/ /48/ /92/ /0.18988/ /0.0106774
-sdccman.pdf.txt/ /compiler/ /storag/ /56/ /98/ /0.162727/ /0.0106757
-sdccman.pdf.txt/ /compiler/ /dalla/ /8/ /10/ /1.11697/ /0.0104684
-sdccman.pdf.txt/ /compiler/ /warn/ /21/ /54/ /0.418/ /0.0102835
-sdccman.pdf.txt/ /compiler/ /jz/ /6/ /4/ /1.45939/ /0.0102582
-sdccman.pdf.txt/ /compiler/ /target/ /34/ /79/ /0.255273/ /0.0101679
-sdccman.pdf.txt/ /compiler/ /alloc/ /30/ /73/ /0.289131/ /0.0101616
-sdccman.pdf.txt/ /compiler/ /packag/ /27/ /68/ /0.319513/ /0.0101065
-sdccman.pdf.txt/ /compiler/ /name/ /85/ /113/ /0.101458/ /0.010103
-sdccman.pdf.txt/ /compiler/ /buf/ /10/ /19/ /0.857332/ /0.0100438
-sdccman.pdf.txt/ /compiler/ /subexpress/ /13/ /31/ /0.653212/ /0.00994821
-sdccman.pdf.txt/ /compiler/ /usart/ /5/ /2/ /1.68124/ /0.00984798
-sdccman.pdf.txt/ /compiler/ /gnu/ /10/ /20/ /0.836143/ /0.00979553
-sdccman.pdf.txt/ /compiler/ /makefil/ /9/ /16/ /0.927914/ /0.00978357
-sdccman.pdf.txt/ /compiler/ /i/o/ /25/ /66/ /0.332288/ /0.00973199
-sdccman.pdf.txt/ /compiler/ /c90/ /6/ /5/ /1.38021/ /0.00970161
-sdccman.pdf.txt/ /compiler/ /format/ /63/ /106/ /0.128979/ /0.00951932
-sdccman.pdf.txt/ /compiler/ /clr/ /7/ /9/ /1.15836/ /0.00949926
-sdccman.pdf.txt/ /compiler/ /rel/ /6/ /6/ /1.31326/ /0.00923104
-sdccman.pdf.txt/ /compiler/ /psw/ /6/ /6/ /1.31326/ /0.00923104
-sdccman.pdf.txt/ /compiler/ /search/ /34/ /84/ /0.228944/ /0.00911915
-sdccman.pdf.txt/ /compiler/ /pin/ /10/ /23/ /0.778151/ /0.00911614
-sdccman.pdf.txt/ /compiler/ /vc/ /6/ /7/ /1.25527/ /0.00882341
-sdccman.pdf.txt/ /compiler/ /r7/ /6/ /7/ /1.25527/ /0.00882341
-sdccman.pdf.txt/ /compiler/ /disabl/ /9/ /20/ /0.836143/ /0.00881597
-sdccman.pdf.txt/ /compiler/ /download/ /12/ /33/ /0.626884/ /0.00881283
-sdccman.pdf.txt/ /compiler/ /overflow/ /14/ /41/ /0.535113/ /0.00877649
-sdccman.pdf.txt/ /compiler/ /stack/ /16/ /48/ /0.468166/ /0.00877541
-sdccman.pdf.txt/ /compiler/ /itemp7/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /bb4/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /itemp0/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /sdldgb/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /itemp15/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /docdir/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /@dptr/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /nakedinterrupt/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /lr25/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /gplv2/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /bb3/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /bb2/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /sdcdbsrc/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /lospr/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /asxxxx/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /funcfoo/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /makebin/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /sdcc/includ/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /nolooprevers/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /sdcc/non-free/includ/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /destdir/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /forbreak/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /simpleinterrupt/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /stack-auto/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /miso/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /stm8/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /prodl/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /s08/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /pic18f/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /sfrs/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /small-c/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /lkr/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /cseg/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /vpath/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /sdnm/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /bank1/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /pack-iram/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /ds400/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /s19/ /4/ /1/ /1.85733/ /0.00870356
-sdccman.pdf.txt/ /compiler/ /small/ /8/ /16/ /0.927914/ /0.0086965
-sdccman.pdf.txt/ /compiler/ /return/ /39/ /92/ /0.18988/ /0.00867541
-sdccman.pdf.txt/ /compiler/ /promot/ /9/ /21/ /0.81594/ /0.00860296
-sdccman.pdf.txt/ /compiler/ /version/ /72/ /113/ /0.101458/ /0.00855784
-sdccman.pdf.txt/ /compiler/ /fpga/ /5/ /4/ /1.45939/ /0.00854849
-sdccman.pdf.txt/ /compiler/ /oscilloscop/ /6/ /8/ /1.20412/ /0.00846385
-sdccman.pdf.txt/ /compiler/ /fmt/ /6/ /8/ /1.20412/ /0.00846385
-sdccman.pdf.txt/ /compiler/ /acc/ /8/ /17/ /0.90309/ /0.00846385
-sdccman.pdf.txt/ /compiler/ /prioriti/ /18/ /57/ /0.394934/ /0.00832808
-sdccman.pdf.txt/ /compiler/ /struct/ /13/ /40/ /0.545579/ /0.00830898
-sdccman.pdf.txt/ /compiler/ /vector/ /25/ /74/ /0.283301/ /0.00829728
-sdccman.pdf.txt/ /compiler/ /script/ /14/ /44/ /0.50515/ /0.00828506
-sdccman.pdf.txt/ /compiler/ /servic/ /33/ /87/ /0.21388/ /0.00826858
-sdccman.pdf.txt/ /compiler/ /r5/ /8/ /18/ /0.879609/ /0.00824379
-sdccman.pdf.txt/ /compiler/ /peephol/ /6/ /9/ /1.15836/ /0.00814222
-sdccman.pdf.txt/ /compiler/ /ppc/ /5/ /5/ /1.38021/ /0.00808468
-sdccman.pdf.txt/ /compiler/ /wiki/ /5/ /5/ /1.38021/ /0.00808468
-sdccman.pdf.txt/ /compiler/ /16-bit/ /5/ /5/ /1.38021/ /0.00808468
-sdccman.pdf.txt/ /compiler/ /preproc/ /5/ /5/ /1.38021/ /0.00808468
-sdccman.pdf.txt/ /compiler/ /generat/ /40/ /96/ /0.171591/ /0.00804083
-sdccman.pdf.txt/ /compiler/ /pl/ /8/ /19/ /0.857332/ /0.00803501
-sdccman.pdf.txt/ /compiler/ /overlay/ /8/ /19/ /0.857332/ /0.00803501
-sdccman.pdf.txt/ /compiler/ /start/ /35/ /91/ /0.194575/ /0.00797814
-sdccman.pdf.txt/ /compiler/ /releas/ /14/ /46/ /0.486265/ /0.00797532
-sdccman.pdf.txt/ /compiler/ /test/ /58/ /109/ /0.11697/ /0.00794784
-sdccman.pdf.txt/ /compiler/ /orl/ /4/ /2/ /1.68124/ /0.00787839
-sdccman.pdf.txt/ /compiler/ /mosi/ /4/ /2/ /1.68124/ /0.00787839
-sdccman.pdf.txt/ /compiler/ /funsigned-char/ /4/ /2/ /1.68124/ /0.00787839
-sdccman.pdf.txt/ /compiler/ /binutil/ /4/ /2/ /1.68124/ /0.00787839
-sdccman.pdf.txt/ /compiler/ /c-code/ /4/ /2/ /1.68124/ /0.00787839
-sdccman.pdf.txt/ /compiler/ /wparam/ /4/ /2/ /1.68124/ /0.00787839
-sdccman.pdf.txt/ /compiler/ /fomit-frame-point/ /4/ /2/ /1.68124/ /0.00787839
-sdccman.pdf.txt/ /compiler/ /0xff/ /6/ /10/ /1.11697/ /0.00785127
-sdccman.pdf.txt/ /compiler/ /pitfal/ /8/ /20/ /0.836143/ /0.00783642
-sdccman.pdf.txt/ /compiler/ /breakpoint/ /7/ /15/ /0.954243/ /0.00782535
-sdccman.pdf.txt/ /compiler/ /ea/ /7/ /15/ /0.954243/ /0.00782535
-sdccman.pdf.txt/ /compiler/ /line/ /83/ /119/ /0.0791813/ /0.00769924
-sdccman.pdf.txt/ /compiler/ /variant/ /16/ /55/ /0.410174/ /0.0076884
-sdccman.pdf.txt/ /compiler/ /modul/ /26/ /80/ /0.249877/ /0.0076111
-sdccman.pdf.txt/ /compiler/ /project/ /39/ /98/ /0.162727/ /0.00743485
-sdccman.pdf.txt/ /compiler/ /space/ /80/ /119/ /0.0791813/ /0.00742095
-sdccman.pdf.txt/ /compiler/ /famili/ /21/ /71/ /0.30103/ /0.00740587
-sdccman.pdf.txt/ /compiler/ /stream/ /21/ /71/ /0.30103/ /0.00740587
-sdccman.pdf.txt/ /compiler/ /r2/ /13/ /46/ /0.486265/ /0.00740565
-sdccman.pdf.txt/ /compiler/ /push/ /12/ /42/ /0.524894/ /0.00737904
-sdccman.pdf.txt/ /compiler/ /mail/ /12/ /42/ /0.524894/ /0.00737904
-sdccman.pdf.txt/ /compiler/ /larg/ /5/ /7/ /1.25527/ /0.00735284
-sdccman.pdf.txt/ /compiler/ /check/ /28/ /85/ /0.223864/ /0.00734327
-sdccman.pdf.txt/ /compiler/ /switch/ /23/ /76/ /0.271872/ /0.00732553
-sdccman.pdf.txt/ /compiler/ /wdt/ /4/ /3/ /1.5563/ /0.00729292
-sdccman.pdf.txt/ /compiler/ /editor/ /17/ /61/ /0.365971/ /0.00728857
-sdccman.pdf.txt/ /compiler/ /calle/ /7/ /18/ /0.879609/ /0.00721331
-sdccman.pdf.txt/ /compiler/ /cc/ /10/ /34/ /0.614294/ /0.00719654
-sdccman.pdf.txt/ /compiler/ /handler/ /11/ /39/ /0.556302/ /0.00716887
-sdccman.pdf.txt/ /compiler/ /in/out/ /5/ /8/ /1.20412/ /0.00705321
-sdccman.pdf.txt/ /compiler/ /to/ /5/ /8/ /1.20412/ /0.00705321
-sdccman.pdf.txt/ /compiler/ /temporari/ /7/ /19/ /0.857332/ /0.00703063
-sdccman.pdf.txt/ /compiler/ /dump/ /7/ /19/ /0.857332/ /0.00703063
-sdccman.pdf.txt/ /compiler/ /must/ /4/ /4/ /1.45939/ /0.00683879
-sdccman.pdf.txt/ /compiler/ /eeprom/ /5/ /9/ /1.15836/ /0.00678518
-sdccman.pdf.txt/ /compiler/ /extens/ /29/ /90/ /0.199321/ /0.00677171
-sdccman.pdf.txt/ /compiler/ /tool/ /38/ /101/ /0.149762/ /0.00666704
-sdccman.pdf.txt/ /compiler/ /developer/sdks/macosx10/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /sdranlib/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /svn/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /winzip/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /sdasgb/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /objdump/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /aomf51/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /dumpal/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /divuint/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /moduint/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /freescale/motorola/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /pedantic-parse-numb/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /0xfe-lo/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /<nnnn>/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /sdccconf/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /no-pack-iram/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /sandeep/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /model-smal/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /model-medium/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /z180/hd64180/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /acall-ajmp/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /sighandlernak/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /mds390/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /iy/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /sdcc/lib/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /tree-decomposit/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /<no?float>/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /tinibio/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /romcal/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /c-preprocessor/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /all-callee-sav/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /cygnal/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /use-stdout/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /gsinit1/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /sdldz80/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /use-non-fre/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /gsinit5/ /3/ /1/ /1.85733/ /0.00652767
-sdccman.pdf.txt/ /compiler/ /sjmp/ /3/ /1/ /1.85733/ /0.00652767
+Programming_Language
+1955
+program 622
+languag 578
+code 447
+type 443
+compil 360
+valu 327
+address 251
+command 249
+express 244
+exampl 219
+object 212
+machin 209
+method 201
+declar 184
+sourc 177
+triangl 164
+processor 163
+instruct 161
+oper 158
+integ 157
+class 154
+array 154
+java 148
+interpret 147
+identifi 145
+ast 143
+generat 138
+error 126
+case 117
+analysi 113
+represent 113
+variabl 111
+size 109
+arg 105
+rule 104
+frame 103
+function 95
+word 95
+mini-triangl 92
+figur 92
+regist 87
+store 85
+procedur 84
+data 83
+return 82
+record 81
+load 81
+level 80
+section 79
+field 79
+design 76
+syntax 72
+entiti 70
+charact 70
+parser 68
+structur 68
+string 68
+form 67
+pars 67
+symbol 67
+chapter 66
+product 65
+grammar 65
+argument 65
+result 65
+specif 64
+name 64
+call 64
+end 62
+var 62
+index 60
+translat 59
+point 59
+analyz 57
+termin 56
+implement 55
+time 55
+part 53
+number 53
+null 51
+set 50
+report 50
+ident 50
+templat 49
+occurr 49
+int 48
+exercis 46
+tam 46
+paramet 46
+tabl 46
+storag 45
+programm 45
+phrase 45
+element 45
+input 45
+target 44
+tree 42
+algorithm 42
+semant 41
+diagram 41
+way 41
+check 40
+syntact 39
+run-tim 39
+byte 39
+break 38
+token 37
+kind 36
+char 36
+visit 35
+descript 35
+expr 35
+pascal 34
+com 34
+jump 34
+decl 34
+il 34
+type-denot 33
+develop 32
+environ 32
+scope 32
+run 32
+space 32
+sb 32
+visitor 31
+link 31
+vname 31
+book 30
+contextu 30
+studi 30
+identif 30
+boolean 30
+entri 30
+routin 29
+el 29
+status 29
+transform 28
+answer 28
+order 28
+ebnf 28
+ldentifi 28
+digit 28
+node 28
+loadl 28
+organ 27
+term 26
+primary-express 26
+system 25
+comput 25
+user 25
+operand 25
+tag 25
+block 24
+select 24
+use 24
+instanc 24
+subexpress 24
+emit 24
+phase 23
+concept 23
+sequenc 23
+mult 23
+bodi 23
+base 23
+subclass 23
+state 23
+void 23
+effici 22
+softwar 22
+scanner 21
+letter 21
+loop 21
+read 20
+techniqu 20
+effect 20
+requir 20
+content 19
+bnf 19
+attribut 19
+evalu 19
+prototyp 19
+textbook 19
+editor 19
+notat 19
+file 19
+value-or-variable-nam 19
+assign 19
+line 19
+ada 19
+checker 19
+starter 18
+control 18
+tool 18
+detail 18
+r2 18
+side 18
+v-name 18
+assigncommand 18
+subcommand 18
+op 18
+const 18
+pop 18
+display 18
+acc 18
+lb 18
+choic 17
+step 17
+assembl 17
+truth 17
+applic 17
+lisp 17
+amount 17
+problem 17
+switch 17
+corn 17
+displac 17
+val 17
+list 16
+issu 16
+disjoint 16
+alloc 16
+project 16
+cours 16
+pointer 16
+sub 16
+text 16
+func 16
+tombston 16
+compon 16
+acceptit 16
+equival 16
+mean 15
+access 15
+cycl 15
+context 15
+bit 15
+ation 15
+subtre 15
+variant 15
+telem 15
+nextinstraddr 15
+ord 15
+inform 14
+introduct 14
+constraint 14
+subject 14
+practic 14
+varieti 14
+con 14
+task 14
+integer-liter 14
+constdeclar 14
+sentenc 14
+ti 14
+bootstrap 13
+topic 13
+packag 13
+separ 13
+definit 13
+execut 13
+eol 13
+place 13
+i2 13
+rang 13
+addressl 13
+bound 13
+st 13
+iff 13
+heap 12
+conclus 12
+bind 12
+follow 12
+arithmet 12
+vardeclar 12
+version 12
+parsesinglecommand 12
+filenam 12
+e2 12
+knownaddress 12
+cp 12
+print 11
+principl 11
+student 11
+purpos 11
+implementor 11
+comment 11
+modul 11
+tion 11
+edit 11
+r1 11
+today 11
+letcommand 11
+fact 11
+putint 11
+account 11
+altern 11
+elimin 11
+parseexpress 11
+runtimeent 11
+fragment 11
+construct 10
+union 10
+life 10
+abstract 10
+engin 10
+guag 10
+stand 10
+work 10
+stage 10
+single-declar 10
+integerexpress 10
+root 10
+bool 10
+overflow 10
+emul 10
+test 10
+tm 10
+yield 10
+spell 10
+noun 10
+currenttermina1 10
+maxint 10
+instanceof 10
+recoveri 10
+enumerand 10
+date 10
+encod 10
+shortvalueof 10
+currentchar 10
+segment 10
+recurs 9
+reason 9
+reader 9
+featur 9
+extens 9
+knowledg 9
+hardwar 9
+ment 9
+kit 9
+liter 9
+subset 9
+sion 9
+binaryexpress 9
+outlin 9
+top 9
+constructor 9
+factor 9
+cat 9
+parsecommand 9
+default 9
+startersl 9
+typedenot 9
+end-of-lin 9
+script 9
+pair 9
+comparison 9
+origin 9
+l2 9
+destin 9
+cl 9
+right 8
+constant 8
+scienc 8
+improv 8
+box 8
+appendix 8
+process 8
+posit 8
+start 8
+bracket 8
+lit 8
+simplev 8
+ion 8
+advantag 8
+situat 8
+formal 8
+infer 8
+ifcommand 8
+subprogram 8
+re 8
+stub 8
+currenttoken 8
+parseidentifier0 8
+condit 8
+refin 8
+c2 8
+iast 8
+pattern 8
+float 8
+encodefetch 8
+unknownvalu 8
+dir 8
+usercommand 8
+attempt 7
+half 7
+strategi 7
+collect 7
+aspect 7
+complic 7
+day 7
+add 7
+unix 7
+layout 7
+keyword 7
+nontermin 7
+graphic 7
+variable-nam 7
+whilecommand 7
+possibl 7
+hand 7
+behavior 7
+pc 7
+sort 7
+sens 7
+hm 7
+rtl 7
+ml 7
+rat 7
+iter 7
+ll 7
+callcommand 7
+east 7
+comast 7
+numer 7
+enumer 7
+ii 7
+initi 7
+hypo 7
+encodeassign 7
+jumpif 7
+addr 7
+dl 7
+knownvalu 7
+entityaddress 7
+proc 7
+ap 7
+hypointerpret 7
+mini-shel 7
+minishellcommand 7
+minibasicst 7
+pb 7
+numval 7
+interp 7
+record-aggreg 7
+watt 6
+copi 6
+prefac 6
+lexicon 6
+qualiti 6
+theori 6
+facil 6
+formula 6
+r3 6
+respect 6
+queri 6
+philosophi 6
+combin 6
+solut 6
+denot 6
+'n 6
+halt 6
+confus 6
+famili 6
+ppc 6
+match 6
+idea 6
+show 6
+cell 6
+travers 6
+summari 6
+n-phrase 6
+xi 6
+rise 6
+clast 6
+aho 6
+newspeak 6
+vall 6
+equal 6
+prog 6
+typedeclar 6
+discuss 6
+cost 6
+addressi 6
+differ 6
+l1 6
+op-cod 6
+valuat 6
+count 6
+datas 6
+feedback 6
+phonenum 6
+dump 6
+expval 6
+record-type-denot 6
+david 5
+educ 5
+author 5
+refer 5
+protocol 5
+gap 5
+usag 5
+seri 5
+companion 5
+model 5
+one 5
+other 5
+memori 5
+paper 5
+mind 5
+area 5
+group 5
+respons 5
+databas 5
+subphras 5
+single-command 5
+value-or 5
+semicolon 5
+sequentialdeclar 5
+sequentialcommand 5
+while-command 5
+vnameexpr 5
+sparc 5
+host 5
+shell 5
+speed 5
+care 5
+ple 5
+interact 5
+c++ 5
+pass 5
+simplic 5
+push 5
+x-phrase 5
+verb 5
+subsect 5
+parsesingledeclar 5
+declast 5
+turn 5
+visitconstdeclar 5
+indic 5
+openscop 5
+closescop 5
+row 5
+lifetim 5
+dob 5
+equat 5
+circl 5
+caller 5
+length 5
+loadop 5
+visitorlencod 5
+if-command 5
+patch 5
+gs 5
+displayregist 5
+fp 5
+chr 5
+v2 5
+scheme 5
+codes 5
+analyzedcom 5
+gocommand 5
+boolvalu 5
+cb 5
+n2 5
+movement 5
+pivot 5
+pixel 5
+temp 5
+array-aggreg 5
+magnitud 5
+output 5
+glasgow 4
+deryck 4
+brown 4
+pearson 4
+web 4
+librari 4
+decor 4
+stack 4
+paradigm 4
+termi 4
+consider 4
+depend 4
+conjunct 4
+disassembl 4
+jvm 4
+welsh 4
+wirth 4
+distinct 4
+look 4
+item 4
+ing 4
+for-command 4
+essenc 4
+jdk 4
+interfac 4
+andlor 4
+vnameexpress 4
+unaryexpress 4
+addit 4
+simplevnam 4
+advanc 4
+whenev 4
+pt 4
+bl 4
+rn 4
+fig 4
+dissimilar 4
+sql 4
+ultima 4
+chang 4
+exam 4
+algol 4
+optim 4
+treatment 4
+disadvantag 4
+sbi 4
+properti 4
+inc 4
+clariti 4
+abstractsyntaxtre 4
+stream 4
+substitut 4
+cation 4
+descent 4
+parsen 4
+parsesent 4
+period 4
+convent 4
+parseprogram 4
+parsedeclar 4
+parsetypedenot 4
+parseoper 4
+parseidentif 4
+statement 4
+need 4
+lr 4
+lex 4
+yacc 4
+noth 4
+cross-referenc 4
+pretty-print 4
+visitprogram 4
+visitifcommand 4
+visitunaryexpress 4
+visitbinaryexpress 4
+visitvardeclar 4
+search 4
+bst 4
+nonconfus 4
+offset 4
+addressfh 4
+num 4
+ttag 4
+assumpt 4
+tele 4
+lt 4
+loadlop 4
+storeop 4
+instr 4
+fname 4
+readanalyz 4
+scannedcommand 4
+hb 4
+ht 4
+dialect 4
+locat 4
+local 4
+increas 4
+r6 4
+xj 4
+yr 4
+ch 4
+limit 3
+public 3
+trademark 3
+page 3
+subphas 3
+bottom-up 3
+nest 3
+manag 3
+dealloc 3
+garbag 3
+view 3
+writer 3
+tic 3
+someth 3
+exhibit 3
+site 3
+toy 3
+modif 3
+interest 3
+benefit 3
+mathemat 3
+peter 3
+john 3
+machine-cod 3
+gram 3
+contrast 3
+concern 3
+document 3
+sun 3
+mand 3
+child 3
+piler 3
+thing 3
+none 3
+input-output 3
+updat 3
+mechan 3
+lot 3
+intel 3
+successor 3
+power 3
+ure 3
+cross 3
+format 3
+architectur 3
+job 3
+consequ 3
+mccarthi 3
+driver 3
+contextualanalyz 3
+explan 3
+decis 3
+anyth 3
+eger 3
+eot 3
+self-embed 3
+res 3
+y-phrase 3
+whole 3
+noun-tre 3
+ect 3
+style 3
+begin 3
+exit 3
+parseprimaryexpress 3
+correspond 3
+ier 3
+c1 3
+tast 3
+analog 3
+javacc 3
+switch-stat 3
+ter 3
+visitassigncommand 3
+visitcallcommand 3
+visitintegerexpress 3
+visitvnameexpress 3
+visitsimplevnam 3
+visitsequentialdeclar 3
+mini 3
+graph 3
+emptyexpr 3
+funcdeclar 3
+eof 3
+procdeclar 3
+overload 3
+polymorph 3
+innermost 3
+overhead 3
+uniqu 3
+global 3
+getint 3
+person 3
+staff 3
+succ 3
+cj 3
+integerliter 3
+knownroutin 3
+pass-argu 3
+telnumb 3
+directori 3
+mini-bas 3
+relational-op 3
+compromis 3
+scannedcom 3
+numl 3
+ct 3
+breakpoint 3
+gain 3
+violat 3
+extrem 3
+rangecheck 3
+multipl 3
+hol 3
+tv 3
+leap 3
+maximum 3
+sign 3
+takeit 3
+subtabl 3
+topmost 3
+tindex 3
+dn 3
+dm 3
+fileinputstream 3
+formal-parameter-sequ 3
+puteol 3
+secondary-express 3
+aa 3
+a1 3
+errorreport 3
+edenot 3
+aggreg 3
+identri 3
+scotland 2
+robert 2
+gordon 2
+harlow 2
+england 2
+london 2
+associ 2
+world 2
+first 2
+act 2
+manufactur 2
+isbn 2
+catalogu 2
+full 2
+dynam 2
+bibliographi 2
+interplay 2
+feel 2
+scratch 2
+total 2
+year 2
+experi 2
+technolog 2
+modular 2
+familiar 2
+seman 2
+impl 2
+under 2
+terminolog 2
+multi 2
+lan 2
+relationship 2
+gen 2
+basi 2
+virtual 2
+understand 2
+abil 2
+corner 2
+help 2
+breadth 2
+peopl 2
+colleagu 2
+phil 2
+jim 2
+toni 2
+hoar 2
+milner 2
+cohort 2
+exist 2
+correct 2
+instruc 2
+jumpz 2
+sqrt 2
+head 2
+case-command 2
+tation 2
+while 2
+encapsul 2
+particu 2
+mode 2
+option 2
+approach 2
+ad 2
+jbuilder 2
+keyboard 2
+indent 2
+color 2
+ten 2
+simpletypedenot 2
+children 2
+simplet 2
+renc 2
+smalltalk 2
+illustr 2
+moveup 2
+sum 2
+java-into-x86 2
+gener 2
+corr 2
+x86 2
+chess 2
+piec 2
+microsystem 2
+jvm-code 2
+java-into-jvm-cod 2
+portabl 2
+natur 2
+tal 2
+earley 2
+flow 2
+make 2
+action 2
+trian 2
+gle 2
+syntacticanalyz 2
+codegener 2
+larat 2
+manner 2
+cedur 2
+punctuat 2
+yl 2
+recognit 2
+compli 2
+xn 2
+terminalsymbol 2
+expectedtermina1 2
+parsesubj 2
+parseverb 2
+parseidentifi 2
+parsetypedenoter0 2
+dentifi 2
+pa 2
+stepwis 2
+opportun 2
+parsesinglecomrnand 2
+emphasi 2
+ara 2
+c2ast 2
+cast 2
+blank 2
+op-charact 2
+research 2
+perform 2
+calcul 2
+od 2
+abbrevi 2
+ineffici 2
+real-liter 2
+distinguish 2
+standard 2
+visita 2
+concret 2
+visitsequentialcommand 2
+visitwhilecommand 2
+visitletcommand 2
+fais 2
+singlefp 2
+attr 2
+functions/procedures/method 2
+resolut 2
+mckeag 2
+hash 2
+bottom 2
+column 2
+source-languag 2
+sake 2
+double-word 2
+direct 2
+haskel 2
+sizel 2
+boo 2
+negat 2
+disjunct 2
+unicod 2
+unit 2
+pentium 2
+half-word 2
+ty 2
+orang 2
+femal 2
+herj 2
+mj 2
+circumst 2
+align 2
+restrict 2
+shape 2
+tn 2
+moment 2
+sizei 2
+6i 2
+signific 2
+addressfa 2
+concaten 2
+ri 2
+snapshot 2
+notic 2
+li 2
+receiv 2
+ij 2
+vari 2
+special-cas 2
+target-machin 2
+loadaop 2
+loadiop 2
+storeiop 2
+d' 2
+assignmentcommand 2
+ob 2
+vj 2
+ej 2
+intlit 2
+deal 2
+d2 2
+sl 2
+outerfram 2
+globalfram 2
+formal-paramet 2
+actual-paramet 2
+loada 2
+tran 2
+vi 2
+resul 2
+immediaci 2
+loader 2
+hypost 2
+haltop 2
+command-nam 2
+minishel 2
+minishellst 2
+fetch 2
+readanalyze0 2
+arithmetic-op 2
+intvalu 2
+undefinedvalu 2
+minitrianglest 2
+fetchanalyz 2
+applyunari 2
+applybinari 2
+callstandardproc 2
+runprogram 2
+invari 2
+prolog 2
+claus 2
+portion 2
+debugg 2
+cessor 2
+effort 2
+everyth 2
+divis 2
+teger 2
+line-numb 2
+complex 2
+bn 2
+r7 2
+nl 2
+xv 2
+repeat 2
+co 2
+note 2
+string-liter 2
+hint 2
+digval 2
+tok 2
+fieldlist 2
+accumul 2
+do 2
+rg 2
+increment 2
+actual-parameter-sequ 2
+parameter-sequ 2
+ei 2
+ra 2
+shift 2
+al 2
+capit 2
+easter 2
+geteol 2
+uppercas 2
+shiftright 2
+rt 2
+b2 2
+modulo 2
+t2 2
+vl 2
+uml 2
+errorreoort 2
+actualparamet 2
+identrv 2
+imprint 1
+new 1
+york 1
+massachusett 1
+san 1
+francisco 1
+toronto 1
+don 1
+mill 1
+ontario 1
+tokyo 1
+singapor 1
+hong 1
+kong 1
+seoul 1
+taipei 1
+cape 1
+town 1
+madrid 1
+mexico 1
+citi 1
+amsterdam 1
+munich 1
+pari 1
+edinburgh 1
+gate 1
+essex 1
+cm20 1
+2je 1
+compani 1
+wide 1
+patent 1
+retriev 1
+permiss 1
+publish 1
+licenc 1
+tottenham 1
+court 1
+road 1
+olp 1
+seller 1
+owner 1
+congrrss 1
+cutaloging-in-publ 1
+anthoni 1
+titl 1
+typeset 1
+great 1
+britain 1
+biddl 1
+ltd 1
+handl 1
+flat 1
+automat 1
+appendic 1
+import 1
+scientist 1
+prolifer 1
+dawn 1
+exemplar 1
+teach 1
+maintain 1
+reusabl 1
+growth 1
+popular 1
+appear 1
+nolog 1
+connect 1
+xiii 1
+erat 1
+xiv 1
+synthesi 1
+overview 1
+troubl 1
+readership 1
+junior 1
+graduat 1
+puter 1
+fundament 1
+profe 1
+leader 1
+prerequisit 1
+ture 1
+cept 1
+idiosyncrasi 1
+skill 1
+minimum 1
+acknowledg 1
+folklor 1
+individu 1
+depart 1
+malcolm 1
+atkinson 1
+muffi 1
+calder 1
+quintin 1
+cutt 1
+dickman 1
+bill 1
+findlay 1
+hugh 1
+launchburi 1
+hermano 1
+moura 1
+patterson 1
+simon 1
+peyton 1
+jone 1
+fermin 1
+reig 1
+trinder 1
+wadler 1
+buneman 1
+luca 1
+cardelli 1
+edsger 1
+dijkstra 1
+gosl 1
+susan 1
+graham 1
+jean 1
+ichbiah 1
+mehdi 1
+jazayeri 1
+robin 1
+moss 1
+atsushi 1
+ohori 1
+bob 1
+tennent 1
+niklaus 1
+review 1
+draft 1
+contribut 1
+prentic 1
+hall 1
+intern 1
+encourag 1
+advic 1
+plan 1
+suggest 1
+connec 1
+aberdeen 1
+juli 1
+ana 1
+lang 1
+uag 1
+track 1
+thousand 1
+div 1
+ro 1
+s-a 1
+major 1
+rudi 1
+stant 1
+compu 1
+notion 1
+favor 1
+deed 1
+screen 1
+ava 1
+misbehav 1
+communic 1
+mon 1
+integr 1
+borland 1
+menus 1
+messag 1
+infor 1
+nontemin 1
+nal 1
+backus-naur 1
+lowercas 1
+digitstandsforoneofthedigit 1
+exp 1
+crete 1
+sequential-command 1
+sider 1
+iit 1
+argu 1
+discours 1
+tege 1
+accept 1
+finction 1
+pt-x 1
+yshift 1
+proce 1
+dure 1
+short-circuit 1
+3ach 1
+ruct 1
+alli 1
+ning 1
+lese 1
+lion 1
+dler 1
+ous 1
+ual 1
+an 1
+chore 1
+sin 1
+put 1
+stan 1
+dard 1
+ava-into-x86 1
+translutor 1
+java-into 1
+decompil 1
+manipul 1
+pentagon 1
+equiva 1
+cross-compil 1
+aid 1
+terpret 1
+extract 1
+l-l 1
+heart 1
+creation 1
+prograi 1
+ir 1
+compi 1
+situatil 1
+wou 1
+intermediate-language-into-machine-cod 1
+bug 1
+difficulti 1
+thefirst 1
+write 1
+ada- 1
+transact 1
+fashion 1
+triangle-into-tam 1
+underpin 1
+sturgi 1
+quinn 1
+ammann 1
+histori 1
+infanc 1
+eval 1
+javac 1
+java-into-c 1
+pascal-into-tam 1
+gnu 1
+transfer 1
+alpha 1
+disassem 1
+bler 1
+draw 1
+jit 1
+explor 1
+accor 1
+danc 1
+sub-phas 1
+subs 1
+let-command 1
+arrow 1
+left 1
+binary 1
+ession 1
+accord 1
+andor 1
+diagram4 1
+servic 1
+one-pass 1
+lntegedl 1
+compat 1
+l' 1
+forc 1
+assigncom 1
+vardec 1
+fortran 1
+four 1
+decomposit 1
+criterion 1
+banana 1
+loo 1
+primary-expr 1
+int-lit 1
+rmmfraflrrrrn 1
+colon 1
+becom 1
+lparen 1
+rparen 1
+roundabout 1
+xm 1
+nyi 1
+ny 1
+lxm 1
+1xm 1
+matter 1
+conveni 1
+determin 1
+human 1
+speaker 1
+subconsci 1
+conscious 1
+proceed 1
+verb-tre 1
+leftmost 1
+bol 1
+branch 1
+wish 1
+parseobj 1
+parsesubject 1
+parseobject 1
+mine 1
+parsenoun 1
+ermin 1
+transcrib 1
+mor 1
+th 1
+synta 1
+microsyntax 1
+sectioi 1
+parsesingledec 1
+signifi 1
+thi 1
+continuin 1
+remainin 1
+parseintegerliter 1
+tw 1
+transforn 1
+cot 1
+venient 1
+parsin 1
+rex 1
+parsesinglecornmand 1
+eclara 1
+parsesingledeclara 1
+107 1
+starters1 1
+starterst 1
+lj 1
+yji 1
+nj 1
+xlj 1
+yj 1
+fl 1
+tfledeno 1
+opera 1
+tor 1
+xpression 1
+vardeclara 1
+sequen 1
+tialcommand 1
+last 1
+ssigncommand 1
+parseexpression0 1
+dast 1
+token-identifi 1
+idast 1
+parseintegerlitera1 1
+sec 1
+scann 1
+end-of-text 1
+om 1
+preced 1
+triumph 1
+discoveri 1
+ullman 1
+lesk 1
+schmidt 1
+johnson 1
+builder 1
+treat 1
+xt 1
+tinguish 1
+reimplement 1
+set-up 1
+general 1
+english 1
+cur 1
+tactic 1
+defin 1
+constattribut 1
+varattribut 1
+procattribut 1
+funcattribut 1
+formallist 1
+resulttyp 1
+typeattribut 1
+pictur 1
+present 1
+vnarneexpress 1
+visitorlcheck 1
+visitbinari 1
+wl 1
+w2 1
+emptyfp 1
+varfp 1
+dummi 1
+binaryopdeclar 1
+convers 1
+parametr 1
+coercion 1
+polymor 1
+et 1
+genesi 1
+appel 1
+lack 1
+icat 1
+bsts 1
+dent 1
+ontabl 1
+matrix 1
+par 1
+six 1
+resourc 1
+complet 1
+approx 1
+real-numb 1
+rect 1
+nonuniqu 1
+twos-compl 1
+repr 1
+sentat 1
+binari 1
+represen 1
+cardin 1
+inequ 1
+not 1
+and 1
+or 1
+cha 1
+iso 1
+is0 1
+muxint 1
+integerlj 1
+integerj 1
+pe 1
+ascii 1
+lue 1
+orung 1
+nop 1
+rl 1
+sizefda 1
+doh 1
+addremuh 1
+addressuh 1
+addressur 1
+tipl 1
+loophol 1
+algol-68 1
+datatyp 1
+tupl 1
+juxtaposit 1
+real 1
+price 1
+numberj 1
+wj 1
+itag 1
+vn 1
+overlay 1
+max 1
+itagj 1
+addressru 1
+izeuarray 1
+2i 1
+usj 1
+tel 1
+coincid 1
+addressfgnp 1
+gnp 1
+addressfgnpi 1
+addressta 1
+addressua 1
+te 1
+descriptor 1
+rv 1
+dij 1
+postfix 1
+downward 1
+cube 1
+e1 1
+eo 1
+en 1
+move 1
+dy 1
+studentid 1
+enrol 1
+faculti 1
+class-object 1
+inherit 1
+teachingassist 1
+twill 1
+tj 1
+templut 1
+ill 1
+nxn 1
+or-variable-nam 1
+declarat 1
+mini-triangle-to-tam 1
+eas 1
+zq 1
+ezll 1
+ign 1
+ction 1
+backpatch 1
+role 1
+lo 1
+descrip 1
+encount 1
+tin 1
+unknown 1
+iljj 1
+realiti 1
+sub-ast 1
+g2 1
+p2 1
+leve 1
+dec 1
+2e 1
+address-displac 1
+currentlevel 1
+entitylevel 1
+visitvar 1
+eclar 1
+zero 1
+round 1
+po 1
+endl 1
+display-regist 1
+visitprocdeclar 1
+1ocalfram 1
+atch 1
+deposit 1
+param 1
+eter 1
+fetch-address 1
+zjj 1
+typeofi 1
+syntaxtre 1
+currenc 1
+filter 1
+integerlist 1
+15word 1
+loword 1
+tori 1
+ent 1
+ry 1
+addresstdir 1
+addressidir 1
+25i 1
+fli 1
+divers 1
+vendor 1
+survey 1
+ganapathi 1
+fraser 1
+hansen 1
+insight 1
+v1 1
+collater 1
+middl 1
+ine 1
+classifi 1
+ez 1
+visitforcommand 1
+eight 1
+characterist 1
+statusvalu 1
+hypoinstruct 1
+addop 1
+jumpo 1
+jumpzop 1
+experiment 1
+inishellst 1
+runningorhaltedorfail 1
+readlnalyz 1
+exec 1
+a-z 1
+square-root 1
+scannedcornrnand 1
+inibasicst 1
+datasizel 1
+minibasicinterpret 1
+asicst 1
+scannedc0m 1
+left-sid 1
+relop 1
+stopcommand 1
+readcommand 1
+writecommand 1
+lar 1
+minibas 1
+spirit 1
+modern 1
+subsubcommand 1
+iterat 1
+ution 1
+commenc 1
+minitriangleprocessor 1
+id 1
+binaryexpres 1
+cod 1
+loadprogram 1
+instr-n 1
+callop 1
+calliop 1
+returnop 1
+pushop 1
+popop 1
+jumpop 1
+jumpifo 1
+pseudo-regist 1
+sbr 1
+lbr 1
+llr 1
+l2r 1
+lbll 1
+band 1
+kelsey 1
+sacrific 1
+origi 1
+primari 1
+similar 1
+well 1
+endeavor 1
+irregular 1
+flaw 1
+ambigu 1
+incomplet 1
+incon 1
+sistenc 1
+reimpl 1
+manual 1
+except 1
+concurr 1
+regular 1
+master 1
+well-understood 1
+tendenc 1
+inconsi 1
+tent 1
+langu 1
+age 1
+revis 1
+drawback 1
+tire 1
+shelf 1
+cf 1
+specifi 1
+straint 1
+accid 1
+detect 1
+categori 1
+grammer 1
+batch 1
+impact 1
+chur 1
+tension 1
+avalanch 1
+interrupt 1
+risk 1
+opposit 1
+defici 1
+empha 1
+better 1
+j' 1
+glanc 1
+source-program 1
+presenc 1
+tradeoff 1
+lation 1
+penalti 1
+mismatch 1
+measur 1
+0-notat 1
+estim 1
+proport 1
+pool 1
+'d 1
+bxc 1
+improvemenl 1
+commut 1
+effec 1
+trick 1
+binarj 1
+thu 1
+optimizationr 1
+corzstarzt 1
+pi 1
+volum 1
+expens 1
+decidt 1
+guara 1
+teed 1
+col 1
+recompil 1
+judg 1
+bergin 1
+gibson 1
+guid 1
+mentat 1
+goal 1
+progress 1
+repeat-command 1
+nate 1
+ili 1
+ci 1
+activ 1
+ronment 1
+appli 1
+cabl 1
+predecessor 1
+suc 1
+compari 1
+son 1
+absenc 1
+specimen 1
+printer 1
+ramet 1
+else-part 1
+r-l 1
+restructur 1
+interleav 1
+io 1
+digitl 1
+sturter 1
+numeral 1
+subjectj 1
+objectl 1
+enhanc 1
+='-rrb- 1
+parsenumeral0 1
+parsenumer 1
+parsenumera1 1
+isdigit 1
+parsedigi 1
+parsedigit 1
+lyj 1
+startersi 1
+xll 1
+gramma 1
+println 1
+terminalast 1
+a8 1
+islett 1
+currentchar1 1
+hl 1
+e0 1
+token-then 1
+l8 1
+locul 1
+icationt 1
+identi 1
+tormost 1
+ist 1
+ode 1
+1d 1
+pointertyp 1
+recordtypedenot 1
+intlist 1
+redl 1
+freq 1
+map 1
+dimens 1
+eg 1
+e4 1
+respc 1
+save 1
+accommod 1
+acti 1
+vation 1
+tec1 1
+visitrepeatcommand 1
+repeatcommand 1
+stl 1
+forcommand 1
+fordeclar 1
+reserv 1
+visitfuncdeclar 1
+visitresultcommand 1
+resultcommand 1
+shortvalue0f 1
+instruction-lbr 1
+stepcommand 1
+runcommand 1
+showregisterscommand 1
+showdatastorecommand 1
+terminatecommand 1
+togglebreakpointcommand 1
+codesizel 1
+clearbreakpoint 1
+inishellcommand 1
+ca11 1
+subcorn 1
+pivo 1
+acn 1
+parenthes 1
+overlaid 1
+if-express 1
+r4 1
+current 1
+z1 1
+holiday 1
+fps 1
+zl 1
+request 1
+xshift 1
+tab 1
+dido 1
+xlon 1
+character-liter 1
+gasflowr 1
+ue 1
+end-of-fil 1
+rue 1
+tova 1
+rueiffval 1
+isnotequaltova12 1
+boundari 1
+microcod 1
+lbl 1
+trap 1
+loadad 1
+loadi 1
+call1 1
+closur 1
+pushd 1
+jump1 1
+stop 1
+mnemon 1
+valuesl 1
+mod 1
+du 1
+heau 1
+overleaf 1
+unifi 1
+booch 1
+ital 1
+minus 1
+plus 1
+reporterror 1
+sourceposit 1
+reportrestrict 1
+errorr 1
+orter 1
+sourcefil 1
+aconstructora 1
+encoderun 1
+saveobjectprogram 1
+stdenviron 1
+anvtvo 1
+tvpedenot 1
+booleantv 1
+tvoedenot 1
+chartvo 1
+errortvo 1
+integertvo 1
+strinel 1
+ileprogram 1
+sourcenam 1
+obiectnam 1
+str 1
+showingast 1
+hierarchi 1
+arrayaggreg 1
+formalparumet 1
+emptyexpress 1
+singlearray 1
+unaryoper 1
+binaryoper 1
+funcform 1
+procform 1
+formalparamet 1
+chartypedenot 1
+anytypedenot 1
+errortypedenot 1
+fieldtypedenot 1
+multiplefield 1
+arraytypedenot 1
+booltypedenot 1
+inttypedenot 1
+characterliter 1
+terrninul 1
+identificationt 1
+lishstandardenviron 1
+bear 1

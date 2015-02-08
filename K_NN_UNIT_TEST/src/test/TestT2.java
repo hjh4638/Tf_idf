@@ -3,18 +3,20 @@ package test;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileNotFoundException;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.io.RandomAccessFile;
 
+import org.junit.Ignore;
 import org.junit.Test;
-
-import dto.TrainedVector;
 
 public class TestT2 {
 
 	@Test
+	@Ignore
 	public void makeInput() throws IOException{
 		int num = 0;
 		File f1 = new File("tf_idf_group/vector.txt");
@@ -45,5 +47,56 @@ public class TestT2 {
 		
 		
 	}
-	
+	@Test
+	public void makeRealInput() throws IOException{
+		String dir = "RealData";
+		File f1 = new File(dir);
+		String a[] = f1.list();
+		String path[] = new String[a.length];
+		int f_num = 0;
+		
+		for(int i=0;i<a.length;i++){
+			path[i] = dir + "/" + a[i];
+		}
+		for(int i=0;i<path.length;i++){
+			String[] flist = new File(path[i]).list();
+			
+			for(int j=0;j<flist.length;j++){
+				File ff = new File(path[i]+"/"+flist[j]);
+				FileReader r = new FileReader(ff);
+				BufferedReader br = new BufferedReader(r);
+				
+				FileWriter fw = new FileWriter("input/input"+f_num+".txt", true);
+				BufferedWriter bw = new BufferedWriter(fw);
+				String line = null;
+				bw.write(a[i]);
+				bw.newLine();
+				while((line = br.readLine())!=null){
+					bw.write(line);
+					bw.newLine();
+				}
+				bw.flush();
+				f_num++;
+			}
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
 }

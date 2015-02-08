@@ -1,188 +1,347 @@
-1210.1568.pdf.txt/ /AI/ /ai/ /33/ /41/ /0.535113/ /0.585017
-1210.1568.pdf.txt/ /AI/ /iew/ /5/ /1/ /1.85733/ /0.307658
-1210.1568.pdf.txt/ /AI/ /knot/ /7/ /10/ /1.11697/ /0.259029
-1210.1568.pdf.txt/ /AI/ /world/ /56/ /104/ /0.137173/ /0.254487
-1210.1568.pdf.txt/ /AI/ /inheritor/ /4/ /1/ /1.85733/ /0.246126
-1210.1568.pdf.txt/ /AI/ /intellect/ /5/ /6/ /1.31326/ /0.217536
-1210.1568.pdf.txt/ /AI/ /bulgaria/ /3/ /1/ /1.85733/ /0.184595
-1210.1568.pdf.txt/ /AI/ /life/ /19/ /76/ /0.271872/ /0.17113
-1210.1568.pdf.txt/ /AI/ /intellig/ /8/ /47/ /0.477121/ /0.126453
-1210.1568.pdf.txt/ /AI/ /crammer/ /2/ /1/ /1.85733/ /0.123063
-1210.1568.pdf.txt/ /AI/ /tu/ /4/ /16/ /0.927914/ /0.122964
-1210.1568.pdf.txt/ /AI/ /cope/ /2/ /2/ /1.68124/ /0.111396
-1210.1568.pdf.txt/ /AI/ /s0/ /3/ /12/ /1.04442/ /0.103802
-1210.1568.pdf.txt/ /AI/ /moment/ /7/ /57/ /0.394934/ /0.0915866
-1210.1568.pdf.txt/ /AI/ /artifici/ /3/ /17/ /0.90309/ /0.0897555
-1210.1568.pdf.txt/ /AI/ /tree/ /14/ /92/ /0.18988/ /0.0880673
-1210.1568.pdf.txt/ /AI/ /ture/ /6/ /53/ /0.425969/ /0.0846716
-1210.1568.pdf.txt/ /AI/ /alphabet/ /4/ /34/ /0.614294/ /0.0814039
-1210.1568.pdf.txt/ /AI/ /definit/ /27/ /117/ /0.0864805/ /0.0773554
-1210.1568.pdf.txt/ /AI/ /explos/ /3/ /27/ /0.711204/ /0.0706845
-1210.1568.pdf.txt/ /AI/ /vt/ /2/ /13/ /1.01223/ /0.0670687
-1210.1568.pdf.txt/ /AI/ /babi/ /2/ /15/ /0.954243/ /0.0632263
-1210.1568.pdf.txt/ /AI/ /1illustr/ /1/ /1/ /1.85733/ /0.0615316
-1210.1568.pdf.txt/ /AI/ /konstantin/ /1/ /1/ /1.85733/ /0.0615316
-1210.1568.pdf.txt/ /AI/ /semi-random/ /1/ /1/ /1.85733/ /0.0615316
-1210.1568.pdf.txt/ /AI/ /lakov/ /1/ /1/ /1.85733/ /0.0615316
-1210.1568.pdf.txt/ /AI/ /lambda-convers/ /1/ /1/ /1.85733/ /0.0615316
-1210.1568.pdf.txt/ /AI/ /dobrev/ /1/ /1/ /1.85733/ /0.0615316
-1210.1568.pdf.txt/ /AI/ /dimit/ /1/ /1/ /1.85733/ /0.0615316
-1210.1568.pdf.txt/ /AI/ /sofia/ /1/ /1/ /1.85733/ /0.0615316
-1210.1568.pdf.txt/ /AI/ /birth/ /2/ /19/ /0.857332/ /0.0568052
-1210.1568.pdf.txt/ /AI/ /be/ /3/ /38/ /0.567298/ /0.0563821
-1210.1568.pdf.txt/ /AI/ /educ/ /3/ /38/ /0.567298/ /0.0563821
-1210.1568.pdf.txt/ /AI/ /depend/ /5/ /66/ /0.332288/ /0.0550418
-1210.1568.pdf.txt/ /AI/ /devic/ /10/ /98/ /0.162727/ /0.05391
-1210.1568.pdf.txt/ /AI/ /chu/ /1/ /3/ /1.5563/ /0.0515588
-1210.1568.pdf.txt/ /AI/ /princeton/ /2/ /23/ /0.778151/ /0.0515588
-1210.1568.pdf.txt/ /AI/ /magazin/ /2/ /23/ /0.778151/ /0.0515588
-1210.1568.pdf.txt/ /AI/ /novem/ /1/ /3/ /1.5563/ /0.0515588
-1210.1568.pdf.txt/ /AI/ /exam/ /3/ /43/ /0.51491/ /0.0511754
-1210.1568.pdf.txt/ /AI/ /algorithm/ /11/ /104/ /0.137173/ /0.0499886
-1210.1568.pdf.txt/ /AI/ /entscheidungsproblem/ /1/ /4/ /1.45939/ /0.0483483
-1210.1568.pdf.txt/ /AI/ /meltzer/ /1/ /4/ /1.45939/ /0.0483483
-1210.1568.pdf.txt/ /AI/ /calculi/ /1/ /5/ /1.38021/ /0.0457251
-1210.1568.pdf.txt/ /AI/ /michi/ /1/ /5/ /1.38021/ /0.0457251
-1210.1568.pdf.txt/ /AI/ /strawberri/ /1/ /5/ /1.38021/ /0.0457251
-1210.1568.pdf.txt/ /AI/ /state/ /22/ /124/ /0.0614525/ /0.0447889
-1210.1568.pdf.txt/ /AI/ /informat/ /1/ /6/ /1.31326/ /0.0435072
-1210.1568.pdf.txt/ /AI/ /machineri/ /2/ /31/ /0.653212/ /0.0432806
-1210.1568.pdf.txt/ /AI/ /assumpt/ /5/ /78/ /0.260735/ /0.0431896
-1210.1568.pdf.txt/ /AI/ /curtain/ /1/ /8/ /1.20412/ /0.0398913
-1210.1568.pdf.txt/ /AI/ /dose/ /1/ /8/ /1.20412/ /0.0398913
-1210.1568.pdf.txt/ /AI/ /instinct/ /1/ /8/ /1.20412/ /0.0398913
-1210.1568.pdf.txt/ /AI/ /inact/ /1/ /8/ /1.20412/ /0.0398913
-1210.1568.pdf.txt/ /AI/ /schuster/ /1/ /8/ /1.20412/ /0.0398913
-1210.1568.pdf.txt/ /AI/ /test/ /10/ /109/ /0.11697/ /0.038751
-1210.1568.pdf.txt/ /AI/ /victori/ /1/ /9/ /1.15836/ /0.0383754
-1210.1568.pdf.txt/ /AI/ /student/ /3/ /59/ /0.380211/ /0.0377881
-1210.1568.pdf.txt/ /AI/ /step/ /9/ /107/ /0.124939/ /0.0372519
-1210.1568.pdf.txt/ /AI/ /newman/ /1/ /10/ /1.11697/ /0.0370041
-1210.1568.pdf.txt/ /AI/ /mathemat/ /3/ /61/ /0.365971/ /0.0363728
-1210.1568.pdf.txt/ /AI/ /train/ /2/ /40/ /0.545579/ /0.036149
-1210.1568.pdf.txt/ /AI/ /row/ /4/ /76/ /0.271872/ /0.0360274
-1210.1568.pdf.txt/ /AI/ /thing/ /8/ /105/ /0.133057/ /0.0352643
-1210.1568.pdf.txt/ /AI/ /academi/ /1/ /12/ /1.04442/ /0.0346006
-1210.1568.pdf.txt/ /AI/ /notion/ /3/ /64/ /0.345449/ /0.0343332
-1210.1568.pdf.txt/ /AI/ /oc/ /1/ /14/ /0.982271/ /0.0325417
-1210.1568.pdf.txt/ /AI/ /dt/ /1/ /14/ /0.982271/ /0.0325417
-1210.1568.pdf.txt/ /AI/ /entranc/ /1/ /14/ /0.982271/ /0.0325417
-1210.1568.pdf.txt/ /AI/ /church/ /1/ /15/ /0.954243/ /0.0316131
-1210.1568.pdf.txt/ /AI/ /prolog/ /1/ /15/ /0.954243/ /0.0316131
-1210.1568.pdf.txt/ /AI/ /everybodi/ /1/ /18/ /0.879609/ /0.0291406
-1210.1568.pdf.txt/ /AI/ /v1/ /1/ /20/ /0.836143/ /0.0277006
-1210.1568.pdf.txt/ /AI/ /pc/ /2/ /55/ /0.410174/ /0.0271774
-1210.1568.pdf.txt/ /AI/ /letter/ /3/ /77/ /0.266268/ /0.0264636
-1210.1568.pdf.txt/ /AI/ /peopl/ /4/ /90/ /0.199321/ /0.0264133
-1210.1568.pdf.txt/ /AI/ /portion/ /3/ /78/ /0.260735/ /0.0259137
-1210.1568.pdf.txt/ /AI/ /subset/ /3/ /79/ /0.255273/ /0.0253708
-1210.1568.pdf.txt/ /AI/ /human/ /2/ /59/ /0.380211/ /0.0251921
-1210.1568.pdf.txt/ /AI/ /simon/ /1/ /25/ /0.743389/ /0.0246278
-1210.1568.pdf.txt/ /AI/ /movi/ /1/ /25/ /0.743389/ /0.0246278
-1210.1568.pdf.txt/ /AI/ /someth/ /4/ /94/ /0.180639/ /0.0239376
-1210.1568.pdf.txt/ /AI/ /figur/ /5/ /103/ /0.141329/ /0.0234105
-1210.1568.pdf.txt/ /AI/ /mean/ /6/ /109/ /0.11697/ /0.0232506
-1210.1568.pdf.txt/ /AI/ /thesi/ /1/ /28/ /0.695964/ /0.0230566
-1210.1568.pdf.txt/ /AI/ /e-mail/ /1/ /28/ /0.695964/ /0.0230566
-1210.1568.pdf.txt/ /AI/ /applica/ /1/ /29/ /0.681241/ /0.0225689
-1210.1568.pdf.txt/ /AI/ /innov/ /1/ /31/ /0.653212/ /0.0216403
-1210.1568.pdf.txt/ /AI/ /knowledg/ /4/ /98/ /0.162727/ /0.021564
-1210.1568.pdf.txt/ /AI/ /pp/ /1/ /32/ /0.639849/ /0.0211976
-1210.1568.pdf.txt/ /AI/ /cs/ /1/ /32/ /0.639849/ /0.0211976
-1210.1568.pdf.txt/ /AI/ /februari/ /1/ /33/ /0.626884/ /0.020768
-1210.1568.pdf.txt/ /AI/ /si/ /1/ /33/ /0.626884/ /0.020768
-1210.1568.pdf.txt/ /AI/ /st/ /1/ /34/ /0.614294/ /0.020351
-1210.1568.pdf.txt/ /AI/ /alan/ /1/ /34/ /0.614294/ /0.020351
-1210.1568.pdf.txt/ /AI/ /futur/ /2/ /71/ /0.30103/ /0.0199457
-1210.1568.pdf.txt/ /AI/ /program/ /21/ /134/ /0.0280287/ /0.0194999
-1210.1568.pdf.txt/ /AI/ /london/ /1/ /37/ /0.578579/ /0.0191678
-1210.1568.pdf.txt/ /AI/ /ber/ /1/ /38/ /0.567298/ /0.018794
-1210.1568.pdf.txt/ /AI/ /person/ /2/ /74/ /0.283301/ /0.018771
-1210.1568.pdf.txt/ /AI/ /live/ /1/ /40/ /0.545579/ /0.0180745
-1210.1568.pdf.txt/ /AI/ /root/ /2/ /76/ /0.271872/ /0.0180137
-1210.1568.pdf.txt/ /AI/ /experi/ /3/ /94/ /0.180639/ /0.0179532
-1210.1568.pdf.txt/ /AI/ /button/ /1/ /41/ /0.535113/ /0.0177278
-1210.1568.pdf.txt/ /AI/ /heart/ /1/ /41/ /0.535113/ /0.0177278
-1210.1568.pdf.txt/ /AI/ /jame/ /1/ /41/ /0.535113/ /0.0177278
-1210.1568.pdf.txt/ /AI/ /januari/ /1/ /41/ /0.535113/ /0.0177278
-1210.1568.pdf.txt/ /AI/ /pictur/ /2/ /78/ /0.260735/ /0.0172758
-1210.1568.pdf.txt/ /AI/ /influenc/ /1/ /46/ /0.486265/ /0.0161095
-1210.1568.pdf.txt/ /AI/ /iv/ /1/ /47/ /0.477121/ /0.0158066
-1210.1568.pdf.txt/ /AI/ /societi/ /1/ /47/ /0.477121/ /0.0158066
-1210.1568.pdf.txt/ /AI/ /intersect/ /1/ /49/ /0.459393/ /0.0152192
-1210.1568.pdf.txt/ /AI/ /matter/ /2/ /84/ /0.228944/ /0.0151694
-1210.1568.pdf.txt/ /AI/ /action/ /3/ /101/ /0.149762/ /0.0148844
-1210.1568.pdf.txt/ /AI/ /past/ /1/ /51/ /0.442359/ /0.0146549
-1210.1568.pdf.txt/ /AI/ /back/ /1/ /53/ /0.425969/ /0.0141119
-1210.1568.pdf.txt/ /AI/ /candid/ /1/ /53/ /0.425969/ /0.0141119
-1210.1568.pdf.txt/ /AI/ /argument/ /2/ /88/ /0.208972/ /0.0138461
-1210.1568.pdf.txt/ /AI/ /noth/ /2/ /88/ /0.208972/ /0.0138461
-1210.1568.pdf.txt/ /AI/ /variant/ /1/ /55/ /0.410174/ /0.0135887
-1210.1568.pdf.txt/ /AI/ /paper/ /2/ /89/ /0.20412/ /0.0135246
-1210.1568.pdf.txt/ /AI/ /task/ /4/ /113/ /0.101458/ /0.0134448
-1210.1568.pdf.txt/ /AI/ /element/ /3/ /105/ /0.133057/ /0.0132241
-1210.1568.pdf.txt/ /AI/ /institut/ /1/ /58/ /0.38751/ /0.0128378
-1210.1568.pdf.txt/ /AI/ /environ/ /3/ /106/ /0.128979/ /0.0128188
-1210.1568.pdf.txt/ /AI/ /function/ /10/ /131/ /0.0377886/ /0.012519
-1210.1568.pdf.txt/ /AI/ /loss/ /1/ /61/ /0.365971/ /0.0121243
-1210.1568.pdf.txt/ /AI/ /analog/ /1/ /62/ /0.359022/ /0.011894
-1210.1568.pdf.txt/ /AI/ /nation/ /1/ /63/ /0.352183/ /0.0116675
-1210.1568.pdf.txt/ /AI/ /machin/ /4/ /117/ /0.0864805/ /0.0114601
-1210.1568.pdf.txt/ /AI/ /press/ /1/ /65/ /0.338819/ /0.0112247
-1210.1568.pdf.txt/ /AI/ /exist/ /1/ /67/ /0.325854/ /0.0107952
-1210.1568.pdf.txt/ /AI/ /proceed/ /1/ /68/ /0.319513/ /0.0105852
-1210.1568.pdf.txt/ /AI/ /tion/ /1/ /70/ /0.307104/ /0.0101741
-1210.1568.pdf.txt/ /AI/ /order/ /6/ /127/ /0.0511525/ /0.0101678
-1210.1568.pdf.txt/ /AI/ /problem/ /8/ /131/ /0.0377886/ /0.0100152
-1210.1568.pdf.txt/ /AI/ /mind/ /1/ /73/ /0.289131/ /0.00957862
-1210.1568.pdf.txt/ /AI/ /game/ /1/ /74/ /0.283301/ /0.00938549
-1210.1568.pdf.txt/ /AI/ /hardwar/ /2/ /103/ /0.141329/ /0.0093642
-1210.1568.pdf.txt/ /AI/ /requir/ /2/ /103/ /0.141329/ /0.0093642
-1210.1568.pdf.txt/ /AI/ /idea/ /2/ /104/ /0.137173/ /0.00908883
-1210.1568.pdf.txt/ /AI/ /comput/ /11/ /135/ /0.0248236/ /0.0090462
-1210.1568.pdf.txt/ /AI/ /cours/ /2/ /105/ /0.133057/ /0.00881607
-1210.1568.pdf.txt/ /AI/ /volum/ /1/ /79/ /0.255273/ /0.00845693
-1210.1568.pdf.txt/ /AI/ /window/ /1/ /80/ /0.249877/ /0.0082782
-1210.1568.pdf.txt/ /AI/ /set/ /6/ /130/ /0.0410912/ /0.00816787
-1210.1568.pdf.txt/ /AI/ /case/ /4/ /124/ /0.0614525/ /0.00814344
-1210.1568.pdf.txt/ /AI/ /relat/ /1/ /81/ /0.244549/ /0.00810166
-1210.1568.pdf.txt/ /AI/ /box/ /1/ /82/ /0.239284/ /0.00792726
-1210.1568.pdf.txt/ /AI/ /termin/ /1/ /82/ /0.239284/ /0.00792726
-1210.1568.pdf.txt/ /AI/ /construct/ /1/ /83/ /0.234083/ /0.00775495
-1210.1568.pdf.txt/ /AI/ /number/ /8/ /134/ /0.0280287/ /0.00742852
-1210.1568.pdf.txt/ /AI/ /compil/ /1/ /85/ /0.223864/ /0.0074164
-1210.1568.pdf.txt/ /AI/ /softwar/ /2/ /111/ /0.109144/ /0.0072317
-1210.1568.pdf.txt/ /AI/ /error/ /2/ /112/ /0.105284/ /0.00697592
-1210.1568.pdf.txt/ /AI/ /path/ /1/ /88/ /0.208972/ /0.00692306
-1210.1568.pdf.txt/ /AI/ /present/ /1/ /88/ /0.208972/ /0.00692306
-1210.1568.pdf.txt/ /AI/ /activ/ /1/ /89/ /0.20412/ /0.0067623
-1210.1568.pdf.txt/ /AI/ /reason/ /2/ /113/ /0.101458/ /0.00672239
-1210.1568.pdf.txt/ /AI/ /inform/ /8/ /135/ /0.0248236/ /0.00657906
-1210.1568.pdf.txt/ /AI/ /output/ /2/ /114/ /0.0976646/ /0.00647107
-1210.1568.pdf.txt/ /AI/ /answer/ /1/ /91/ /0.194575/ /0.00644607
-1210.1568.pdf.txt/ /AI/ /report/ /1/ /92/ /0.18988/ /0.00629052
-1210.1568.pdf.txt/ /AI/ /situat/ /1/ /92/ /0.18988/ /0.00629052
-1210.1568.pdf.txt/ /AI/ /seri/ /1/ /94/ /0.180639/ /0.00598439
-1210.1568.pdf.txt/ /AI/ /first/ /1/ /95/ /0.176091/ /0.00583373
-1210.1568.pdf.txt/ /AI/ /result/ /3/ /125/ /0.057992/ /0.00576365
-1210.1568.pdf.txt/ /AI/ /exampl/ /7/ /135/ /0.0248236/ /0.00575667
-1210.1568.pdf.txt/ /AI/ /length/ /1/ /97/ /0.167136/ /0.00553707
-1210.1568.pdf.txt/ /AI/ /bit/ /1/ /98/ /0.162727/ /0.005391
-1210.1568.pdf.txt/ /AI/ /valu/ /2/ /119/ /0.0791813/ /0.0052464
-1210.1568.pdf.txt/ /AI/ /goal/ /1/ /99/ /0.158363/ /0.0052464
-1210.1568.pdf.txt/ /AI/ /scienc/ /1/ /100/ /0.154041/ /0.00510323
-1210.1568.pdf.txt/ /AI/ /year/ /1/ /102/ /0.145525/ /0.00482111
-1210.1568.pdf.txt/ /AI/ /time/ /6/ /136/ /0.0216419/ /0.00430186
-1210.1568.pdf.txt/ /AI/ /question/ /1/ /107/ /0.124939/ /0.0041391
-1210.1568.pdf.txt/ /AI/ /differ/ /1/ /107/ /0.124939/ /0.0041391
-1210.1568.pdf.txt/ /AI/ /sequenc/ /1/ /108/ /0.120936/ /0.00400649
-1210.1568.pdf.txt/ /AI/ /view/ /1/ /109/ /0.11697/ /0.0038751
-1210.1568.pdf.txt/ /AI/ /name/ /1/ /113/ /0.101458/ /0.00336119
-1210.1568.pdf.txt/ /AI/ /power/ /1/ /113/ /0.101458/ /0.00336119
-1210.1568.pdf.txt/ /AI/ /place/ /1/ /114/ /0.0976646/ /0.00323553
-1210.1568.pdf.txt/ /AI/ /refer/ /1/ /119/ /0.0791813/ /0.0026232
-1210.1568.pdf.txt/ /AI/ /object/ /1/ /120/ /0.0755771/ /0.0025038
-1210.1568.pdf.txt/ /AI/ /input/ /1/ /120/ /0.0755771/ /0.0025038
-1210.1568.pdf.txt/ /AI/ /part/ /1/ /130/ /0.0410912/ /0.00136131
-1210.1568.pdf.txt/ /AI/ /way/ /1/ /131/ /0.0377886/ /0.0012519
-1210.1568.pdf.txt/ /AI/ /point/ /1/ /131/ /0.0377886/ /0.0012519
+AI
+345
+agent 74
+game 63
+knowledg 56
+machin 54
+infer 40
+oper 38
+action 35
+interfac 33
+behavior 30
+base 29
+engin 28
+inform 28
+ai 26
+soar 25
+script 25
+tactic 24
+level 23
+quak 22
+ii 22
+project 21
+sensor 21
+goal 17
+memori 17
+intellig 15
+situat 15
+player 15
+research 14
+descent 14
+exampl 13
+oppon 13
+number 12
+context 12
+soar/gam 11
+architectur 11
+cycl 11
+decis 10
+hierarchi 10
+enemi 10
+string 10
+requir 9
+rule 9
+comput 8
+develop 8
+result 8
+compon 8
+select 8
+mode 8
+float 8
+attack 7
+condit 7
+figur 7
+techniqu 6
+design 6
+field 6
+programm 6
+step 6
+sequenc 6
+form 6
+sight 6
+weapon 6
+command 6
+aspect 5
+communiti 5
+system 5
+interact 5
+choic 5
+type 5
+michigan 4
+air 4
+combat 4
+darpa 4
+principl 4
+languag 4
+amount 4
+environ 4
+area 4
+represent 4
+genr 4
+advantag 4
+approach 4
+detail 4
+chang 4
+time 4
+use 4
+data 4
+structur 4
+featur 4
+way 4
+line 4
+set 4
+degre 4
+yes/no 4
+on/off 4
+laird 3
+plan 3
+perspect 3
+reaction 3
+key 3
+mechan 3
+prioriti 3
+doesn 3
+point 3
+sub-oper 3
+target 3
+control 3
+rang 3
+vision 3
+model 3
+int 3
+john 2
+paper 2
+effort 2
+experi 2
+part 2
+abil 2
+simpl 2
+benefit 2
+problem 2
+simul 2
+cost 2
+reusabl 2
+person 2
+section 2
+work 2
+futur 2
+hand 2
+code 2
+statement 2
+job 2
+act 2
+couldn 2
+speed 2
+think 2
+stimulus-respons 2
+retreat 2
+support 2
+sens 2
+remaind 2
+respons 2
+convers 2
+specif 2
+reactiv 2
+top 2
+second 2
+varieti 2
+persist 2
+circle-straf 2
+sampl 2
+posit 2
+freedom 2
+bool 2
+screen 2
+complaint 2
+cheat 2
+fun 2
+dimens 2
+flexibl 2
+caus 2
+implement 2
+expert 2
+instruct 2
+observ 2
+cooper 2
+side 2
+russ 2
+michael 1
+van 1
+lent 1
+beal 1
+ann 1
+arbor 1
+mi 1
+vanlent 1
+@umich 1
+introduct 1
+consum 1
+emphasi 1
+sourc 1
+group 1
+artifici 1
+state 1
+art 1
+train 1
+exercis 1
+lectur 1
+confer 1
+year 1
+psycholog 1
+socket 1
+tcl 1
+share 1
+learn 1
+navig 1
+challeng 1
+onlin 1
+divis 1
+concept 1
+applic 1
+scratch 1
+natur 1
+conclus 1
+eye 1
+inclus 1
+easi 1
+human 1
+strength 1
+weak 1
+program 1
+other 1
+aren 1
+contextu 1
+case 1
+organ 1
+constraint 1
+move 1
+loop 1
+perceiv 1
+multipl 1
+lack 1
+effect 1
+begin 1
+date 1
+influenc 1
+sleep 1
+class 1
+store 1
+place 1
+branch 1
+input 1
+adventur 1
+fiction 1
+respond 1
+sub-step 1
+sub-behavior 1
+mhz 1
+pentium 1
+role 1
+middl 1
+fight 1
+execut 1
+turn 1
+wouldn 1
+addit 1
+explor 1
+collect 1
+power-up 1
+charg 1
+chasesnip 1
+pop 1
+outcamp 1
+locat 1
+shoot 1
+portion 1
+camp 1
+test 1
+search 1
+candid 1
+bot 1
+view 1
+lesson 1
+import 1
+format 1
+content 1
+jump 1
+name 1
+lassnam 1
+health 1
+deadflag 1
+veloc 1
+angle-off 1
+ensor 1
+movement 1
+hrust 1
+urn 1
+face 1
+limb 1
+aim 1
+ook 1
+ump 1
+eadtarget 1
+hang 1
+ontinuousfir 1
+fireonc 1
+misc 1
+dropnod 1
+wave 1
+entiti 1
+left 1
+right 1
+shouldn 1
+attempt 1
+imag 1
+resourc 1
+mission 1
+ground 1
+patrol 1
+circl 1
+dynam 1
+touch 1
+mind 1
+realism 1
+direct 1
+variat 1
+pac-man 1
+tank 1
+battl 1
+isn 1
+beginn 1
+destroy 1
+monster 1
+version 1
+end 1
+februari 1
+speech 1
+offic 1
+voic 1
+platoon 1
+soldier 1
+knomic 1
+mimic 1
+colbi 1
+colleg 1
+need 1
+drive 1
+coordin 1
+process 1
+acknowledg 1
+undergradu 1
+student 1
+steve 1
+houchard 1
+kurt 1
+steinkraus 1
+tedrak 1
+joe 1
+hartford 1
+josh 1
+buckman 1
+thank 1
+intel 1
+outrag 1
+entertain 1
+chanc 1
+hour 1
+assist 1

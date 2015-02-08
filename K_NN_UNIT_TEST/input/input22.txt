@@ -1,360 +1,264 @@
-cimplementation.pdf.txt/ /compiler/ /lex/ /130/ /18/ /0.879609/ /0.349388
-cimplementation.pdf.txt/ /compiler/ /simplejava/ /57/ /1/ /1.85733/ /0.323474
-cimplementation.pdf.txt/ /compiler/ /exp/ /152/ /34/ /0.614294/ /0.285296
-cimplementation.pdf.txt/ /compiler/ /yacc/ /82/ /12/ /1.04442/ /0.261676
-cimplementation.pdf.txt/ /compiler/ /varenv/ /30/ /1/ /1.85733/ /0.170249
-cimplementation.pdf.txt/ /compiler/ /aatstat/ /30/ /1/ /1.85733/ /0.170249
-cimplementation.pdf.txt/ /compiler/ /identifi/ /167/ /66/ /0.332288/ /0.169553
-cimplementation.pdf.txt/ /compiler/ /typeenv/ /28/ /1/ /1.85733/ /0.1589
-cimplementation.pdf.txt/ /compiler/ /functionenv/ /28/ /1/ /1.85733/ /0.1589
-cimplementation.pdf.txt/ /compiler/ /aatexpress/ /27/ /1/ /1.85733/ /0.153225
-cimplementation.pdf.txt/ /compiler/ /retval/ /28/ /2/ /1.68124/ /0.143834
-cimplementation.pdf.txt/ /compiler/ /yytext/ /35/ /6/ /1.31326/ /0.140441
-cimplementation.pdf.txt/ /compiler/ /analyz/ /62/ /26/ /0.726999/ /0.137721
-cimplementation.pdf.txt/ /compiler/ /astexpress/ /24/ /1/ /1.85733/ /0.1362
-cimplementation.pdf.txt/ /compiler/ /aststat/ /24/ /1/ /1.85733/ /0.1362
-cimplementation.pdf.txt/ /compiler/ /yylex/ /34/ /7/ /1.25527/ /0.130404
-cimplementation.pdf.txt/ /compiler/ /expressiontre/ /24/ /2/ /1.68124/ /0.123287
-cimplementation.pdf.txt/ /compiler/ /struct/ /68/ /40/ /0.545579/ /0.113355
-cimplementation.pdf.txt/ /compiler/ /liter/ /55/ /30/ /0.667001/ /0.112089
-cimplementation.pdf.txt/ /compiler/ /int/ /100/ /63/ /0.352183/ /0.107608
-cimplementation.pdf.txt/ /compiler/ /integertyp/ /18/ /1/ /1.85733/ /0.10215
-cimplementation.pdf.txt/ /compiler/ /char/ /73/ /50/ /0.450792/ /0.100548
-cimplementation.pdf.txt/ /compiler/ /token/ /59/ /39/ /0.556302/ /0.100285
-cimplementation.pdf.txt/ /compiler/ /plus/ /45/ /26/ /0.726999/ /0.0999588
-cimplementation.pdf.txt/ /compiler/ /operatorexpress/ /17/ /1/ /1.85733/ /0.0964747
-cimplementation.pdf.txt/ /compiler/ /gotcha/ /18/ /2/ /1.68124/ /0.092465
-cimplementation.pdf.txt/ /compiler/ /express/ /131/ /85/ /0.223864/ /0.0896046
-cimplementation.pdf.txt/ /compiler/ /minus/ /41/ /28/ /0.695964/ /0.0871858
-cimplementation.pdf.txt/ /compiler/ /integ/ /124/ /84/ /0.228944/ /0.0867411
-cimplementation.pdf.txt/ /compiler/ /tree/ /149/ /92/ /0.18988/ /0.0864449
-cimplementation.pdf.txt/ /compiler/ /grm/ /15/ /1/ /1.85733/ /0.0851247
-cimplementation.pdf.txt/ /compiler/ /file/ /215/ /106/ /0.128979/ /0.0847289
-cimplementation.pdf.txt/ /compiler/ /yyin/ /16/ /2/ /1.68124/ /0.0821911
-cimplementation.pdf.txt/ /compiler/ /<exp>/ /14/ /1/ /1.85733/ /0.0794498
-cimplementation.pdf.txt/ /compiler/ /typedef/ /30/ /19/ /0.857332/ /0.078586
-cimplementation.pdf.txt/ /compiler/ /constantexpress/ /15/ /2/ /1.68124/ /0.0770542
-cimplementation.pdf.txt/ /compiler/ /ast/ /21/ /9/ /1.15836/ /0.0743256
-cimplementation.pdf.txt/ /compiler/ /enventri/ /13/ /1/ /1.85733/ /0.0737748
-cimplementation.pdf.txt/ /compiler/ /assembl/ /71/ /65/ /0.338819/ /0.0735022
-cimplementation.pdf.txt/ /compiler/ /grammar/ /38/ /38/ /0.567298/ /0.0658673
-cimplementation.pdf.txt/ /compiler/ /preced/ /43/ /46/ /0.486265/ /0.0638875
-cimplementation.pdf.txt/ /compiler/ /yywrap/ /13/ /3/ /1.5563/ /0.0618176
-cimplementation.pdf.txt/ /compiler/ /divid/ /34/ /38/ /0.567298/ /0.0589339
-cimplementation.pdf.txt/ /compiler/ /yylval/ /13/ /4/ /1.45939/ /0.0579683
-cimplementation.pdf.txt/ /compiler/ /astprogram/ /10/ /1/ /1.85733/ /0.0567498
-cimplementation.pdf.txt/ /compiler/ /lparen/ /11/ /2/ /1.68124/ /0.0565064
-cimplementation.pdf.txt/ /compiler/ /rparen/ /11/ /2/ /1.68124/ /0.0565064
-cimplementation.pdf.txt/ /compiler/ /return/ /94/ /92/ /0.18988/ /0.0545357
-cimplementation.pdf.txt/ /compiler/ /printf/ /29/ /34/ /0.614294/ /0.0544314
-cimplementation.pdf.txt/ /compiler/ /tile/ /17/ /12/ /1.04442/ /0.0542499
-cimplementation.pdf.txt/ /compiler/ /rule/ /121/ /102/ /0.145525/ /0.053802
-cimplementation.pdf.txt/ /compiler/ /parser/ /27/ /34/ /0.614294/ /0.0506775
-cimplementation.pdf.txt/ /compiler/ /typ/ /13/ /7/ /1.25527/ /0.0498605
-cimplementation.pdf.txt/ /compiler/ /constructor/ /26/ /33/ /0.626884/ /0.0498007
-cimplementation.pdf.txt/ /compiler/ /syntax/ /48/ /65/ /0.338819/ /0.0496916
-cimplementation.pdf.txt/ /compiler/ /union/ /37/ /54/ /0.418/ /0.0472555
-cimplementation.pdf.txt/ /compiler/ /pars/ /33/ /48/ /0.468166/ /0.0472051
-cimplementation.pdf.txt/ /compiler/ /fprintf/ /16/ /15/ /0.954243/ /0.0466502
-cimplementation.pdf.txt/ /compiler/ /astinstancevardec/ /8/ /1/ /1.85733/ /0.0453999
-cimplementation.pdf.txt/ /compiler/ /expressionrec/ /8/ /1/ /1.85733/ /0.0453999
-cimplementation.pdf.txt/ /compiler/ /aststatementlist/ /8/ /1/ /1.85733/ /0.0453999
-cimplementation.pdf.txt/ /compiler/ /figur/ /100/ /103/ /0.141329/ /0.0431824
-cimplementation.pdf.txt/ /compiler/ /returntyp/ /8/ /2/ /1.68124/ /0.0410956
-cimplementation.pdf.txt/ /compiler/ /filenam/ /20/ /30/ /0.667001/ /0.0407597
-cimplementation.pdf.txt/ /compiler/ /statement/ /85/ /100/ /0.154041/ /0.0400065
-cimplementation.pdf.txt/ /compiler/ /<integ/ /7/ /1/ /1.85733/ /0.0397249
-cimplementation.pdf.txt/ /compiler/ /<comment>/ /7/ /1/ /1.85733/ /0.0397249
-cimplementation.pdf.txt/ /compiler/ /instancevar/ /7/ /1/ /1.85733/ /0.0397249
-cimplementation.pdf.txt/ /compiler/ /booleantyp/ /7/ /1/ /1.85733/ /0.0397249
-cimplementation.pdf.txt/ /compiler/ /timesop/ /7/ /1/ /1.85733/ /0.0397249
-cimplementation.pdf.txt/ /compiler/ /enum/ /13/ /14/ /0.982271/ /0.0390166
-cimplementation.pdf.txt/ /compiler/ /project/ /77/ /98/ /0.162727/ /0.0382848
-cimplementation.pdf.txt/ /compiler/ /valu/ /156/ /119/ /0.0791813/ /0.0377417
-cimplementation.pdf.txt/ /compiler/ /plusop/ /7/ /2/ /1.68124/ /0.0359586
-cimplementation.pdf.txt/ /compiler/ /tokennam/ /6/ /1/ /1.85733/ /0.0340499
-cimplementation.pdf.txt/ /compiler/ /buildtre/ /6/ /1/ /1.85733/ /0.0340499
-cimplementation.pdf.txt/ /compiler/ /astinstancevardeclist/ /6/ /1/ /1.85733/ /0.0340499
-cimplementation.pdf.txt/ /compiler/ /currentfil/ /6/ /1/ /1.85733/ /0.0340499
-cimplementation.pdf.txt/ /compiler/ /astclasslist/ /6/ /1/ /1.85733/ /0.0340499
-cimplementation.pdf.txt/ /compiler/ /accsp/ /6/ /1/ /1.85733/ /0.0340499
-cimplementation.pdf.txt/ /compiler/ /minusop/ /6/ /1/ /1.85733/ /0.0340499
-cimplementation.pdf.txt/ /compiler/ /astfunctiondec/ /6/ /1/ /1.85733/ /0.0340499
-cimplementation.pdf.txt/ /compiler/ /arraydimens/ /6/ /1/ /1.85733/ /0.0340499
-cimplementation.pdf.txt/ /compiler/ /divideop/ /6/ /1/ /1.85733/ /0.0340499
-cimplementation.pdf.txt/ /compiler/ /emit/ /11/ /13/ /1.01223/ /0.0340211
-cimplementation.pdf.txt/ /compiler/ /string/ /49/ /86/ /0.218843/ /0.0327645
-cimplementation.pdf.txt/ /compiler/ /semicolon/ /16/ /30/ /0.667001/ /0.0326078
-cimplementation.pdf.txt/ /compiler/ /declar/ /22/ /51/ /0.442359/ /0.0297353
-cimplementation.pdf.txt/ /compiler/ /binop/ /8/ /8/ /1.20412/ /0.029433
-cimplementation.pdf.txt/ /compiler/ /tifier/ /6/ /3/ /1.5563/ /0.0285312
-cimplementation.pdf.txt/ /compiler/ /yypars/ /6/ /3/ /1.5563/ /0.0285312
-cimplementation.pdf.txt/ /compiler/ /comment/ /35/ /77/ /0.266268/ /0.0284749
-cimplementation.pdf.txt/ /compiler/ /astformallist/ /5/ /1/ /1.85733/ /0.0283749
-cimplementation.pdf.txt/ /compiler/ /astfunctiondeclist/ /5/ /1/ /1.85733/ /0.0283749
-cimplementation.pdf.txt/ /compiler/ /astexpressionlist/ /5/ /1/ /1.85733/ /0.0283749
-cimplementation.pdf.txt/ /compiler/ /analyzestat/ /5/ /1/ /1.85733/ /0.0283749
-cimplementation.pdf.txt/ /compiler/ /myexp/ /5/ /1/ /1.85733/ /0.0283749
-cimplementation.pdf.txt/ /compiler/ /astform/ /5/ /1/ /1.85733/ /0.0283749
-cimplementation.pdf.txt/ /compiler/ /astclass/ /5/ /1/ /1.85733/ /0.0283749
-cimplementation.pdf.txt/ /compiler/ /analyzeexpress/ /5/ /1/ /1.85733/ /0.0283749
-cimplementation.pdf.txt/ /compiler/ /stderr/ /10/ /17/ /0.90309/ /0.0275934
-cimplementation.pdf.txt/ /compiler/ /abstract/ /29/ /72/ /0.29504/ /0.0261429
-cimplementation.pdf.txt/ /compiler/ /environ/ /66/ /106/ /0.128979/ /0.0260098
-cimplementation.pdf.txt/ /compiler/ /a-za-z0-9/ /6/ /5/ /1.38021/ /0.025303
-cimplementation.pdf.txt/ /compiler/ /code/ /84/ /114/ /0.0976646/ /0.0250664
-cimplementation.pdf.txt/ /compiler/ /prototyp/ /17/ /47/ /0.477121/ /0.0247829
-cimplementation.pdf.txt/ /compiler/ /a-za-z/ /6/ /6/ /1.31326/ /0.0240757
-cimplementation.pdf.txt/ /compiler/ /lexer/ /6/ /6/ /1.31326/ /0.0240757
-cimplementation.pdf.txt/ /compiler/ /variabl/ /35/ /86/ /0.218843/ /0.0234032
-cimplementation.pdf.txt/ /compiler/ /prog/ /6/ /7/ /1.25527/ /0.0230125
-cimplementation.pdf.txt/ /compiler/ /symbol/ /30/ /80/ /0.249877/ /0.0229046
-cimplementation.pdf.txt/ /compiler/ /varentri/ /4/ /1/ /1.85733/ /0.0226999
-cimplementation.pdf.txt/ /compiler/ /elsestm/ /4/ /1/ /1.85733/ /0.0226999
-cimplementation.pdf.txt/ /compiler/ /identifierexpress/ /4/ /1/ /1.85733/ /0.0226999
-cimplementation.pdf.txt/ /compiler/ /thenstm/ /4/ /1/ /1.85733/ /0.0226999
-cimplementation.pdf.txt/ /compiler/ /genexp/ /4/ /1/ /1.85733/ /0.0226999
-cimplementation.pdf.txt/ /compiler/ /functionentri/ /4/ /1/ /1.85733/ /0.0226999
-cimplementation.pdf.txt/ /compiler/ /basevari/ /4/ /1/ /1.85733/ /0.0226999
-cimplementation.pdf.txt/ /compiler/ /typeentri/ /4/ /1/ /1.85733/ /0.0226999
-cimplementation.pdf.txt/ /compiler/ /outfilenam/ /4/ /1/ /1.85733/ /0.0226999
-cimplementation.pdf.txt/ /compiler/ /statenam/ /4/ /1/ /1.85733/ /0.0226999
-cimplementation.pdf.txt/ /compiler/ /generateexpress/ /4/ /1/ /1.85733/ /0.0226999
-cimplementation.pdf.txt/ /compiler/ /constantv/ /4/ /1/ /1.85733/ /0.0226999
-cimplementation.pdf.txt/ /compiler/ /skeleton/ /9/ /21/ /0.81594/ /0.0224376
-cimplementation.pdf.txt/ /compiler/ /yyerror/ /5/ /4/ /1.45939/ /0.0222955
-cimplementation.pdf.txt/ /compiler/ /line/ /92/ /119/ /0.0791813/ /0.0222579
-cimplementation.pdf.txt/ /compiler/ /argc/ /8/ /17/ /0.90309/ /0.0220748
-cimplementation.pdf.txt/ /compiler/ /lexic/ /8/ /17/ /0.90309/ /0.0220748
-cimplementation.pdf.txt/ /compiler/ /aat/ /4/ /2/ /1.68124/ /0.0205478
-cimplementation.pdf.txt/ /compiler/ /definit/ /77/ /117/ /0.0864805/ /0.0203462
-cimplementation.pdf.txt/ /compiler/ /subtre/ /7/ /17/ /0.90309/ /0.0193154
-cimplementation.pdf.txt/ /compiler/ /lr/ /7/ /17/ /0.90309/ /0.0193154
-cimplementation.pdf.txt/ /compiler/ /env/ /6/ /12/ /1.04442/ /0.019147
-cimplementation.pdf.txt/ /compiler/ /chapter/ /34/ /94/ /0.180639/ /0.0187657
-cimplementation.pdf.txt/ /compiler/ /boolean/ /15/ /56/ /0.402488/ /0.0184467
-cimplementation.pdf.txt/ /compiler/ /difficulti/ /20/ /72/ /0.29504/ /0.0180296
-cimplementation.pdf.txt/ /compiler/ /<statement>/ /4/ /4/ /1.45939/ /0.0178364
-cimplementation.pdf.txt/ /compiler/ /uminus/ /4/ /4/ /1.45939/ /0.0178364
-cimplementation.pdf.txt/ /compiler/ /action/ /38/ /101/ /0.149762/ /0.0173885
-cimplementation.pdf.txt/ /compiler/ /compil/ /25/ /85/ /0.223864/ /0.0171001
-cimplementation.pdf.txt/ /compiler/ /break/ /15/ /60/ /0.373033/ /0.0170967
-cimplementation.pdf.txt/ /compiler/ /non-termin/ /5/ /10/ /1.11697/ /0.0170642
-cimplementation.pdf.txt/ /compiler/ /<line/ /3/ /1/ /1.85733/ /0.0170249
-cimplementation.pdf.txt/ /compiler/ /expptr/ /3/ /1/ /1.85733/ /0.0170249
-cimplementation.pdf.txt/ /compiler/ /typelist/ /3/ /1/ /1.85733/ /0.0170249
-cimplementation.pdf.txt/ /compiler/ /17s/ /3/ /1/ /1.85733/ /0.0170249
-cimplementation.pdf.txt/ /compiler/ /generatestat/ /3/ /1/ /1.85733/ /0.0170249
-cimplementation.pdf.txt/ /compiler/ /numfil/ /3/ /1/ /1.85733/ /0.0170249
-cimplementation.pdf.txt/ /compiler/ /mm/dd/yy/ /3/ /1/ /1.85733/ /0.0170249
-cimplementation.pdf.txt/ /compiler/ /minusminus/ /3/ /1/ /1.85733/ /0.0170249
-cimplementation.pdf.txt/ /compiler/ /plusplus/ /3/ /1/ /1.85733/ /0.0170249
-cimplementation.pdf.txt/ /compiler/ /geq/ /3/ /1/ /1.85733/ /0.0170249
-cimplementation.pdf.txt/ /compiler/ /functiondef/ /3/ /1/ /1.85733/ /0.0170249
-cimplementation.pdf.txt/ /compiler/ /leq/ /3/ /1/ /1.85733/ /0.0170249
-cimplementation.pdf.txt/ /compiler/ /type/ /159/ /132/ /0.0345109/ /0.0167659
-cimplementation.pdf.txt/ /compiler/ /acc/ /6/ /17/ /0.90309/ /0.0165561
-cimplementation.pdf.txt/ /compiler/ /newlin/ /7/ /24/ /0.760423/ /0.016264
-cimplementation.pdf.txt/ /compiler/ /generat/ /31/ /96/ /0.171591/ /0.0162529
-cimplementation.pdf.txt/ /compiler/ /reduce-reduc/ /4/ /6/ /1.31326/ /0.0160504
-cimplementation.pdf.txt/ /compiler/ /conflict/ /19/ /76/ /0.271872/ /0.0157831
-cimplementation.pdf.txt/ /compiler/ /sizeof/ /6/ /19/ /0.857332/ /0.0157172
-cimplementation.pdf.txt/ /compiler/ /function/ /134/ /131/ /0.0377886/ /0.0154718
-cimplementation.pdf.txt/ /compiler/ /lbrace/ /3/ /2/ /1.68124/ /0.0154108
-cimplementation.pdf.txt/ /compiler/ /lbrack/ /3/ /2/ /1.68124/ /0.0154108
-cimplementation.pdf.txt/ /compiler/ /neq/ /3/ /2/ /1.68124/ /0.0154108
-cimplementation.pdf.txt/ /compiler/ /yystyp/ /3/ /2/ /1.68124/ /0.0154108
-cimplementation.pdf.txt/ /compiler/ /arraytyp/ /3/ /2/ /1.68124/ /0.0154108
-cimplementation.pdf.txt/ /compiler/ /<init>/ /3/ /2/ /1.68124/ /0.0154108
-cimplementation.pdf.txt/ /compiler/ /<increment>/ /3/ /2/ /1.68124/ /0.0154108
-cimplementation.pdf.txt/ /compiler/ /rbrack/ /3/ /2/ /1.68124/ /0.0154108
-cimplementation.pdf.txt/ /compiler/ /openfil/ /3/ /2/ /1.68124/ /0.0154108
-cimplementation.pdf.txt/ /compiler/ /rbrace/ /3/ /2/ /1.68124/ /0.0154108
-cimplementation.pdf.txt/ /compiler/ /dot/ /8/ /33/ /0.626884/ /0.0153233
-cimplementation.pdf.txt/ /compiler/ /segment/ /17/ /73/ /0.289131/ /0.0150182
-cimplementation.pdf.txt/ /compiler/ /error/ /46/ /112/ /0.105284/ /0.0147977
-cimplementation.pdf.txt/ /compiler/ /formal/ /8/ /35/ /0.60206/ /0.0147165
-cimplementation.pdf.txt/ /compiler/ /cfg/ /4/ /8/ /1.20412/ /0.0147165
-cimplementation.pdf.txt/ /compiler/ /textbook/ /11/ /52/ /0.434087/ /0.0145896
-cimplementation.pdf.txt/ /compiler/ /lhs/ /5/ /15/ /0.954243/ /0.0145782
-cimplementation.pdf.txt/ /compiler/ /name/ /47/ /113/ /0.101458/ /0.0145699
-cimplementation.pdf.txt/ /compiler/ /assignmentstat/ /3/ /3/ /1.5563/ /0.0142656
-cimplementation.pdf.txt/ /compiler/ /shift-reduc/ /4/ /9/ /1.15836/ /0.0141573
-cimplementation.pdf.txt/ /compiler/ /input/ /61/ /120/ /0.0755771/ /0.0140862
-cimplementation.pdf.txt/ /compiler/ /whitespac/ /5/ /17/ /0.90309/ /0.0137967
-cimplementation.pdf.txt/ /compiler/ /javacc/ /3/ /4/ /1.45939/ /0.0133773
-cimplementation.pdf.txt/ /compiler/ /ifstat/ /3/ /4/ /1.45939/ /0.0133773
-cimplementation.pdf.txt/ /compiler/ /begin/ /19/ /85/ /0.223864/ /0.0129961
-cimplementation.pdf.txt/ /compiler/ /ger/ /5/ /20/ /0.836143/ /0.012774
-cimplementation.pdf.txt/ /compiler/ /document/ /18/ /84/ /0.228944/ /0.0125915
-cimplementation.pdf.txt/ /compiler/ /instanc/ /24/ /96/ /0.171591/ /0.0125829
-cimplementation.pdf.txt/ /compiler/ /semant/ /11/ /60/ /0.373033/ /0.0125376
-cimplementation.pdf.txt/ /compiler/ /keyword/ /10/ /55/ /0.410174/ /0.0125327
-cimplementation.pdf.txt/ /compiler/ /pointer/ /15/ /76/ /0.271872/ /0.0124603
-cimplementation.pdf.txt/ /compiler/ /var/ /7/ /37/ /0.578579/ /0.0123747
-cimplementation.pdf.txt/ /compiler/ /default/ /15/ /77/ /0.266268/ /0.0122035
-cimplementation.pdf.txt/ /compiler/ /els/ /3/ /6/ /1.31326/ /0.0120378
-cimplementation.pdf.txt/ /compiler/ /kind/ /26/ /102/ /0.145525/ /0.0115608
-cimplementation.pdf.txt/ /compiler/ /<test>/ /2/ /1/ /1.85733/ /0.01135
-cimplementation.pdf.txt/ /compiler/ /functionend/ /2/ /1/ /1.85733/ /0.01135
-cimplementation.pdf.txt/ /compiler/ /functiondec/ /2/ /1/ /1.85733/ /0.01135
-cimplementation.pdf.txt/ /compiler/ /genstm/ /2/ /1/ /1.85733/ /0.01135
-cimplementation.pdf.txt/ /compiler/ /frames/ /2/ /1/ /1.85733/ /0.01135
-cimplementation.pdf.txt/ /compiler/ /variableenviron/ /2/ /1/ /1.85733/ /0.01135
-cimplementation.pdf.txt/ /compiler/ /analyzeprogram/ /2/ /1/ /1.85733/ /0.01135
-cimplementation.pdf.txt/ /compiler/ /functiondefinit/ /2/ /1/ /1.85733/ /0.01135
-cimplementation.pdf.txt/ /compiler/ /astcallexp/ /2/ /1/ /1.85733/ /0.01135
-cimplementation.pdf.txt/ /compiler/ /addbuiltinfunct/ /2/ /1/ /1.85733/ /0.01135
-cimplementation.pdf.txt/ /compiler/ /<exp2>/ /2/ /1/ /1.85733/ /0.01135
-cimplementation.pdf.txt/ /compiler/ /astroot/ /2/ /1/ /1.85733/ /0.01135
-cimplementation.pdf.txt/ /compiler/ /mm/dd/yyyy/ /2/ /1/ /1.85733/ /0.01135
-cimplementation.pdf.txt/ /compiler/ /operatorexp/ /2/ /1/ /1.85733/ /0.01135
-cimplementation.pdf.txt/ /compiler/ /constantexp/ /2/ /1/ /1.85733/ /0.01135
-cimplementation.pdf.txt/ /compiler/ /variableexp/ /2/ /1/ /1.85733/ /0.01135
-cimplementation.pdf.txt/ /compiler/ /analyzeifstm/ /2/ /1/ /1.85733/ /0.01135
-cimplementation.pdf.txt/ /compiler/ /variableentri/ /2/ /1/ /1.85733/ /0.01135
-cimplementation.pdf.txt/ /compiler/ /<token>/ /2/ /1/ /1.85733/ /0.01135
-cimplementation.pdf.txt/ /compiler/ /ifstm/ /2/ /1/ /1.85733/ /0.01135
-cimplementation.pdf.txt/ /compiler/ /<non-terminal>/ /2/ /1/ /1.85733/ /0.01135
-cimplementation.pdf.txt/ /compiler/ /generatemov/ /2/ /1/ /1.85733/ /0.01135
-cimplementation.pdf.txt/ /compiler/ /astoper/ /2/ /1/ /1.85733/ /0.01135
-cimplementation.pdf.txt/ /compiler/ /expressionreclist/ /2/ /1/ /1.85733/ /0.01135
-cimplementation.pdf.txt/ /compiler/ /addbuiltintyp/ /2/ /1/ /1.85733/ /0.01135
-cimplementation.pdf.txt/ /compiler/ /actual/ /4/ /16/ /0.927914/ /0.0113408
-cimplementation.pdf.txt/ /compiler/ /bottom-up/ /4/ /17/ /0.90309/ /0.0110374
-cimplementation.pdf.txt/ /compiler/ /java/ /8/ /52/ /0.434087/ /0.0106106
-cimplementation.pdf.txt/ /compiler/ /rhs/ /4/ /19/ /0.857332/ /0.0104781
-cimplementation.pdf.txt/ /compiler/ /classtyp/ /2/ /2/ /1.68124/ /0.0102739
-cimplementation.pdf.txt/ /compiler/ /opexp/ /2/ /2/ /1.68124/ /0.0102739
-cimplementation.pdf.txt/ /compiler/ /returnstat/ /2/ /2/ /1.68124/ /0.0102739
-cimplementation.pdf.txt/ /compiler/ /bodi/ /15/ /85/ /0.223864/ /0.0102601
-cimplementation.pdf.txt/ /compiler/ /foo/ /5/ /30/ /0.667001/ /0.0101899
-cimplementation.pdf.txt/ /compiler/ /initi/ /11/ /72/ /0.29504/ /0.00991626
-cimplementation.pdf.txt/ /compiler/ /lalr/ /3/ /11/ /1.07918/ /0.00989214
-cimplementation.pdf.txt/ /compiler/ /assign/ /12/ /77/ /0.266268/ /0.00976281
-cimplementation.pdf.txt/ /compiler/ /null/ /9/ /63/ /0.352183/ /0.00968468
-cimplementation.pdf.txt/ /compiler/ /num/ /7/ /50/ /0.450792/ /0.00964161
-cimplementation.pdf.txt/ /compiler/ /shift/ /10/ /69/ /0.313264/ /0.00957163
-cimplementation.pdf.txt/ /compiler/ /intval/ /2/ /3/ /1.5563/ /0.0095104
-cimplementation.pdf.txt/ /compiler/ /temp1/ /2/ /3/ /1.5563/ /0.0095104
-cimplementation.pdf.txt/ /compiler/ /suit/ /7/ /51/ /0.442359/ /0.00946124
-cimplementation.pdf.txt/ /compiler/ /malloc/ /4/ /24/ /0.760423/ /0.00929372
-cimplementation.pdf.txt/ /compiler/ /call/ /18/ /97/ /0.167136/ /0.00919218
-cimplementation.pdf.txt/ /compiler/ /track/ /13/ /84/ /0.228944/ /0.00909383
-cimplementation.pdf.txt/ /compiler/ /test/ /25/ /109/ /0.11697/ /0.00893488
-cimplementation.pdf.txt/ /compiler/ /date/ /10/ /73/ /0.289131/ /0.00883424
-cimplementation.pdf.txt/ /compiler/ /constant/ /8/ /63/ /0.352183/ /0.0086086
-cimplementation.pdf.txt/ /compiler/ /makefil/ /3/ /16/ /0.927914/ /0.00850557
-cimplementation.pdf.txt/ /compiler/ /gall/ /2/ /5/ /1.38021/ /0.00843433
-cimplementation.pdf.txt/ /compiler/ /command/ /14/ /91/ /0.194575/ /0.00832318
-cimplementation.pdf.txt/ /compiler/ /gt/ /3/ /18/ /0.879609/ /0.0080628
-cimplementation.pdf.txt/ /compiler/ /foobar/ /2/ /6/ /1.31326/ /0.00802522
-cimplementation.pdf.txt/ /compiler/ /header/ /7/ /60/ /0.373033/ /0.00797847
-cimplementation.pdf.txt/ /compiler/ /analysi/ /14/ /93/ /0.185235/ /0.00792365
-cimplementation.pdf.txt/ /compiler/ /node/ /11/ /83/ /0.234083/ /0.00786752
-cimplementation.pdf.txt/ /compiler/ /argv/ /3/ /19/ /0.857332/ /0.0078586
-cimplementation.pdf.txt/ /compiler/ /current/ /4/ /32/ /0.639849/ /0.00782009
-cimplementation.pdf.txt/ /compiler/ /get/ /3/ /20/ /0.836143/ /0.00766437
-cimplementation.pdf.txt/ /compiler/ /debug/ /5/ /45/ /0.495605/ /0.00757147
-cimplementation.pdf.txt/ /compiler/ /centuri/ /4/ /34/ /0.614294/ /0.00750778
-cimplementation.pdf.txt/ /compiler/ /look/ /9/ /76/ /0.271872/ /0.00747621
-cimplementation.pdf.txt/ /compiler/ /hour/ /6/ /56/ /0.402488/ /0.00737868
-cimplementation.pdf.txt/ /compiler/ /lt/ /3/ /22/ /0.796635/ /0.00730223
-cimplementation.pdf.txt/ /compiler/ /base/ /15/ /99/ /0.158363/ /0.00725803
-cimplementation.pdf.txt/ /compiler/ /complic/ /4/ /36/ /0.590161/ /0.00721282
-cimplementation.pdf.txt/ /compiler/ /rest/ /11/ /87/ /0.21388/ /0.00718848
-cimplementation.pdf.txt/ /compiler/ /unari/ /2/ /9/ /1.15836/ /0.00707863
-cimplementation.pdf.txt/ /compiler/ /dfa/ /2/ /9/ /1.15836/ /0.00707863
-cimplementation.pdf.txt/ /compiler/ /implement/ /21/ /111/ /0.109144/ /0.00700319
-cimplementation.pdf.txt/ /compiler/ /descriptor/ /4/ /38/ /0.567298/ /0.0069334
-cimplementation.pdf.txt/ /compiler/ /check/ /10/ /85/ /0.223864/ /0.00684005
-cimplementation.pdf.txt/ /compiler/ /do/ /3/ /25/ /0.743389/ /0.00681416
-cimplementation.pdf.txt/ /compiler/ /fp/ /3/ /25/ /0.743389/ /0.00681416
-cimplementation.pdf.txt/ /compiler/ /op/ /4/ /39/ /0.556302/ /0.00679901
-cimplementation.pdf.txt/ /compiler/ /state/ /36/ /124/ /0.0614525/ /0.00675953
-cimplementation.pdf.txt/ /compiler/ /digit/ /11/ /90/ /0.199321/ /0.00669917
-cimplementation.pdf.txt/ /compiler/ /root/ /8/ /76/ /0.271872/ /0.00664552
-cimplementation.pdf.txt/ /compiler/ /class/ /23/ /115/ /0.0939045/ /0.00659917
-cimplementation.pdf.txt/ /compiler/ /infix/ /2/ /11/ /1.07918/ /0.00659476
-cimplementation.pdf.txt/ /compiler/ /top-down/ /2/ /11/ /1.07918/ /0.00659476
-cimplementation.pdf.txt/ /compiler/ /case/ /35/ /124/ /0.0614525/ /0.00657177
-cimplementation.pdf.txt/ /compiler/ /eq/ /3/ /27/ /0.711204/ /0.00651914
-cimplementation.pdf.txt/ /compiler/ /quotat/ /3/ /27/ /0.711204/ /0.00651914
-cimplementation.pdf.txt/ /compiler/ /simpl/ /9/ /83/ /0.234083/ /0.00643706
-cimplementation.pdf.txt/ /compiler/ /languag/ /18/ /109/ /0.11697/ /0.00643311
-cimplementation.pdf.txt/ /compiler/ /cd/ /4/ /42/ /0.524894/ /0.00641514
-cimplementation.pdf.txt/ /compiler/ /array/ /10/ /88/ /0.208972/ /0.00638504
-cimplementation.pdf.txt/ /compiler/ /term/ /29/ /121/ /0.0720027/ /0.00638001
-cimplementation.pdf.txt/ /compiler/ /direct/ /13/ /99/ /0.158363/ /0.00629029
-cimplementation.pdf.txt/ /compiler/ /context-fre/ /2/ /13/ /1.01223/ /0.00618566
-cimplementation.pdf.txt/ /compiler/ /if/ /2/ /13/ /1.01223/ /0.00618566
-cimplementation.pdf.txt/ /compiler/ /print/ /7/ /74/ /0.283301/ /0.00605928
-cimplementation.pdf.txt/ /compiler/ /iden/ /2/ /14/ /0.982271/ /0.00600256
-cimplementation.pdf.txt/ /compiler/ /mismatch/ /3/ /32/ /0.639849/ /0.00586507
-cimplementation.pdf.txt/ /compiler/ /white/ /3/ /32/ /0.639849/ /0.00586507
-cimplementation.pdf.txt/ /compiler/ /program/ /68/ /134/ /0.0280287/ /0.00582355
-cimplementation.pdf.txt/ /compiler/ /match/ /6/ /69/ /0.313264/ /0.00574298
-cimplementation.pdf.txt/ /compiler/ /elsebodi/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /analyzeifstat/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /abtract/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /generatememoryexp/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astintegerliter/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astassignmentstat/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /classdef/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /absyn/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /anyerror/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /analyzedowhilestm/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /numerror/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /callstm/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /analyzeclasslist/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /analyzeopexpress/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /dowhilestat/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /ifbodi/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /analyzefunctiondeclist/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astarrayvar/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /expreressionrec/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /typeenviron/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /dowhilebodi/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /dowhilestm/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /endscop/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /functionenviron/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /0-wordsiz/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /generatememoryexpress/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astclassvar/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astbasevar/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /ifend002/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /tye/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /emptystm/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astvariableexp/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astnewexp/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astvarexp/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astopexp/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astboolliteralexp/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /analyzecallstm/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astintliteralexp/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /blockstm/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /analyzeblockstm/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astemptystm/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /returnv/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astreturnstm/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astblockstm/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astcallstm/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /callexpress/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astintegerliteralexp/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astvardecstm/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astdowhilestm/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astwhilestm/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astforstm/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astbooleanliter/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /testtyp/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astifstm/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astassignstm/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astprototyp/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astfunctiondef/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /classvari/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /ifend001/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /analyzewhilestm/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /<statement1>/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astoperatorexp/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /astnewarrayexp/ /1/ /1/ /1.85733/ /0.00567498
-cimplementation.pdf.txt/ /compiler/ /sjava/ /1/ /1/ /1.85733/ /0.00567498
+network
+262
+cabl 49
+signal 33
+splitter 29
+conductor 29
+loss 24
+connector 22
+network 20
+length 18
+attenu 17
+path 16
+line 16
+home 15
+coaxial 14
+catv 13
+frequenc 13
+system 10
+effect 10
+conduct 10
+test 9
+shield 9
+imped 9
+transmiss 9
+band 8
+characterist 7
+figur 7
+term 7
+o-o 7
+leakag 6
+perform 6
+engin 6
+unit 6
+db 6
+power 6
+ohm 5
+port 5
+connect 5
+diamet 5
+dimens 5
+express 5
+output 5
+rg-59 4
+rg-6 4
+electron 4
+setup 4
+room 4
+distanc 4
+journal 4
+vol 4
+juli 4
+type 4
+root 4
+ratio 4
+induct 4
+capacit 4
+resist 4
+valu 4
+?? 4
+propag 4
+behavior 4
+null 4
+facil 3
+joint 3
+placement 3
+radiat 3
+media 3
+caus 3
+communic 3
+topolog 3
+institut 3
+korea 3
+round 3
+oxid 3
+junction 3
+field 3
+medium 3
+skin 3
+mhz 3
+meter 3
+copper 3
+model 3
+decibel 3
+delay 3
+radio 3
+energi 3
+space 3
+point 3
+coupl 3
+input 3
+puls 3
+data 3
+practic 3
+ie 3
+park 2
+purpos 2
+paper 2
+issu 2
+light 2
+compon 2
+materi 2
+squar 2
+properti 2
+load 2
+voltag 2
+action 2
+coax 2
+wire 2
+insul 2
+construct 2
+?? 2
+feet 2
+inch 2
+bulk 2
+db/100ft 2
+dc 2
+phase 2
+ghz 2
+result 2
+wave 2
+antenna 2
+integr 2
+diod 2
+isol 2
+interest 2
+advantag 2
+densiti 2
+coeffici 2
+carrier 2
+ofdm 2
+applic 2
+qualiti 2
+ieee 2
+analysi 1
+sung-wook 1
+jong-kwan 1
+woo-yong 1
+keyword 1
+inform 1
+yuhan 1
+digit 1
+inha 1
+technic 1
+colleg 1
+author 1
+e-mail 1
+kr 1
+hand 1
+side 1
+consum 1
+devic 1
+said 1
+way 1
+chang 1
+foil 1
+braid 1
+semiconductor 1
+flow 1
+charg 1
+passag 1
+dielectr 1
+amplitud 1
+notic 1
+increas 1
+shape 1
+rms 1
+permitt 1
+permeabl 1
+form 1
+parallel 1
+dissip 1
+factor 1
+nepers/m 1
+db/m 1
+catalog 1
+s/m 1
+case 1
+total 1
+function 1
+db/100 1
+ft 1
+g-21 1
+fle 1
+xca5 1
+rg-5 1
+proport 1
+show 1
+servic 1
+rg59 1
+rg6 1
+measur 1
+group 1
+deriv 1
+speed 1
+comparison 1
+law 1
+expon 1
+remain 1
+contrast 1
+expans 1
+curv 1
+cross-ov 1
+db/distanc 1
+link 1
+channel 1
+im 1
+distort 1
+cableconnector 1
+center 1
+barrel 1
+ideal 1
+connect-disconnect 1
+cycl 1
+scenario 1
+end 1
+addit 1
+portion 1
+input-to-output 1
+configur 1
+rang 1
+manufactur 1
+exhibit 1
+bandwidth 1
+bit 1
+transfer 1
+time 1
+spectral 1
+psd 1
+w/mhz 1
+spectrum 1
+averag 1
+drop-out 1
+reduct 1
+loss-averag 1
+i-o 1
+refer 1
+rrichard 1
+wies 1
+emi 1
+automot 1
+am 1
+broadcast 1
+intern 1
+symposium 1
+electromagnet 1
+compat 1
+emc 1
+honolulu 1
+hawaii 1
+siwiak 1
+bahreini 1
+radiowav 1
+person 1
+third 1
+edit 1
+norwood 1
+ma 1
+artech 1
+taylor 1
+character 1
+tv 1
+select 1
+area 1
+march 1
