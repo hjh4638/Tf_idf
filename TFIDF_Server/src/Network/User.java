@@ -1,16 +1,24 @@
 package Network;
 import java.io.*;
 import java.net.*;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.nio.file.StandardCopyOption;
+import java.util.ArrayList;
+import java.util.Date;
 import java.util.LinkedList;
-import java.util.Random;
 
-import dto.KnnResult;
 import TF.KnnExecutor;
 import TF.TF;
+import TF.TFVector;
 
 public class User {
-	static final char DATA_VERCTOR_AND_ID = 'V';
+	static final char DATA_VECTOR_AND_ID = 'V';
+	static final char DATA_VECTOR_AND_ID_start = 'S';
+	static final char DATA_VECTOR_AND_ID_end = 'E';
 	static final char DATA_LABELLIST_AND_ID = 'L';
+	static final char DATA_FEEDBACK_AND_ID = 'F';
 	static final char DATA_QUIT = 'Q';
 	
 	String myIP;
@@ -20,6 +28,9 @@ public class User {
 	DataOutputStream out;
 	
 	LinkedList<User> userList;
+	
+	ArrayList<TFVector> TFVectorList;
+	Path tmpDirPath;
 	
 	User(Socket s, LinkedList<User> ul){
 		socket=s;
@@ -32,10 +43,26 @@ public class User {
 		}
 		
 		userList = ul;
+		
+		TFVectorList = new ArrayList<TFVector>();
+		
+		if(tmpDirPath == null){
+			try {
+				tmpDirPath = Files.createTempDirectory("TFIDF");
+			} catch (Exception e) {
+				e.printStackTrace();
+				System.out.println("임시 폴더 생성 실패");
+			}
+			
+			tmpDirPath.toFile().deleteOnExit();// 왜 살아있지? 안에 내용물이 있어서 그런듯
+			System.out.println(tmpDirPath.toString());
+		}
 	}
 	
 	void closeAll(){
 		userList.remove(this);
+		TFVectorList.clear();
+		tmpDirPath.toFile().delete();
 		
 		Server.log(myIP + " 퇴장");	
 		Server.log("접속 중인 유저 수:" + userList.size());
@@ -62,6 +89,145 @@ public class User {
 			terminated=true;
 		}
 		
+		TFVector makeTFVector(TF[] TFList, int id){
+			TFVector TFV = new TFVector();
+			
+			for(TF tf : TFList){
+				TFV.add(new TF(tf.keyword, tf.count));
+			}
+			
+			TFV.ID = id;
+			TFV.fileName = myIP + new Date().getTime() + ".txt";
+			
+			return TFV;
+		}
+		
+		void makeFile(TFVector TFV){
+			FileWriter fileWriter = null;
+			BufferedWriter bufferedWriter = null;
+				
+			try {
+				fileWriter = new FileWriter(new File(tmpDirPath.toString() +"\\"+ TFV.fileName));
+				System.out.println(tmpDirPath.toString() +"\\"+ TFV.fileName);
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
+			
+			bufferedWriter = new BufferedWriter(fileWriter);
+			
+			try {
+				bufferedWriter.write(TFV.size()+"");
+				bufferedWriter.newLine();
+				for(TF tf : TFV){
+					bufferedWriter.write(tf.keyword + " " + tf.count);
+					bufferedWriter.newLine();
+					bufferedWriter.flush();
+				}
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+			
+			//닫기
+			try {
+				fileWriter.close();
+			} catch (IOException e) {}	
+			try {
+				bufferedWriter.close();
+			} catch (IOException e) {}
+			
+			//return tmpDirPath;
+		}
+		
+		void moveFile(TFVector TFV){
+			System.out.println(TFV.filePath);
+			System.out.println(Server.TRAINNING_FILE_PATH+"\\"+TFV.fileName);
+			
+			File dest = new File(Server.TRAINNING_FILE_PATH+"\\"+TFV.label);
+			dest.mkdir();
+			
+			try {
+				Files.move(Paths.get(TFV.filePath), 
+						   Paths.get(dest + "\\" + TFV.fileName), 
+						   StandardCopyOption.ATOMIC_MOVE
+				);
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
+		}
+		
+		void sendLabelList(String received){
+			//문서의 ID 추출
+			if(received.indexOf(';') != -1){
+				String ID = received.substring(1, received.indexOf(';'));
+			
+				//vector 추출
+				received = received.substring(received.indexOf(';')+1);
+				String[] TFVector = received.split(";");
+				
+				System.out.println("received.length: " + received.length());
+				System.out.println("TFVector.length: " + TFVector.length);
+				
+				TF[] TFList = new TF[TFVector.length];
+				int i=0;
+				for(String tf : TFVector){
+					String[] TF = tf.split(",");
+					if(TF.length == 2){
+						TFList[i++] = new TF(TF[0], Integer.parseInt(TF[1]));
+					}
+					else{
+						System.out.println("TF split 오류: TF 하나 버림");
+						for(String s : TF){
+							System.out.println(s);
+						}
+					}
+				}
+				
+				//labelList 생성
+				KnnExecutor knn;
+				String labelList = null;
+				try {
+					knn = new KnnExecutor();
+					labelList = knn.getRealOutput(TFList);
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+
+				//전송
+				if(labelList != null){
+					try {
+						out.writeUTF(DATA_LABELLIST_AND_ID + ID + ";" + labelList);
+						out.flush();
+					} catch (IOException e) {
+						e.printStackTrace();
+					}
+				}
+				
+				//TFList를 TFVector로
+				TFVector TFV = makeTFVector(TFList, Integer.parseInt(ID));
+				
+				//TFVector를 파일화
+				makeFile(TFV);
+				TFV.filePath = tmpDirPath.toString() +"\\"+ TFV.fileName;//makeFile(TFV).toString();
+				
+				//TFVectorList에 추가
+				if(TFV.filePath != null){
+					TFVectorList.add(TFV);
+				}
+
+			}
+			else{//벡터가 전송되지 않았을 경우
+				//labelList 대신 etc 전송
+				String ID = received.substring(1);
+				try {
+					out.writeUTF(DATA_LABELLIST_AND_ID + ID + ";etc/100");
+					out.flush();
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+				
+			}	
+		}
+		
 		public void run(){
 			String received;
 
@@ -72,70 +238,46 @@ public class User {
 				while(!terminated){
 					if((received = in.readUTF()) != null){
 						
-						System.out.println(received);
-						if (received.charAt(0) == DATA_VERCTOR_AND_ID){
-							//문서의 ID 추출
-							String ID = received.substring(1, received.indexOf(';'));
-							
-							//vector 추출
-							received = received.substring(received.indexOf(';')+1);
-							String[] TFVector = received.split(";");
-							
-							System.out.println("received.length: " + received.length());
-							System.out.println("TFVector.length: " + TFVector.length);
-							
-							
-							TF[] TFList = new TF[TFVector.length];
-							int i=0;
-							for(String tf : TFVector){
-								String[] TF = tf.split(",");
-								System.out.println(TF[0] + " " + TF[1]);
-								TFList[i++] = new TF(TF[0], Integer.parseInt(TF[1]));
-								
-								//System.out.println(TF[0] + " " + TF[1]);
+						System.out.println("received: "+received);
+						
+						if (received.charAt(0) == DATA_VECTOR_AND_ID){
+							sendLabelList(received);						
+						}
+						else if(received.charAt(0) == DATA_VECTOR_AND_ID_start){
+							String received2 = null;
+							if((received2 = in.readUTF()) != null){
+								if(received2.charAt(0) == DATA_VECTOR_AND_ID_end){
+									
+									System.out.println("received2: "+received2);
+									
+									received += received2.substring(1);
+									sendLabelList(received);
+								}
 							}
-							///////////////////////////////////////////
-							KnnExecutor knn = new KnnExecutor();
-							//labellist 생성
-							String labelList = knn.getRealOutput(TFList);
-							///////////////////////////////////////////
-							/*
-							Random rn = new Random();
-							rn.setSeed(System.currentTimeMillis());
-							int b = rn.nextInt(3);
-							switch(b){
-								case 0:
-									labelList = "OS/40;DB/30;AI/30";
+						}
+						else if(received.charAt(0) == DATA_FEEDBACK_AND_ID){
+							//TFVector 파일을 학습자료 폴더로 이동
+							String ID = received.substring(1, received.indexOf(';'));
+							String label = received.substring(received.indexOf(';')+1, received.length());
+							for(TFVector TFV : TFVectorList){
+								if(TFV.ID == Integer.parseInt(ID)){
+									TFV.label = label;
+									moveFile(TFV);
 									break;
-									
-								case 1:
-									labelList = "AI/60;graphic/30;network/10";
-									break;
-									
-								case 2:
-									labelList = "DB/100";
-									break;
-							}*/
-
-							//전송
-							if(labelList != null){
-								out.writeUTF(DATA_LABELLIST_AND_ID + ID + ";" + labelList);
-								out.flush();
+								}
 							}
 							
 						}
-						else if(received.charAt(0) == DATA_QUIT){//프로토콜에 따라 바뀜
+						else if(received.charAt(0) == DATA_QUIT){
 							closeAll();
 							terminate();
 						}	
 					}
-					else{//유저의 입력이 없으면
-						yield();//이게 유효하나? read가 블록인데? 작동안하는듯
-						Server.log("yield() 작동");
-					}
 				}
 			}
 			catch(Exception e){
+				closeAll();
+				terminate();
 				e.printStackTrace();
 			}
 		}

@@ -1,17 +1,22 @@
 package Network;
 
+import java.io.File;
 import java.io.IOException;
 import java.net.*;
+import java.nio.file.Path;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
 public class Server extends Thread{
 	public final static int PORT = 8080;
 	public final static int MAX_USER = 100;
+	public final static String TRAINNING_FILE_PATH = "C:\\TFIDF_trainning";
 	
 	ServerSocket serverSocket;
 	LinkedList<User> userList;
 	long lastValidUserCheckTime;
+	
+	Path trainningFilePath;
 	
 	public static SimpleDateFormat dateFormat;
 
@@ -35,6 +40,9 @@ public class Server extends Thread{
 		
 		userList = new LinkedList<User>();
 		lastValidUserCheckTime=System.currentTimeMillis();
+		
+		trainningFilePath = new File(TRAINNING_FILE_PATH).toPath();
+		trainningFilePath.toFile().mkdir();
 		
 		log("서버 개방");
 	}

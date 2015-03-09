@@ -273,7 +273,7 @@ limit 360) AS input
 where file_name is not null
 group by file_name
 ORDER BY distance
-LIMIT 10
+LIMIT 3
 </select>
 <select id="getLabel" resultType="String" parameterType="String">
 SELECT DISTINCT
@@ -284,3 +284,7 @@ WHERE
 	file_name = #{file_name}
 </select>
   </mapper>
+  
+  <!-- CREATE TABLE `client_vector` (\n  `id` int(11) DEFAULT NULL,\n  `file_name` varchar(500) DEFAULT NULL,\n  `keyword` varchar(50) DEFAULT NULL,\n  `tf` double DEFAULT NULL,\n  `seq` int(11) NOT NULL AUTO_INCREMENT,\n  PRIMARY KEY (`seq`),\n  KEY `INDEX_WORD` (`keyword`)\n) ENGINE=InnoDB AUTO_INCREMENT=626294 DEFAULT CHARSET=utf8-->
+  <!-- CREATE TABLE `trained_vector` (\n  `file_name` varchar(500) DEFAULT NULL,\n  `keyword` varchar(50) DEFAULT NULL,\n  `label` varchar(500) DEFAULT NULL,\n  `tf` double DEFAULT NULL,\n  `idf` double DEFAULT NULL,\n  `tf_idf` double DEFAULT NULL,\n  `df` double DEFAULT NULL,\n  `seq` int(11) NOT NULL AUTO_INCREMENT,\n  PRIMARY KEY (`seq`),\n  KEY `INDEX_WORD` (`keyword`)\n) ENGINE=InnoDB AUTO_INCREMENT=1625112 DEFAULT CHARSET=utf8 -->
+   
